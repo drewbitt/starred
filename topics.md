@@ -45,7 +45,6 @@
 - [design](#design)
 - [devops](#devops)
 - [discord](#discord)
-- [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
 - [dotnet](#dotnet)
@@ -78,6 +77,7 @@
 - [html5](#html5)
 - [http](#http)
 - [ios](#ios)
+- [iot](#iot)
 - [ipfs](#ipfs)
 - [java](#java)
 - [javafx](#javafx)
@@ -121,6 +121,7 @@
 - [php](#php)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
+- [programming](#programming)
 - [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
@@ -193,6 +194,7 @@
 
 ## android 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [JagandeepBrar/LunaSea](https://github.com/JagandeepBrar/LunaSea) - Self-hosted software controller built using Flutter
 - [KRTirtho/platform_ui](https://github.com/KRTirtho/platform_ui) - Flutter platform specific Widgets and abstractions
 - [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app) - A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux, & even macOS), and Web!
@@ -320,6 +322,7 @@
 
 ## c 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [simon987/sist2](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool
 - [farfalleflickan/cmyflix](https://github.com/farfalleflickan/cmyflix) - cmyflix, a Netflix clone!
 - [wren-lang/wren](https://github.com/wren-lang/wren) - The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.
@@ -512,10 +515,6 @@
 - [dipu-bd/lightnovel-crawler](https://github.com/dipu-bd/lightnovel-crawler) - Generate and download e-books from online sources.
 - [TannerReynolds/ShareX-Upload-Server](https://github.com/TannerReynolds/ShareX-Upload-Server) - AKA ShareS - Feature full & Stable ShareX and file server in node. Includes images, videos, code, text, markdown rendering, password protected uploads, logging via discord, administration through Disc
 
-## django 
-
-- [OpenGenus/cosmos-search](https://github.com/OpenGenus/cosmos-search) - :seedling: The next generation unbiased real-time privacy and user focused code search engine for everyone; Join us at https://discourse.opengenus.org/
-
 ## docker 
 
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system.
@@ -655,12 +654,14 @@
 
 ## game-development 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [sayhiben/awesome-playdate](https://github.com/sayhiben/awesome-playdate) - A list of awesome resources for Playdate (https://play.date) game development and the Playdate SDK (https://play.date/dev/)
 - [ftsf/nico](https://github.com/ftsf/nico) - a Game Framework in Nim inspired by Pico-8.
 - [libgdx/libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
 
 ## game-engine 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [ftsf/nico](https://github.com/ftsf/nico) - a Game Framework in Nim inspired by Pico-8.
 - [Gigoteur/UnicornConsole](https://github.com/Gigoteur/UnicornConsole) - Unicorn Console: create quick fantasy game in Rust/Python/Lua/Javascript !
 - [libgdx/libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
@@ -747,6 +748,8 @@
 
 ## hacktoberfest 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
+- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [ariakit/ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
 - [JagandeepBrar/LunaSea](https://github.com/JagandeepBrar/LunaSea) - Self-hosted software controller built using Flutter
 - [postlund/pyatv](https://github.com/postlund/pyatv) - A client library for Apple TV and AirPlay devices
@@ -801,7 +804,6 @@
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 - [javalin/javalin](https://github.com/javalin/javalin) - A simple and modern Java and Kotlin web framework
-- [OpenGenus/cosmos-search](https://github.com/OpenGenus/cosmos-search) - :seedling: The next generation unbiased real-time privacy and user focused code search engine for everyone; Join us at https://discourse.opengenus.org/
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 - [python-eel/Eel](https://github.com/python-eel/Eel) - A little Python library for making simple Electron-like HTML/JS GUI apps
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
@@ -861,6 +863,10 @@
 - [libgdx/libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [vislyhq/stretch](https://github.com/vislyhq/stretch) - High performance flexbox implementation written in rust
+
+## iot 
+
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 
 ## ipfs 
 
@@ -1022,6 +1028,7 @@
 
 ## linux 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with a focus for manga and the goal of being a full solution for all your reading needs. Setup your own server and share your readi
 - [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system
 - [KRTirtho/platform_ui](https://github.com/KRTirtho/platform_ui) - Flutter platform specific Widgets and abstractions
@@ -1214,6 +1221,7 @@
 
 ## opengl 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [Over-Run/overrungl](https://github.com/Over-Run/overrungl) - OverrunGL the native binding using Java FFM API
 
 ## osint 
@@ -1254,7 +1262,6 @@
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
 - [grid-js/gridjs](https://github.com/grid-js/gridjs) - Advanced table plugin
 - [mitvis/olli](https://github.com/mitvis/olli) - A library for converting web visualizations into accessible text structures for blind and low-vision screen reader users.
-- [Fil/plot-cli](https://github.com/Fil/plot-cli) - Observable Plot on the command line
 - [llimllib/observable-plot-template](https://github.com/llimllib/observable-plot-template) - A template repository to get you started with Observable Plot and typescript
 - [solidjs/solid-start](https://github.com/solidjs/solid-start) - SolidStart, the Solid app framework
 - [bluwy/create-vite-extra](https://github.com/bluwy/create-vite-extra) - Extra Vite templates
@@ -1306,7 +1313,6 @@
 - [Zaplib/zaplib](https://github.com/Zaplib/zaplib) - ⚡ Zaplib is an open-source library for speeding up web applications using Rust and WebAssembly.
 - [salesforce/CodeGen](https://github.com/salesforce/CodeGen) - CodeGen is an open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [vladikoff/chromeos-apk](https://github.com/vladikoff/chromeos-apk) - ☢️  Run Android Apps in Chrome OS OR Chrome in OS X, Linux and Windows.
 - [phoenixframework/phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) - Rich, real-time user experiences with server-rendered HTML
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [arnelenero/simpler-color](https://github.com/arnelenero/simpler-color) - Create your own complete Web color system fast and easy!
@@ -1368,7 +1374,6 @@
 - [switchbrew/switch-examples](https://github.com/switchbrew/switch-examples) - Switch examples for devkitA64 and libnx.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [clojure/clojurescript](https://github.com/clojure/clojurescript) - Clojure to JS compiler
-- [dscottboggs/flix-webui](https://github.com/dscottboggs/flix-webui) - A webui for my flix media server
 - [patrickyin/clean-architecture-android-kotlin](https://github.com/patrickyin/clean-architecture-android-kotlin) - Using Uncle Bob's clean architecture with Kotlin language and the latest Android technologies(Rx, Dagger2 etc.).
 - [emako/qvs](https://github.com/emako/qvs) - A simple GUI program for using VapourSynth/Avisynth Script previewed and encoded.
 - [dscottboggs/flix.cr](https://github.com/dscottboggs/flix.cr) - WIP Media server in crystal/kemal. Serves videos from one or more directories with a ReactJS web app or over a simple API.
@@ -1424,7 +1429,6 @@
 
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
-- [MattsShack/Plex-Movie-Poster-Display](https://github.com/MattsShack/Plex-Movie-Poster-Display) - Scraps the Plex sessions page to display the current playing movie or TV show poster on a screen.
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
 
@@ -1442,6 +1446,10 @@
 
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
+
+## programming 
+
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 
 ## pwa 
 
@@ -1478,7 +1486,6 @@
 - [kwea123/VTuber_Unity](https://github.com/kwea123/VTuber_Unity) - Use Unity 3D character and Python deep learning algorithms to stream as a VTuber!
 - [Gigoteur/UnicornConsole](https://github.com/Gigoteur/UnicornConsole) - Unicorn Console: create quick fantasy game in Rust/Python/Lua/Javascript !
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
-- [OpenGenus/cosmos-search](https://github.com/OpenGenus/cosmos-search) - :seedling: The next generation unbiased real-time privacy and user focused code search engine for everyone; Join us at https://discourse.opengenus.org/
 - [JimmXinu/FanFicFare](https://github.com/JimmXinu/FanFicFare) - FanFicFare is a tool for making eBooks from stories on fanfiction and other web sites.
 - [dipu-bd/lightnovel-crawler](https://github.com/dipu-bd/lightnovel-crawler) - Generate and download e-books from online sources.
 - [jerrymakesjelly/autoremove-torrents](https://github.com/jerrymakesjelly/autoremove-torrents) - Automatically remove torrents according to your strategies.
@@ -1511,6 +1518,7 @@
 
 ## raspberry-pi 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
@@ -1559,7 +1567,6 @@
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [codingphasedotcom/rocky](https://github.com/codingphasedotcom/rocky) - React Over Crystal Kemal and Yarn
 - [shadaj/slinky](https://github.com/shadaj/slinky) - Write Scala.js React apps just like you would in ES6
-- [reasonml/reason-react](https://github.com/reasonml/reason-react) - Reason bindings for ReactJS
 - [infernojs/inferno](https://github.com/infernojs/inferno) - :fire: An extremely fast, React-like JavaScript library for building modern user interfaces
 - [jsdf/react-native-htmlview](https://github.com/jsdf/react-native-htmlview) - A React Native component which renders HTML content as native views
 - [kusti8/proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform desktop apps
@@ -1580,6 +1587,7 @@
 
 ## reactjs 
 
+- [rescript-lang/rescript-react](https://github.com/rescript-lang/rescript-react) - Official ReScript bindings for ReactJS
 - [ariakit/ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
 - [pacexy/flow](https://github.com/pacexy/flow) - ePub Reader. Redefined.
@@ -1727,6 +1735,7 @@
 
 ## terminal 
 
+- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
