@@ -44,6 +44,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Scala](#scala)
+- [Scheme](#scheme)
 - [Shell](#shell)
 - [Starlark](#starlark)
 - [Svelte](#svelte)
@@ -65,6 +66,8 @@
 
 ## C 
 
+- [petersalomonsen/wasm-git](https://github.com/petersalomonsen/wasm-git) - GIT for nodejs and the browser using https://libgit2.org compiled to WebAssembly with https://emscripten.org
+- [wolfcw/libfaketime](https://github.com/wolfcw/libfaketime) - libfaketime modifies the system time for a single application
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [RavenSystem/esp-homekit-devices](https://github.com/RavenSystem/esp-homekit-devices) - Project to add native Apple HomeKit support to any device with an ESP8266 chip
@@ -72,7 +75,6 @@
 - [simon987/sist2](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool
 - [yrutschle/sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
 - [farfalleflickan/cmyflix](https://github.com/farfalleflickan/cmyflix) - cmyflix, a Netflix clone!
-- [cmuratori/refterm](https://github.com/cmuratori/refterm) - Reference monospace terminal renderer
 - [dog-qiuqiu/MobileNet-Yolo](https://github.com/dog-qiuqiu/MobileNet-Yolo) - MobileNetV2-YoloV3-Nano: 0.5BFlops 3MB HUAWEI P40: 6ms/img, YoloFace-500k:0.1Bflops 420KB:fire::fire::fire:
 - [domeengine/dome](https://github.com/domeengine/dome) - A lightweight game development environment where games can be written in Wren
 - [afonsojramos/feup-8](https://github.com/afonsojramos/feup-8) - TIC-80 fork enabling server-side unit testing to help kids learn how to code, by developing games!
@@ -95,6 +97,7 @@
 
 ## C# # 
 
+- [hanabi1224/Programming-Language-Benchmarks](https://github.com/hanabi1224/Programming-Language-Benchmarks) - Yet another implementation of computer language benchmarks game
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with a focus for manga and the goal of being a full solution for all your reading needs. Setup your own server and share your readi
 - [eDonnes124/Town-Of-Us-R](https://github.com/eDonnes124/Town-Of-Us-R) - An Among Us mod containing a bunch of roles
@@ -104,7 +107,6 @@
 - [TrackLab/ViRe](https://github.com/TrackLab/ViRe) - A open-source VR mocap studio built in Unity
 - [yoshidan/EasyVTuberRel](https://github.com/yoshidan/EasyVTuberRel) - BABINIKU(バ美肉) meeting  support tool for Zoom.us, WebEx, whereby.com or Slack on Mac OS
 - [nkrapivin/KittyNXBuilder](https://github.com/nkrapivin/KittyNXBuilder) - A tool to build Nintendo Switch homebrew games using GameMaker Studio 2's runtime. (no sdk or module required lol)
-- [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
 - [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
 - [yzi2004/SupSubtitleParser](https://github.com/yzi2004/SupSubtitleParser) - a console tool that parse PGS format( known as *.sup file) subtitle  to time line text and subtitle images. it can set output image  format and background.
 - [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
@@ -126,12 +128,10 @@
 - [highfestiva/life](https://github.com/highfestiva/life) - Homebrew 3D physics game engine written from scratch.
 - [nodegui/nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
-- [TheOnlineJudge/ojudge](https://github.com/TheOnlineJudge/ojudge) - OJudge Platform
 - [beefytech/Beef](https://github.com/beefytech/Beef) - Beef Programming Language
 - [Kagami/mpv.js](https://github.com/Kagami/mpv.js) - :movie_camera: mpv pepper plugin
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [google/flutter-desktop-embedding](https://github.com/google/flutter-desktop-embedding) - Experimental plugins for Flutter for Desktop
-- [XorTroll/Brew.js](https://github.com/XorTroll/Brew.js) - [WIP] C++ high-level JavaScript API for Nintendo 3DS/Switch
 - [Cpasjuste/pplay](https://github.com/Cpasjuste/pplay) - 
 - [TheKgg/switch-pong](https://github.com/TheKgg/switch-pong) - Pong for the Nintendo Switch written using libnx
 - [emako/qvs](https://github.com/emako/qvs) - A simple GUI program for using VapourSynth/Avisynth Script previewed and encoded.
@@ -155,11 +155,10 @@
 
 ## Crystal 
 
+- [mamantoha/crest](https://github.com/mamantoha/crest) - HTTP and REST client for Crystal
+- [crystal-community/crystal-patterns](https://github.com/crystal-community/crystal-patterns) - :book: Examples of GOF patterns written in Crystal
 - [athena-framework/athena](https://github.com/athena-framework/athena) - An ecosystem of reusable, independent components
-- [marysaka/crystal_nx_poc](https://github.com/marysaka/crystal_nx_poc) - A Proof of Concept of Crystal running on the Nintendo Switch (still WIP)
-- [noahlh/celestite](https://github.com/noahlh/celestite) - Beautifully reactive, server-side rendered Svelte apps w/ a Crystal backend
 - [crystal-ameba/ameba](https://github.com/crystal-ameba/ameba) - A static code analysis tool for Crystal
-- [codingphasedotcom/rocky](https://github.com/codingphasedotcom/rocky) - React Over Crystal Kemal and Yarn
 - [samueleaton/sentry](https://github.com/samueleaton/sentry) - Build/Runs your crystal application, watches files, and rebuilds/restarts app on file changes
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 - [mint-lang/mint](https://github.com/mint-lang/mint) - :leaves: A refreshing programming language for the front-end web.
@@ -252,7 +251,6 @@
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [tj/gobinaries](https://github.com/tj/gobinaries) - Golang binaries compiled on-demand for your system
-- [ddollar/forego](https://github.com/ddollar/forego) - Foreman in Go
 - [dmacvicar/terraform-provider-libvirt](https://github.com/dmacvicar/terraform-provider-libvirt) - Terraform provider to provision infrastructure with Linux's KVM using libvirt
 - [tooploox/oya](https://github.com/tooploox/oya) - Using Oya packs containing reusable boilerplate & scripts, you can bootstrap easy to work with, deployable projects
 - [go-flutter-desktop/go-flutter](https://github.com/go-flutter-desktop/go-flutter) - Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.
@@ -309,6 +307,8 @@
 
 ## JavaScript 
 
+- [carolinaknoll/awesome-gamified](https://github.com/carolinaknoll/awesome-gamified) - :eyeglasses: Awesome Gamified - See your progress and save awesome links you've already seen!
+- [baiyuwubing/cocos-creator-examples](https://github.com/baiyuwubing/cocos-creator-examples) - cocos creator 一些使用实例
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
@@ -424,6 +424,7 @@
 
 ## Nim 
 
+- [dkgitdev/nimNx](https://github.com/dkgitdev/nimNx) - Basic nim template for skipping all the "how-tos" straight to a working example!
 - [juancarlospaco/nodejs](https://github.com/juancarlospaco/nodejs) - Alternative StdLib for Nim for NodeJS/JavaScript targets, hijacks NodeJS StdLib for Nim
 - [StefanSalewski/gintro](https://github.com/StefanSalewski/gintro) - High level GObject-Introspection based GTK3/GTK4 bindings for Nim language
 - [jmgomez/NimForUE](https://github.com/jmgomez/NimForUE) - Nim plugin for UE5 with native performance, hot reloading and full interop that sits between C++ and Blueprints. This allows you to do common UE workflows like for example to extend any UE class in Ni
@@ -486,6 +487,8 @@
 
 ## Python 
 
+- [DMOJ/online-judge](https://github.com/DMOJ/online-judge) - A modern open-source online judge and contest platform system.
+- [QingdaoU/OnlineJudge](https://github.com/QingdaoU/OnlineJudge) - open source online judge based on Vue, Django and Docker. | 青岛大学开源 Online Judge | QQ群 496710125 | admin@qduoj.com
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [pushshift/api](https://github.com/pushshift/api) - Pushshift API
 - [postlund/pyatv](https://github.com/postlund/pyatv) - A client library for Apple TV and AirPlay devices
@@ -605,6 +608,10 @@
 - [shadaj/slinky](https://github.com/shadaj/slinky) - Write Scala.js React apps just like you would in ES6
 - [Aivean/royalroad-downloader](https://github.com/Aivean/royalroad-downloader) - https://royalroad.com book downloader
 
+## Scheme 
+
+- [siraben/zkeme80](https://github.com/siraben/zkeme80) - An assembler and operating system for the TI-84+ written in Scheme, Forth and Z80 assembly.
+
 ## Shell 
 
 - [seanap/Plex-Audiobook-Guide](https://github.com/seanap/Plex-Audiobook-Guide) - A walkthrough for optimal Audiobook experience using Plex
@@ -639,6 +646,7 @@
 
 ## TypeScript 
 
+- [hydro-dev/Hydro](https://github.com/hydro-dev/Hydro) - Hydro - 新一代高效强大的信息学在线测评系统 (a.k.a. vj5)
 - [ariakit/ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
 - [ecyrbe/zodios](https://github.com/ecyrbe/zodios) - typescript http client and server with zod validation
 - [primer/react](https://github.com/primer/react) - An implementation of GitHub's Primer Design System using React
