@@ -113,6 +113,7 @@
 
 ## C++ 
 
+- [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system
@@ -213,6 +214,8 @@
 
 ## Go 
 
+- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
+- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
 - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system.
@@ -483,11 +486,13 @@
 
 ## PowerShell 
 
+- [SpotX-CLI/SpotX-Win](https://github.com/SpotX-CLI/SpotX-Win) - Blocking ads and updates for the desktop version of Spotify, disabling podcasts and more.
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
 
 ## Python 
 
+- [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 - [DMOJ/online-judge](https://github.com/DMOJ/online-judge) - A modern open-source online judge and contest platform system.
 - [QingdaoU/OnlineJudge](https://github.com/QingdaoU/OnlineJudge) - open source online judge based on Vue, Django and Docker. | 青岛大学开源 Online Judge | QQ群 496710125 | admin@qduoj.com
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -570,6 +575,8 @@
 
 ## Rust 
 
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+- [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [ryanmcgrath/cacao](https://github.com/ryanmcgrath/cacao) - Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS). Experimental, but working!
 - [aarch64-switch-rs/nx](https://github.com/aarch64-switch-rs/nx) - Userland library for Nintendo Switch homebrew (and other potential purposes), written in pure Rust and some assembly bits
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
@@ -626,6 +633,7 @@
 
 ## Svelte 
 
+- [ThaUnknown/miru](https://github.com/ThaUnknown/miru) - Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.
 - [Niek/obs-web](https://github.com/Niek/obs-web) - OBS-web - the easiest way to control OBS remotely
 
 ## Swift 
@@ -640,6 +648,8 @@
 
 ## TypeScript 
 
+- [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
+- [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (258 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
 - [YtFlow/Maple](https://github.com/YtFlow/Maple) - A lightweight Universal Windows proxy app based on https://github.com/eycorsican/leaf
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The react library to build dashboards fast.
