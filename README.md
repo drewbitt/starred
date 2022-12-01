@@ -296,7 +296,6 @@
 
 ## Java 
 
-- [krlvm/PowerTunnel](https://github.com/krlvm/PowerTunnel) - Powerful and extensible proxy server with anti-censorship functionality
 - [evllabs/JGAAP](https://github.com/evllabs/JGAAP) - The Java Graphical Authorship Attribution Program
 - [Over-Run/overrungl](https://github.com/Over-Run/overrungl) - OverrunGL the native binding using Java FFM API
 - [karatelabs/karate](https://github.com/karatelabs/karate) - Test Automation Made Simple
@@ -654,6 +653,7 @@
 
 ## TypeScript 
 
+- [hpcreery/homebridge-smartrent](https://github.com/hpcreery/homebridge-smartrent) - 🏠 Homebridge plugin for SmartRent installations
 - [alangpierce/sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (258 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
