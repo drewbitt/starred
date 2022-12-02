@@ -36,6 +36,7 @@
 - [Lua](#lua)
 - [Mustache](#mustache)
 - [Nim](#nim)
+- [Nix](#nix)
 - [OCaml](#ocaml)
 - [Others](#others)
 - [PHP](#php)
@@ -53,7 +54,6 @@
 - [TypeScript](#typescript)
 - [Vala](#vala)
 - [Vue](#vue)
-- [WebAssembly](#webassembly)
 - [Wren](#wren)
 - [Zig](#zig)
 
@@ -115,6 +115,7 @@
 
 ## C++ 
 
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
@@ -459,6 +460,10 @@
 - [ThomasTJdev/nim_websitecreator](https://github.com/ThomasTJdev/nim_websitecreator) - Nim fullstack website framework - deploy a website within minutes
 - [yglukhov/nimpy](https://github.com/yglukhov/nimpy) - Nim - Python bridge
 
+## Nix 
+
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
+
 ## OCaml 
 
 - [oxidizing/sihl](https://github.com/oxidizing/sihl) - A modular functional web framework
@@ -660,6 +665,7 @@
 
 ## TypeScript 
 
+- [CKGrafico/papanasi](https://github.com/CKGrafico/papanasi) - 🥯Papanasi is the Frontend UI library to use cross Frameworks. A set of components to use in Angular, Preact, Qwik, React, Solid, Svelte, Vue and Web Components
 - [caderek/aocrunner](https://github.com/caderek/aocrunner) - Advent of Code runner
 - [hpcreery/homebridge-smartrent](https://github.com/hpcreery/homebridge-smartrent) - 🏠 Homebridge plugin for SmartRent installations
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
@@ -776,10 +782,6 @@
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [beercss/beercss](https://github.com/beercss/beercss) - Build material design interfaces in record time... without stress for devs... 🍺💛
 - [vueuse/vueuse-vite-starter](https://github.com/vueuse/vueuse-vite-starter) - ⚡️ Starter for Vite + VueUse + TypeScript
-
-## WebAssembly 
-
-- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 
 ## Wren 
 
