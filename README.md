@@ -239,7 +239,6 @@
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) - A passkey-first approach to authentication that takes you on the journey beyond passwords. For better security, conversion rates, and happier users.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, and predictable development environments
-- [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
 - [jetpack-io/launchpad](https://github.com/jetpack-io/launchpad) - From Code to Kubernetes in One Step.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦
@@ -665,6 +664,7 @@
 
 ## TypeScript 
 
+- [yrming/vscode-type-challenges](https://github.com/yrming/vscode-type-challenges) - Take Type Challenges in VS Code
 - [CKGrafico/papanasi](https://github.com/CKGrafico/papanasi) - 🥯Papanasi is the Frontend UI library to use cross Frameworks. A set of components to use in Angular, Preact, Qwik, React, Solid, Svelte, Vue and Web Components
 - [caderek/aocrunner](https://github.com/caderek/aocrunner) - Advent of Code runner
 - [hpcreery/homebridge-smartrent](https://github.com/hpcreery/homebridge-smartrent) - 🏠 Homebridge plugin for SmartRent installations
