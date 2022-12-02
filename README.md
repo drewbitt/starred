@@ -21,6 +21,7 @@
 - [Fantom](#fantom)
 - [GDScript](#gdscript)
 - [Gherkin](#gherkin)
+- [Gleam](#gleam)
 - [Go](#go)
 - [Groovy](#groovy)
 - [HCL](#hcl)
@@ -213,6 +214,10 @@
 ## Gherkin 
 
 - [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
+
+## Gleam 
+
+- [TanklesXL/gladvent](https://github.com/TanklesXL/gladvent) - A Gleam framework for running Advent of Code solutions
 
 ## Go 
 
@@ -433,6 +438,7 @@
 
 ## Nim 
 
+- [nim-lang/c2nim](https://github.com/nim-lang/c2nim) - c2nim is a tool to translate Ansi C code to Nim. The output is human-readable Nim code that is meant to be tweaked by hand before and after the translation process.
 - [dkgitdev/nimNx](https://github.com/dkgitdev/nimNx) - Basic nim template for skipping all the "how-tos" straight to a working example!
 - [juancarlospaco/nodejs](https://github.com/juancarlospaco/nodejs) - Alternative StdLib for Nim for NodeJS/JavaScript targets, hijacks NodeJS StdLib for Nim
 - [StefanSalewski/gintro](https://github.com/StefanSalewski/gintro) - High level GObject-Introspection based GTK3/GTK4 bindings for Nim language
@@ -467,7 +473,7 @@
 - [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite) - Carefully curated list of awesome Appwrite resources 💪
 - [mycroftwilde/portainer_templates](https://github.com/mycroftwilde/portainer_templates) - Portainer Version 2 Template and Self-Hosting Cookbook. A Series of Tools, Tutorials/Instructions, and Links to help you create your very own Self-Hosting System and Lab Sandbox!
 - [SpaceAceMonkey/spaceace-arch-kubernetes-unraid](https://github.com/SpaceAceMonkey/spaceace-arch-kubernetes-unraid) - Install Kubernetes on Arch Linux virtual machines under Unraid, or maybe not under Unraid. It's your show.
-- [aws-amplify/amplify-adminui](https://github.com/aws-amplify/amplify-adminui) - AWS Amplify Admin UI
+- [aws-amplify/amplify-adminui](https://github.com/aws-amplify/amplify-adminui) - AWS Amplify Studio (Formerly Admin UI)
 - [croqaz/awesome-decentralized](https://github.com/croqaz/awesome-decentralized) - 🕶 Awesome list of distributed, decentralized, p2p apps and tools 👍
 - [victorcouste/data-tools](https://github.com/victorcouste/data-tools) - Data Tools Subjective List
 - [newTendermint/awesome-analytics](https://github.com/newTendermint/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
@@ -654,8 +660,8 @@
 
 ## TypeScript 
 
+- [caderek/aocrunner](https://github.com/caderek/aocrunner) - Advent of Code runner
 - [hpcreery/homebridge-smartrent](https://github.com/hpcreery/homebridge-smartrent) - 🏠 Homebridge plugin for SmartRent installations
-- [alangpierce/sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (258 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
 - [YtFlow/Maple](https://github.com/YtFlow/Maple) - A lightweight Universal Windows proxy app based on https://github.com/eycorsican/leaf
