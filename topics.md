@@ -302,6 +302,7 @@
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
 - [jetpack-io/launchpad](https://github.com/jetpack-io/launchpad) - From Code to Kubernetes in One Step.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
+- [aws-amplify/amplify-adminui](https://github.com/aws-amplify/amplify-adminui) - AWS Amplify Studio (Formerly Admin UI)
 - [aws-amplify/amplify-flutter](https://github.com/aws-amplify/amplify-flutter) - A declarative library with an easy-to-use interface for building Flutter applications on AWS.
 - [poseidon/typhoon](https://github.com/poseidon/typhoon) - Minimal and free Kubernetes distribution with Terraform
 
@@ -376,7 +377,6 @@
 
 ## compiler 
 
-- [alangpierce/sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
@@ -925,7 +925,6 @@
 
 ## javascript 
 
-- [alangpierce/sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [hanabi1224/Programming-Language-Benchmarks](https://github.com/hanabi1224/Programming-Language-Benchmarks) - Yet another implementation of computer language benchmarks game
 - [petersalomonsen/wasm-git](https://github.com/petersalomonsen/wasm-git) - GIT for nodejs and the browser using https://libgit2.org compiled to WebAssembly with https://emscripten.org
@@ -1272,6 +1271,9 @@
 
 ## others 
 
+- [caderek/aocrunner](https://github.com/caderek/aocrunner) - Advent of Code runner
+- [TanklesXL/gladvent](https://github.com/TanklesXL/gladvent) - A Gleam framework for running Advent of Code solutions
+- [nim-lang/c2nim](https://github.com/nim-lang/c2nim) - c2nim is a tool to translate Ansi C code to Nim. The output is human-readable Nim code that is meant to be tweaked by hand before and after the translation process.
 - [observablehq/stdlib](https://github.com/observablehq/stdlib) - The Observable standard library.
 - [hpcreery/homebridge-smartrent](https://github.com/hpcreery/homebridge-smartrent) - 🏠 Homebridge plugin for SmartRent installations
 - [justmao945/mallory](https://github.com/justmao945/mallory) - HTTP/HTTPS proxy over SSH
@@ -1323,7 +1325,6 @@
 - [calebHankins/deno-playground](https://github.com/calebHankins/deno-playground) - Containerized playground for Deno using vscode Remote - Containers
 - [Araq/nimedit](https://github.com/Araq/nimedit) - NimEdit is the new upcoming slim IDE/editor for the Nim programming language. Currently it is hardly usable at all! It's been open sourced in the hope it will speed up its development process.
 - [MrHertal/react-admin-amplify](https://github.com/MrHertal/react-admin-amplify) - AWS Amplify data provider for react-admin.
-- [aws-amplify/amplify-adminui](https://github.com/aws-amplify/amplify-adminui) - AWS Amplify Admin UI
 - [trane-project/trane-leetcode](https://github.com/trane-project/trane-leetcode) - Practice Leetcode exercises with Trane
 - [sugarac/angular-online-judge](https://github.com/sugarac/angular-online-judge) - A mini LeetCode with the collaborative feature.
 - [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - cross-platform music visualization. Open-source and Milkdrop-compatible
@@ -1820,7 +1821,6 @@
 
 ## typescript 
 
-- [alangpierce/sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The react library to build dashboards fast.
 - [hanabi1224/Programming-Language-Benchmarks](https://github.com/hanabi1224/Programming-Language-Benchmarks) - Yet another implementation of computer language benchmarks game
 - [ecyrbe/zodios](https://github.com/ecyrbe/zodios) - typescript http client and server with zod validation
