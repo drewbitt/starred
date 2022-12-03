@@ -53,6 +53,7 @@
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vala](#vala)
+- [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
 - [Wren](#wren)
 - [Zig](#zig)
@@ -178,7 +179,6 @@
 ## Dart 
 
 - [JagandeepBrar/LunaSea](https://github.com/JagandeepBrar/LunaSea) - Self-hosted software controller built using Flutter
-- [grpc/grpc-dart](https://github.com/grpc/grpc-dart) - The Dart language implementation of gRPC.
 - [Workiva/over_react](https://github.com/Workiva/over_react) - A library for building statically-typed React UI components using Dart.
 - [KRTirtho/platform_ui](https://github.com/KRTirtho/platform_ui) - Flutter platform specific Widgets and abstractions
 - [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app) - A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux, & even macOS), and Web!
@@ -774,6 +774,10 @@
 ## Vala 
 
 - [alainm23/planner](https://github.com/alainm23/planner) - Task manager with Todoist support designed for GNU/Linux 🚀
+
+## Visual Basic .NET 
+
+- [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI) - Transparently compress active games and programs using Windows 10/11 APIs
 
 ## Vue 
 
