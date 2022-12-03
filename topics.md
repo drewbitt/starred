@@ -103,6 +103,7 @@
 - [markdown](#markdown)
 - [mastodon](#mastodon)
 - [material-design](#material-design)
+- [maven](#maven)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
 - [music](#music)
@@ -157,12 +158,10 @@
 - [terminal](#terminal)
 - [terraform](#terraform)
 - [testing](#testing)
-- [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [unity](#unity)
 - [vagrant](#vagrant)
-- [virtual-reality](#virtual-reality)
 - [vue](#vue)
 - [web](#web)
 - [web-components](#web-components)
@@ -170,9 +169,11 @@
 - [website](#website)
 - [windows](#windows)
 - [wordpress](#wordpress)
+- [xml](#xml)
 
 ## 3d 
 
+- [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
 - [drwhut/tabletop-club](https://github.com/drwhut/tabletop-club) - An open-source platform for playing tabletop games in a physics-based 3D environment for Windows, macOS, and Linux! Made with the Godot Engine.
 - [libgdx/libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
 
@@ -195,6 +196,10 @@
 
 ## android 
 
+- [korlibs/korge](https://github.com/korlibs/korge) - KorGE Game Engine. Multiplatform Kotlin Game Engine & Korlibs
+- [JetBrains/compose-jb](https://github.com/JetBrains/compose-jb) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
+- [InsertKoinIO/koin](https://github.com/InsertKoinIO/koin) - Koin - a pragmatic lightweight dependency injection framework for Kotlin & Kotlin Multiplatform
+- [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [JagandeepBrar/LunaSea](https://github.com/JagandeepBrar/LunaSea) - Self-hosted software controller built using Flutter
 - [KRTirtho/platform_ui](https://github.com/KRTirtho/platform_ui) - Flutter platform specific Widgets and abstractions
@@ -207,8 +212,6 @@
 - [libgdx/libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [vislyhq/stretch](https://github.com/vislyhq/stretch) - High performance flexbox implementation written in rust
-- [aritraroy/UltimateAndroidReference](https://github.com/aritraroy/UltimateAndroidReference) - :rocket: Ultimate Android Reference - Your Road to Become a Better Android Developer
-- [futurice/android-best-practices](https://github.com/futurice/android-best-practices) - Do's and Don'ts for Android development, by Futurice developers
 - [SimpleMobileTools/Simple-File-Manager](https://github.com/SimpleMobileTools/Simple-File-Manager) - Easy app for managing your files without ads, respecting your privacy & security
 - [SimpleMobileTools/Simple-Music-Player](https://github.com/SimpleMobileTools/Simple-Music-Player) - A clean music player with a customizable widget, stylish interface and no ads.
 - [bufferapp/android-clean-architecture-boilerplate](https://github.com/bufferapp/android-clean-architecture-boilerplate) - An android boilerplate project using clean architecture
@@ -228,6 +231,9 @@
 
 ## api 
 
+- [stepci/stepci](https://github.com/stepci/stepci) - Automated API Testing and Quality Assurance
+- [Cornutum/tcases](https://github.com/Cornutum/tcases) - A model-based test case generator
+- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [ecyrbe/zodios](https://github.com/ecyrbe/zodios) - typescript http client and server with zod validation
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB
 - [ConduitPlatform/Conduit](https://github.com/ConduitPlatform/Conduit) - Batteries-included backend that works with any stack.
@@ -354,6 +360,8 @@
 
 ## cli 
 
+- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Run thousands of randomly generated test scenarios based on your API specification and always be sure your API works as expected.
+- [ajalt/clikt](https://github.com/ajalt/clikt) - Multiplatform command line interface parsing for Kotlin
 - [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
@@ -373,6 +381,7 @@
 
 ## clojure 
 
+- [cljfx/cljfx](https://github.com/cljfx/cljfx) - Declarative, functional and extensible wrapper of JavaFX inspired by better parts of react and re-frame
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
 - [reagent-project/reagent](https://github.com/reagent-project/reagent) - A minimalistic ClojureScript interface to React.js
 
@@ -399,11 +408,13 @@
 
 ## continuous-integration 
 
+- [stepci/stepci](https://github.com/stepci/stepci) - Automated API Testing and Quality Assurance
 - [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers
 - [werf/werf](https://github.com/werf/werf) - A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices.
 
 ## cpp 
 
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or Ja
 - [hydro-dev/Hydro](https://github.com/hydro-dev/Hydro) - Hydro - 新一代高效强大的信息学在线测评系统 (a.k.a. vj5)
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system
@@ -536,6 +547,8 @@
 
 ## docker 
 
+- [testcontainers/testcontainers-node](https://github.com/testcontainers/testcontainers-node) - TestContainers is a NodeJS library that supports tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
+- [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pantsbuild developer workflow system
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system.
 - [nginx-proxy/docker-gen](https://github.com/nginx-proxy/docker-gen) - Generate files from docker container meta-data
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
@@ -606,6 +619,8 @@
 
 ## express 
 
+- [cdimascio/express-openapi-validator](https://github.com/cdimascio/express-openapi-validator) - 🦋 Auto-validates api requests, responses, and securities using ExpressJS and an OpenAPI 3.x specification
+- [anttiviljami/openapi-backend](https://github.com/anttiviljami/openapi-backend) - Build, Validate, Route, Authenticate and Mock using OpenAPI
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB
 - [sachinraja/uttp](https://github.com/sachinraja/uttp) - write your request handlers once, run anywhere
 - [TannerReynolds/ShareX-Upload-Server](https://github.com/TannerReynolds/ShareX-Upload-Server) - AKA ShareS - Feature full & Stable ShareX and file server in node. Includes images, videos, code, text, markdown rendering, password protected uploads, logging via discord, administration through Disc
@@ -638,6 +653,8 @@
 
 ## framework 
 
+- [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
+- [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
 - [imba/imba](https://github.com/imba/imba) - 🐤 The friendly full-stack language
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [CRED-CLUB/neopop-flutter](https://github.com/CRED-CLUB/neopop-flutter) - NeoPOP is CRED's inbuilt library for using NeoPOP components in your app
@@ -664,6 +681,7 @@
 
 ## game 
 
+- [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
 - [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI) - Transparently compress active games and programs using Windows 10/11 APIs
 - [drwhut/tabletop-club](https://github.com/drwhut/tabletop-club) - An open-source platform for playing tabletop games in a physics-based 3D environment for Windows, macOS, and Linux! Made with the Godot Engine.
 - [puppetmaster-/compact-space](https://github.com/puppetmaster-/compact-space) - How long can you stay alive?
@@ -672,6 +690,7 @@
 
 ## game-development 
 
+- [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [sayhiben/awesome-playdate](https://github.com/sayhiben/awesome-playdate) - A list of awesome resources for Playdate (https://play.date) game development and the Playdate SDK (https://play.date/dev/)
 - [ftsf/nico](https://github.com/ftsf/nico) - a Game Framework in Nim inspired by Pico-8.
@@ -679,6 +698,8 @@
 
 ## game-engine 
 
+- [korlibs/korge](https://github.com/korlibs/korge) - KorGE Game Engine. Multiplatform Kotlin Game Engine & Korlibs
+- [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [ftsf/nico](https://github.com/ftsf/nico) - a Game Framework in Nim inspired by Pico-8.
 - [Gigoteur/UnicornConsole](https://github.com/Gigoteur/UnicornConsole) - Unicorn Console: create quick fantasy game in Rust/Python/Lua/Javascript !
@@ -725,6 +746,7 @@
 
 ## golang 
 
+- [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pantsbuild developer workflow system
 - [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
 - [hanabi1224/Programming-Language-Benchmarks](https://github.com/hanabi1224/Programming-Language-Benchmarks) - Yet another implementation of computer language benchmarks game
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
@@ -753,6 +775,8 @@
 
 ## graphql 
 
+- [stepci/stepci](https://github.com/stepci/stepci) - Automated API Testing and Quality Assurance
+- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Run thousands of randomly generated test scenarios based on your API specification and always be sure your API works as expected.
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
@@ -770,6 +794,12 @@
 
 ## hacktoberfest 
 
+- [cdimascio/express-openapi-validator](https://github.com/cdimascio/express-openapi-validator) - 🦋 Auto-validates api requests, responses, and securities using ExpressJS and an OpenAPI 3.x specification
+- [anttiviljami/openapi-backend](https://github.com/anttiviljami/openapi-backend) - Build, Validate, Route, Authenticate and Mock using OpenAPI
+- [stepci/stepci](https://github.com/stepci/stepci) - Automated API Testing and Quality Assurance
+- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Run thousands of randomly generated test scenarios based on your API specification and always be sure your API works as expected.
+- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+- [quarkusio/quarkus](https://github.com/quarkusio/quarkus) - Quarkus: Supersonic Subatomic Java.
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
@@ -852,6 +882,7 @@
 
 ## html 
 
+- [thymeleaf/thymeleaf](https://github.com/thymeleaf/thymeleaf) - Thymeleaf is a modern server-side Java template engine for both web and standalone environments.
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
@@ -871,6 +902,8 @@
 
 ## http 
 
+- [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
+- [stepci/stepci](https://github.com/stepci/stepci) - Automated API Testing and Quality Assurance
 - [mamantoha/crest](https://github.com/mamantoha/crest) - HTTP and REST client for Crystal
 - [ecyrbe/zodios](https://github.com/ecyrbe/zodios) - typescript http client and server with zod validation
 - [openfaas/faasd](https://github.com/openfaas/faasd) - A lightweight & portable faas engine
@@ -882,6 +915,8 @@
 
 ## ios 
 
+- [korlibs/korge](https://github.com/korlibs/korge) - KorGE Game Engine. Multiplatform Kotlin Game Engine & Korlibs
+- [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
 - [ryanmcgrath/cacao](https://github.com/ryanmcgrath/cacao) - Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS). Experimental, but working!
 - [JagandeepBrar/LunaSea](https://github.com/JagandeepBrar/LunaSea) - Self-hosted software controller built using Flutter
 - [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS
@@ -897,6 +932,7 @@
 
 ## iot 
 
+- [ct-Open-Source/tuya-convert](https://github.com/ct-Open-Source/tuya-convert) - A collection of scripts to flash Tuya IoT devices to alternative firmwares
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 
 ## ipfs 
@@ -906,6 +942,15 @@
 
 ## java 
 
+- [guardrail-dev/guardrail](https://github.com/guardrail-dev/guardrail) - Principled code generation from OpenAPI specifications
+- [Cornutum/tcases](https://github.com/Cornutum/tcases) - A model-based test case generator
+- [gluonhq/substrate](https://github.com/gluonhq/substrate) - Create native Java(FX) apps for desktop, mobile and embedded
+- [dropwizard/dropwizard](https://github.com/dropwizard/dropwizard) - A damn simple library for building production-ready RESTful web services.
+- [thymeleaf/thymeleaf](https://github.com/thymeleaf/thymeleaf) - Thymeleaf is a modern server-side Java template engine for both web and standalone environments.
+- [quarkusio/quarkus](https://github.com/quarkusio/quarkus) - Quarkus: Supersonic Subatomic Java.
+- [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pantsbuild developer workflow system
+- [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
+- [fzakaria/mvn2nix](https://github.com/fzakaria/mvn2nix) - Easily package your Maven Java application with the Nix package manager.
 - [hanabi1224/Programming-Language-Benchmarks](https://github.com/hanabi1224/Programming-Language-Benchmarks) - Yet another implementation of computer language benchmarks game
 - [hydro-dev/Hydro](https://github.com/hydro-dev/Hydro) - Hydro - 新一代高效强大的信息学在线测评系统 (a.k.a. vj5)
 - [evllabs/JGAAP](https://github.com/evllabs/JGAAP) - The Java Graphical Authorship Attribution Program
@@ -922,10 +967,17 @@
 
 ## javafx 
 
+- [gluonhq/substrate](https://github.com/gluonhq/substrate) - Create native Java(FX) apps for desktop, mobile and embedded
+- [cljfx/cljfx](https://github.com/cljfx/cljfx) - Declarative, functional and extensible wrapper of JavaFX inspired by better parts of react and re-frame
+- [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
 - [sshahine/JFoenix](https://github.com/sshahine/JFoenix) - JavaFX Material Design Library
 
 ## javascript 
 
+- [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
+- [JetBrains/compose-jb](https://github.com/JetBrains/compose-jb) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
+- [thymeleaf/thymeleaf](https://github.com/thymeleaf/thymeleaf) - Thymeleaf is a modern server-side Java template engine for both web and standalone environments.
+- [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pantsbuild developer workflow system
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [hanabi1224/Programming-Language-Benchmarks](https://github.com/hanabi1224/Programming-Language-Benchmarks) - Yet another implementation of computer language benchmarks game
 - [petersalomonsen/wasm-git](https://github.com/petersalomonsen/wasm-git) - GIT for nodejs and the browser using https://libgit2.org compiled to WebAssembly with https://emscripten.org
@@ -1010,10 +1062,20 @@
 
 ## koa 
 
+- [anttiviljami/openapi-backend](https://github.com/anttiviljami/openapi-backend) - Build, Validate, Route, Authenticate and Mock using OpenAPI
 - [sachinraja/uttp](https://github.com/sachinraja/uttp) - write your request handlers once, run anywhere
 
 ## kotlin 
 
+- [korlibs/korge](https://github.com/korlibs/korge) - KorGE Game Engine. Multiplatform Kotlin Game Engine & Korlibs
+- [touchlab/KaMPKit](https://github.com/touchlab/KaMPKit) - KaMP Kit by Touchlab. A collection of code & tools designed to get your mobile team started quickly w/Kotlin Multiplatform
+- [ajalt/clikt](https://github.com/ajalt/clikt) - Multiplatform command line interface parsing for Kotlin
+- [JetBrains/compose-jb](https://github.com/JetBrains/compose-jb) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
+- [jooby-project/jooby](https://github.com/jooby-project/jooby) - The modular web framework for Java and Kotlin
+- [InsertKoinIO/koin](https://github.com/InsertKoinIO/koin) - Koin - a pragmatic lightweight dependency injection framework for Kotlin & Kotlin Multiplatform
+- [ktorio/ktor](https://github.com/ktorio/ktor) - Framework for quickly creating connected applications in Kotlin with minimal effort
+- [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
+- [touchlab/Kermit](https://github.com/touchlab/Kermit) - Kermit by Touchlab is a Kotlin Multiplatform centralized logging utility.
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [hanabi1224/Programming-Language-Benchmarks](https://github.com/hanabi1224/Programming-Language-Benchmarks) - Yet another implementation of computer language benchmarks game
 - [kwebio/kweb-core](https://github.com/kwebio/kweb-core) - A web framework for Kotlin developers
@@ -1028,6 +1090,7 @@
 
 ## kubernetes 
 
+- [quarkusio/quarkus](https://github.com/quarkusio/quarkus) - Quarkus: Supersonic Subatomic Java.
 - [owncloud/ocis-charts](https://github.com/owncloud/ocis-charts) - :chart_with_upwards_trend: Helm Charts for ownCloud's OCIS
 - [jetpack-io/launchpad](https://github.com/jetpack-io/launchpad) - From Code to Kubernetes in One Step.
 - [werf/werf](https://github.com/werf/werf) - A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices.
@@ -1040,6 +1103,7 @@
 
 ## language 
 
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or Ja
 - [projectfluent/fluent.js](https://github.com/projectfluent/fluent.js) - JavaScript implementation of Project Fluent
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [buzz-language/buzz](https://github.com/buzz-language/buzz) - 👨‍🚀  buzz, A small/lightweight typed scripting language (in development)
@@ -1138,12 +1202,17 @@
 ## material-design 
 
 - [beercss/beercss](https://github.com/beercss/beercss) - Build material design interfaces in record time... without stress for devs... 🍺💛
-- [ThomasTJdev/nim_websitecreator](https://github.com/ThomasTJdev/nim_websitecreator) - Nim fullstack website framework - deploy a website within minutes
 - [sshahine/JFoenix](https://github.com/sshahine/JFoenix) - JavaFX Material Design Library
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 
+## maven 
+
+- [fzakaria/mvn2nix](https://github.com/fzakaria/mvn2nix) - Easily package your Maven Java application with the Nix package manager.
+
 ## mobile 
 
+- [gluonhq/substrate](https://github.com/gluonhq/substrate) - Create native Java(FX) apps for desktop, mobile and embedded
+- [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
 - [sshahine/JFoenix](https://github.com/sshahine/JFoenix) - JavaFX Material Design Library
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 
@@ -1193,10 +1262,10 @@
 - [yglukhov/nimx](https://github.com/yglukhov/nimx) - GUI library
 - [itsumura-h/nim-basolato](https://github.com/itsumura-h/nim-basolato) - An asynchronous fullstack web framework for Nim.
 - [Adeohluwa/gen](https://github.com/Adeohluwa/gen) - Simple scaffolding tool for WEB / GUI / CLI apps written in Nim Lang
-- [ThomasTJdev/nim_websitecreator](https://github.com/ThomasTJdev/nim_websitecreator) - Nim fullstack website framework - deploy a website within minutes
 
 ## node 
 
+- [testcontainers/testcontainers-node](https://github.com/testcontainers/testcontainers-node) - TestContainers is a NodeJS library that supports tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [hydro-dev/Hydro](https://github.com/hydro-dev/Hydro) - Hydro - 新一代高效强大的信息学在线测评系统 (a.k.a. vj5)
 - [nicolo-ribaudo/jest-light-runner](https://github.com/nicolo-ribaudo/jest-light-runner) - A Jest runner that runs tests directly in bare Node.js, without virtualizing the environment.
 - [sachinraja/uttp](https://github.com/sachinraja/uttp) - write your request handlers once, run anywhere
@@ -1210,6 +1279,8 @@
 
 ## nodejs 
 
+- [cdimascio/express-openapi-validator](https://github.com/cdimascio/express-openapi-validator) - 🦋 Auto-validates api requests, responses, and securities using ExpressJS and an OpenAPI 3.x specification
+- [anttiviljami/openapi-backend](https://github.com/anttiviljami/openapi-backend) - Build, Validate, Route, Authenticate and Mock using OpenAPI
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [petersalomonsen/wasm-git](https://github.com/petersalomonsen/wasm-git) - GIT for nodejs and the browser using https://libgit2.org compiled to WebAssembly with https://emscripten.org
 - [ecyrbe/zodios](https://github.com/ecyrbe/zodios) - typescript http client and server with zod validation
@@ -1258,7 +1329,6 @@
 - [avo-hq/avo](https://github.com/avo-hq/avo) - Ruby on Rails application building framework
 - [victorcouste/data-tools](https://github.com/victorcouste/data-tools) - Data Tools Subjective List
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [kwea123/OpenVTuberProject](https://github.com/kwea123/OpenVTuberProject) - Open Vtuber project containing all sub projects
 
 ## opengl 
 
@@ -1272,6 +1342,16 @@
 
 ## others 
 
+- [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
+- [t3-oss/create-t3-turbo](https://github.com/t3-oss/create-t3-turbo) - Clean and simple starter repo using the T3 Stack along with Expo React Native
+- [omar-dulaimi/create-trpc-app](https://github.com/omar-dulaimi/create-trpc-app) - Create tRPC-powered apps with one command
+- [json-api/json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs
+- [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL(2) [maintainer=@nzbr]
+- [baxtree/subaligner](https://github.com/baxtree/subaligner) - Automatically synchronize and translate subtitles with pretrained deep neural networks, forced alignments and transformers. https://subaligner.readthedocs.io/
+- [sc0ty/subsync](https://github.com/sc0ty/subsync) - Subtitle Speech Synchronizer
+- [smacke/ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
+- [HumbleUI/HumbleUI](https://github.com/HumbleUI/HumbleUI) - Clojure Desktop UI framework
 - [caderek/aocrunner](https://github.com/caderek/aocrunner) - Advent of Code runner
 - [TanklesXL/gladvent](https://github.com/TanklesXL/gladvent) - A Gleam framework for running Advent of Code solutions
 - [nim-lang/c2nim](https://github.com/nim-lang/c2nim) - c2nim is a tool to translate Ansi C code to Nim. The output is human-readable Nim code that is meant to be tweaked by hand before and after the translation process.
@@ -1334,7 +1414,6 @@
 - [owncloud/ocis](https://github.com/owncloud/ocis) - :atom_symbol: ownCloud Infinite Scale Stack
 - [VectorLogoZone/logosearch](https://github.com/VectorLogoZone/logosearch) - LogoSear.ch and IconSear.ch: search through zillions of SVG logos/icons directly linked to their source repos.
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
-- [edvin/tornadofx2](https://github.com/edvin/tornadofx2) - TornadoFX 2.0
 - [eDonnes124/Town-Of-Us-R](https://github.com/eDonnes124/Town-Of-Us-R) - An Among Us mod containing a bunch of roles
 - [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH guides to your Sonarr and Radarr instances.
 - [alainm23/planner](https://github.com/alainm23/planner) - Task manager with Todoist support designed for GNU/Linux 🚀
@@ -1358,7 +1437,6 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [JasonHHouse/gaps](https://github.com/JasonHHouse/gaps) - Find the missing movies in your Plex Server
 - [pico-8/picolove](https://github.com/pico-8/picolove) - Pico-8 Reimplementation in Love2D
-- [newTendermint/awesome-analytics](https://github.com/newTendermint/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
 - [Sigil-Ebook/Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil is a multi-platform EPUB ebook editor
 - [giovannicoppola/alfred-complice](https://github.com/giovannicoppola/alfred-complice) - A workflow to manage your Complice intentions and timers with  Alfred
 - [Zaplib/zaplib](https://github.com/Zaplib/zaplib) - ⚡ Zaplib is an open-source library for speeding up web applications using Rust and WebAssembly.
@@ -1379,14 +1457,12 @@
 - [Kruiser8/Kruiz-Control](https://github.com/Kruiser8/Kruiz-Control) - Kruiz Control enables a pseudo code approach to manage and automatically handle Twitch Channel Points, Twitch Chat, OBS or SLOBS, and StreamElements or Streamlabs alerts.
 - [GRVYDEV/Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) - A self contained OBS -&gt; FTL -&gt; WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming
 - [X0R0X/cli-torrent-dl](https://github.com/X0R0X/cli-torrent-dl) - CLI utility to search and download torrents from major torrent sites
-- [aidmin-io/docs](https://github.com/aidmin-io/docs) - 
 - [pywebio/PyWebIO](https://github.com/pywebio/PyWebIO) - Write interactive web app in script way.
 - [rock88/moonlight-nx](https://github.com/rock88/moonlight-nx) - Moonlight port for Horizon OS
 - [Svintooo/LEShortcutCreator](https://github.com/Svintooo/LEShortcutCreator) - Create shortcuts for games/applications that will run them through Locale Emulator.
 - [quentin4d/SevensCardGame](https://github.com/quentin4d/SevensCardGame) - Multiplayer version of the card game Sevens
 - [RobLoach/Bunnymark-TIC80](https://github.com/RobLoach/Bunnymark-TIC80) - Bunnymark ported to a few languages in TIC-80 for performance testing.
 - [avinash311/sony-tv-remote](https://github.com/avinash311/sony-tv-remote) - Sony TV Web Page Remote Control - Web Extension
-- [yoshidan/EasyVTuberRel](https://github.com/yoshidan/EasyVTuberRel) - BABINIKU(バ美肉) meeting  support tool for Zoom.us, WebEx, whereby.com or Slack on Mac OS
 - [ultram4rine/vscode-choosealicense](https://github.com/ultram4rine/vscode-choosealicense) - Choose a license for your project in VS Code
 - [khchen/wNim](https://github.com/khchen/wNim) - Nim's Windows GUI Framework
 - [RobLoach/DangerousDave-TIC80](https://github.com/RobLoach/DangerousDave-TIC80) - Dangerous Dave in TIC-80
@@ -1401,7 +1477,6 @@
 - [c-blake/cligen](https://github.com/c-blake/cligen) - Nim library to infer/generate command-line-interfaces / option / argument parsing; Docs at
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 - [yglukhov/nimpy](https://github.com/yglukhov/nimpy) - Nim - Python bridge
-- [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [nkrapivin/KittyNXBuilder](https://github.com/nkrapivin/KittyNXBuilder) - A tool to build Nintendo Switch homebrew games using GameMaker Studio 2's runtime. (no sdk or module required lol)
 - [m13253/mpv-videowall](https://github.com/m13253/mpv-videowall) - Play several videos synchronized on a wall with mpv
 - [dart-lang/webdev](https://github.com/dart-lang/webdev) - A CLI for Dart web development.
@@ -1505,6 +1580,7 @@
 
 ## python 
 
+- [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pantsbuild developer workflow system
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 - [hydro-dev/Hydro](https://github.com/hydro-dev/Hydro) - Hydro - 新一代高效强大的信息学在线测评系统 (a.k.a. vj5)
 - [DMOJ/online-judge](https://github.com/DMOJ/online-judge) - A modern open-source online judge and contest platform system.
@@ -1539,7 +1615,6 @@
 - [jerrymakesjelly/autoremove-torrents](https://github.com/jerrymakesjelly/autoremove-torrents) - Automatically remove torrents according to your strategies.
 - [kanishka-linux/kawaii-player](https://github.com/kanishka-linux/kawaii-player) - Multimedia player, media library manager and portable media server with PC-To-PC casting feature.
 - [tkarabela/pysubs2](https://github.com/tkarabela/pysubs2) - A Python library for editing subtitle files
-- [tp7/Sushi](https://github.com/tp7/Sushi) - Automatic subtitle shifter based on audio
 
 ## python3 
 
@@ -1574,6 +1649,7 @@
 
 ## react 
 
+- [cljfx/cljfx](https://github.com/cljfx/cljfx) - Declarative, functional and extensible wrapper of JavaFX inspired by better parts of react and re-frame
 - [CKGrafico/papanasi](https://github.com/CKGrafico/papanasi) - 🥯Papanasi is the Frontend UI library to use cross Frameworks. A set of components to use in Angular, Preact, Qwik, React, Solid, Svelte, Vue and Web Components
 - [projectfluent/fluent.js](https://github.com/projectfluent/fluent.js) - JavaScript implementation of Project Fluent
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
@@ -1656,6 +1732,9 @@
 
 ## rest-api 
 
+- [cdimascio/express-openapi-validator](https://github.com/cdimascio/express-openapi-validator) - 🦋 Auto-validates api requests, responses, and securities using ExpressJS and an OpenAPI 3.x specification
+- [stepci/stepci](https://github.com/stepci/stepci) - Automated API Testing and Quality Assurance
+- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace) - Leading free and open-source face recognition system
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
@@ -1677,6 +1756,9 @@
 
 ## rust 
 
+- [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or Ja
+- [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pantsbuild developer workflow system
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [ryanmcgrath/cacao](https://github.com/ryanmcgrath/cacao) - Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS). Experimental, but working!
 - [aarch64-switch-rs/nx](https://github.com/aarch64-switch-rs/nx) - Userland library for Nintendo Switch homebrew (and other potential purposes), written in pure Rust and some assembly bits
@@ -1703,6 +1785,8 @@
 
 ## scala 
 
+- [guardrail-dev/guardrail](https://github.com/guardrail-dev/guardrail) - Principled code generation from OpenAPI specifications
+- [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pantsbuild developer workflow system
 - [shadaj/slinky](https://github.com/shadaj/slinky) - Write Scala.js React apps just like you would in ES6
 - [Aivean/royalroad-downloader](https://github.com/Aivean/royalroad-downloader) - https://royalroad.com book downloader
 
@@ -1721,6 +1805,7 @@
 
 ## server 
 
+- [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro's next-gen island architecture 🏝✨
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
@@ -1728,6 +1813,7 @@
 
 ## serverless 
 
+- [anttiviljami/openapi-backend](https://github.com/anttiviljami/openapi-backend) - Build, Validate, Route, Authenticate and Mock using OpenAPI
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [upstash/upstash-redis](https://github.com/upstash/upstash-redis) - HTTP based Redis Client for Serverless and Edge Functions
 - [openfaas/faasd](https://github.com/openfaas/faasd) - A lightweight & portable faas engine
@@ -1736,6 +1822,7 @@
 
 ## shell 
 
+- [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pantsbuild developer workflow system
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 
@@ -1807,6 +1894,9 @@
 
 ## testing 
 
+- [stepci/stepci](https://github.com/stepci/stepci) - Automated API Testing and Quality Assurance
+- [Cornutum/tcases](https://github.com/Cornutum/tcases) - A model-based test case generator
+- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Run thousands of randomly generated test scenarios based on your API specification and always be sure your API works as expected.
 - [nicolo-ribaudo/jest-light-runner](https://github.com/nicolo-ribaudo/jest-light-runner) - A Jest runner that runs tests directly in bare Node.js, without virtualizing the environment.
 - [open-source-labs/spearmint](https://github.com/open-source-labs/spearmint) - Testing, simplified. || An inclusive, accessibility-first GUI for generating clean, semantic Javascript tests in only a few clicks of a button.
 - [dubzzz/fast-check](https://github.com/dubzzz/fast-check) - Property based testing framework for JavaScript (like QuickCheck) written in TypeScript
@@ -1817,12 +1907,9 @@
 - [react-cosmos/react-cosmos](https://github.com/react-cosmos/react-cosmos) - Sandbox for developing and testing UI components in isolation
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 
-## twitter 
-
-- [aritraroy/UltimateAndroidReference](https://github.com/aritraroy/UltimateAndroidReference) - :rocket: Ultimate Android Reference - Your Road to Become a Better Android Developer
-
 ## typescript 
 
+- [fabien0102/openapi-codegen](https://github.com/fabien0102/openapi-codegen) - A tool for generating code base on an OpenAPI schema.
 - [yrming/vscode-type-challenges](https://github.com/yrming/vscode-type-challenges) - Take Type Challenges in VS Code
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The react library to build dashboards fast.
 - [hanabi1224/Programming-Language-Benchmarks](https://github.com/hanabi1224/Programming-Language-Benchmarks) - Yet another implementation of computer language benchmarks game
@@ -1880,16 +1967,11 @@
 
 ## unity 
 
-- [TrackLab/ViRe](https://github.com/TrackLab/ViRe) - A open-source VR mocap studio built in Unity
 - [kwea123/VTuber_Unity](https://github.com/kwea123/VTuber_Unity) - Use Unity 3D character and Python deep learning algorithms to stream as a VTuber!
 
 ## vagrant 
 
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
-
-## virtual-reality 
-
-- [TrackLab/ViRe](https://github.com/TrackLab/ViRe) - A open-source VR mocap studio built in Unity
 
 ## vue 
 
@@ -1916,6 +1998,10 @@
 
 ## web 
 
+- [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
+- [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
+- [ktorio/ktor](https://github.com/ktorio/ktor) - Framework for quickly creating connected applications in Kotlin with minimal effort
+- [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app) - A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux, & even macOS), and Web!
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -1942,7 +2028,6 @@
 
 - [mintlify/mint](https://github.com/mintlify/mint) - Build blazing fast, beautiful, and easy to maintain documentation with MDX
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [ThomasTJdev/nim_websitecreator](https://github.com/ThomasTJdev/nim_websitecreator) - Nim fullstack website framework - deploy a website within minutes
 - [TannerReynolds/ShareX-Upload-Server](https://github.com/TannerReynolds/ShareX-Upload-Server) - AKA ShareS - Feature full & Stable ShareX and file server in node. Includes images, videos, code, text, markdown rendering, password protected uploads, logging via discord, administration through Disc
 
 ## windows 
@@ -1969,7 +2054,10 @@
 ## wordpress 
 
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
-- [ThomasTJdev/nim_websitecreator](https://github.com/ThomasTJdev/nim_websitecreator) - Nim fullstack website framework - deploy a website within minutes
+
+## xml 
+
+- [thymeleaf/thymeleaf](https://github.com/thymeleaf/thymeleaf) - Thymeleaf is a modern server-side Java template engine for both web and standalone environments.
 
 
 ## License
