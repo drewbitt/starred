@@ -28,6 +28,7 @@
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [clojure](#clojure)
+- [code-review](#code-review)
 - [compiler](#compiler)
 - [computer-vision](#computer-vision)
 - [continuous-integration](#continuous-integration)
@@ -384,6 +385,10 @@
 - [cljfx/cljfx](https://github.com/cljfx/cljfx) - Declarative, functional and extensible wrapper of JavaFX inspired by better parts of react and re-frame
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
 - [reagent-project/reagent](https://github.com/reagent-project/reagent) - A minimalistic ClojureScript interface to React.js
+
+## code-review 
+
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 
 ## compiler 
 
@@ -796,6 +801,7 @@
 
 ## hacktoberfest 
 
+- [xiph/rav1e](https://github.com/xiph/rav1e) - The fastest and safest AV1 encoder.
 - [denodrivers/sqlite3](https://github.com/denodrivers/sqlite3) - Fastest & correct JavaScript bindings to SQLite3 C API, using Deno FFI.
 - [cdimascio/express-openapi-validator](https://github.com/cdimascio/express-openapi-validator) - 🦋 Auto-validates api requests, responses, and securities using ExpressJS and an OpenAPI 3.x specification
 - [anttiviljami/openapi-backend](https://github.com/anttiviljami/openapi-backend) - Build, Validate, Route, Authenticate and Mock using OpenAPI
@@ -889,7 +895,7 @@
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
-- [kwebio/kweb-core](https://github.com/kwebio/kweb-core) - A web framework for Kotlin developers
+- [kwebio/kweb-core](https://github.com/kwebio/kweb-core) - A Kotlin web framework
 - [beercss/beercss](https://github.com/beercss/beercss) - Build material design interfaces in record time... without stress for devs... 🍺💛
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
@@ -1015,7 +1021,7 @@
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-- [kwebio/kweb-core](https://github.com/kwebio/kweb-core) - A web framework for Kotlin developers
+- [kwebio/kweb-core](https://github.com/kwebio/kweb-core) - A Kotlin web framework
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [single-spa/single-spa](https://github.com/single-spa/single-spa) - The router for easy microfrontends
@@ -1082,7 +1088,7 @@
 - [touchlab/Kermit](https://github.com/touchlab/Kermit) - Kermit by Touchlab is a Kotlin Multiplatform centralized logging utility.
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [hanabi1224/Programming-Language-Benchmarks](https://github.com/hanabi1224/Programming-Language-Benchmarks) - Yet another implementation of computer language benchmarks game
-- [kwebio/kweb-core](https://github.com/kwebio/kweb-core) - A web framework for Kotlin developers
+- [kwebio/kweb-core](https://github.com/kwebio/kweb-core) - A Kotlin web framework
 - [shosetsuorg/shosetsu](https://github.com/shosetsuorg/shosetsu) - An android application for reading light novels. Moved to https://gitlab.com/shosetsuorg/shosetsu
 - [javalin/javalin](https://github.com/javalin/javalin) - A simple and modern Java and Kotlin web framework
 - [msink/kotlin-libui](https://github.com/msink/kotlin-libui) - Kotlin/Native interop to libui: a portable GUI library
@@ -1346,6 +1352,8 @@
 
 ## others 
 
+- [reggi/htmx-components](https://github.com/reggi/htmx-components) - 🧩 Async HTMX + JSX
+- [surjithctly/astroship](https://github.com/surjithctly/astroship) - 🛸 Astroship is a starter template for startups, marketing websites & landing pages. Built with Astro, TailwindCSS & Alpine.js
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [t3-oss/create-t3-turbo](https://github.com/t3-oss/create-t3-turbo) - Clean and simple starter repo using the T3 Stack along with Expo React Native
