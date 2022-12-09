@@ -350,6 +350,7 @@
 
 ## JavaScript 
 
+- [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward) - Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
 - [NorthernMan54/node-red-contrib-homebridge-automation](https://github.com/NorthernMan54/node-red-contrib-homebridge-automation) - Homebridge and Node-RED Integration
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [digitallyinduced/thin-backend](https://github.com/digitallyinduced/thin-backend) - 🔥 Thin Backend is a Blazing Fast, Universal Web App Backend for Making Realtime Single Page Apps
