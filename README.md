@@ -552,6 +552,7 @@
 
 ## Python 
 
+- [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Run thousands of randomly generated test scenarios based on your API specification and always be sure your API works as expected.
 - [baxtree/subaligner](https://github.com/baxtree/subaligner) - Automatically synchronize and translate subtitles with pretrained deep neural networks, forced alignments and transformers. https://subaligner.readthedocs.io/
 - [smacke/ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
