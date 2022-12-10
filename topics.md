@@ -1532,7 +1532,7 @@
 - [steveseguin/vdo.ninja](https://github.com/steveseguin/vdo.ninja) - VDO.Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC.
 - [SiaFoundation/siad](https://github.com/SiaFoundation/siad) - The Sia daemon
 - [interval/interval-examples](https://github.com/interval/interval-examples) - Complete Interval apps to help you get started quickly.
-- [sveltejs/kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps
+- [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [JasonHHouse/gaps](https://github.com/JasonHHouse/gaps) - Find the missing movies in your Plex Server
 - [pico-8/picolove](https://github.com/pico-8/picolove) - Pico-8 Reimplementation in Love2D
