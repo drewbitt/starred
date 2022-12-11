@@ -1426,6 +1426,7 @@
 
 ## others 
 
+- [albfan/miraclecast](https://github.com/albfan/miraclecast) - Connect external monitors to your system via Wifi-Display specification also known as Miracast
 - [AndyFul/ConfigureDefender](https://github.com/AndyFul/ConfigureDefender) - Utility for configuring Windows 10 built-in Defender antivirus settings.
 - [namazso/OpenHashTab](https://github.com/namazso/OpenHashTab) - 📝 File hashing and checking shell extension
 - [Alia5/GlosSI](https://github.com/Alia5/GlosSI) - Tool for using Steam-Input controller rebinding at a system level alongside a global overlay
