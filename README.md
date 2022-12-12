@@ -353,6 +353,7 @@
 
 ## JavaScript 
 
+- [KanHarI/gpt-commit-summarizer](https://github.com/KanHarI/gpt-commit-summarizer) - 
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward) - Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
 - [NorthernMan54/node-red-contrib-homebridge-automation](https://github.com/NorthernMan54/node-red-contrib-homebridge-automation) - Homebridge and Node-RED Integration
@@ -635,6 +636,7 @@
 
 ## Ruby 
 
+- [pivotal/LicenseFinder](https://github.com/pivotal/LicenseFinder) - Find licenses for your project's dependencies.
 - [avo-hq/avo](https://github.com/avo-hq/avo) - Ruby on Rails application building framework
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [aoki-marika/mpp](https://github.com/aoki-marika/mpp) - A third party API for Madokami.
@@ -725,6 +727,7 @@
 
 ## TypeScript 
 
+- [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [nearform/graphql-hooks](https://github.com/nearform/graphql-hooks) - 🎣 Minimal hooks-first GraphQL client
 - [prisma-labs/graphql-request](https://github.com/prisma-labs/graphql-request) - Minimal GraphQL client supporting Node and browsers for scripts or simple apps
