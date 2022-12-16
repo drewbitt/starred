@@ -167,6 +167,7 @@
 - [ubuntu](#ubuntu)
 - [unity](#unity)
 - [vagrant](#vagrant)
+- [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
 - [web](#web)
 - [web-components](#web-components)
@@ -1070,6 +1071,7 @@
 
 ## javascript 
 
+- [p42ai/js-assistant](https://github.com/p42ai/js-assistant) - P42 JS Assistant for Visual Studio Code
 - [typicode/xv](https://github.com/typicode/xv) - :x: :heavy_check_mark: zero-config test runner for simple projects
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
@@ -1479,6 +1481,7 @@
 
 ## others 
 
+- [jewlexx/sfsu](https://github.com/jewlexx/sfsu) - Stupid Fast Scoop Utils
 - [kasmtech/workspaces-images](https://github.com/kasmtech/workspaces-images) - 
 - [JakeWharton/pidcat](https://github.com/JakeWharton/pidcat) - Colored logcat script which only shows log entries for a specific application package.
 - [anderlli0053/DEV-tools](https://github.com/anderlli0053/DEV-tools) - 📦 General development tools for applications and games and pretty much everything else too :) . Created and maintained by Andrew Poženel - anderlli0053 and his [BOT]s . 📦
@@ -1824,6 +1827,7 @@
 
 ## react 
 
+- [sannajammeh/tw-classed](https://github.com/sannajammeh/tw-classed) - 
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
 - [raphamorim/react-ape](https://github.com/raphamorim/react-ape) - 🦍• React Renderer to build UI interfaces using canvas/WebGL (TV and Hardware-Accelerated GPU development based)
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
@@ -1899,6 +1903,7 @@
 
 ## reactjs 
 
+- [sannajammeh/tw-classed](https://github.com/sannajammeh/tw-classed) - 
 - [shinework/photoshot](https://github.com/shinework/photoshot) - An open-source AI avatar generator web app
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
@@ -2115,6 +2120,7 @@
 
 ## typescript 
 
+- [p42ai/js-assistant](https://github.com/p42ai/js-assistant) - P42 JS Assistant for Visual Studio Code
 - [typicode/xv](https://github.com/typicode/xv) - :x: :heavy_check_mark: zero-config test runner for simple projects
 - [jawj/zapatos](https://github.com/jawj/zapatos) - Zero-abstraction Postgres for TypeScript: a non-ORM database library
 - [shinework/photoshot](https://github.com/shinework/photoshot) - An open-source AI avatar generator web app
@@ -2193,6 +2199,10 @@
 ## vagrant 
 
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
+
+## visual-studio-code 
+
+- [p42ai/js-assistant](https://github.com/p42ai/js-assistant) - P42 JS Assistant for Visual Studio Code
 
 ## vue 
 
