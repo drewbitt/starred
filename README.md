@@ -495,7 +495,6 @@
 
 ## Lua 
 
-- [Kozova1/TIC80-Lua-Libs](https://github.com/Kozova1/TIC80-Lua-Libs) - A collection of small libraries for the TIC-80 fantasy console
 - [hawkthorne/hawkthorne-journey](https://github.com/hawkthorne/hawkthorne-journey) - Digital Estate Planning: The Game
 - [pico-8/picolove](https://github.com/pico-8/picolove) - Pico-8 Reimplementation in Love2D
 - [RobLoach/Bunnymark-TIC80](https://github.com/RobLoach/Bunnymark-TIC80) - Bunnymark ported to a few languages in TIC-80 for performance testing.
