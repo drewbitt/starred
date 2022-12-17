@@ -1479,7 +1479,6 @@
 
 ## others 
 
-- [Kozova1/TIC80-Lua-Libs](https://github.com/Kozova1/TIC80-Lua-Libs) - A collection of small libraries for the TIC-80 fantasy console
 - [haxeui/haxeui-core](https://github.com/haxeui/haxeui-core) - The core library of the HaxeUI framework
 - [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC) - Modern VNC Server and client, web based and secure
 - [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
