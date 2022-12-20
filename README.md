@@ -361,7 +361,7 @@
 
 ## JavaScript 
 
-- [mishoo/UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier toolkit
+- [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
 - [tmountain/pico-8-typescript](https://github.com/tmountain/pico-8-typescript) - Create PICO-8 games in TypeScript
 - [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 - [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
@@ -754,6 +754,11 @@
 
 ## TypeScript 
 
+- [theseanl/tscc](https://github.com/theseanl/tscc) - A collection of tools to seamlessly bundle, minify Typescript with Closure Compiler
+- [graphql-nexus/nexus](https://github.com/graphql-nexus/nexus) - Code-First, Type-Safe, GraphQL Schema Construction
+- [cevek/ttypescript](https://github.com/cevek/ttypescript) - Over TypeScript tool to use custom transformers in the tsconfig.json
+- [hayes/pothos](https://github.com/hayes/pothos) - Pothos GraphQL is library for creating GraphQL schemas in typescript using a strongly typed code first approach
+- [MichalLytek/type-graphql](https://github.com/MichalLytek/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
 - [brophdawg11/remix-routers](https://github.com/brophdawg11/remix-routers) - A collection of UI library implementations of the Remix Router
 - [open-source-labs/reactime](https://github.com/open-source-labs/reactime) - Chrome developer tool for time travel debugging and performance monitoring in React applications.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
