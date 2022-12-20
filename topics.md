@@ -533,6 +533,7 @@
 
 ## database 
 
+- [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite replicator built on top of NATS
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [digitallyinduced/thin-backend](https://github.com/digitallyinduced/thin-backend) - 🔥 Thin Backend is a Blazing Fast, Universal Web App Backend for Making Realtime Single Page Apps
 - [wundergraph/wunderbase](https://github.com/wundergraph/wunderbase) - Serverless GraphQL Database built on top of Firecracker, SQLite and Prisma
@@ -711,6 +712,7 @@
 
 ## framework 
 
+- [riot/riot](https://github.com/riot/riot) - Simple and elegant component-based UI library
 - [chiselstrike/chiselstrike](https://github.com/chiselstrike/chiselstrike) - ChiselStrike abstracts common backends components like databases and message queues, and let you drive them from a convenient TypeScript business logic layer
 - [ServiceStack/ServiceStack](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
@@ -843,7 +845,6 @@
 
 ## graphql 
 
-- [graphql-nexus/nexus](https://github.com/graphql-nexus/nexus) - Code-First, Type-Safe, GraphQL Schema Construction
 - [hayes/pothos](https://github.com/hayes/pothos) - Pothos GraphQL is library for creating GraphQL schemas in typescript using a strongly typed code first approach
 - [MichalLytek/type-graphql](https://github.com/MichalLytek/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
 - [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL
@@ -1080,6 +1081,7 @@
 
 ## javascript 
 
+- [riot/riot](https://github.com/riot/riot) - Simple and elegant component-based UI library
 - [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [chiselstrike/chiselstrike](https://github.com/chiselstrike/chiselstrike) - ChiselStrike abstracts common backends components like databases and message queues, and let you drive them from a convenient TypeScript business logic layer
@@ -1489,6 +1491,7 @@
 
 ## others 
 
+- [Kotlin/kotlinx-cli](https://github.com/Kotlin/kotlinx-cli) - Pure Kotlin implementation of a generic CLI parser.
 - [tmountain/pico-8-typescript](https://github.com/tmountain/pico-8-typescript) - Create PICO-8 games in TypeScript
 - [brophdawg11/remix-routers](https://github.com/brophdawg11/remix-routers) - A collection of UI library implementations of the Remix Router
 - [level3tjg/TwitchAdBlock](https://github.com/level3tjg/TwitchAdBlock) - Ad blocker for Twitch iOS app
@@ -1838,6 +1841,7 @@
 
 ## react 
 
+- [sanity-io/sanity](https://github.com/sanity-io/sanity) - Sanity Studio – Rapidly configure content workspaces powered by structured content
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [sannajammeh/tw-classed](https://github.com/sannajammeh/tw-classed) - 
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
@@ -1914,6 +1918,7 @@
 
 ## reactjs 
 
+- [sanity-io/sanity](https://github.com/sanity-io/sanity) - Sanity Studio – Rapidly configure content workspaces powered by structured content
 - [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
 - [open-source-labs/reactime](https://github.com/open-source-labs/reactime) - Chrome developer tool for time travel debugging and performance monitoring in React applications.
 - [sannajammeh/tw-classed](https://github.com/sannajammeh/tw-classed) - 
@@ -2137,7 +2142,6 @@
 ## typescript 
 
 - [theseanl/tscc](https://github.com/theseanl/tscc) - A collection of tools to seamlessly bundle, minify Typescript with Closure Compiler
-- [graphql-nexus/nexus](https://github.com/graphql-nexus/nexus) - Code-First, Type-Safe, GraphQL Schema Construction
 - [cevek/ttypescript](https://github.com/cevek/ttypescript) - Over TypeScript tool to use custom transformers in the tsconfig.json
 - [hayes/pothos](https://github.com/hayes/pothos) - Pothos GraphQL is library for creating GraphQL schemas in typescript using a strongly typed code first approach
 - [MichalLytek/type-graphql](https://github.com/MichalLytek/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
