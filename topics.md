@@ -32,6 +32,7 @@
 - [code-review](#code-review)
 - [compiler](#compiler)
 - [computer-vision](#computer-vision)
+- [config](#config)
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
 - [crystal](#crystal)
@@ -324,7 +325,7 @@
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
 - [jetpack-io/launchpad](https://github.com/jetpack-io/launchpad) - From Code to Kubernetes in One Step.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
-- [aws-amplify/amplify-adminui](https://github.com/aws-amplify/amplify-adminui) - AWS Amplify Studio (Formerly Admin UI)
+- [aws-amplify/amplify-studio](https://github.com/aws-amplify/amplify-studio) - AWS Amplify Studio (Formerly Admin UI)
 - [aws-amplify/amplify-flutter](https://github.com/aws-amplify/amplify-flutter) - A declarative library with an easy-to-use interface for building Flutter applications on AWS.
 - [poseidon/typhoon](https://github.com/poseidon/typhoon) - Minimal and free Kubernetes distribution with Terraform
 
@@ -435,6 +436,10 @@
 - [PeterL1n/BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2) - Real-Time High-Resolution Background Matting
 - [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace) - Leading free and open-source face recognition system
 - [dog-qiuqiu/MobileNet-Yolo](https://github.com/dog-qiuqiu/MobileNet-Yolo) - MobileNetV2-YoloV3-Nano: 0.5BFlops 3MB HUAWEI P40: 6ms/img, YoloFace-500k:0.1Bflops 420KB:fire::fire::fire:
+
+## config 
+
+- [node-config/node-config](https://github.com/node-config/node-config) - Node.js Application Configuration
 
 ## continuous-integration 
 
@@ -555,6 +560,7 @@
 
 ## deployment 
 
+- [node-config/node-config](https://github.com/node-config/node-config) - Node.js Application Configuration
 - [jetpack-io/launchpad](https://github.com/jetpack-io/launchpad) - From Code to Kubernetes in One Step.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers
@@ -879,6 +885,7 @@
 
 ## hacktoberfest 
 
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 - [evelyneee/accord](https://github.com/evelyneee/accord) - a discord client for modern macs
 - [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
@@ -1174,6 +1181,7 @@
 
 ## json 
 
+- [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for Humans
 - [ServiceStack/ServiceStack](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
 - [fullstack-build/tslog](https://github.com/fullstack-build/tslog) - 📝 tslog - Universal Logger for TypeScript and JavaScript
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
@@ -1488,6 +1496,7 @@
 
 ## others 
 
+- [littlesticks/astro-sanity-minimal-starter](https://github.com/littlesticks/astro-sanity-minimal-starter) - 
 - [Lambdo-Labs/payloadcms-astro-template](https://github.com/Lambdo-Labs/payloadcms-astro-template) - Payload CMS and Astro template
 - [delucis/astro-netlify-cms](https://github.com/delucis/astro-netlify-cms) - Integration to add Netlify CMS’s admin dashboard to any Astro project
 - [tmountain/pico-8-typescript](https://github.com/tmountain/pico-8-typescript) - Create PICO-8 games in TypeScript
