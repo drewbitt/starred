@@ -66,6 +66,7 @@
 
 ## Astro 
 
+- [littlesticks/astro-sanity-minimal-starter](https://github.com/littlesticks/astro-sanity-minimal-starter) - 
 - [surjithctly/astroship](https://github.com/surjithctly/astroship) - 🛸 Astroship is a starter template for startups, marketing websites & landing pages. Built with Astro, TailwindCSS & Alpine.js
 
 ## AutoIt 
@@ -363,6 +364,8 @@
 
 ## JavaScript 
 
+- [node-config/node-config](https://github.com/node-config/node-config) - Node.js Application Configuration
+- [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for Humans
 - [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
 - [tmountain/pico-8-typescript](https://github.com/tmountain/pico-8-typescript) - Create PICO-8 games in TypeScript
 - [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
@@ -551,7 +554,7 @@
 - [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite) - Carefully curated list of awesome Appwrite resources 💪
 - [mycroftwilde/portainer_templates](https://github.com/mycroftwilde/portainer_templates) - Portainer Version 2 Template and Self-Hosting Cookbook. A Series of Tools, Tutorials/Instructions, and Links to help you create your very own Self-Hosting System and Lab Sandbox!
 - [SpaceAceMonkey/spaceace-arch-kubernetes-unraid](https://github.com/SpaceAceMonkey/spaceace-arch-kubernetes-unraid) - Install Kubernetes on Arch Linux virtual machines under Unraid, or maybe not under Unraid. It's your show.
-- [aws-amplify/amplify-adminui](https://github.com/aws-amplify/amplify-adminui) - AWS Amplify Studio (Formerly Admin UI)
+- [aws-amplify/amplify-studio](https://github.com/aws-amplify/amplify-studio) - AWS Amplify Studio (Formerly Admin UI)
 - [croqaz/awesome-decentralized](https://github.com/croqaz/awesome-decentralized) - 🕶 Awesome list of distributed, decentralized, p2p apps and tools 👍
 - [victorcouste/data-tools](https://github.com/victorcouste/data-tools) - Data Tools Subjective List
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -755,6 +758,7 @@
 
 ## TypeScript 
 
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [Lambdo-Labs/payloadcms-astro-template](https://github.com/Lambdo-Labs/payloadcms-astro-template) - Payload CMS and Astro template
 - [delucis/astro-netlify-cms](https://github.com/delucis/astro-netlify-cms) - Integration to add Netlify CMS’s admin dashboard to any Astro project
 - [sanity-io/sanity](https://github.com/sanity-io/sanity) - Sanity Studio – Rapidly configure content workspaces powered by structured content
