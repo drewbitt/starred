@@ -385,7 +385,7 @@
 
 - [atomicdata-dev/atomic-data-rust](https://github.com/atomicdata-dev/atomic-data-rust) - Create, share, fetch and model Atomic Data! This project consists of a graph database + server, a CLI and a rust library.
 - [pixop/video-compare](https://github.com/pixop/video-compare) - Split screen video comparison tool using FFmpeg and SDL2
-- [martinet101/WingetUI](https://github.com/martinet101/WingetUI) - WingetUI: a package manager for Winget and Scoop
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: a package manager for Winget and Scoop
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [pankod/superplate](https://github.com/pankod/superplate) - A well-structured production-ready frontend boilerplate with Typescript, React Testing Library, styled-component, React Query, .env, Axios, Bundle Analyzer, Prettier and 30+ plugins. superplate create
 - [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Run thousands of randomly generated test scenarios based on your API specification and always be sure your API works as expected.
@@ -905,7 +905,6 @@
 
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 - [okteto/okteto](https://github.com/okteto/okteto) - Develop your applications directly in your Kubernetes Cluster
-- [svelteuidev/svelteui](https://github.com/svelteuidev/svelteui) - SvelteUI Monorepo
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 - [evelyneee/accord](https://github.com/evelyneee/accord) - a discord client for modern macs
@@ -1164,7 +1163,6 @@
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-- [kwebio/kweb-core](https://github.com/kwebio/kweb-core) - A Kotlin web framework
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [single-spa/single-spa](https://github.com/single-spa/single-spa) - The router for easy microfrontends
@@ -1545,9 +1543,9 @@
 - [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
 - [stanford-crfm/helm](https://github.com/stanford-crfm/helm) - Holistic Evaluation of Language Models (HELM), a framework to increase the transparency of language models (https://arxiv.org/abs/2211.09110).
 - [stravant/LuaMinify](https://github.com/stravant/LuaMinify) - Lua source code minifier.
-- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - 
 - [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI an open source client for container development
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
+- [svelteuidev/svelteui](https://github.com/svelteuidev/svelteui) - SvelteUI Monorepo
 - [facebook/ktfmt](https://github.com/facebook/ktfmt) - A program that reformats Kotlin source code to comply with the common community standard for Kotlin code conventions.
 - [trunk-io/trunk-action](https://github.com/trunk-io/trunk-action) - Trunk.io GitHub Action
 - [littlesticks/astro-sanity-minimal-starter](https://github.com/littlesticks/astro-sanity-minimal-starter) - 
@@ -1775,7 +1773,7 @@
 
 ## package-manager 
 
-- [martinet101/WingetUI](https://github.com/martinet101/WingetUI) - WingetUI: a package manager for Winget and Scoop
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: a package manager for Winget and Scoop
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
@@ -2035,6 +2033,7 @@
 ## rust 
 
 - [atomicdata-dev/atomic-data-rust](https://github.com/atomicdata-dev/atomic-data-rust) - Create, share, fetch and model Atomic Data! This project consists of a graph database + server, a CLI and a rust library.
+- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like GUI library for desktop, web, mobile, and more.
 - [chiselstrike/chiselstrike](https://github.com/chiselstrike/chiselstrike) - ChiselStrike abstracts common backends components like databases and message queues, and let you drive them from a convenient TypeScript business logic layer
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
