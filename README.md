@@ -136,6 +136,7 @@
 
 ## C++ 
 
+- [jarulraj/sqlcheck](https://github.com/jarulraj/sqlcheck) - Automatically identify anti-patterns in SQL queries
 - [secondlife/viewer](https://github.com/secondlife/viewer) - 🖥️ Second Life's official client
 - [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC) - Modern VNC Server and client, web based and secure
 - [pixop/video-compare](https://github.com/pixop/video-compare) - Split screen video comparison tool using FFmpeg and SDL2
@@ -686,6 +687,7 @@
 
 ## Rust 
 
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Cross-platform application to monitor your network traffic with ease
 - [atomicdata-dev/atomic-data-rust](https://github.com/atomicdata-dev/atomic-data-rust) - Create, share, fetch and model Atomic Data! This project consists of a graph database + server, a CLI and a rust library.
 - [fermyon/bartholomew](https://github.com/fermyon/bartholomew) - The Micro-CMS for WebAssembly and Spin
 - [fermyon/spin](https://github.com/fermyon/spin) - Spin is an open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly
