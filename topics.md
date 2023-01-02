@@ -200,6 +200,8 @@
 
 ## analytics 
 
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
+- [electerious/Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 
@@ -1111,6 +1113,7 @@
 
 ## javascript 
 
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
 - [rocicorp/replicache](https://github.com/rocicorp/replicache) - Realtime Sync for Any Backend Stack
 - [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
@@ -1538,6 +1541,8 @@
 
 ## others 
 
+- [Xanashi/Icaros](https://github.com/Xanashi/Icaros) - Official issue tracker and download location for Icaros Shell Extensions
+- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [cwsdigital/tailwind-utopia](https://github.com/cwsdigital/tailwind-utopia) - A Tailwind CSS plugin to generate utility classes for interpolated fluid type and space scales based off utopia.fyi
 - [kwhitley/itty-router](https://github.com/kwhitley/itty-router) - A little router.
 - [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) - 
@@ -1833,6 +1838,7 @@
 
 ## python 
 
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pantsbuild developer workflow system
@@ -1905,6 +1911,7 @@
 
 ## react 
 
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Universal UI kit and style system for React Native + Web - with an optimizing compiler 🚄
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
@@ -2217,6 +2224,7 @@
 
 ## typescript 
 
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Universal UI kit and style system for React Native + Web - with an optimizing compiler 🚄
 - [rocicorp/replicache](https://github.com/rocicorp/replicache) - Realtime Sync for Any Backend Stack
 - [theseanl/tscc](https://github.com/theseanl/tscc) - A collection of tools to seamlessly bundle, minify Typescript with Closure Compiler
