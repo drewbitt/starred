@@ -374,6 +374,8 @@
 
 ## JavaScript 
 
+- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
+- [electerious/Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy.
 - [cwsdigital/tailwind-utopia](https://github.com/cwsdigital/tailwind-utopia) - A Tailwind CSS plugin to generate utility classes for interpolated fluid type and space scales based off utopia.fyi
 - [serverless-stack/open-next](https://github.com/serverless-stack/open-next) - Open source Next.js serverless adapter
 - [node-config/node-config](https://github.com/node-config/node-config) - Node.js Application Configuration
@@ -556,6 +558,7 @@
 
 ## Others 
 
+- [Xanashi/Icaros](https://github.com/Xanashi/Icaros) - Official issue tracker and download location for Icaros Shell Extensions
 - [rocicorp/replicache](https://github.com/rocicorp/replicache) - Realtime Sync for Any Backend Stack
 - [p42ai/js-assistant](https://github.com/p42ai/js-assistant) - P42 JS Assistant for Visual Studio Code
 - [AndyFul/ConfigureDefender](https://github.com/AndyFul/ConfigureDefender) - Utility for configuring Windows 10 built-in Defender antivirus settings.
@@ -784,6 +787,7 @@
 
 ## TypeScript 
 
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Universal UI kit and style system for React Native + Web - with an optimizing compiler 🚄
 - [kwhitley/itty-router](https://github.com/kwhitley/itty-router) - A little router.
 - [EqualMa/gitpkg](https://github.com/EqualMa/gitpkg) - use a sub directory of a github repo as yarn / npm dependency directly
