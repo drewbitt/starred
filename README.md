@@ -558,7 +558,6 @@
 
 ## Others 
 
-- [Xanashi/Icaros](https://github.com/Xanashi/Icaros) - Official issue tracker and download location for Icaros Shell Extensions
 - [rocicorp/replicache](https://github.com/rocicorp/replicache) - Realtime Sync for Any Backend Stack
 - [p42ai/js-assistant](https://github.com/p42ai/js-assistant) - P42 JS Assistant for Visual Studio Code
 - [AndyFul/ConfigureDefender](https://github.com/AndyFul/ConfigureDefender) - Utility for configuring Windows 10 built-in Defender antivirus settings.
@@ -600,7 +599,7 @@
 - [stanford-crfm/helm](https://github.com/stanford-crfm/helm) - Holistic Evaluation of Language Models (HELM), a framework to increase the transparency of language models (https://arxiv.org/abs/2211.09110).
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [JakeWharton/pidcat](https://github.com/JakeWharton/pidcat) - Colored logcat script which only shows log entries for a specific application package.
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: a package manager for Winget and Scoop
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: a graphical user interface for Winget and Scoop
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Run thousands of randomly generated test scenarios based on your API specification and always be sure your API works as expected.
 - [baxtree/subaligner](https://github.com/baxtree/subaligner) - Automatically synchronize and translate subtitles with pretrained deep neural networks, forced alignments and transformers. https://subaligner.readthedocs.io/
@@ -690,6 +689,7 @@
 
 ## Rust 
 
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Cross-platform application to monitor your network traffic with ease
 - [atomicdata-dev/atomic-data-rust](https://github.com/atomicdata-dev/atomic-data-rust) - Create, share, fetch and model Atomic Data! This project consists of a graph database + server, a CLI and a rust library.
 - [fermyon/bartholomew](https://github.com/fermyon/bartholomew) - The Micro-CMS for WebAssembly and Spin
@@ -712,7 +712,7 @@
 - [aarch64-switch-rs/nx](https://github.com/aarch64-switch-rs/nx) - Userland library for Nintendo Switch homebrew (and other potential purposes), written in pure Rust and some assembly bits
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
-- [MirrorX-Desktop/MirrorX](https://github.com/MirrorX-Desktop/MirrorX) - Secure, Fast and Light remote desktop & file manager tool powered by Tauri and egui.
+- [MirrorX-Desktop/MirrorX](https://github.com/MirrorX-Desktop/MirrorX) - Remote control tool for enterprise, teams and individuals. Build fast and security remote control network with fully control in a short time.
 - [m1guelpf/auto-commit](https://github.com/m1guelpf/auto-commit) - A CLI tool that automatically writes commit messages for you.
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
@@ -914,7 +914,7 @@
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [mydraft-cc/ui](https://github.com/mydraft-cc/ui) - Open source wireframing tool written in typescript, react and redux.
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
-- [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
+- [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
