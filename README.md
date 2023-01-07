@@ -329,6 +329,7 @@
 
 ## HTML 
 
+- [thesephist/blocks.css](https://github.com/thesephist/blocks.css) - Add some dimension to your page with blocks 🚀
 - [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) - 
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - The most popular and open-source library of Tailwind CSS components
@@ -800,6 +801,10 @@
 
 ## TypeScript 
 
+- [react-page/react-page](https://github.com/react-page/react-page) - Next-gen, highly customizable content editor for the browser - based on React and written in TypeScript. WYSIWYG on steroids.
+- [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual page builder and web design tool for any website or web app tech stack
+- [AlexandroMtzG/remix-page-blocks](https://github.com/AlexandroMtzG/remix-page-blocks) - Simple page block editor with Remix and Tailwind CSS.
+- [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia) - Design ❤️ Code
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
 - [iway1/react-ts-form](https://github.com/iway1/react-ts-form) - 
 - [artalar/reatom](https://github.com/artalar/reatom) - Reatom - the ultimate state manager
