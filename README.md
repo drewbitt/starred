@@ -139,6 +139,7 @@
 
 ## C++ 
 
+- [google/cdc-file-transfer](https://github.com/google/cdc-file-transfer) - Tools for synching and streaming files from Windows to Linux
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [jarulraj/sqlcheck](https://github.com/jarulraj/sqlcheck) - Automatically identify anti-patterns in SQL queries
 - [secondlife/viewer](https://github.com/secondlife/viewer) - 🖥️ Second Life's official client
@@ -154,6 +155,7 @@
 - [YtFlow/Maple](https://github.com/YtFlow/Maple) - A lightweight Universal Windows proxy app based on https://github.com/eycorsican/leaf
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
+- [jmgomez/NimForUE](https://github.com/jmgomez/NimForUE) - Nim plugin for UE5 with native performance, hot reloading and full interop that sits between C++ and Blueprints. This allows you to do common UE workflows like for example to extend any UE class in Ni
 - [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system
 - [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
 - [SerenityOS/ladybird](https://github.com/SerenityOS/ladybird) - The Ladybird web browser
@@ -180,6 +182,7 @@
 
 ## CSS 
 
+- [csstools/postcss-plugins](https://github.com/csstools/postcss-plugins) - PostCSS Tools and Plugins
 - [Avalojandro/Catto-CSS](https://github.com/Avalojandro/Catto-CSS) - Library of CSS animations easy and quick to use
 - [primefaces/primereact](https://github.com/primefaces/primereact) - The Most Complete React UI Component Library
 - [json-api/json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs
@@ -262,6 +265,8 @@
 
 ## Go 
 
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
+- [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
 - [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
 - [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI an open source client for container development
@@ -381,7 +386,8 @@
 
 ## JavaScript 
 
-- [Heydon/watched-box](https://github.com/Heydon/watched-box) - 
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
+- [WebCoder49/code-input](https://github.com/WebCoder49/code-input) - Fully customisable, editable syntax-highlighted textareas.
 - [nopecha-ai/nopecha-extension](https://github.com/nopecha-ai/nopecha-extension) - Automatically solve reCAPTCHA, hCaptcha, FunCAPTCHA, AWS CAPTCHA, and text-based CAPTCHA with a browser extension.
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [electerious/Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy.
@@ -441,7 +447,6 @@
 - [SmitharyZach/retap](https://github.com/SmitharyZach/retap) - Time hop for Untappd!
 - [TheNetsky/extensions-generic](https://github.com/TheNetsky/extensions-generic) - Netsky's fork of the official Paperback sources.
 - [prose/prose](https://github.com/prose/prose) - A Content Editor for GitHub.
-- [mdubourg001/glci](https://github.com/mdubourg001/glci) - 🦊 Test your Gitlab CI Pipelines changes locally using Docker.
 - [scambier/tic80-typescript](https://github.com/scambier/tic80-typescript) - Create your TIC-80 games with TypeScript
 - [stimulusreflex/stimulus_reflex](https://github.com/stimulusreflex/stimulus_reflex) - Build reactive applications with the Rails tooling you already know and love.
 - [AlaSQL/alasql](https://github.com/AlaSQL/alasql) - AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Ex
@@ -539,7 +544,6 @@
 - [dkgitdev/nimNx](https://github.com/dkgitdev/nimNx) - Basic nim template for skipping all the "how-tos" straight to a working example!
 - [juancarlospaco/nodejs](https://github.com/juancarlospaco/nodejs) - Alternative StdLib for Nim for NodeJS/JavaScript targets, hijacks NodeJS StdLib for Nim
 - [StefanSalewski/gintro](https://github.com/StefanSalewski/gintro) - High level GObject-Introspection based GTK3/GTK4 bindings for Nim language
-- [jmgomez/NimForUE](https://github.com/jmgomez/NimForUE) - Nim plugin for UE5 with native performance, hot reloading and full interop that sits between C++ and Blueprints. This allows you to do common UE workflows like for example to extend any UE class in Ni
 - [Araq/nimedit](https://github.com/Araq/nimedit) - NimEdit is the new upcoming slim IDE/editor for the Nim programming language. Currently it is hardly usable at all! It's been open sourced in the hope it will speed up its development process.
 - [thisago/tic80](https://github.com/thisago/tic80) - Nim TIC-80 bindings
 - [disruptek/nimph](https://github.com/disruptek/nimph) - Nim package hierarchy manager from the future 🧚
@@ -570,6 +574,7 @@
 
 ## Others 
 
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
 - [rocicorp/replicache](https://github.com/rocicorp/replicache) - Realtime Sync for Any Backend Stack
 - [p42ai/js-assistant](https://github.com/p42ai/js-assistant) - P42 JS Assistant for Visual Studio Code
 - [AndyFul/ConfigureDefender](https://github.com/AndyFul/ConfigureDefender) - Utility for configuring Windows 10 built-in Defender antivirus settings.
@@ -608,6 +613,9 @@
 
 ## Python 
 
+- [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone) - Web apps in pure Python.
+- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
+- [djdembeck/Audnexus.bundle](https://github.com/djdembeck/Audnexus.bundle) - An audnexus client, providing rich author and audiobook data to Plex via it's legacy plugin agent system.
 - [AutoViML/AutoViz](https://github.com/AutoViML/AutoViz) - Automatically Visualize any dataset, any size with a single line of code.  Created by Ram Seshadri. Collaborators Welcome. Permission Granted upon Request.
 - [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
@@ -706,6 +714,9 @@
 
 ## Rust 
 
+- [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
+- [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
+- [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Cross-platform application to monitor your network traffic with ease
 - [atomicdata-dev/atomic-data-rust](https://github.com/atomicdata-dev/atomic-data-rust) - Create, share, fetch and model Atomic Data! This project consists of a graph database + server, a CLI and a rust library.
@@ -805,6 +816,18 @@
 
 ## TypeScript 
 
+- [avitorio/outstatic](https://github.com/avitorio/outstatic) - Outstatic - A static CMS for Next.js
+- [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
+- [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
+- [stevenpetryk/mafs](https://github.com/stevenpetryk/mafs) - React components for interactive math
+- [kahole/edamagit](https://github.com/kahole/edamagit) - Magit for VSCode
+- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
+- [DanielXMoore/Civet](https://github.com/DanielXMoore/Civet) - The modern way to write TypeScript
+- [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml?
+- [acro5piano/kysely-migration-cli](https://github.com/acro5piano/kysely-migration-cli) - A thin library to create a migration script using Kysely
+- [pilcrowOnPaper/lucia-auth](https://github.com/pilcrowOnPaper/lucia-auth) - Authentication, simple and clean
+- [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
+- [react-simple-code-editor/react-simple-code-editor](https://github.com/react-simple-code-editor/react-simple-code-editor) - Simple no-frills code editor with syntax highlighting
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
 - [react-page/react-page](https://github.com/react-page/react-page) - Next-gen, highly customizable content editor for the browser - based on React and written in TypeScript. WYSIWYG on steroids.
@@ -967,11 +990,9 @@
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
-- [ultram4rine/vscode-choosealicense](https://github.com/ultram4rine/vscode-choosealicense) - Choose a license for your project in VS Code
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [SteveSandersonMS/WebWindow](https://github.com/SteveSandersonMS/WebWindow) - .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental.
 - [yysun/apprun](https://github.com/yysun/apprun) - AppRun is a JavaScript library for developing high-performance and reliable web applications using the elm inspired architecture, events and components.
-- [graphile/starter](https://github.com/graphile/starter) - Opinionated SaaS quick-start with pre-built user account and organization system for full-stack application development in React, Node.js, GraphQL and PostgreSQL. Powered by PostGraphile, TypeScript, 
 - [nodegui/react-nodegui](https://github.com/nodegui/react-nodegui) - Build performant, native and cross-platform desktop applications with native React + powerful CSS like styling.🚀
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
