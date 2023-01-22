@@ -49,6 +49,7 @@
 - [ReScript](#rescript)
 - [Ruby](#ruby)
 - [Rust](#rust)
+- [SCSS](#scss)
 - [Scala](#scala)
 - [Scheme](#scheme)
 - [Shell](#shell)
@@ -255,6 +256,8 @@
 
 ## Go 
 
+- [go-vikunja/api](https://github.com/go-vikunja/api) - Mirror of vikunja from https://code.vikunja.io/api
+- [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL
 - [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
@@ -611,7 +614,7 @@
 ## PowerShell 
 
 - [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: a graphical user interface for Winget and Scoop
-- [SpotX-CLI/SpotX-Win](https://github.com/SpotX-CLI/SpotX-Win) - Blocking ads and updates for the desktop version of Spotify, disabling podcasts and more.
+- [amd64fox/SpotX](https://github.com/amd64fox/SpotX) - Blocking ads and updates for the desktop version of Spotify, disabling podcasts and more.
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
 
@@ -629,7 +632,7 @@
 - [whipper-team/whipper](https://github.com/whipper-team/whipper) - Python CD-DA ripper preferring accuracy over speed
 - [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
-- [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone) - Web apps in pure Python 🐍
+- [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone) - 🕸 Web apps in pure Python 🐍
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [djdembeck/Audnexus.bundle](https://github.com/djdembeck/Audnexus.bundle) - An audnexus client, providing rich author and audiobook data to Plex via it's legacy plugin agent system.
 - [AutoViML/AutoViz](https://github.com/AutoViML/AutoViz) - Automatically Visualize any dataset, any size with a single line of code.  Created by Ram Seshadri. Collaborators Welcome. Permission Granted upon Request.
@@ -720,6 +723,14 @@
 
 ## Rust 
 
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
+- [readysettech/readyset](https://github.com/readysettech/readyset) - ReadySet is a lightweight SQL caching engine written in Rust that helps developers enhance the performance and scalability of existing applications.
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
+- [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
 - [m1guelpf/plz-cli](https://github.com/m1guelpf/plz-cli) - Copilot for your terminal
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
@@ -777,6 +788,10 @@
 - [vislyhq/stretch](https://github.com/vislyhq/stretch) - High performance flexbox implementation written in rust
 - [baskerville/plato](https://github.com/baskerville/plato) - Document reader
 
+## SCSS 
+
+- [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
+
 ## Scala 
 
 - [guardrail-dev/guardrail](https://github.com/guardrail-dev/guardrail) - Principled code generation from OpenAPI specifications
@@ -825,6 +840,9 @@
 
 ## TypeScript 
 
+- [danger/danger-js](https://github.com/danger/danger-js) - ⚠️ Stop saying "you forgot to …" in code review
+- [swift-server/vscode-swift](https://github.com/swift-server/vscode-swift) - Visual Studio Code Extension for Swift
+- [johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
 - [resendlabs/react-email](https://github.com/resendlabs/react-email) - 💌 Build and send emails using React
 - [cenk1cenk2/listr2](https://github.com/cenk1cenk2/listr2) - NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive.
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
