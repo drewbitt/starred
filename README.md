@@ -83,6 +83,7 @@
 
 ## C 
 
+- [DaGooseYT/EncodeGUI](https://github.com/DaGooseYT/EncodeGUI) - EncodeGUI (encode-gooey) is a free and open source video transcoder GUI that utilizes AI tools for a fascinating encoding experience.
 - [landley/toybox](https://github.com/landley/toybox) - toybox
 - [plougher/squashfs-tools](https://github.com/plougher/squashfs-tools) - tools to create and extract Squashfs filesystems
 - [ViGEm/DsHidMini](https://github.com/ViGEm/DsHidMini) - Virtual HID Mini-user-mode-driver for Sony DualShock 3 Controllers
@@ -120,6 +121,7 @@
 
 ## C# # 
 
+- [GitTools/GitVersion](https://github.com/GitTools/GitVersion) - From git log to SemVer in no time
 - [yzi2004/SubtitleParser](https://github.com/yzi2004/SubtitleParser) - 
 - [RWELabs/Stardew-Valley-Mod-Manager](https://github.com/RWELabs/Stardew-Valley-Mod-Manager) - [Passion Project] The Stardew Valley Mod Manager is a powerful tool that is designed to be used alongside SMAPI to help you install and manage mods, automatically install modpacks and manage your game
 - [Impostor/Impostor](https://github.com/Impostor/Impostor) - Impostor - An open source reimplementation of the Among Us Server
@@ -183,7 +185,6 @@
 ## CSS 
 
 - [angel-rs/css-color-filter-generator](https://github.com/angel-rs/css-color-filter-generator) - Generate custom css filter property to achieve any target color :art:
-- [AgnosticUI/agnosticui](https://github.com/AgnosticUI/agnosticui) - AgnosticUI is a set of UI primitives that start their lives in clean HTML and CSS. These standards compliant components are then copied to our framework implementations in: React, Vue 3, Angular, and 
 - [csstools/postcss-plugins](https://github.com/csstools/postcss-plugins) - PostCSS Tools and Plugins
 - [Avalojandro/Catto-CSS](https://github.com/Avalojandro/Catto-CSS) - Library of CSS animations easy and quick to use
 - [primefaces/primereact](https://github.com/primefaces/primereact) - The Most Complete React UI Component Library
@@ -259,6 +260,7 @@
 
 ## Go 
 
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [go-vikunja/api](https://github.com/go-vikunja/api) - Mirror of vikunja from https://code.vikunja.io/api
 - [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL
 - [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
@@ -397,6 +399,9 @@
 
 ## JavaScript 
 
+- [4ian/GDevelop](https://github.com/4ian/GDevelop) - :video_game: Open-source, cross-platform game engine designed to be used by everyone.
+- [isaacHagoel/svelte-dnd-action](https://github.com/isaacHagoel/svelte-dnd-action) - An action based drag and drop container for Svelte
+- [shakiba/svgexport](https://github.com/shakiba/svgexport) - SVG to PNG/JPEG command-line tool and Node.js module
 - [tomayac/SVGcode](https://github.com/tomayac/SVGcode) - Convert color bitmap images to color SVG vector images.
 - [titaniumnetwork-dev/Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet) - A highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers. Works by intercepting HTTP requests with a service w
 - [architect/architect](https://github.com/architect/architect) - The simplest, most powerful way to build a functional web app (fwa)
@@ -501,6 +506,7 @@
 
 ## Kotlin 
 
+- [kscripting/kscript](https://github.com/kscripting/kscript) - Scripting enhancements for Kotlin
 - [hydraulic-software/conveyor](https://github.com/hydraulic-software/conveyor) - Gradle plugin, user guide and discussion forums for Conveyor
 - [facebook/ktfmt](https://github.com/facebook/ktfmt) - A program that reformats Kotlin source code to comply with the common community standard for Kotlin code conventions.
 - [cashapp/sqldelight](https://github.com/cashapp/sqldelight) - SQLDelight - Generates typesafe Kotlin APIs from SQL
@@ -583,6 +589,7 @@
 
 ## Others 
 
+- [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [juancarlospaco/awesome-streaming-tools](https://github.com/juancarlospaco/awesome-streaming-tools) - Awesome Streaming Tools
 - [nuxt/framework](https://github.com/nuxt/framework) - Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.
@@ -625,6 +632,8 @@
 
 ## Python 
 
+- [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - AI imagined images. Pythonic generation of stable diffusion images.
 - [TeaM-TL/FotoKilof](https://github.com/TeaM-TL/FotoKilof) - GUI for ImageMagick
 - [GeorgLegato/Txt2Vectorgraphics](https://github.com/GeorgLegato/Txt2Vectorgraphics) - Custom Script for Automatics1111 StableDiffusion-WebUI.
@@ -731,6 +740,7 @@
 
 ## Rust 
 
+- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [readysettech/readyset](https://github.com/readysettech/readyset) - ReadySet is a lightweight SQL caching engine written in Rust that helps developers enhance the performance and scalability of existing applications.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
@@ -812,6 +822,8 @@
 
 ## Shell 
 
+- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
+- [xonixx/makesure](https://github.com/xonixx/makesure) - Simple task/command runner with declarative goals and dependencies
 - [xlab-steampunk/spotter-action](https://github.com/xlab-steampunk/spotter-action) - GitHub action for Steampunk Spotter
 - [b1337xyz/scripts](https://github.com/b1337xyz/scripts) - 
 - [trunk-io/trunk-action](https://github.com/trunk-io/trunk-action) - Trunk.io GitHub Action
@@ -828,6 +840,7 @@
 ## Svelte 
 
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - A fully featured UI toolkit for Svelte + Tailwind.
+- [AgnosticUI/agnosticui](https://github.com/AgnosticUI/agnosticui) - AgnosticUI is a set of UI primitives that start their lives in clean HTML and CSS. These standards compliant components are then copied to our framework implementations in: React, Vue 3, Angular, and 
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source web IDE, scalable runtime and platform for serverless, workflows and UIs
 - [icflorescu/trpc-sveltekit-example](https://github.com/icflorescu/trpc-sveltekit-example) - A sample SvelteKit application built to illustrate the usage of ✨ trpc-sveltekit.
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
@@ -848,6 +861,8 @@
 
 ## TypeScript 
 
+- [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
+- [ealush/vest](https://github.com/ealush/vest) - Vest ✅ Declarative validations framework
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [danger/danger-js](https://github.com/danger/danger-js) - ⚠️ Stop saying "you forgot to …" in code review
