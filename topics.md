@@ -72,7 +72,6 @@
 - [game](#game)
 - [game-development](#game-development)
 - [game-engine](#game-engine)
-- [gamemaker](#gamemaker)
 - [games](#games)
 - [git](#git)
 - [github](#github)
@@ -178,6 +177,7 @@
 - [ubuntu](#ubuntu)
 - [unity](#unity)
 - [vagrant](#vagrant)
+- [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
 - [web](#web)
@@ -223,6 +223,7 @@
 
 ## android 
 
+- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Svelte, Vue and you name 
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like GUI library for desktop, web, mobile, and more.
@@ -369,6 +370,7 @@
 
 ## bash 
 
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [kscripting/kscript](https://github.com/kscripting/kscript) - Scripting enhancements for Kotlin
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [xonixx/makesure](https://github.com/xonixx/makesure) - Simple task/command runner with declarative goals and dependencies
@@ -391,6 +393,7 @@
 
 ## c 
 
+- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [simon987/sist2](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool
@@ -416,6 +419,9 @@
 
 ## cli 
 
+- [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [shakiba/svgexport](https://github.com/shakiba/svgexport) - SVG to PNG/JPEG command-line tool and Node.js module
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 📋 Cut, copy, and paste anything, anywhere, all from the terminal. 😄 Easy, breezy, and beautiful.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
@@ -856,7 +862,6 @@
 
 ## game 
 
-- [4ian/GDevelop](https://github.com/4ian/GDevelop) - :video_game: Open-source, cross-platform game engine designed to be used by everyone.
 - [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
 - [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI) - Transparently compress active games and programs using Windows 10/11 APIs
 - [drwhut/tabletop-club](https://github.com/drwhut/tabletop-club) - An open-source platform for playing tabletop games in a physics-based 3D environment for Windows, macOS, and Linux! Made with the Godot Engine.
@@ -866,7 +871,6 @@
 
 ## game-development 
 
-- [4ian/GDevelop](https://github.com/4ian/GDevelop) - :video_game: Open-source, cross-platform game engine designed to be used by everyone.
 - [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [sayhiben/awesome-playdate](https://github.com/sayhiben/awesome-playdate) - A list of awesome resources for Playdate (https://play.date) game development and the Playdate SDK (https://play.date/dev/)
@@ -875,17 +879,12 @@
 
 ## game-engine 
 
-- [4ian/GDevelop](https://github.com/4ian/GDevelop) - :video_game: Open-source, cross-platform game engine designed to be used by everyone.
 - [korlibs/korge](https://github.com/korlibs/korge) - KorGE Game Engine. Multiplatform Kotlin Game Engine & Korlibs
 - [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [ftsf/nico](https://github.com/ftsf/nico) - a Game Framework in Nim inspired by Pico-8.
 - [libgdx/libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
 - [Monogatari/Monogatari](https://github.com/Monogatari/Monogatari) - Monogatari is a simple web visual novel engine, created to bring Visual Novels to the web.
-
-## gamemaker 
-
-- [4ian/GDevelop](https://github.com/4ian/GDevelop) - :video_game: Open-source, cross-platform game engine designed to be used by everyone.
 
 ## games 
 
@@ -983,6 +982,7 @@
 
 ## graphql 
 
+- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
 - [moollaza/repo-remover](https://github.com/moollaza/repo-remover) - A web app that helps you archive and delete old/unused repos, quickly and easily.
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
@@ -1023,7 +1023,7 @@
 
 ## hacktoberfest 
 
-- [4ian/GDevelop](https://github.com/4ian/GDevelop) - :video_game: Open-source, cross-platform game engine designed to be used by everyone.
+- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
@@ -1165,7 +1165,6 @@
 
 ## html5 
 
-- [4ian/GDevelop](https://github.com/4ian/GDevelop) - :video_game: Open-source, cross-platform game engine designed to be used by everyone.
 - [Avalojandro/Catto-CSS](https://github.com/Avalojandro/Catto-CSS) - Library of CSS animations easy and quick to use
 - [KaliedaRik/Scrawl-canvas](https://github.com/KaliedaRik/Scrawl-canvas) - Responsive, interactive and more accessible HTML5 canvas elements. Scrawl-canvas is a JavaScript library designed to make using the HTML5 canvas element easier, and more fun
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
@@ -1258,7 +1257,6 @@
 
 ## javascript 
 
-- [4ian/GDevelop](https://github.com/4ian/GDevelop) - :video_game: Open-source, cross-platform game engine designed to be used by everyone.
 - [ealush/vest](https://github.com/ealush/vest) - Vest ✅ Declarative validations framework
 - [shakiba/svgexport](https://github.com/shakiba/svgexport) - SVG to PNG/JPEG command-line tool and Node.js module
 - [titaniumnetwork-dev/Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet) - A highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers. Works by intercepting HTTP requests with a service w
@@ -1738,7 +1736,6 @@
 
 ## open-source 
 
-- [4ian/GDevelop](https://github.com/4ian/GDevelop) - :video_game: Open-source, cross-platform game engine designed to be used by everyone.
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source web IDE, scalable runtime and platform for serverless, workflows and UIs
 - [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone) - 🕸 Web apps in pure Python 🐍
@@ -2052,6 +2049,7 @@
 
 ## powershell 
 
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
@@ -2171,6 +2169,7 @@
 
 ## raspberry-pi 
 
+- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
@@ -2178,6 +2177,7 @@
 
 ## react 
 
+- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [marklawlor/nativewind](https://github.com/marklawlor/nativewind) - React Native utility-first universal design system - powered by Tailwind CSS
@@ -2341,6 +2341,8 @@
 
 ## rust 
 
+- [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [readysettech/readyset](https://github.com/readysettech/readyset) - ReadySet is a lightweight SQL caching engine written in Rust that helps developers enhance the performance and scalability of existing applications.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
@@ -2512,6 +2514,7 @@
 
 ## terminal 
 
+- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 📋 Cut, copy, and paste anything, anywhere, all from the terminal. 😄 Easy, breezy, and beautiful.
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [cenk1cenk2/listr2](https://github.com/cenk1cenk2/listr2) - NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive.
@@ -2663,6 +2666,10 @@
 ## vagrant 
 
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
+
+## vim 
+
+- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 
 ## visual-studio-code 
 
