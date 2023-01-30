@@ -1778,6 +1778,7 @@
 
 ## others 
 
+- [evilmartians/oklch-picker](https://github.com/evilmartians/oklch-picker) - Color Picker for LCH
 - [studio-freight/lenis](https://github.com/studio-freight/lenis) - How smooth scroll should be
 - [KusStar/vite-bundle-visualizer](https://github.com/KusStar/vite-bundle-visualizer) - CLI for visualize vite bundle
 - [lunatic-solutions/submillisecond](https://github.com/lunatic-solutions/submillisecond) - A lunatic web framework
@@ -2745,6 +2746,7 @@
 
 ## web 
 
+- [fubark/cyber](https://github.com/fubark/cyber) - Fast and concurrent scripting.
 - [rjaros/kvision](https://github.com/rjaros/kvision) - Object oriented web framework for Kotlin/JS
 - [dom96/jester](https://github.com/dom96/jester) - A sinatra-like web framework for Nim.
 - [angel-rs/css-color-filter-generator](https://github.com/angel-rs/css-color-filter-generator) - Generate custom css filter property to achieve any target color :art:
