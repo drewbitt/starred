@@ -557,6 +557,7 @@
 
 ## css 
 
+- [Viijay-Kr/react-ts-css](https://github.com/Viijay-Kr/react-ts-css) - VS Code Extension for CSS modules in typescript bases react projects
 - [csstools/normalize.css](https://github.com/csstools/normalize.css) - A cross-browser CSS foundation
 - [angel-rs/css-color-filter-generator](https://github.com/angel-rs/css-color-filter-generator) - Generate custom css filter property to achieve any target color :art:
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
@@ -702,6 +703,7 @@
 
 ## docker 
 
+- [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
 - [lavie/runlike](https://github.com/lavie/runlike) - Given an existing docker container, prints the command line necessary to run a copy of it.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
@@ -1061,6 +1063,7 @@
 
 ## hacktoberfest 
 
+- [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [webview/webview_deno](https://github.com/webview/webview_deno) - 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs
@@ -1815,6 +1818,8 @@
 
 ## others 
 
+- [amethystnetwork-dev/Incognito](https://github.com/amethystnetwork-dev/Incognito) - Unofficial Incognito easy deployment version with TompHTTP bare server included.
+- [acoustid/chromaprint](https://github.com/acoustid/chromaprint) - C library for generating audio fingerprints used by AcoustID
 - [debrouxl/tilibs](https://github.com/debrouxl/tilibs) - TILP (formerly GtkTiLink) can transfer data between Texas Instruments graphing calculators and a computer. It works with all link cables (parallel, serial, Black/Gray/Silver/Direct Link) and it suppor
 - [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -2358,6 +2363,7 @@
 
 ## reactjs 
 
+- [Viijay-Kr/react-ts-css](https://github.com/Viijay-Kr/react-ts-css) - VS Code Extension for CSS modules in typescript bases react projects
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
 - [fastify/fastify-dx](https://github.com/fastify/fastify-dx) - A Full Stack Framework based on Fastify and Vite. Built for great developer experience without compromising on performance and stability.
 - [AlexandroMtzG/remix-page-blocks](https://github.com/AlexandroMtzG/remix-page-blocks) - Simple page block editor with Remix and Tailwind CSS.
@@ -2413,6 +2419,7 @@
 
 ## ruby 
 
+- [toy/image_optim](https://github.com/toy/image_optim) - Optimize images using multiple utilities
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [stimulusreflex/stimulus_reflex](https://github.com/stimulusreflex/stimulus_reflex) - Build reactive applications with the Rails tooling you already know and love.
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
@@ -2649,6 +2656,7 @@
 
 ## typescript 
 
+- [Viijay-Kr/react-ts-css](https://github.com/Viijay-Kr/react-ts-css) - VS Code Extension for CSS modules in typescript bases react projects
 - [JakubGluszek/intentio](https://github.com/JakubGluszek/intentio) - A pomodoro timer desktop application.
 - [remeda/remeda](https://github.com/remeda/remeda) - A utility library for JavaScript and TypeScript.
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
