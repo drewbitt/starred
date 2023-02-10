@@ -1139,7 +1139,7 @@
 ## Zig 
 
 - [fubark/cyber](https://github.com/fubark/cyber) - Fast and concurrent scripting.
-- [buzz-language/buzz](https://github.com/buzz-language/buzz) - 👨‍🚀  buzz, A small/lightweight typed scripting language (in development)
+- [buzz-language/buzz](https://github.com/buzz-language/buzz) - 👨‍🚀  buzz, A small/lightweight statically typed scripting language (in development)
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 
