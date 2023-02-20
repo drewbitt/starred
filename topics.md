@@ -2919,6 +2919,7 @@
 
 ## windows 
 
+- [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
 - [TunnlTo/desktop-app](https://github.com/TunnlTo/desktop-app) - TunnlTo is a lightweight, fast, Windows WireGuard VPN client built for split tunneling.
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Cut, copy, and paste anything, anywhere, all from the terminal! 😄 Save time and effort the easy way.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
