@@ -109,6 +109,7 @@
 - [linux](#linux)
 - [localization](#localization)
 - [lua](#lua)
+- [mac](#mac)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
@@ -1572,6 +1573,11 @@
 - [libretro/libretro-lutro](https://github.com/libretro/libretro-lutro) - An experimental lua game framework for libretro following the LÖVE API
 - [Gigoteur/UnicornConsole](https://github.com/Gigoteur/UnicornConsole) - Unicorn Console: create quick fantasy game in Rust/Python/Lua/Rhai/Wasm !
 
+## mac 
+
+- [juancarlospaco/awesome-streaming-tools](https://github.com/juancarlospaco/awesome-streaming-tools) - Awesome Streaming Tools
+- [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
+
 ## machine-learning 
 
 - [Kanaries/Rath](https://github.com/Kanaries/Rath) - Automated data exploratory analysis and visualization tools.
@@ -1970,7 +1976,6 @@
 - [justmao945/mallory](https://github.com/justmao945/mallory) - HTTP/HTTPS proxy over SSH
 - [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (334 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
 - [YtFlow/Maple](https://github.com/YtFlow/Maple) - A lightweight Universal Windows proxy app based on https://github.com/eycorsican/leaf
-- [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [baiyuwubing/cocos-creator-examples](https://github.com/baiyuwubing/cocos-creator-examples) - cocos creator 一些使用实例
 - [siraben/zkeme80](https://github.com/siraben/zkeme80) - An assembler and operating system for the TI-84+ written in Scheme, Forth and Z80 assembly.
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
