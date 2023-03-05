@@ -86,7 +86,6 @@
 - [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 - [saghul/txiki.js](https://github.com/saghul/txiki.js) - A tiny JavaScript runtime
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
-- [DaGooseYT/EncodeGUI](https://github.com/DaGooseYT/EncodeGUI) - EncodeGUI (encode-gooey) is a free and open source video transcoder GUI that utilizes AI tools for a fascinating encoding experience.
 - [landley/toybox](https://github.com/landley/toybox) - toybox
 - [plougher/squashfs-tools](https://github.com/plougher/squashfs-tools) - tools to create and extract Squashfs filesystems
 - [ViGEm/DsHidMini](https://github.com/ViGEm/DsHidMini) - Virtual HID Mini-user-mode-driver for Sony DualShock 3 Controllers
@@ -151,6 +150,7 @@
 - [debrouxl/tilibs](https://github.com/debrouxl/tilibs) - TILP (formerly GtkTiLink) can transfer data between Texas Instruments graphing calculators and a computer. It works with all link cables (parallel, serial, Black/Gray/Silver/Direct Link) and it suppor
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [oracle/graaljs](https://github.com/oracle/graaljs) - A ECMAScript 2022 compliant JavaScript implementation built on GraalVM. With polyglot language interoperability support. Running Node.js applications!
+- [DaGooseYT/EncodeGUI](https://github.com/DaGooseYT/EncodeGUI) - EncodeGUI (encode-gooey) is a free and open source video transcoder GUI that utilizes AI tools for a fascinating encoding experience.
 - [pgmodeler/pgmodeler](https://github.com/pgmodeler/pgmodeler) - Open-source data modeling tool designed for PostgreSQL. No more typing DDL commands. Let pgModeler do the work for you!
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Save time and effort the easy way. Cut, copy, and paste anything, anywhere, all from the terminal! 😄
 - [tiltedphoques/TiltedEvolution](https://github.com/tiltedphoques/TiltedEvolution) - Skyrim and Fallout 4 mod to play online!
