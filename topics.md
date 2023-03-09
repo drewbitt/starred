@@ -2004,7 +2004,7 @@
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
 - [preactjs/wmr](https://github.com/preactjs/wmr) - 👩‍🚀 The tiny all-in-one development tool for modern web apps.
 - [brillout/telefunc](https://github.com/brillout/telefunc) - Remote Functions. Instead of API.
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - A passkey-first approach to authentication that takes you on the journey beyond passwords. For better security, conversion rates, and happier users.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - The authentication system for the passkey era.
 - [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale
 - [Snd-R/komf](https://github.com/Snd-R/komf) - Komga and Kavita metadata fetcher
 - [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, and predictable development environments
