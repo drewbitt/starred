@@ -626,7 +626,6 @@
 - [codacy/codacy-analysis-cli-action](https://github.com/codacy/codacy-analysis-cli-action) - GitHub Action for the codacy-analysis-cli
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
 - [rocicorp/replicache](https://github.com/rocicorp/replicache) - Realtime Sync for Any Backend Stack
-- [p42ai/js-assistant](https://github.com/p42ai/js-assistant) - P42 JS Assistant for Visual Studio Code
 - [AndyFul/ConfigureDefender](https://github.com/AndyFul/ConfigureDefender) - Utility for configuring Windows 10 built-in Defender antivirus settings.
 - [wallabyjs/public](https://github.com/wallabyjs/public) - Repository for Wallaby.js questions and issues
 - [sayhiben/awesome-playdate](https://github.com/sayhiben/awesome-playdate) - A list of awesome resources for Playdate (https://play.date) game development and the Playdate SDK (https://play.date/dev/)
@@ -893,7 +892,7 @@
 
 ## Swift 
 
-- [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The missing Github Copilot Xcode Source Editor Extension
+- [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The missing GitHub Copilot Xcode Source Editor Extension
 - [evelyneee/accord](https://github.com/evelyneee/accord) - a discord client for modern macs
 - [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS
 - [ra1028/swiftui-hooks](https://github.com/ra1028/swiftui-hooks) - 🪝 A SwiftUI implementation of React Hooks. Enhances reusability of stateful logic and gives state and lifecycle to function view.
@@ -975,7 +974,7 @@
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [react-simple-code-editor/react-simple-code-editor](https://github.com/react-simple-code-editor/react-simple-code-editor) - Simple no-frills code editor with syntax highlighting
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
 - [react-page/react-page](https://github.com/react-page/react-page) - Next-gen, highly customizable content editor for the browser - based on React and written in TypeScript. WYSIWYG on steroids.
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual page builder and web design tool for any website or web app tech stack
 - [AlexandroMtzG/remix-page-blocks](https://github.com/AlexandroMtzG/remix-page-blocks) - Simple page block editor with Remix and Tailwind CSS.
@@ -1007,6 +1006,7 @@
 - [benallfree/pockethost](https://github.com/benallfree/pockethost) - PocketBase hosting
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [sannajammeh/tw-classed](https://github.com/sannajammeh/tw-classed) - 
+- [p42ai/js-assistant](https://github.com/p42ai/js-assistant) - P42 JS Assistant for Visual Studio Code
 - [jawj/zapatos](https://github.com/jawj/zapatos) - Zero-abstraction Postgres for TypeScript: a non-ORM database library
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
 - [shinework/photoshot](https://github.com/shinework/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
