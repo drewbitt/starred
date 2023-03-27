@@ -276,7 +276,7 @@
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - Get OAuth tokens for APIs - fast & secure.
 - [laxamentumtech/audnexus](https://github.com/laxamentumtech/audnexus) - An audiobook data aggregation API, combining multiple sources of data into one, consistent source.
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale load testing. Fully serverless, test any stack, test at any scale.
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Your external brain that remembers anything, anytime, anywhere. Save time and effort the 𝗲𝗮𝘀𝘆 way! 😄
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Your external brain that remembers anything, anytime, anywhere. Save time and effort the 𝗲𝗮𝘀𝘆 way! :rocket:
 - [go-vikunja/api](https://github.com/go-vikunja/api) - Mirror of vikunja from https://code.vikunja.io/api
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -391,7 +391,7 @@
 - [kscripting/kscript](https://github.com/kscripting/kscript) - Scripting enhancements for Kotlin
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [xonixx/makesure](https://github.com/xonixx/makesure) - Simple task/command runner with declarative goals and dependencies
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Your external brain that remembers anything, anytime, anywhere. Save time and effort the 𝗲𝗮𝘀𝘆 way! 😄
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Your external brain that remembers anything, anytime, anywhere. Save time and effort the 𝗲𝗮𝘀𝘆 way! :rocket:
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [vscode-shellcheck/vscode-shellcheck](https://github.com/vscode-shellcheck/vscode-shellcheck) - Integrates ShellCheck into VS Code, a linter for Shell scripts.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -429,6 +429,7 @@
 ## chatgpt 
 
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+- [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The missing GitHub Copilot and ChatGPT Xcode Source Editor Extension
 - [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) - Get answers for CLI commands from GPT3 right from your terminal
 
 ## chrome 
@@ -454,7 +455,7 @@
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [shakiba/svgexport](https://github.com/shakiba/svgexport) - SVG to PNG/JPEG command-line tool and Node.js module
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Your external brain that remembers anything, anytime, anywhere. Save time and effort the 𝗲𝗮𝘀𝘆 way! 😄
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Your external brain that remembers anything, anytime, anywhere. Save time and effort the 𝗲𝗮𝘀𝘆 way! :rocket:
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
@@ -546,7 +547,7 @@
 
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Your external brain that remembers anything, anytime, anywhere. Save time and effort the 𝗲𝗮𝘀𝘆 way! 😄
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Your external brain that remembers anything, anytime, anywhere. Save time and effort the 𝗲𝗮𝘀𝘆 way! :rocket:
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++, or J
 - [hydro-dev/Hydro](https://github.com/hydro-dev/Hydro) - Hydro - Next generation high performance online-judge platform - 新一代高效强大的信息学在线测评系统 (a.k.a. vj5)
@@ -634,13 +635,14 @@
 
 ## data-structures 
 
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Your external brain that remembers anything, anytime, anywhere. Save time and effort the 𝗲𝗮𝘀𝘆 way! 😄
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Your external brain that remembers anything, anytime, anywhere. Save time and effort the 𝗲𝗮𝘀𝘆 way! :rocket:
 
 ## data-visualization 
 
 - [Kanaries/Rath](https://github.com/Kanaries/Rath) - Automated data exploratory analysis and visualization tools.
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your network traffic
 - [f5/unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, and vanilla TypeScript or JavaScript
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
 - [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
@@ -1546,7 +1548,7 @@
 ## library 
 
 - [saas-js/saas-ui](https://github.com/saas-js/saas-ui) - The React component library for startups, built with Chakra UI.
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Your external brain that remembers anything, anytime, anywhere. Save time and effort the 𝗲𝗮𝘀𝘆 way! 😄
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Your external brain that remembers anything, anytime, anywhere. Save time and effort the 𝗲𝗮𝘀𝘆 way! :rocket:
 - [Avalojandro/Catto-CSS](https://github.com/Avalojandro/Catto-CSS) - Library of CSS animations easy and quick to use
 - [atomicdata-dev/atomic-data-rust](https://github.com/atomicdata-dev/atomic-data-rust) - Create, share, fetch and model Atomic Data! This project consists of a graph database + server, a CLI and a rust library.
 - [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) - ✨ Standard library for JavaScript and Node.js. ✨
@@ -1555,7 +1557,7 @@
 
 - [LibreELEC/LibreELEC.tv](https://github.com/LibreELEC/LibreELEC.tv) - Just enough OS for KODI
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Your external brain that remembers anything, anytime, anywhere. Save time and effort the 𝗲𝗮𝘀𝘆 way! 😄
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Your external brain that remembers anything, anytime, anywhere. Save time and effort the 𝗲𝗮𝘀𝘆 way! :rocket:
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [juancarlospaco/awesome-streaming-tools](https://github.com/juancarlospaco/awesome-streaming-tools) - Awesome Streaming Tools
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
@@ -1615,9 +1617,9 @@
 
 ## macos 
 
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Your external brain that remembers anything, anytime, anywhere. Save time and effort the 𝗲𝗮𝘀𝘆 way! 😄
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Your external brain that remembers anything, anytime, anywhere. Save time and effort the 𝗲𝗮𝘀𝘆 way! :rocket:
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-- [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The missing GitHub Copilot Xcode Source Editor Extension
+- [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The missing GitHub Copilot and ChatGPT Xcode Source Editor Extension
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your network traffic
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
@@ -1940,7 +1942,7 @@
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [csstools/postcss-plugins](https://github.com/csstools/postcss-plugins) - PostCSS Tools and Plugins
 - [WebCoder49/code-input](https://github.com/WebCoder49/code-input) - Fully customisable, editable syntax-highlighted textareas.
-- [wesleyegberto/java-new-features](https://github.com/wesleyegberto/java-new-features) - Exploring Java 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
+- [wesleyegberto/java-new-features](https://github.com/wesleyegberto/java-new-features) - Exploring Java 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21
 - [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia) - Design ❤️ Code
 - [lancerossdev/basicblog](https://github.com/lancerossdev/basicblog) - A fully-responsive basic blog theme made with Astro.
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall
@@ -2582,6 +2584,7 @@
 
 ## security 
 
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your network traffic
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
 - [open-source-labs/spearmint](https://github.com/open-source-labs/spearmint) - Testing, simplified. || An inclusive, accessibility-first GUI for generating clean, semantic Javascript tests in only a few clicks of a button.
@@ -2622,7 +2625,7 @@
 
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [xonixx/makesure](https://github.com/xonixx/makesure) - Simple task/command runner with declarative goals and dependencies
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Your external brain that remembers anything, anytime, anywhere. Save time and effort the 𝗲𝗮𝘀𝘆 way! 😄
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Your external brain that remembers anything, anytime, anywhere. Save time and effort the 𝗲𝗮𝘀𝘆 way! :rocket:
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [vscode-shellcheck/vscode-shellcheck](https://github.com/vscode-shellcheck/vscode-shellcheck) - Integrates ShellCheck into VS Code, a linter for Shell scripts.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -2722,7 +2725,7 @@
 
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Your external brain that remembers anything, anytime, anywhere. Save time and effort the 𝗲𝗮𝘀𝘆 way! 😄
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Your external brain that remembers anything, anytime, anywhere. Save time and effort the 𝗲𝗮𝘀𝘆 way! :rocket:
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [cenk1cenk2/listr2](https://github.com/cenk1cenk2/listr2) - NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive.
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
@@ -2879,7 +2882,7 @@
 
 ## ubuntu 
 
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Your external brain that remembers anything, anytime, anywhere. Save time and effort the 𝗲𝗮𝘀𝘆 way! 😄
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Your external brain that remembers anything, anytime, anywhere. Save time and effort the 𝗲𝗮𝘀𝘆 way! :rocket:
 - [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 
@@ -3008,7 +3011,7 @@
 
 - [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
 - [TunnlTo/desktop-app](https://github.com/TunnlTo/desktop-app) - TunnlTo is a lightweight, fast, Windows WireGuard VPN client built for split tunneling.
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Your external brain that remembers anything, anytime, anywhere. Save time and effort the 𝗲𝗮𝘀𝘆 way! 😄
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Your external brain that remembers anything, anytime, anywhere. Save time and effort the 𝗲𝗮𝘀𝘆 way! :rocket:
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your network traffic
@@ -3034,7 +3037,7 @@
 
 ## xcode 
 
-- [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The missing GitHub Copilot Xcode Source Editor Extension
+- [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The missing GitHub Copilot and ChatGPT Xcode Source Editor Extension
 
 ## xml 
 
