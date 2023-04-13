@@ -424,7 +424,7 @@
 ## JavaScript 
 
 - [ihucos/counter.dev](https://github.com/ihucos/counter.dev) - Web Analytics made simple
-- [Phhofm/upscale](https://github.com/Phhofm/upscale) - A website to visually compare the output of different upscaling models.
+- [Phhofm/upscale](https://github.com/Phhofm/upscale) - A website to visually compare the output of over 300 different AI upscaling models. Made with VitePress. Running under https://phhofm.github.io/upscale/
 - [openui/open-ui](https://github.com/openui/open-ui) - Maintain an open standard for UI and promote its adherence and adoption.
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [Pythagora-io/pythagora](https://github.com/Pythagora-io/pythagora) - Generate integration tests for your Node.js app by recording server activity without writing a single line of code.
