@@ -637,6 +637,7 @@
 
 ## Others 
 
+- [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines for macOS
 - [MatMoore/online-board-games-and-party-games](https://github.com/MatMoore/online-board-games-and-party-games) - List of games that can be played online with a group of people
 - [Vita3K/Vita3K-Android](https://github.com/Vita3K/Vita3K-Android) - Public releases and CI for the Vita3K Android app
