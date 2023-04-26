@@ -1155,7 +1155,7 @@
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
-- [sansyrox/robyn](https://github.com/sansyrox/robyn) - Robyn is a fast and extensible async python web framework with a rust runtime
+- [sansyrox/robyn](https://github.com/sansyrox/robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue and yo
 - [bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js) - A BPMN 2.0 rendering toolkit and web modeler.
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
@@ -2311,7 +2311,7 @@
 - [onekey-sec/unblob](https://github.com/onekey-sec/unblob) - Extract files from any kind of container formats
 - [Fizzadar/pyinfra](https://github.com/Fizzadar/pyinfra) - pyinfra automates infrastructure super fast at massive scale. It can be used for ad-hoc command execution, service deployment, configuration management and more.
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
-- [sansyrox/robyn](https://github.com/sansyrox/robyn) - Robyn is a fast and extensible async python web framework with a rust runtime
+- [sansyrox/robyn](https://github.com/sansyrox/robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
 - [approximatelabs/sketch](https://github.com/approximatelabs/sketch) - AI code-writing assistant that understands data content
 - [whipper-team/whipper](https://github.com/whipper-team/whipper) - Python CD-DA ripper preferring accuracy over speed
@@ -2363,7 +2363,7 @@
 - [TeaM-TL/FotoKilof](https://github.com/TeaM-TL/FotoKilof) - GUI for ImageMagick and Wand
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
 - [ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) - An easy and fast way to create a Python GUI 🐍
-- [sansyrox/robyn](https://github.com/sansyrox/robyn) - Robyn is a fast and extensible async python web framework with a rust runtime
+- [sansyrox/robyn](https://github.com/sansyrox/robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone) - 🕸 Web apps in pure Python 🐍
 - [AutoViML/AutoViz](https://github.com/AutoViML/AutoViz) - Automatically Visualize any dataset, any size with a single line of code.  Created by Ram Seshadri. Collaborators Welcome. Permission Granted upon Request.
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -2596,7 +2596,7 @@
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
 - [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
-- [sansyrox/robyn](https://github.com/sansyrox/robyn) - Robyn is a fast and extensible async python web framework with a rust runtime
+- [sansyrox/robyn](https://github.com/sansyrox/robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [pomsky-lang/pomsky](https://github.com/pomsky-lang/pomsky) - A new, portable, regular expression language
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - IPFS reimagined.
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
