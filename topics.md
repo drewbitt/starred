@@ -1381,6 +1381,7 @@
 
 ## javascript 
 
+- [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 - [clerkinc/javascript](https://github.com/clerkinc/javascript) - Official Javascript repository for Clerk authentication
 - [obi1kenobi/trustfall](https://github.com/obi1kenobi/trustfall) - A query engine for any combination of data sources. Query your files and APIs as if they were databases!
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - The open-source unified API
@@ -2413,6 +2414,8 @@
 
 ## react 
 
+- [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
+- [ssleptsov/ninja-keys](https://github.com/ssleptsov/ninja-keys) - Keyboard shortcuts interface for your website. Working with static HTML, Vanilla JS, Vue, React, Svelte.
 - [clerkinc/javascript](https://github.com/clerkinc/javascript) - Official Javascript repository for Clerk authentication
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation search & assistance.
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - The open-source unified API
@@ -2760,6 +2763,7 @@
 
 ## svelte 
 
+- [ssleptsov/ninja-keys](https://github.com/ssleptsov/ninja-keys) - Keyboard shortcuts interface for your website. Working with static HTML, Vanilla JS, Vue, React, Svelte.
 - [Ncookiez/sveltekit-pwa-template](https://github.com/Ncookiez/sveltekit-pwa-template) - Quick SvelteKit PWA template with Typescript support.
 - [fastify/fastify-dx](https://github.com/fastify/fastify-dx) - A Full Stack Framework based on Fastify and Vite. Built for great developer experience without compromising on performance and stability.
 - [plentico/plenti](https://github.com/plentico/plenti) - Static Site Generator with Go backend and Svelte frontend
@@ -2857,6 +2861,8 @@
 
 ## typescript 
 
+- [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
+- [ssleptsov/ninja-keys](https://github.com/ssleptsov/ninja-keys) - Keyboard shortcuts interface for your website. Working with static HTML, Vanilla JS, Vue, React, Svelte.
 - [Esri/calcite-components](https://github.com/Esri/calcite-components) - Calcite Design System's web component library. Built with Stencil JS!
 - [denoland/saaskit](https://github.com/denoland/saaskit) - A modern SaaS template built on Fresh.
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM for SQL
@@ -2996,6 +3002,7 @@
 
 ## vue 
 
+- [ssleptsov/ninja-keys](https://github.com/ssleptsov/ninja-keys) - Keyboard shortcuts interface for your website. Working with static HTML, Vanilla JS, Vue, React, Svelte.
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.
 - [antfu/unplugin-icons](https://github.com/antfu/unplugin-icons) - 🤹 Access thousands of icons as components on-demand universally.
 - [fastify/fastify-dx](https://github.com/fastify/fastify-dx) - A Full Stack Framework based on Fastify and Vite. Built for great developer experience without compromising on performance and stability.
@@ -3072,6 +3079,7 @@
 
 ## web-components 
 
+- [ssleptsov/ninja-keys](https://github.com/ssleptsov/ninja-keys) - Keyboard shortcuts interface for your website. Working with static HTML, Vanilla JS, Vue, React, Svelte.
 - [Esri/calcite-components](https://github.com/Esri/calcite-components) - Calcite Design System's web component library. Built with Stencil JS!
 - [openui/open-ui](https://github.com/openui/open-ui) - Maintain an open standard for UI and promote its adherence and adoption.
 - [github/relative-time-element](https://github.com/github/relative-time-element) - Web component extensions to the standard &lt;time&gt; element.
