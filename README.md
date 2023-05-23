@@ -69,7 +69,6 @@
 
 ## Astro 
 
-- [lancerossdev/basicblog](https://github.com/lancerossdev/basicblog) - A fully-responsive basic blog theme made with Astro.
 - [surjithctly/astroship](https://github.com/surjithctly/astroship) - Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS
 
 ## AutoIt 
@@ -834,7 +833,7 @@
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your network traffic
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic
 - [atomicdata-dev/atomic-server](https://github.com/atomicdata-dev/atomic-server) - Create, share, fetch and model Atomic Data! This project consists of a graph database + server, a CLI and a rust library.
 - [fermyon/bartholomew](https://github.com/fermyon/bartholomew) - The Micro-CMS for WebAssembly and Spin
 - [fermyon/spin](https://github.com/fermyon/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
@@ -948,8 +947,8 @@
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM for SQL
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The open-source unified API
-- [dai-shi/wakuwork](https://github.com/dai-shi/wakuwork) - Minimalistic React Framework
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Open-source product integration: Easily integrate you app with any external API
+- [dai-shi/waku](https://github.com/dai-shi/waku) - Minimalistic React Framework
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
 - [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
 - [Kanaries/Rath](https://github.com/Kanaries/Rath) - Next generation of automated data exploratory analysis and visualization platform.
