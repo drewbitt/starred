@@ -424,7 +424,7 @@
 
 ## JavaScript 
 
-- [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of Server Component safe React Hooks – from the ui.dev team
+- [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
 - [neetcode-gh/leetcode](https://github.com/neetcode-gh/leetcode) - Leetcode solutions
 - [ihucos/counter.dev](https://github.com/ihucos/counter.dev) - Web Analytics made simple
 - [Phhofm/upscale](https://github.com/Phhofm/upscale) - A website to visually compare the output of over 300 different AI upscaling models. Made with VitePress. Running under https://phhofm.github.io/upscale/
@@ -684,6 +684,7 @@
 
 ## Python 
 
+- [bram2w/baserow](https://github.com/bram2w/baserow) - Baserow is an open source no-code database tool and Airtable alternative. This is a mirrored repository, the official one is hosted on https://gitlab.com/bramw/baserow.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [FMInference/FlexGen](https://github.com/FMInference/FlexGen) - Running large language models on a single GPU for throughput-oriented scenarios.
