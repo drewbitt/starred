@@ -285,6 +285,7 @@
 
 ## api 
 
+- [fern-api/fern](https://github.com/fern-api/fern) - Generate SDKs (client libraries) for your API
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - Open-source product integration: Easily integrate you app with any external API
 - [laxamentumtech/audnexus](https://github.com/laxamentumtech/audnexus) - An audiobook data aggregation API, combining multiple sources of data into one, consistent source.
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale load testing, as easy as 1-2-3. Serverless & batteries-included. Any stack, any scale!
@@ -927,6 +928,7 @@
 - [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone) - 🕸 Web apps in pure Python 🐍
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [hyoo-ru/mam_mol](https://github.com/hyoo-ru/mam_mol) - $mol - fastest reactive micro-modular compact flexible lazy ui web framework.
+- [elysiajs/elysia](https://github.com/elysiajs/elysia) - Fast, and friendly Bun web framework
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [chiselstrike/chiselstrike](https://github.com/chiselstrike/chiselstrike) - ChiselStrike abstracts common backends components like databases and message queues, and let you drive them from a convenient TypeScript business logic layer
 - [ServiceStack/ServiceStack](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
@@ -1238,7 +1240,6 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [Niek/obs-web](https://github.com/Niek/obs-web) - OBS-web - the easiest way to control OBS remotely
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop 
@@ -2031,7 +2032,6 @@
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [cwsdigital/tailwind-utopia](https://github.com/cwsdigital/tailwind-utopia) - A Tailwind CSS plugin to generate utility classes for interpolated fluid type and space scales based off utopia.fyi
 - [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) - A plugin that provides a basic reset for form styles that makes form elements easy to override with utilities.
-- [elysiajs/elysia](https://github.com/elysiajs/elysia) - Fast, and friendly Bun web framework
 - [replicate/dreambooth](https://github.com/replicate/dreambooth) - A Cog model that takes training images as input and generates custom Stable Diffusion model weights as output
 - [fermyon/bartholomew](https://github.com/fermyon/bartholomew) - The Micro-CMS for WebAssembly and Spin
 - [nuxt/content](https://github.com/nuxt/content) - The file-based CMS for your Nuxt application, powered by Markdown and Vue components.
@@ -2941,6 +2941,7 @@
 - [hyoo-ru/mam_mol](https://github.com/hyoo-ru/mam_mol) - $mol - fastest reactive micro-modular compact flexible lazy ui web framework.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - a better universal ui system
+- [elysiajs/elysia](https://github.com/elysiajs/elysia) - Fast, and friendly Bun web framework
 - [rocicorp/replicache](https://github.com/rocicorp/replicache) - Realtime Sync for Any Backend Stack
 - [cevek/ttypescript](https://github.com/cevek/ttypescript) - Over TypeScript tool to use custom transformers in the tsconfig.json
 - [hayes/pothos](https://github.com/hayes/pothos) - Pothos GraphQL is library for creating GraphQL schemas in typescript using a strongly typed code first approach
@@ -3093,6 +3094,7 @@
 - [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone) - 🕸 Web apps in pure Python 🐍
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [amplication/amplication](https://github.com/amplication/amplication) - Auto-generating TypeScript, GraphQL, REST API, and Node.js, accelerating your full-stack development 🚀
+- [elysiajs/elysia](https://github.com/elysiajs/elysia) - Fast, and friendly Bun web framework
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - React-like GUI library for desktop, web, mobile, TUI, and more.
 - [ServiceStack/ServiceStack](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
