@@ -1014,7 +1014,7 @@
 
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 5 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/o
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
-- [0l1v3rr/github-readme-tech-stack](https://github.com/0l1v3rr/github-readme-tech-stack) - Show off your favorite technologies and tools with these customizable cards on your GitHub README.
+- [0l1v3rr/github-readme-tech-stack](https://github.com/0l1v3rr/github-readme-tech-stack) - Show off your favorite technologies and tools with these cards on your GitHub README.
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
 - [moollaza/repo-remover](https://github.com/moollaza/repo-remover) - A web app that helps you archive and delete old/unused repos, quickly and easily.
 - [wooorm/starry-night](https://github.com/wooorm/starry-night) - Syntax highlighting, like GitHub
@@ -1155,7 +1155,7 @@
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [webview/webview_deno](https://github.com/webview/webview_deno) - 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
-- [0l1v3rr/github-readme-tech-stack](https://github.com/0l1v3rr/github-readme-tech-stack) - Show off your favorite technologies and tools with these customizable cards on your GitHub README.
+- [0l1v3rr/github-readme-tech-stack](https://github.com/0l1v3rr/github-readme-tech-stack) - Show off your favorite technologies and tools with these cards on your GitHub README.
 - [dom96/jester](https://github.com/dom96/jester) - A sinatra-like web framework for Nim.
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
@@ -2436,7 +2436,7 @@
 - [JakubGluszek/intentio](https://github.com/JakubGluszek/intentio) - A productivity type desktop app built around the pomodoro concept.
 - [antfu/unplugin-icons](https://github.com/antfu/unplugin-icons) - 🤹 Access thousands of icons as components on-demand universally.
 - [saas-js/saas-ui](https://github.com/saas-js/saas-ui) - The React component library for startups, built with Chakra UI.
-- [0l1v3rr/github-readme-tech-stack](https://github.com/0l1v3rr/github-readme-tech-stack) - Show off your favorite technologies and tools with these customizable cards on your GitHub README.
+- [0l1v3rr/github-readme-tech-stack](https://github.com/0l1v3rr/github-readme-tech-stack) - Show off your favorite technologies and tools with these cards on your GitHub README.
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [rakkasjs/rakkasjs](https://github.com/rakkasjs/rakkasjs) - Bleeding-edge React framework powered by Vite
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
@@ -2796,6 +2796,7 @@
 ## storybook 
 
 - [lost-pixel/lost-pixel](https://github.com/lost-pixel/lost-pixel) - Holistic visual testing for your Frontend 🖼 First class integration with Storybook, Ladle, Playwright & other frontend libraries.
+- [0l1v3rr/github-readme-tech-stack](https://github.com/0l1v3rr/github-readme-tech-stack) - Show off your favorite technologies and tools with these cards on your GitHub README.
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 
@@ -2917,7 +2918,7 @@
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [webview/webview_deno](https://github.com/webview/webview_deno) - 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale load testing, as easy as 1-2-3. Serverless & batteries-included. Any stack, any scale!
-- [0l1v3rr/github-readme-tech-stack](https://github.com/0l1v3rr/github-readme-tech-stack) - Show off your favorite technologies and tools with these customizable cards on your GitHub README.
+- [0l1v3rr/github-readme-tech-stack](https://github.com/0l1v3rr/github-readme-tech-stack) - Show off your favorite technologies and tools with these cards on your GitHub README.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
 - [ealush/vest](https://github.com/ealush/vest) - Vest ✅ Declarative validations framework
