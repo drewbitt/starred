@@ -39,7 +39,6 @@
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
-- [Mustache](#mustache)
 - [Nim](#nim)
 - [Nix](#nix)
 - [OCaml](#ocaml)
@@ -56,6 +55,7 @@
 - [Scala](#scala)
 - [Scheme](#scheme)
 - [Shell](#shell)
+- [Smarty](#smarty)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TypeScript](#typescript)
@@ -606,10 +606,6 @@
 
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
 
-## Mustache 
-
-- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
-
 ## Nim 
 
 - [webui-dev/nim-webui](https://github.com/webui-dev/nim-webui) - Use any web browser as GUI, with Nim in the backend and HTML5 in the frontend.
@@ -697,8 +693,9 @@
 
 ## Python 
 
+- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A batteries-included library for building AI-powered software
 - [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python
-- [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Join us at H2O.ai to make the world's best open-source GPT with document and image Q&A, 100% private chat, no data leaks, Apache 2.0 https://arxiv.org/pdf/2306.08161.pdf
+- [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Join us at H2O.ai to make the world's best open-source GPT with document and image Q&A, 100% private chat, no data leaks, Apache 2.0 https://arxiv.org/pdf/2306.08161.pdf   Live Demo: https://gpt.h2o.a
 - [KasperskyLab/triangle_check](https://github.com/KasperskyLab/triangle_check) - 
 - [bram2w/baserow](https://github.com/bram2w/baserow) - Baserow is an open source no-code database tool and Airtable alternative. This is a mirrored repository, the official one is hosted on https://gitlab.com/bramw/baserow.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
@@ -934,6 +931,10 @@
 - [HatchiFr/Remuxlinux](https://github.com/HatchiFr/Remuxlinux) - All you need is in that little script !
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 
+## Smarty 
+
+- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
+
 ## Svelte 
 
 - [Ncookiez/sveltekit-pwa-template](https://github.com/Ncookiez/sveltekit-pwa-template) - Quick SvelteKit PWA template with Typescript support.
@@ -958,6 +959,8 @@
 
 ## TypeScript 
 
+- [ngneat/falso](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs 🙂
+- [joe-bell/cva](https://github.com/joe-bell/cva) - Class Variance Authority
 - [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, high-performance documentation websites with Astro
 - [fern-api/fern](https://github.com/fern-api/fern) - Generate SDKs (client libraries) for your API
