@@ -226,7 +226,7 @@
 - [premAI-io/prem-app](https://github.com/premAI-io/prem-app) - Prem provides a unified environment to develop AI applications and deploy AI models on your infrastructure
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - 🧩 A lightweight AI engineering framework for building natural language interfaces that are reliable, scalable, and easy to trust.
-- [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private Q&A and summarization of documents+images or chat with local GPT, 100% private, no data leaks, Apache 2.0. Demo: https://gpt.h2o.ai/
+- [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private Q&A and summarization of documents+images or chat with local GPT, 100% private, Apache 2.0. Supports LLaMa2, llama.cpp, and more. Demo: https://gpt.h2o.ai/
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
@@ -258,6 +258,8 @@
 
 ## android 
 
+- [AliAsadi/Android-Clean-Architecture](https://github.com/AliAsadi/Android-Clean-Architecture) - 🎞 A demo movie android app that demonstrates Clean Architecture and is written in Kotlin. (Offline-first App)
+- [dharmik1992/MVVM-Clean-Kotlin-Android-Architecture](https://github.com/dharmik1992/MVVM-Clean-Kotlin-Android-Architecture) - A simple app to showcase modern Android development architecture (MVVM Clean + Compose + Kotlin + Retrofit2 + Hilt + Coroutines + Kotlin Flow)
 - [uTox/uTox](https://github.com/uTox/uTox) - µTox the lightest and fluffiest Tox client
 - [ashishb/adb-enhanced](https://github.com/ashishb/adb-enhanced) - 🔪Swiss-army knife for Android testing and development 🔪 ⛺
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
@@ -288,6 +290,7 @@
 
 ## angular 
 
+- [analogjs/analog](https://github.com/analogjs/analog) - Build and ship applications and websites faster with Angular
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: 
 - [AgnosticUI/agnosticui](https://github.com/AgnosticUI/agnosticui) - AgnosticUI is a set of UI primitives that start their lives in clean HTML and CSS. These standards compliant components are then copied to our framework implementations in: React, Vue 3, Angular, and 
 - [carbon-design-system/carbon-charts](https://github.com/carbon-design-system/carbon-charts) - :bar_chart: :chart_with_upwards_trend:⠀Robust dataviz framework implemented using D3 & typescript
@@ -345,6 +348,7 @@
 ## artificial-intelligence 
 
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
+- [lgrammel/ai-utils.js](https://github.com/lgrammel/ai-utils.js) - TypeScript-first library for building AI apps, chatbots, and agents.
 - [vercel-labs/ai](https://github.com/vercel-labs/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
@@ -503,7 +507,7 @@
 - [npiv/chatblade](https://github.com/npiv/chatblade) - A CLI Swiss Army Knife for ChatGPT
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by GPT-3 and GPT-4, will help you accomplish your tasks faster and more efficiently.
 - [ramonvc/freegpt-webui](https://github.com/ramonvc/freegpt-webui) - GPT 3.5/4 with a Chat Web UI. No API key required.
-- [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private Q&A and summarization of documents+images or chat with local GPT, 100% private, no data leaks, Apache 2.0. Demo: https://gpt.h2o.ai/
+- [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private Q&A and summarization of documents+images or chat with local GPT, 100% private, Apache 2.0. Supports LLaMa2, llama.cpp, and more. Demo: https://gpt.h2o.ai/
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The missing GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
@@ -673,7 +677,7 @@
 
 ## css 
 
-- [primocms/primo](https://github.com/primocms/primo) - Primo is a visual CMS with a built-in code editor, Svelte, and static site generator.
+- [primocms/primo](https://github.com/primocms/primo) - Primo is a visual CMS with a built-in code editor, Svelte blocks, and static site generator.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [joe-bell/cva](https://github.com/joe-bell/cva) - Class Variance Authority
 - [Viijay-Kr/react-ts-css](https://github.com/Viijay-Kr/react-ts-css) - VS Code Extension for CSS modules in typescript bases react projects
@@ -814,6 +818,7 @@
 
 ## deno 
 
+- [azurystudio/cheetah](https://github.com/azurystudio/cheetah) - A framework for the modern web.
 - [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for the Edges
 - [mattvr/ShellGPT](https://github.com/mattvr/ShellGPT) - Upgrade your terminal with GPT-4. Ask questions, automate commands, pipe I/O, etc. Built with Deno TS.
 - [Hexagon/croner](https://github.com/Hexagon/croner) - Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.
@@ -1035,6 +1040,8 @@
 
 ## framework 
 
+- [azurystudio/cheetah](https://github.com/azurystudio/cheetah) - A framework for the modern web.
+- [analogjs/analog](https://github.com/analogjs/analog) - Build and ship applications and websites faster with Angular
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - A fully-fledged functional effect system for TypeScript with a rich standard library
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
@@ -1432,7 +1439,7 @@
 
 ## html 
 
-- [primocms/primo](https://github.com/primocms/primo) - Primo is a visual CMS with a built-in code editor, Svelte, and static site generator.
+- [primocms/primo](https://github.com/primocms/primo) - Primo is a visual CMS with a built-in code editor, Svelte blocks, and static site generator.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
 - [enthus1ast/nimja](https://github.com/enthus1ast/nimja) - typed and compiled template engine inspired by jinja2, twig and onionhammer/nim-templates for Nim.
@@ -1558,6 +1565,7 @@
 
 ## javascript 
 
+- [azurystudio/cheetah](https://github.com/azurystudio/cheetah) - A framework for the modern web.
 - [quick-lint/quick-lint-js](https://github.com/quick-lint/quick-lint-js) - quick-lint-js finds bugs in JavaScript programs
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
 - [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
@@ -1724,6 +1732,8 @@
 
 ## kotlin 
 
+- [AliAsadi/Android-Clean-Architecture](https://github.com/AliAsadi/Android-Clean-Architecture) - 🎞 A demo movie android app that demonstrates Clean Architecture and is written in Kotlin. (Offline-first App)
+- [dharmik1992/MVVM-Clean-Kotlin-Android-Architecture](https://github.com/dharmik1992/MVVM-Clean-Kotlin-Android-Architecture) - A simple app to showcase modern Android development architecture (MVVM Clean + Compose + Kotlin + Retrofit2 + Hilt + Coroutines + Kotlin Flow)
 - [kowasm/kowasm](https://github.com/kowasm/kowasm) - Server-side and full stack development with Kotlin and WebAssembly leveraging WASI and Component Model
 - [rjaros/kvision](https://github.com/rjaros/kvision) - Object oriented web framework for Kotlin/JS
 - [kscripting/kscript](https://github.com/kscripting/kscript) - Scripting enhancements for Kotlin
@@ -1875,6 +1885,7 @@
 
 ## macos 
 
+- [IsaacMarovitz/Whisky](https://github.com/IsaacMarovitz/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) - Collection of Testflight public app link（iOS/iPad OS/macOS）。
 - [uTox/uTox](https://github.com/uTox/uTox) - µTox the lightest and fluffiest Tox client
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines for macOS
@@ -2190,6 +2201,7 @@
 
 ## others 
 
+- [webpod/webpod](https://github.com/webpod/webpod) - 
 - [LegendApp/legend-state](https://github.com/LegendApp/legend-state) - Legend-State is a super fast and powerful state library that enables fine-grained reactivity and easy automatic persistence
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [ottomated/create-o7-app](https://github.com/ottomated/create-o7-app) - An opinionated CLI for creating type-safe Svelte apps.
@@ -2481,7 +2493,6 @@
 - [switchbrew/switch-examples](https://github.com/switchbrew/switch-examples) - Switch examples for devkitA64 and libnx.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [clojure/clojurescript](https://github.com/clojure/clojurescript) - Clojure to JS compiler
-- [patrickyin/clean-architecture-android-kotlin](https://github.com/patrickyin/clean-architecture-android-kotlin) - Using Uncle Bob's clean architecture with Kotlin language and the latest Android technologies(Rx, Dagger2 etc.).
 - [emako/qvs](https://github.com/emako/qvs) - A simple GUI program for using VapourSynth/Avisynth Script previewed and encoded.
 - [EL-S/RoyalRoadAPI](https://github.com/EL-S/RoyalRoadAPI) - A Python API wrapper for RoyalRoad that can asynchronously curate EPUBs
 - [gabriel-stackhouse/plex-audio-subtitle-switcher](https://github.com/gabriel-stackhouse/plex-audio-subtitle-switcher) - Change default Plex audio and subtitles for an entire series, all at once.
@@ -2593,7 +2604,6 @@
 
 ## pwa 
 
-- [Ncookiez/sveltekit-pwa-template](https://github.com/Ncookiez/sveltekit-pwa-template) - Quick SvelteKit PWA template with Typescript support.
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [pacexy/flow](https://github.com/pacexy/flow) - ePub Reader. Redefined.
@@ -3160,11 +3170,10 @@
 
 ## svelte 
 
-- [primocms/primo](https://github.com/primocms/primo) - Primo is a visual CMS with a built-in code editor, Svelte, and static site generator.
+- [primocms/primo](https://github.com/primocms/primo) - Primo is a visual CMS with a built-in code editor, Svelte blocks, and static site generator.
 - [ivanhofer/sveltekit-typescript-showcase](https://github.com/ivanhofer/sveltekit-typescript-showcase) - This repository shows how Svelte and SvelteKit work together with TypeScript.
 - [vercel-labs/ai](https://github.com/vercel-labs/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [ssleptsov/ninja-keys](https://github.com/ssleptsov/ninja-keys) - Keyboard shortcuts interface for your website. Working with static HTML, Vanilla JS, Vue, React, Svelte.
-- [Ncookiez/sveltekit-pwa-template](https://github.com/Ncookiez/sveltekit-pwa-template) - Quick SvelteKit PWA template with Typescript support.
 - [fastify/fastify-dx](https://github.com/fastify/fastify-dx) - A Full Stack Framework based on Fastify and Vite. Built for great developer experience without compromising on performance and stability.
 - [plentico/plenti](https://github.com/plentico/plenti) - Static Site Generator with Go backend and Svelte frontend
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: 
@@ -3198,6 +3207,7 @@
 
 ## swiftui 
 
+- [IsaacMarovitz/Whisky](https://github.com/IsaacMarovitz/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: 
 - [evelyneee/accord](https://github.com/evelyneee/accord) - a discord client for modern macs
 - [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS
@@ -3275,6 +3285,7 @@
 
 ## typescript 
 
+- [azurystudio/cheetah](https://github.com/azurystudio/cheetah) - A framework for the modern web.
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
 - [ivanhofer/sveltekit-typescript-showcase](https://github.com/ivanhofer/sveltekit-typescript-showcase) - This repository shows how Svelte and SvelteKit work together with TypeScript.
@@ -3302,7 +3313,6 @@
 - [Esri/calcite-design-system](https://github.com/Esri/calcite-design-system) - Esri's Calcite Design System
 - [denoland/saaskit](https://github.com/denoland/saaskit) - A modern SaaS template built on Fresh.
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM that feels like writing SQL.
-- [Ncookiez/sveltekit-pwa-template](https://github.com/Ncookiez/sveltekit-pwa-template) - Quick SvelteKit PWA template with Typescript support.
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - Open-source product integrations: Easily integrate you app with any external API
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
@@ -3482,6 +3492,7 @@
 
 ## web 
 
+- [analogjs/analog](https://github.com/analogjs/analog) - Build and ship applications and websites faster with Angular
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [webui-dev/nim-webui](https://github.com/webui-dev/nim-webui) - Use any web browser as GUI, with Nim in the backend and HTML5 in the frontend.
@@ -3583,7 +3594,7 @@
 
 ## wordpress 
 
-- [primocms/primo](https://github.com/primocms/primo) - Primo is a visual CMS with a built-in code editor, Svelte, and static site generator.
+- [primocms/primo](https://github.com/primocms/primo) - Primo is a visual CMS with a built-in code editor, Svelte blocks, and static site generator.
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 
 ## xcode 
