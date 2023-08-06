@@ -62,6 +62,7 @@
 - [ember](#ember)
 - [emoji](#emoji)
 - [emulator](#emulator)
+- [english](#english)
 - [es6](#es6)
 - [eslint](#eslint)
 - [ethereum](#ethereum)
@@ -222,7 +223,7 @@
 - [dosco/llm-client](https://github.com/dosco/llm-client) - LLMClient - Simplify Building with LLMs, Function Calling and Reasoning
 - [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) - ✨Argilla: the open-source data curation platform for LLMs
-- [ianarawjo/ChainForge](https://github.com/ianarawjo/ChainForge) - An open-source visual programming environment for battle-testing prompts to LLMs.
+- [ianarawjo/ChainForge](https://github.com/ianarawjo/ChainForge) - An open-source visual programming environment for LLM experimentation and prompt evaluation.
 - [narenmanoharan/gpt-code-assistant](https://github.com/narenmanoharan/gpt-code-assistant) - gpt-code-assistant is an open-source coding assistant leveraging language models to search, retrieve, explore and understand any codebase.
 - [shobrook/adrenaline](https://github.com/shobrook/adrenaline) - Talk to your codebase
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (Models, Vector DBs, File Converters) to Pipelines or Agents that can interact with your 
@@ -405,6 +406,7 @@
 
 ## awesome-list 
 
+- [humanetech-community/awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech) - Promoting Solutions that Improve Wellbeing, Freedom and Society
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
@@ -437,6 +439,7 @@
 
 ## azure 
 
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Bing, Anthropic, PaLM 2, AI model switching, message search, langchain, ChatGPT Plugins, OpenAI Functions, Multi-User System, Presets, completely open-source f
 - [gorilla-llm/gorilla-cli](https://github.com/gorilla-llm/gorilla-cli) - LLMs for your CLI
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [poseidon/typhoon](https://github.com/poseidon/typhoon) - Minimal and free Kubernetes distribution with Terraform
@@ -833,7 +836,7 @@
 - [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite replicator built on top of NATS
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [wundergraph/wunderbase](https://github.com/wundergraph/wunderbase) - Serverless GraphQL Database built on top of Firecracker, SQLite and Prisma
-- [grafbase/grafbase](https://github.com/grafbase/grafbase) - Instant GraphQL APIs for your data
+- [grafbase/grafbase](https://github.com/grafbase/grafbase) - Instant GraphQL APIs
 - [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build NodeJS / GO APIs in 5 minutes not weeks
 - [denodrivers/sqlite3](https://github.com/denodrivers/sqlite3) - The fastest and correct module for SQLite3 in Deno.
 - [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
@@ -936,6 +939,7 @@
 
 ## docker 
 
+- [Swetrix/swetrix-api](https://github.com/Swetrix/swetrix-api) - Swetrix Analytics API
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
@@ -1033,6 +1037,10 @@
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [skyline-emu/skyline](https://github.com/skyline-emu/skyline) - Run Nintendo Switch homebrew & games on your Android device!
 - [CE-Programming/CEmu](https://github.com/CE-Programming/CEmu) - Third-party TI-84 Plus CE / TI-83 Premium CE emulator, focused on developer features
+
+## english 
+
+- [lizheming/github-translate-action](https://github.com/lizheming/github-translate-action) - A GitHub Action to translate non-English GitHub issues and GitHub discussions into English automatically.
 
 ## es6 
 
@@ -1346,7 +1354,7 @@
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
 - [wundergraph/wunderbase](https://github.com/wundergraph/wunderbase) - Serverless GraphQL Database built on top of Firecracker, SQLite and Prisma
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
-- [grafbase/grafbase](https://github.com/grafbase/grafbase) - Instant GraphQL APIs for your data
+- [grafbase/grafbase](https://github.com/grafbase/grafbase) - Instant GraphQL APIs
 - [urql-graphql/urql](https://github.com/urql-graphql/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
 - [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build NodeJS / GO APIs in 5 minutes not weeks
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
@@ -2075,6 +2083,7 @@
 
 ## mysql 
 
+- [Swetrix/swetrix-api](https://github.com/Swetrix/swetrix-api) - Swetrix Analytics API
 - [kysely-org/awesome-kysely](https://github.com/kysely-org/awesome-kysely) - A curated list of Kysely resources, tools, utilities and applications.
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
@@ -2331,6 +2340,8 @@
 
 ## others 
 
+- [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
+- [unjs/unstorage](https://github.com/unjs/unstorage) - 💾 Unstorage provides an async Key-Value storage API with conventional features like multi driver mounting, watching and working with metadata, dozens of built-in drivers and a tiny core.
 - [rive-app/rive-flutter](https://github.com/rive-app/rive-flutter) - 
 - [epicweb-dev/totp](https://github.com/epicweb-dev/totp) - Support Two Factor Authentication (2FA) in your application with ease.
 - [depot/cli](https://github.com/depot/cli) - 🖥️ Depot CLI, build your Docker images in the cloud
@@ -3150,7 +3161,7 @@
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
 - [chiselstrike/chiselstrike](https://github.com/chiselstrike/chiselstrike) - ChiselStrike abstracts common backends components like databases and message queues, and let you drive them from a convenient TypeScript business logic layer
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
-- [grafbase/grafbase](https://github.com/grafbase/grafbase) - Instant GraphQL APIs for your data
+- [grafbase/grafbase](https://github.com/grafbase/grafbase) - Instant GraphQL APIs
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript.
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
@@ -3212,6 +3223,7 @@
 
 ## self-hosted 
 
+- [Swetrix/swetrix-api](https://github.com/Swetrix/swetrix-api) - Swetrix Analytics API
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ Secure and Easy Self-hosted platform. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
 - [Phalcode/gamevault-backend](https://github.com/Phalcode/gamevault-backend) - Backend for the self-hosted gaming platform for 'alternatively obtained' games
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
@@ -3262,7 +3274,7 @@
 - [fermyon/spin](https://github.com/fermyon/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [wundergraph/wunderbase](https://github.com/wundergraph/wunderbase) - Serverless GraphQL Database built on top of Firecracker, SQLite and Prisma
-- [grafbase/grafbase](https://github.com/grafbase/grafbase) - Instant GraphQL APIs for your data
+- [grafbase/grafbase](https://github.com/grafbase/grafbase) - Instant GraphQL APIs
 - [anttiviljami/openapi-backend](https://github.com/anttiviljami/openapi-backend) - Build, Validate, Route, Authenticate and Mock using OpenAPI
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [upstash/upstash-redis](https://github.com/upstash/upstash-redis) - HTTP based Redis Client for Serverless and Edge Functions
