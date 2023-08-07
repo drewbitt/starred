@@ -470,6 +470,7 @@
 
 ## JavaScript 
 
+- [debug-js/debug](https://github.com/debug-js/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ Secure and Easy Self-hosted platform. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Bing, Anthropic, PaLM 2, AI model switching, message search, langchain, ChatGPT Plugins, OpenAI Functions, Multi-User System, Presets, completely open-source f
 - [epicweb-dev/totp](https://github.com/epicweb-dev/totp) - Support Two Factor Authentication (2FA) in your application with ease.
@@ -863,7 +864,7 @@
 - [sparckles/robyn](https://github.com/sparckles/robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [whipper-team/whipper](https://github.com/whipper-team/whipper) - Python CD-DA ripper preferring accuracy over speed
-- [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run large language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
+- [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸 Web apps in pure Python 🐍
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [djdembeck/Audnexus.bundle](https://github.com/djdembeck/Audnexus.bundle) - An audnexus client, providing rich author and audiobook data to Plex via it's legacy plugin agent system.
@@ -1088,6 +1089,8 @@
 
 ## Svelte 
 
+- [PostOwl/postowl](https://github.com/PostOwl/postowl) - Create a personal website for your blog, journal and sending letters to friends.
+- [spinspire/pocketbase-sveltekit-starter](https://github.com/spinspire/pocketbase-sveltekit-starter) - a starter project to build a SvelteKit frontend with PocketBase backend
 - [primocms/primo](https://github.com/primocms/primo) - Primo is a visual CMS with a built-in code editor, Svelte blocks, and static site generator.
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [ivanhofer/sveltekit-typescript-showcase](https://github.com/ivanhofer/sveltekit-typescript-showcase) - This repository shows how Svelte and SvelteKit work together with TypeScript.
@@ -1118,6 +1121,9 @@
 
 ## TypeScript 
 
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto is a modern Auth0 alternative for building identity infrastructure with minimal effort, for both your customers and their organizations.
+- [mquan/api2ai](https://github.com/mquan/api2ai) - 
+- [jianyuan/pocketbase-sveltekit-auth](https://github.com/jianyuan/pocketbase-sveltekit-auth) - Sample SvelteKit app with PocketBase integration
 - [Swetrix/swetrix-api](https://github.com/Swetrix/swetrix-api) - Swetrix Analytics API
 - [unjs/unstorage](https://github.com/unjs/unstorage) - 💾 Unstorage provides an async Key-Value storage API with conventional features like multi driver mounting, watching and working with metadata, dozens of built-in drivers and a tiny core.
 - [lizheming/github-translate-action](https://github.com/lizheming/github-translate-action) - A GitHub Action to translate non-English GitHub issues and GitHub discussions into English automatically.
