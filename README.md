@@ -138,6 +138,7 @@
 
 ## C# # 
 
+- [Loonie-Toons/TownOfHost-ReEdited](https://github.com/Loonie-Toons/TownOfHost-ReEdited) - A continuation of TOHE to keep its development going.
 - [DigiWorm0/LevelImposter](https://github.com/DigiWorm0/LevelImposter) - Custom Among Us Mapping Studio (BepInEx Mod)
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 - [yukieiji/ExtremeRoles](https://github.com/yukieiji/ExtremeRoles) - AmongUs Mod for Advanced User(+80 roles, +700 options, and Cosmic addon)
@@ -529,7 +530,7 @@
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [electerious/Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy.
 - [cwsdigital/tailwind-utopia](https://github.com/cwsdigital/tailwind-utopia) - A Tailwind CSS plugin to generate utility classes for interpolated fluid type and space scales based off utopia.fyi
-- [serverless-stack/open-next](https://github.com/serverless-stack/open-next) - Open source Next.js serverless adapter
+- [sst/open-next](https://github.com/sst/open-next) - Open source Next.js serverless adapter
 - [node-config/node-config](https://github.com/node-config/node-config) - Node.js Application Configuration
 - [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for Humans
 - [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
@@ -723,6 +724,7 @@
 
 ## Others 
 
+- [blawar/titledb](https://github.com/blawar/titledb) - 
 - [humanetech-community/awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech) - Promoting Solutions that Improve Wellbeing, Freedom and Society
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [kysely-org/awesome-kysely](https://github.com/kysely-org/awesome-kysely) - A curated list of Kysely resources, tools, utilities and applications.
@@ -779,6 +781,7 @@
 
 ## Python 
 
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to databases.
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
 - [hegelai/prompttools](https://github.com/hegelai/prompttools) - Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate).
 - [idealo/imagededup](https://github.com/idealo/imagededup) - 😎 Finding duplicate images made easy!
@@ -1121,6 +1124,7 @@
 
 ## TypeScript 
 
+- [fonoster/routr](https://github.com/fonoster/routr) - ⚡ The future of programmable SIP servers
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto is a modern Auth0 alternative for building identity infrastructure with minimal effort, for both your customers and their organizations.
 - [mquan/api2ai](https://github.com/mquan/api2ai) - 
 - [jianyuan/pocketbase-sveltekit-auth](https://github.com/jianyuan/pocketbase-sveltekit-auth) - Sample SvelteKit app with PocketBase integration
@@ -1133,7 +1137,7 @@
 - [web-infra-dev/garfish](https://github.com/web-infra-dev/garfish) - A powerful micro front-end framework 🚚
 - [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - Modern.js is a web engineering system, including a web framework, a npm package solution and a documentation site solution.
 - [wobsoriano/bnx](https://github.com/wobsoriano/bnx) - zx inspired shell for Bun.
-- [Phalcode/gamevault-backend](https://github.com/Phalcode/gamevault-backend) - Backend for the self-hosted gaming platform for 'alternatively obtained' games
+- [Phalcode/gamevault-backend](https://github.com/Phalcode/gamevault-backend) - Backend for the self-hosted gaming platform for drm-free games
 - [subframe7536/kysely-sqlite-tools](https://github.com/subframe7536/kysely-sqlite-tools) - kysely tools for sqlite, include auto serialize plugin, wasm/tauri dialect, table builder
 - [aidenybai/million](https://github.com/aidenybai/million) - The Virtual DOM Replacement for React
 - [rubberduck-ai/rubberduck-vscode](https://github.com/rubberduck-ai/rubberduck-vscode) - Use AI-powered code edits, explanations, code generation, error diagnosis, and chat in Visual Studio Code with the official OpenAI API.
