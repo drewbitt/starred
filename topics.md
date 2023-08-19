@@ -224,6 +224,7 @@
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Bing, Anthropic, PaLM 2, AI model switching, message search, langchain, ChatGPT Plugins, OpenAI Functions, Multi-User System, Presets, completely open-source f
 - [rubberduck-ai/rubberduck-vscode](https://github.com/rubberduck-ai/rubberduck-vscode) - Use AI-powered code edits, explanations, code generation, error diagnosis, and chat in Visual Studio Code with the official OpenAI API.
 - [ThousandBirdsInc/chidori](https://github.com/ThousandBirdsInc/chidori) - A reactive runtime for building durable AI agents
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source coding copilot—bring the power of ChatGPT to VS Code
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [langgenius/dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
 - [dosco/llm-client](https://github.com/dosco/llm-client) - LLMClient - Simplify Building with LLMs, Function Calling and Reasoning
@@ -518,7 +519,7 @@
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Bing, Anthropic, PaLM 2, AI model switching, message search, langchain, ChatGPT Plugins, OpenAI Functions, Multi-User System, Presets, completely open-source f
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
 - [rubberduck-ai/rubberduck-vscode](https://github.com/rubberduck-ai/rubberduck-vscode) - Use AI-powered code edits, explanations, code generation, error diagnosis, and chat in Visual Studio Code with the official OpenAI API.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—a VS Code extension that brings the power of ChatGPT to your IDE
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source coding copilot—bring the power of ChatGPT to VS Code
 - [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat AI
 - [xcfcode/Summarization-Papers](https://github.com/xcfcode/Summarization-Papers) - Summarization Papers
 - [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents
@@ -830,6 +831,7 @@
 
 ## database 
 
+- [aerotoad/nebra](https://github.com/aerotoad/nebra) - Type-safe NoSQL with Node & SQLite. 🌫️💽
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - Personalized AI SQL Agent
 - [losfair/mvsqlite](https://github.com/losfair/mvsqlite) - Distributed, MVCC SQLite that runs on FoundationDB.
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Materialize is a fast, distributed SQL database built on streaming internals.
@@ -2307,6 +2309,7 @@
 
 ## nodejs 
 
+- [aerotoad/nebra](https://github.com/aerotoad/nebra) - Type-safe NoSQL with Node & SQLite. 🌫️💽
 - [formidablejs/formidablejs](https://github.com/formidablejs/formidablejs) - A TypeScript & Imba Full-stack Framework for Nodejs. (Imba Skeleton)
 - [formidablejs/formidablejs-typescript](https://github.com/formidablejs/formidablejs-typescript) - A TypeScript & Imba Full-stack Framework for Nodejs. (TypeScript Skeleton)
 - [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
@@ -2364,7 +2367,7 @@
 - [juancarlospaco/nodejs](https://github.com/juancarlospaco/nodejs) - Alternative StdLib for Nim for NodeJS/JavaScript targets, hijacks NodeJS StdLib for Nim
 - [wallabyjs/public](https://github.com/wallabyjs/public) - Repository for Wallaby.js questions and issues
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
-- [prosepilot/trpc-openapi](https://github.com/prosepilot/trpc-openapi) - OpenAPI support for tRPC 🧩
+- [jlalmes/trpc-openapi](https://github.com/jlalmes/trpc-openapi) - OpenAPI support for tRPC 🧩
 - [mojolicious/mojo.js](https://github.com/mojolicious/mojo.js) - :unicorn: The Mojolicious real-time web framework for Node.js
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [appy-one/acebase](https://github.com/appy-one/acebase) - A fast, low memory, transactional, index & query enabled NoSQL database engine and server for node.js and browser with realtime data change notifications
@@ -2380,6 +2383,7 @@
 
 ## nosql 
 
+- [aerotoad/nebra](https://github.com/aerotoad/nebra) - Type-safe NoSQL with Node & SQLite. 🌫️💽
 - [arangodb/arangodb](https://github.com/arangodb/arangodb) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScrip
 - [kriszyp/lmdb-js](https://github.com/kriszyp/lmdb-js) - Simple, efficient, ultra-fast, scalable data store wrapper for LMDB
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
@@ -2405,7 +2409,7 @@
 
 - [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total cov
 - [PostOwl/postowl](https://github.com/PostOwl/postowl) - Create a personal website for your blog, journal and sending letters to friends.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—a VS Code extension that brings the power of ChatGPT to your IDE
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source coding copilot—bring the power of ChatGPT to VS Code
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [imoneoi/openchat](https://github.com/imoneoi/openchat) - OpenChat: Advancing Open-source Language Models with Imperfect Data
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
@@ -2490,7 +2494,7 @@
 - [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
 - [KevinVandy/mantine-react-table](https://github.com/KevinVandy/mantine-react-table) - A fully featured Mantine V5 implementation of TanStack React Table V8, forked from Material React Table
 - [snaplet/copycat](https://github.com/snaplet/copycat) - Generate deterministic fake values: The same input will always generate the same fake-output.
-- [hylo-lang/hyloc](https://github.com/hylo-lang/hyloc) - The Hylo programming language
+- [hylo-lang/hylo](https://github.com/hylo-lang/hylo) - The Hylo programming language
 - [yukieiji/ExtremeRoles](https://github.com/yukieiji/ExtremeRoles) - AmongUs Mod for Advanced User(+80 roles, +700 options, and Cosmic addon)
 - [TNG/please-cli](https://github.com/TNG/please-cli) - An AI helper for creating CLI commands
 - [e-johnstonn/BriefGPT](https://github.com/e-johnstonn/BriefGPT) - Locally hosted tool that connects documents to LLMs for summarization and querying, with a simple GUI.
@@ -3638,6 +3642,7 @@
 
 ## typescript 
 
+- [aerotoad/nebra](https://github.com/aerotoad/nebra) - Type-safe NoSQL with Node & SQLite. 🌫️💽
 - [formidablejs/formidablejs-typescript](https://github.com/formidablejs/formidablejs-typescript) - A TypeScript & Imba Full-stack Framework for Nodejs. (TypeScript Skeleton)
 - [boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) - Enterprise SaaS Starter Kit - Kickstart your enterprise app development with Next.js SaaS Starter Kit
 - [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
@@ -3764,7 +3769,7 @@
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [pacexy/flow](https://github.com/pacexy/flow) - ePub Reader. Redefined.
-- [prosepilot/trpc-openapi](https://github.com/prosepilot/trpc-openapi) - OpenAPI support for tRPC 🧩
+- [jlalmes/trpc-openapi](https://github.com/jlalmes/trpc-openapi) - OpenAPI support for tRPC 🧩
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and user management for the passkey era.
 - [mojolicious/mojo.js](https://github.com/mojolicious/mojo.js) - :unicorn: The Mojolicious real-time web framework for Node.js
 - [reactiverse/es4x](https://github.com/reactiverse/es4x) - 🚀 fast JavaScript 4 Eclipse Vert.x
@@ -3817,6 +3822,7 @@
 ## visual-studio-code 
 
 - [rubberduck-ai/rubberduck-vscode](https://github.com/rubberduck-ai/rubberduck-vscode) - Use AI-powered code edits, explanations, code generation, error diagnosis, and chat in Visual Studio Code with the official OpenAI API.
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source coding copilot—bring the power of ChatGPT to VS Code
 - [vscode-shellcheck/vscode-shellcheck](https://github.com/vscode-shellcheck/vscode-shellcheck) - Integrates ShellCheck into VS Code, a linter for Shell scripts.
 - [p42ai/js-assistant](https://github.com/p42ai/js-assistant) - 120+ refactorings and code-assists for Visual Studio Code
 
