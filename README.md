@@ -64,6 +64,7 @@
 - [Vala](#vala)
 - [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
+- [WebAssembly](#webassembly)
 - [Zig](#zig)
 
 ## ActionScript 
@@ -90,6 +91,7 @@
 
 ## C 
 
+- [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
 - [metacall/core](https://github.com/metacall/core) - MetaCall: The ultimate polyglot programming experience.
 - [danielealbano/cachegrand](https://github.com/danielealbano/cachegrand) - cachegrand - a modern data ingestion, processing and serving platform built for today's hardware
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
@@ -308,6 +310,7 @@
 
 ## Go 
 
+- [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
 - [ergomake/layerform](https://github.com/ergomake/layerform) - Layerform helps engineers create reusable environment stacks using plain .tf files. Ideal for multiple "staging" environments.
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [noborus/trdsql](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN. Can output to various formats.
@@ -431,7 +434,7 @@
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
-- [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization
+- [observablehq/plot](https://github.com/observablehq/plot) - Observable Plot: a concise API for exploratory data visualization
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [mathiasbynens/small](https://github.com/mathiasbynens/small) - Smallest possible syntactically valid files of different types
 - [dwyl/learn-elm](https://github.com/dwyl/learn-elm) - :rainbow: discover the beautiful programming language that makes front-end web apps a joy to build and maintain!
@@ -475,7 +478,7 @@
 - [reactiverse/es4x](https://github.com/reactiverse/es4x) - 🚀 fast JavaScript 4 Eclipse Vert.x
 - [vaadin/flow](https://github.com/vaadin/flow) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10+.
 - [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace) - Leading free and open-source face recognition system
-- [yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) - An advanced player for Android-based set-top boxes and tv
+- [yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) - SmartTube - an advanced player for set-top boxes and tv running Android OS
 - [mabe02/lanterna](https://github.com/mabe02/lanterna) - Java library for creating text-based GUIs
 - [sshahine/JFoenix](https://github.com/sshahine/JFoenix) - JavaFX Material Design Library
 - [libgdx/libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
@@ -485,6 +488,7 @@
 
 ## JavaScript 
 
+- [moonbitlang/moonbit-docs](https://github.com/moonbitlang/moonbit-docs) - 
 - [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - The best free email forwarding for custom domains (Web Server)
 - [sindresorhus/ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner
 - [debug-js/debug](https://github.com/debug-js/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
@@ -539,7 +543,6 @@
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.
 - [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
-- [DanielXMoore/Civet](https://github.com/DanielXMoore/Civet) - The modern way to write TypeScript
 - [WebCoder49/code-input](https://github.com/WebCoder49/code-input) - Fully customisable, editable syntax-highlighted textareas.
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [electerious/Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy.
@@ -802,7 +805,7 @@
 
 ## Python 
 
-- [griptape-ai/griptape](https://github.com/griptape-ai/griptape) - Python framework for AI workflows and pipelines with chain of thought reasoning, external tools, and memory. Griptape is an enterprise grade alternative to LangChain.
+- [griptape-ai/griptape](https://github.com/griptape-ai/griptape) - Python framework for AI workflows and pipelines with chain of thought reasoning, tools, and memory. Griptape is an enterprise grade alternative to LangChain.
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Vector search for humans.
 - [normal-computing/outlines](https://github.com/normal-computing/outlines) - Generative Model Programming
 - [getretake/retake](https://github.com/getretake/retake) - Open-Source Hybrid Search for Postgres
@@ -992,6 +995,11 @@
 
 ## Rust 
 
+- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - Open-source solution to deploy, scale, and operate your multiplayer game
+- [tirr-c/jxl-oxide](https://github.com/tirr-c/jxl-oxide) - Pure Rust implementation of JPEG XL decoder
+- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
+- [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, call their functions, and build extensible apps.
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
 - [enso-org/enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
@@ -1351,6 +1359,7 @@
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [stevenpetryk/mafs](https://github.com/stevenpetryk/mafs) - React components for interactive math
 - [kahole/edamagit](https://github.com/kahole/edamagit) - Magit for VSCode
+- [DanielXMoore/Civet](https://github.com/DanielXMoore/Civet) - The modern way to write TypeScript
 - [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml?
 - [pilcrowOnPaper/lucia](https://github.com/pilcrowOnPaper/lucia) - Authentication, simple and clean
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
@@ -1533,6 +1542,10 @@
 - [jordihales/hypercolor](https://github.com/jordihales/hypercolor) - A curated collection of beautiful premade gradients using default colors from the Tailwind palette as well as a selection of custom color gradients.
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [beercss/beercss](https://github.com/beercss/beercss) - Build material design interfaces in record time... without stress for devs... 🍺💛
+
+## WebAssembly 
+
+- [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript-like language for WebAssembly.
 
 ## Zig 
 
