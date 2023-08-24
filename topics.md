@@ -237,7 +237,7 @@
 - [chat2db/Chat2DB](https://github.com/chat2db/Chat2DB) - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
-- [lgrammel/modelfusion](https://github.com/lgrammel/modelfusion) - Build AI applications, chatbots, and agents with JavaScript and TypeScript.
+- [lgrammel/modelfusion](https://github.com/lgrammel/modelfusion) - Build multimodal AI applications, chatbots, and agents with JavaScript and TypeScript.
 - [premAI-io/prem-app](https://github.com/premAI-io/prem-app) - Prem provides a unified environment to develop AI applications and deploy AI models on your infrastructure
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
@@ -338,7 +338,7 @@
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - Open-source product integrations: Easily integrate you app with any external API
 - [laxamentumtech/audnexus](https://github.com/laxamentumtech/audnexus) - An audiobook data aggregation API, combining multiple sources of data into one, consistent source.
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale serverless load testing, as easy as 1-2-3. No DevOps needed. Never fail to scale!
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [go-vikunja/api](https://github.com/go-vikunja/api) - Mirror of vikunja from https://code.vikunja.io/api
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -371,7 +371,7 @@
 
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to databases.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
-- [lgrammel/modelfusion](https://github.com/lgrammel/modelfusion) - Build AI applications, chatbots, and agents with JavaScript and TypeScript.
+- [lgrammel/modelfusion](https://github.com/lgrammel/modelfusion) - Build multimodal AI applications, chatbots, and agents with JavaScript and TypeScript.
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
@@ -473,7 +473,7 @@
 - [kscripting/kscript](https://github.com/kscripting/kscript) - Scripting enhancements for Kotlin
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [xonixx/makesure](https://github.com/xonixx/makesure) - Simple task/command runner with declarative goals and dependencies
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [vscode-shellcheck/vscode-shellcheck](https://github.com/vscode-shellcheck/vscode-shellcheck) - Integrates ShellCheck into VS Code, a linter for Shell scripts.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -493,7 +493,7 @@
 
 ## c 
 
-- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, call their functions, and build extensible apps.
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [metacall/core](https://github.com/metacall/core) - MetaCall: The ultimate polyglot programming experience.
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 - [z88dk/z88dk](https://github.com/z88dk/z88dk) - The development kit for over a hundred z80 family machines - c compiler, assembler, linker, libraries.
@@ -602,7 +602,7 @@
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [shakiba/svgexport](https://github.com/shakiba/svgexport) - SVG to PNG/JPEG command-line tool and Node.js module
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
@@ -697,7 +697,7 @@
 
 ## cpp 
 
-- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, call their functions, and build extensible apps.
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [metacall/core](https://github.com/metacall/core) - MetaCall: The ultimate polyglot programming experience.
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
@@ -705,7 +705,7 @@
 - [Vita3K/Vita3K](https://github.com/Vita3K/Vita3K) - Experimental PlayStation Vita emulator
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript.
 - [hydro-dev/Hydro](https://github.com/hydro-dev/Hydro) - Hydro - Next generation high performance online-judge platform - 新一代高效强大的信息学在线测评系统 (a.k.a. vj5)
@@ -724,7 +724,7 @@
 
 ## csharp 
 
-- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, call their functions, and build extensible apps.
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS.
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 - [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
@@ -917,7 +917,7 @@
 - [cicadahq/cicada](https://github.com/cicadahq/cicada) - Write CI/CD pipelines using TypeScript
 - [xcatliu/pagic](https://github.com/xcatliu/pagic) - A static site generator powered by Deno + React
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A task runner and repo management tool for the web ecosystem, written in Rust.
-- [fastrodev/fastro](https://github.com/fastrodev/fastro) - The web framework for full stack apps
+- [fastrodev/fastro](https://github.com/fastrodev/fastro) - Fast and simple web application framework for deno
 - [surrealdb/surrealdb.js](https://github.com/surrealdb/surrealdb.js) - SurrealDB driver for JavaScript
 - [skoshx/pentagon](https://github.com/skoshx/pentagon) - Prisma-like ORM built on top of Deno KV. Allows you to write your database schemas and relations using Zod schemas, and run queries using familiar syntax from Prisma.
 - [boywithkeyboard/cheetah](https://github.com/boywithkeyboard/cheetah) - A framework for the modern web.
@@ -1042,7 +1042,7 @@
 
 ## dotnet 
 
-- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, call their functions, and build extensible apps.
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 - [GitTools/GitVersion](https://github.com/GitTools/GitVersion) - From git log to SemVer in no time
 - [mbdavid/LiteDB](https://github.com/mbdavid/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
@@ -1068,7 +1068,7 @@
 
 ## elixir 
 
-- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, call their functions, and build extensible apps.
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [azimuttapp/azimutt](https://github.com/azimuttapp/azimutt) - Next-Gen ERD: Design, Explore, Document and Analyze your database
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [pluralsh/plural](https://github.com/pluralsh/plural) - Deploy open source software on Kubernetes in record time. 🚀
@@ -1166,7 +1166,7 @@
 - [web-infra-dev/garfish](https://github.com/web-infra-dev/garfish) - A powerful micro front-end framework 🚚
 - [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - Modern.js is a web engineering system, including a web framework, a npm package solution and a documentation site solution.
 - [ThousandBirdsInc/chidori](https://github.com/ThousandBirdsInc/chidori) - A reactive runtime for building durable AI agents
-- [fastrodev/fastro](https://github.com/fastrodev/fastro) - The web framework for full stack apps
+- [fastrodev/fastro](https://github.com/fastrodev/fastro) - Fast and simple web application framework for deno
 - [sanic-org/sanic](https://github.com/sanic-org/sanic) - Accelerate your web app development  | Build fast. Run fast.
 - [boywithkeyboard/cheetah](https://github.com/boywithkeyboard/cheetah) - A framework for the modern web.
 - [analogjs/analog](https://github.com/analogjs/analog) - Build and ship applications and websites faster with Angular
@@ -1208,7 +1208,7 @@
 
 - [mdbootstrap/Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
 - [spinspire/pocketbase-sveltekit-starter](https://github.com/spinspire/pocketbase-sveltekit-starter) - a starter project to build a SvelteKit frontend with PocketBase backend
-- [fastrodev/fastro](https://github.com/fastrodev/fastro) - The web framework for full stack apps
+- [fastrodev/fastro](https://github.com/fastrodev/fastro) - Fast and simple web application framework for deno
 - [Wisser/Jailer](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool.
 - [rjaros/kvision](https://github.com/rjaros/kvision) - Object oriented web framework for Kotlin/JS
 - [angel-rs/css-color-filter-generator](https://github.com/angel-rs/css-color-filter-generator) - Generate custom css filter property to achieve any target color :art:
@@ -1309,7 +1309,7 @@
 
 - [pgaskin/kepubify](https://github.com/pgaskin/kepubify) - Fast, standalone EPUB to Kobo EPUB conversion tool.
 - [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
-- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, call their functions, and build extensible apps.
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [noborus/trdsql](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN. Can output to various formats.
 - [allaboutapps/integresql](https://github.com/allaboutapps/integresql) - IntegreSQL manages isolated PostgreSQL databases for your integration tests.
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
@@ -1585,7 +1585,7 @@
 
 ## haskell 
 
-- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, call their functions, and build extensible apps.
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
@@ -1698,7 +1698,7 @@
 
 ## java 
 
-- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, call their functions, and build extensible apps.
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 - [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
@@ -1741,7 +1741,7 @@
 
 ## javascript 
 
-- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, call their functions, and build extensible apps.
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
 - [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS.
 - [vuestorefront/storefront-ui](https://github.com/vuestorefront/storefront-ui) - A frontend library for Vue and React that helps developers quickly build fast, accessible, and beautiful storefronts. Made with 💚 by Vue Storefront team and contributors.
@@ -1770,7 +1770,7 @@
 - [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [codeceptjs/CodeceptJS](https://github.com/codeceptjs/CodeceptJS) - Supercharged End 2 End Testing Framework for NodeJS
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
-- [lgrammel/modelfusion](https://github.com/lgrammel/modelfusion) - Build AI applications, chatbots, and agents with JavaScript and TypeScript.
+- [lgrammel/modelfusion](https://github.com/lgrammel/modelfusion) - Build multimodal AI applications, chatbots, and agents with JavaScript and TypeScript.
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [jeremyckahn/shifty](https://github.com/jeremyckahn/shifty) - The fastest TypeScript animation engine on the web
@@ -1904,7 +1904,7 @@
 
 ## js 
 
-- [lgrammel/modelfusion](https://github.com/lgrammel/modelfusion) - Build AI applications, chatbots, and agents with JavaScript and TypeScript.
+- [lgrammel/modelfusion](https://github.com/lgrammel/modelfusion) - Build multimodal AI applications, chatbots, and agents with JavaScript and TypeScript.
 - [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) - ✨ Standard library for JavaScript and Node.js. ✨
 
 ## json 
@@ -2010,7 +2010,7 @@
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [trailofbits/graphtage](https://github.com/trailofbits/graphtage) - A semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV.
 - [saas-js/saas-ui](https://github.com/saas-js/saas-ui) - The React component library for startups, built with Chakra UI.
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [Avalojandro/Catto-CSS](https://github.com/Avalojandro/Catto-CSS) - Library of CSS animations easy and quick to use
 - [atomicdata-dev/atomic-server](https://github.com/atomicdata-dev/atomic-server) - Create, share, fetch and model Atomic Data! This project consists of a graph database + server, a CLI and a rust library.
 - [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) - ✨ Standard library for JavaScript and Node.js. ✨
@@ -2026,7 +2026,7 @@
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines for macOS
 - [LibreELEC/LibreELEC.tv](https://github.com/LibreELEC/LibreELEC.tv) - Just enough OS for KODI
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [juancarlospaco/awesome-streaming-tools](https://github.com/juancarlospaco/awesome-streaming-tools) - Awesome Streaming Tools
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
@@ -2103,7 +2103,7 @@
 - [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) - Collection of Testflight public app link（iOS/iPad OS/macOS）。
 - [uTox/uTox](https://github.com/uTox/uTox) - µTox the lightest and fluffiest Tox client
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines for macOS
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The missing GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
@@ -2303,7 +2303,7 @@
 
 ## node 
 
-- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, call their functions, and build extensible apps.
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [metacall/core](https://github.com/metacall/core) - MetaCall: The ultimate polyglot programming experience.
 - [debug-js/debug](https://github.com/debug-js/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto is a modern Auth0 alternative for building identity infrastructure with minimal effort, for both your customers and their organizations.
@@ -2465,6 +2465,7 @@
 
 ## others 
 
+- [Norbyte/bg3se](https://github.com/Norbyte/bg3se) - Baldur's Gate 3 Script Extender
 - [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - Make bilingual epub books Using AI translate
 - [cashapp/redwood](https://github.com/cashapp/redwood) - Multiplatform reactive UI for Android, iOS, and web using Kotlin and Jetpack Compose
 - [Streampunk/beamcoder](https://github.com/Streampunk/beamcoder) - Node.js native bindings to FFmpeg.
@@ -2506,7 +2507,7 @@
 - [unjs/nitro](https://github.com/unjs/nitro) - Create, build and deploy universal web servers. The open engine powering Nuxt and open to everyone.
 - [BuilderIO/qwik-city-build](https://github.com/BuilderIO/qwik-city-build) - `@builder.io/qwik-city` build artifacts from https://github.com/organizations/BuilderIO/qwik
 - [asg017/sqlite-regex](https://github.com/asg017/sqlite-regex) - A fast regular expression SQLite extension, written in Rust
-- [subframe7536/kysely-sqlite-tools](https://github.com/subframe7536/kysely-sqlite-tools) - kysely tools for sqlite, include auto serialize plugin, wasm/tauri dialect, table builder
+- [subframe7536/kysely-sqlite-tools](https://github.com/subframe7536/kysely-sqlite-tools) - tools for Kysely, include auto serialize plugin, sqlite wasm / sqlite worker / Tauri dialects, sqlite table builder
 - [fkirc/skip-duplicate-actions](https://github.com/fkirc/skip-duplicate-actions) - Save time and cost when using GitHub Actions
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) - LLM-App is a library for creating responsive AI applications leveraging OpenAI/Hugging Face APIs to provide responses to user queries based on live data sources. Build your own LLM application in 30 l
 - [DigiWorm0/LevelImposter](https://github.com/DigiWorm0/LevelImposter) - Custom Among Us Mapping Studio (BepInEx Mod)
@@ -2577,7 +2578,7 @@
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 - [ihucos/counter.dev](https://github.com/ihucos/counter.dev) - Web Analytics made simple
 - [serverpod/serverpod](https://github.com/serverpod/serverpod) - Serverpod is a next-generation app and web server, explicitly built for the Flutter and Dart ecosystem.
-- [mrsked/mrsk](https://github.com/mrsked/mrsk) - Deploy web apps anywhere.
+- [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [gcloudrig/gcloudrig](https://github.com/gcloudrig/gcloudrig) - Scripts to manage cloud gaming on Google Compute Engine.
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) - A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful
 - [Phhofm/upscale](https://github.com/Phhofm/upscale) - My VitePress website I made to visually compare the output I created with over 600 different AI upscaling models. Running under https://phhofm.github.io/upscale/
@@ -2929,7 +2930,7 @@
 
 ## python 
 
-- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, call their functions, and build extensible apps.
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [griptape-ai/griptape](https://github.com/griptape-ai/griptape) - Python framework for AI workflows and pipelines with chain of thought reasoning, tools, and memory. Griptape is an enterprise grade alternative to LangChain.
 - [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS.
 - [getretake/retake](https://github.com/getretake/retake) - Open-Source Hybrid Search for Postgres
@@ -3092,7 +3093,7 @@
 - [aidenybai/million](https://github.com/aidenybai/million) - Make React Faster. Automatically.
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [kuma-ui/kuma-ui](https://github.com/kuma-ui/kuma-ui) - 🐻‍❄️ A Headless, Utility-First, and Zero-Runtime UI Component Library ✨
-- [fastrodev/fastro](https://github.com/fastrodev/fastro) - The web framework for full stack apps
+- [fastrodev/fastro](https://github.com/fastrodev/fastro) - Fast and simple web application framework for deno
 - [fabian-hiller/modular-forms](https://github.com/fabian-hiller/modular-forms) - The modular and type-safe form library for SolidJS, Qwik, Preact and React
 - [impulse-oss/impulse](https://github.com/impulse-oss/impulse) - Impossible Dev Tools for React and Tailwind
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
@@ -3279,7 +3280,7 @@
 
 ## ruby 
 
-- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, call their functions, and build extensible apps.
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [metacall/core](https://github.com/metacall/core) - MetaCall: The ultimate polyglot programming experience.
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A task runner and repo management tool for the web ecosystem, written in Rust.
 - [vagrant-libvirt/vagrant-libvirt](https://github.com/vagrant-libvirt/vagrant-libvirt) - Vagrant provider for libvirt.
@@ -3295,7 +3296,7 @@
 
 - [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - Open-source solution to deploy, scale, and operate your multiplayer game
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
-- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, call their functions, and build extensible apps.
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
 - [losfair/mvsqlite](https://github.com/losfair/mvsqlite) - Distributed, MVCC SQLite that runs on FoundationDB.
@@ -3449,7 +3450,7 @@
 
 ## serverless 
 
-- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, call their functions, and build extensible apps.
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
 - [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS.
 - [tursodatabase/turso-cli](https://github.com/tursodatabase/turso-cli) - Command line interface to Turso.
@@ -3483,7 +3484,7 @@
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by GPT-3 and GPT-4, will help you accomplish your tasks faster and more efficiently.
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [xonixx/makesure](https://github.com/xonixx/makesure) - Simple task/command runner with declarative goals and dependencies
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [vscode-shellcheck/vscode-shellcheck](https://github.com/vscode-shellcheck/vscode-shellcheck) - Integrates ShellCheck into VS Code, a linter for Shell scripts.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -3623,7 +3624,7 @@
 - [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [listr2/listr2](https://github.com/listr2/listr2) - NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive.
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
@@ -3702,7 +3703,7 @@
 - [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem) - An in memory postgres DB instance for your unit tests
 - [cicadahq/cicada](https://github.com/cicadahq/cicada) - Write CI/CD pipelines using TypeScript
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A task runner and repo management tool for the web ecosystem, written in Rust.
-- [fastrodev/fastro](https://github.com/fastrodev/fastro) - The web framework for full stack apps
+- [fastrodev/fastro](https://github.com/fastrodev/fastro) - Fast and simple web application framework for deno
 - [acacode/swagger-typescript-api](https://github.com/acacode/swagger-typescript-api) - TypeScript API generator via Swagger scheme
 - [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  Fast, in-memory, typo-tolerant, full-text and vector search engine written in TypeScript.
 - [skoshx/pentagon](https://github.com/skoshx/pentagon) - Prisma-like ORM built on top of Deno KV. Allows you to write your database schemas and relations using Zod schemas, and run queries using familiar syntax from Prisma.
@@ -3721,7 +3722,7 @@
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
-- [lgrammel/modelfusion](https://github.com/lgrammel/modelfusion) - Build AI applications, chatbots, and agents with JavaScript and TypeScript.
+- [lgrammel/modelfusion](https://github.com/lgrammel/modelfusion) - Build multimodal AI applications, chatbots, and agents with JavaScript and TypeScript.
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [jeremyckahn/shifty](https://github.com/jeremyckahn/shifty) - The fastest TypeScript animation engine on the web
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source automation tool ✨ Workflow automation tool / Enterprise automation tool / Business automation tool / Zapier Alternative
@@ -3848,7 +3849,7 @@
 
 ## ubuntu 
 
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 
@@ -4004,7 +4005,7 @@
 - [uTox/uTox](https://github.com/uTox/uTox) - µTox the lightest and fluffiest Tox client
 - [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
 - [TunnlTo/desktop-app](https://github.com/TunnlTo/desktop-app) - TunnlTo is a lightweight, fast, Windows WireGuard VPN client built for split tunneling.
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
