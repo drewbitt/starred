@@ -420,6 +420,7 @@
 
 ## HTML 
 
+- [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source lic
 - [mdbootstrap/Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
@@ -831,7 +832,7 @@
 - [idealo/imagededup](https://github.com/idealo/imagededup) - 😎 Finding duplicate images made easy!
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) - LLM-App is a library for creating responsive AI applications leveraging OpenAI/Hugging Face APIs to provide responses to user queries based on live data sources. Build your own LLM application in 30 l
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Open Source Free ATS Tool to compare Resumes with Job Descriptions and create a score to rank them.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source coding copilot—bring the power of ChatGPT to VS Code
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source copilot chat for software development—bring the power of ChatGPT to VS Code
 - [JSlush611/PrizePicks](https://github.com/JSlush611/PrizePicks) - 
 - [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat AI
 - [biobootloader/mentat](https://github.com/biobootloader/mentat) - Mentat - The AI Coding Assistant
@@ -1471,7 +1472,7 @@
 - [jlalmes/trpc-openapi](https://github.com/jlalmes/trpc-openapi) - OpenAPI support for tRPC 🧩
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [brillout/telefunc](https://github.com/brillout/telefunc) - Remote Functions. Instead of API.
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and user management for the passkey era.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and user management for the passkey era
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [appy-one/acebase](https://github.com/appy-one/acebase) - A fast, low memory, transactional, index & query enabled NoSQL database engine and server for node.js and browser with realtime data change notifications
 - [ConduitPlatform/Conduit](https://github.com/ConduitPlatform/Conduit) - Batteries-included backend that works with any stack.
