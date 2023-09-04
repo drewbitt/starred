@@ -332,6 +332,7 @@
 
 ## api 
 
+- [open-source-labs/Swell](https://github.com/open-source-labs/Swell) - Swell: API development tool that enables developers to test endpoints served over streaming technologies including Server-Sent Events (SSE), WebSockets, HTTP2, GraphQL, gRPC, and tRPC..
 - [firecamp-dev/firecamp](https://github.com/firecamp-dev/firecamp) - firecamp is an open-source alternative to postman inspired by vscode dx.
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs g
 - [sukovanej/effect-http](https://github.com/sukovanej/effect-http) - Declarative HTTP API library for effect-ts
@@ -1047,7 +1048,6 @@
 
 ## documentation 
 
-- [microsoft/tsdoc](https://github.com/microsoft/tsdoc) - A doc comment standard for TypeScript
 - [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
@@ -1435,6 +1435,8 @@
 
 ## graphql 
 
+- [stepci/garph](https://github.com/stepci/garph) - Fullstack GraphQL Framework for TypeScript
+- [open-source-labs/Swell](https://github.com/open-source-labs/Swell) - Swell: API development tool that enables developers to test endpoints served over streaming technologies including Server-Sent Events (SSE), WebSockets, HTTP2, GraphQL, gRPC, and tRPC..
 - [firecamp-dev/firecamp](https://github.com/firecamp-dev/firecamp) - firecamp is an open-source alternative to postman inspired by vscode dx.
 - [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
@@ -2210,6 +2212,7 @@
 
 ## monitoring 
 
+- [open-source-labs/Swell](https://github.com/open-source-labs/Swell) - Swell: API development tool that enables developers to test endpoints served over streaming technologies including Server-Sent Events (SSE), WebSockets, HTTP2, GraphQL, gRPC, and tRPC..
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
@@ -2499,6 +2502,9 @@
 
 ## others 
 
+- [dtinth/openapi-trpc](https://github.com/dtinth/openapi-trpc) - Generate OpenAPI v3 document from a tRPC router, adhering to tRPC’s HTTP RPC Specification
+- [astridlol/Hitori](https://github.com/astridlol/Hitori) - Serverless Discord bot template using tRPC and Prisma.
+- [maloguertin/msw-trpc](https://github.com/maloguertin/msw-trpc) - tPRC support for MSW
 - [AlchlcDvl/TownOfUsReworked](https://github.com/AlchlcDvl/TownOfUsReworked) - Town Of Us but better! (hopefully)
 - [btpf/Alexandria](https://github.com/btpf/Alexandria) - A minimalistic cross-platform eBook reader built with Tauri, Epub.js, and Typescript
 - [Plachtaa/VALL-E-X](https://github.com/Plachtaa/VALL-E-X) - An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io
@@ -2573,7 +2579,7 @@
 - [TNG/please-cli](https://github.com/TNG/please-cli) - An AI helper for creating CLI commands
 - [e-johnstonn/BriefGPT](https://github.com/e-johnstonn/BriefGPT) - Locally hosted tool that connects documents to LLMs for summarization and querying, with a simple GUI.
 - [Purfview/whisper-standalone-win](https://github.com/Purfview/whisper-standalone-win) - Standalone executables for those who don't want to bother with Python.
-- [0xpayne/gpt-migrate](https://github.com/0xpayne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
+- [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [bcspragu/kagi](https://github.com/bcspragu/kagi) - A simple CLI for querying the Kagi search engine via their FastGPT API
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
 - [dibrale/samist](https://github.com/dibrale/samist) - Segment Anything Model (SAM) Image Segmentation Tool - SAMIST. Python GUI for image segmentation using SAM by Meta AI.
@@ -2643,7 +2649,6 @@
 - [acoustid/chromaprint](https://github.com/acoustid/chromaprint) - C library for generating audio fingerprints used by AcoustID
 - [debrouxl/tilibs](https://github.com/debrouxl/tilibs) - TILP (formerly GtkTiLink) can transfer data between Texas Instruments graphing calculators and a computer. It works with all link cables (parallel, serial, Black/Gray/Silver/Direct Link) and it suppor
 - [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
-- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [paoloricciuti/svelte-action-balancer](https://github.com/paoloricciuti/svelte-action-balancer) - A svelte action to balance the text inside the an html node. Heavily inspired by react-wrap-balancer
 - [js-temporal/temporal-polyfill](https://github.com/js-temporal/temporal-polyfill) - Polyfill for Temporal (under construction)
 - [w3ctag/privacy-principles](https://github.com/w3ctag/privacy-principles) - 
@@ -3367,6 +3372,7 @@
 - [obi1kenobi/trustfall](https://github.com/obi1kenobi/trustfall) - A query engine for any combination of data sources. Query your files and APIs as if they were databases!
 - [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust.
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [libsql/sqld](https://github.com/libsql/sqld) - LibSQL with extended capabilities like HTTP protocol, replication, and more.
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
@@ -3618,7 +3624,6 @@
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: 
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - The UI toolkit for Svelte and Tailwind.
 - [AgnosticUI/agnosticui](https://github.com/AgnosticUI/agnosticui) - AgnosticUI is a set of UI primitives that start their lives in clean HTML and CSS. These standards compliant components are then copied to our framework implementations in: React, Vue 3, Angular, and 
-- [icflorescu/trpc-sveltekit-example](https://github.com/icflorescu/trpc-sveltekit-example) - A sample SvelteKit application built to illustrate the usage of ✨ trpc-sveltekit.
 - [carbon-design-system/carbon-charts](https://github.com/carbon-design-system/carbon-charts) - :bar_chart: :chart_with_upwards_trend:⠀Robust dataviz framework implemented using D3 & typescript
 - [icflorescu/trpc-sveltekit](https://github.com/icflorescu/trpc-sveltekit) - End-to-end typesafe APIs with tRPC.io for your SvelteKit applications.
 - [fwouts/previewjs](https://github.com/fwouts/previewjs) - Preview UI components in your IDE instantly
@@ -3702,6 +3707,7 @@
 
 ## testing 
 
+- [open-source-labs/Swell](https://github.com/open-source-labs/Swell) - Swell: API development tool that enables developers to test endpoints served over streaming technologies including Server-Sent Events (SSE), WebSockets, HTTP2, GraphQL, gRPC, and tRPC..
 - [stryker-mutator/stryker-js](https://github.com/stryker-mutator/stryker-js) - Mutation testing for JavaScript and friends
 - [codeceptjs/CodeceptJS](https://github.com/codeceptjs/CodeceptJS) - Supercharged End 2 End Testing Framework for NodeJS
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality.
@@ -3732,7 +3738,8 @@
 
 ## typescript 
 
-- [microsoft/tsdoc](https://github.com/microsoft/tsdoc) - A doc comment standard for TypeScript
+- [ardatan/feTS](https://github.com/ardatan/feTS) - TypeScript HTTP Framework focusing on e2e type-safety, easy setup, performance & great developer experience
+- [stepci/garph](https://github.com/stepci/garph) - Fullstack GraphQL Framework for TypeScript
 - [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
 - [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Sveltekit.
@@ -3818,7 +3825,6 @@
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.
-- [icflorescu/trpc-sveltekit-example](https://github.com/icflorescu/trpc-sveltekit-example) - A sample SvelteKit application built to illustrate the usage of ✨ trpc-sveltekit.
 - [carbon-design-system/carbon-charts](https://github.com/carbon-design-system/carbon-charts) - :bar_chart: :chart_with_upwards_trend:⠀Robust dataviz framework implemented using D3 & typescript
 - [esbuild-kit/tsx](https://github.com/esbuild-kit/tsx) - ⚡️ TypeScript Execute (tsx): Node.js enhanced with esbuild to run TypeScript & ESM
 - [ianstormtaylor/superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (and TypeScript).
@@ -3915,6 +3921,7 @@
 
 ## vim 
 
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 
 ## visual-studio-code 
