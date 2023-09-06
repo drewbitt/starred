@@ -342,7 +342,7 @@
 - [acacode/swagger-typescript-api](https://github.com/acacode/swagger-typescript-api) - TypeScript API generator via Swagger scheme
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 - [Explosion-Scratch/claude-unofficial-api](https://github.com/Explosion-Scratch/claude-unofficial-api) - Unofficial API for Claude-2 via Claude Web (Also CLI)
-- [fern-api/fern](https://github.com/fern-api/fern) - Generate SDKs and Documentation for your API
+- [fern-api/fern](https://github.com/fern-api/fern) - SDKs and Documentation for your API
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - Open-source product integrations: Easily integrate you app with any external API
 - [laxamentumtech/audnexus](https://github.com/laxamentumtech/audnexus) - An audiobook data aggregation API, combining multiple sources of data into one, consistent source.
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale serverless load testing, as easy as 1-2-3. No DevOps needed. Never fail to scale!
@@ -503,6 +503,7 @@
 
 ## c 
 
+- [adrianseeley/FastMJPG](https://github.com/adrianseeley/FastMJPG) - FastMJPG is a command line tool for capturing, sending, receiving, rendering, piping, and recording MJPG video with extremely low latency. It is optimized for running on constrained hardware and batte
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [metacall/core](https://github.com/metacall/core) - MetaCall: The ultimate polyglot programming experience.
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
@@ -525,7 +526,7 @@
 
 ## chatgpt 
 
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally.
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [embedchain/embedchainjs](https://github.com/embedchain/embedchainjs) - Framework to easily create LLM powered bots over any dataset.
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Vector search for humans. Also available on cloud: cloud.marqo.ai
 - [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) - Bring AI inside your Database System & build AI-powered apps
@@ -2031,6 +2032,7 @@
 
 ## learning 
 
+- [EmNudge/watlings](https://github.com/EmNudge/watlings) - Learn WebAssembly by writing small programs!
 - [carolinaknoll/awesome-gamified](https://github.com/carolinaknoll/awesome-gamified) - :eyeglasses: Awesome Gamified - See your progress and save awesome links you've already seen!
 - [dkgitdev/nimNx](https://github.com/dkgitdev/nimNx) - Basic nim template for skipping all the "how-tos" straight to a working example!
 - [dwyl/learn-elm](https://github.com/dwyl/learn-elm) - :rainbow: discover the beautiful programming language that makes front-end web apps a joy to build and maintain!
@@ -2048,6 +2050,7 @@
 
 ## linux 
 
+- [adrianseeley/FastMJPG](https://github.com/adrianseeley/FastMJPG) - FastMJPG is a command line tool for capturing, sending, receiving, rendering, piping, and recording MJPG video with extremely low latency. It is optimized for running on constrained hardware and batte
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
 - [arthenica/ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
 - [danielealbano/cachegrand](https://github.com/danielealbano/cachegrand) - cachegrand - a modern data ingestion, processing and serving platform built for today's hardware
@@ -2091,6 +2094,7 @@
 ## lua 
 
 - [sayhiben/awesome-playdate](https://github.com/sayhiben/awesome-playdate) - A list of awesome resources for Playdate (https://play.date) game development and the Playdate SDK (https://play.date/dev/)
+- [Roblox/luau](https://github.com/Roblox/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua
 - [TypeScriptToLua/TypeScriptToLua](https://github.com/TypeScriptToLua/TypeScriptToLua) - Typescript to lua transpiler. https://typescripttolua.github.io/
 - [libretro/libretro-lutro](https://github.com/libretro/libretro-lutro) - An experimental lua game framework for libretro following the LÖVE API
 - [Gigoteur/UnicornConsole](https://github.com/Gigoteur/UnicornConsole) - Unicorn Console: create quick fantasy game in Rust/Python/Lua/Rhai/Wasm !
@@ -2489,6 +2493,7 @@
 
 ## opengl 
 
+- [adrianseeley/FastMJPG](https://github.com/adrianseeley/FastMJPG) - FastMJPG is a command line tool for capturing, sending, receiving, rendering, piping, and recording MJPG video with extremely low latency. It is optimized for running on constrained hardware and batte
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [Over-Run/overrungl](https://github.com/Over-Run/overrungl) - Overrun Game Library is a high-performance library that implemented with Java 21, enables cross-platform access to a set of C/C++ library bindings, and provides some useful utilities.
 
@@ -2509,7 +2514,7 @@
 - [AlchlcDvl/TownOfUsReworked](https://github.com/AlchlcDvl/TownOfUsReworked) - Town Of Us but better! (hopefully)
 - [btpf/Alexandria](https://github.com/btpf/Alexandria) - A minimalistic cross-platform eBook reader built with Tauri, Epub.js, and Typescript
 - [Plachtaa/VALL-E-X](https://github.com/Plachtaa/VALL-E-X) - An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io
-- [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte.
+- [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
 - [ASDAlexander77/TypeScriptCompiler](https://github.com/ASDAlexander77/TypeScriptCompiler) - TypeScript Compiler (by LLVM)
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source lic
@@ -2527,7 +2532,7 @@
 - [Effect-TS/rpc](https://github.com/Effect-TS/rpc) - 
 - [arichorn/uYouPlusExtra](https://github.com/arichorn/uYouPlusExtra) - uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
 - [sindresorhus/ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner
-- [normal-computing/outlines](https://github.com/normal-computing/outlines) - Generative Model Programming
+- [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Generative Model Programming
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [shadowspawn/node-version-usage](https://github.com/shadowspawn/node-version-usage) - Document current usage of .node-version file
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - lightweight package to simplify LLM API calls - Azure, OpenAI, Cohere, Anthropic, Replicate. Manages input/output translation
@@ -2792,7 +2797,6 @@
 - [todokku/YtbDownBot](https://github.com/todokku/YtbDownBot) - Telegram bot for downloading video via youtube-dl
 - [TheNetsky/extensions-generic](https://github.com/TheNetsky/extensions-generic) - Netsky's fork of the official Paperback sources.
 - [prose/prose](https://github.com/prose/prose) - A Content Editor for GitHub.
-- [Roblox/luau](https://github.com/Roblox/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua
 - [scambier/TQ-Bundler](https://github.com/scambier/TQ-Bundler) - The all-in-one TIC-80 bundler
 - [PhilSwiss/ticmctile](https://github.com/PhilSwiss/ticmctile) - Commandline tool to convert images to tiles or sprites for the TIC-80
 - [scambier/tic80-typescript](https://github.com/scambier/tic80-typescript) - Create your TIC-80 games with TypeScript
@@ -2977,7 +2981,7 @@
 
 ## python 
 
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally.
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [griptape-ai/griptape](https://github.com/griptape-ai/griptape) - Python framework for AI workflows and pipelines with chain of thought reasoning, tools, and memory. Griptape is an enterprise grade alternative to LangChain.
 - [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
