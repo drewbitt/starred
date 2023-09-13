@@ -175,6 +175,7 @@
 - [server](#server)
 - [serverless](#serverless)
 - [shell](#shell)
+- [sketch](#sketch)
 - [software](#software)
 - [spring-boot](#spring-boot)
 - [sql](#sql)
@@ -216,6 +217,8 @@
 
 ## ai 
 
+- [Ironclad/rivet](https://github.com/Ironclad/rivet) - The open-source visual AI programming environment and TypeScript library
+- [jbilcke-hf/ai-comic-factory](https://github.com/jbilcke-hf/ai-comic-factory) - Generate comic panels using a LLM + SDXL. Powered by Hugging Face 🤗
 - [trypromptly/LLMStack](https://github.com/trypromptly/LLMStack) - No-code platform to build generative AI apps, chatbots and agents with your data
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs g
 - [facefusion/facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer
@@ -274,7 +277,7 @@
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
 - [electerious/Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy.
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative. Cloud version available here -&gt; https://app.coolify.io
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 
 ## android 
@@ -659,6 +662,7 @@
 
 ## code 
 
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [narenmanoharan/gpt-code-assistant](https://github.com/narenmanoharan/gpt-code-assistant) - gpt-code-assistant is an open-source coding assistant leveraging language models to search, retrieve, explore and understand any codebase.
 - [wooorm/starry-night](https://github.com/wooorm/starry-night) - Syntax highlighting, like GitHub
 
@@ -807,7 +811,7 @@
 - [ngneat/falso](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs 🙂
 - [quadratichq/quadratic](https://github.com/quadratichq/quadratic) - Quadratic | Data Science Spreadsheet with Python & SQL
 - [olifolkerd/tabulator](https://github.com/olifolkerd/tabulator) - Interactive Tables and Data Grids for JavaScript
-- [quicktype/glide-data-grid](https://github.com/quicktype/glide-data-grid) - 🦝 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support.
+- [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid) - 🦝 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support.
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 
@@ -894,7 +898,7 @@
 - [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite replicator built on top of NATS
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [wundergraph/wunderbase](https://github.com/wundergraph/wunderbase) - Serverless GraphQL Database built on top of Firecracker, SQLite and Prisma
-- [grafbase/grafbase](https://github.com/grafbase/grafbase) - The unified data layer
+- [grafbase/grafbase](https://github.com/grafbase/grafbase) - You data, globally fast.
 - [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build NodeJS / GO APIs in 5 minutes not weeks
 - [denodrivers/sqlite3](https://github.com/denodrivers/sqlite3) - The fastest and correct module for SQLite3 in Deno.
 - [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
@@ -1009,7 +1013,7 @@
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [metacall/core](https://github.com/metacall/core) - MetaCall: The ultimate polyglot programming experience.
-- [fonoster/routr](https://github.com/fonoster/routr) - ⚡ The future of programmable SIP servers
+- [fonoster/routr](https://github.com/fonoster/routr) - ⚡ The future of programmable SIP servers.
 - [Swetrix/swetrix-api](https://github.com/Swetrix/swetrix-api) - Swetrix Analytics API
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
@@ -1026,7 +1030,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [okteto/okteto](https://github.com/okteto/okteto) - Develop your applications directly in your Kubernetes Cluster
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative. Cloud version available here -&gt; https://app.coolify.io
 - [pluralsh/plural](https://github.com/pluralsh/plural) - Deploy open source software on Kubernetes in record time. 🚀
 - [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build NodeJS / GO APIs in 5 minutes not weeks
 - [testcontainers/testcontainers-node](https://github.com/testcontainers/testcontainers-node) - Testcontainers is a NodeJS library that supports tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
@@ -1260,6 +1264,7 @@
 
 ## game-development 
 
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [blueloveTH/pocketpy](https://github.com/blueloveTH/pocketpy) - Open Source Python Interpreter in 1 File for Game Scripting
 - [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - Open-source solution to deploy, scale, and operate your multiplayer game
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
@@ -1273,6 +1278,7 @@
 
 ## game-engine 
 
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
 - [korlibs/korge](https://github.com/korlibs/korge) - KorGE Game Engine. Multiplatform Kotlin Game Engine & Korlibs
 - [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
@@ -1284,6 +1290,7 @@
 
 ## gamedev 
 
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [acosgames/acosgames](https://github.com/acosgames/acosgames) - Simulator for ACOS game development using JavaScript
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
@@ -1460,7 +1467,7 @@
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
 - [wundergraph/wunderbase](https://github.com/wundergraph/wunderbase) - Serverless GraphQL Database built on top of Firecracker, SQLite and Prisma
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
-- [grafbase/grafbase](https://github.com/grafbase/grafbase) - The unified data layer
+- [grafbase/grafbase](https://github.com/grafbase/grafbase) - You data, globally fast.
 - [urql-graphql/urql](https://github.com/urql-graphql/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
 - [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build NodeJS / GO APIs in 5 minutes not weeks
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
@@ -1488,6 +1495,7 @@
 
 ## hacktoberfest 
 
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥
 - [embedchain/embedchainjs](https://github.com/embedchain/embedchainjs) - Framework to easily create LLM powered bots over any dataset.
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
@@ -1894,7 +1902,7 @@
 - [olifolkerd/tabulator](https://github.com/olifolkerd/tabulator) - Interactive Tables and Data Grids for JavaScript
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
-- [quicktype/glide-data-grid](https://github.com/quicktype/glide-data-grid) - 🦝 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support.
+- [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid) - 🦝 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support.
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) - ✨ Standard library for JavaScript and Node.js. ✨
@@ -2001,7 +2009,7 @@
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs g
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
-- [fonoster/routr](https://github.com/fonoster/routr) - ⚡ The future of programmable SIP servers
+- [fonoster/routr](https://github.com/fonoster/routr) - ⚡ The future of programmable SIP servers.
 - [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
 - [arakoodev/EdgeChains](https://github.com/arakoodev/EdgeChains) - EdgeChains is a new Language & Grammar for production-friendly Generative AI.  Based on Jsonnet & works everywhere  (java, python, js,etc). Prompts live declaratively & "outside code". Easy to Reason/
@@ -2224,7 +2232,7 @@
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [laxamentumtech/audnexus](https://github.com/laxamentumtech/audnexus) - An audiobook data aggregation API, combining multiple sources of data into one, consistent source.
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases.
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative. Cloud version available here -&gt; https://app.coolify.io
 - [hydro-dev/Hydro](https://github.com/hydro-dev/Hydro) - Hydro - Next generation high performance online-judge platform - 新一代高效强大的信息学在线测评系统 (a.k.a. vj5)
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
@@ -2263,7 +2271,7 @@
 - [readysettech/readyset](https://github.com/readysettech/readyset) - ReadySet is a lightweight SQL cache that enhances the performance and scalability of your DB without any code changes.
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases.
 - [jarulraj/sqlcheck](https://github.com/jarulraj/sqlcheck) - Automatically identify anti-patterns in SQL queries
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative. Cloud version available here -&gt; https://app.coolify.io
 - [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build NodeJS / GO APIs in 5 minutes not weeks
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
@@ -2306,7 +2314,7 @@
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual page builder and web design tool for any website or web app tech stack
 - [sst/open-next](https://github.com/sst/open-next) - Open source Next.js serverless adapter
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative. Cloud version available here -&gt; https://app.coolify.io
 - [open-source-labs/reactime](https://github.com/open-source-labs/reactime) - Developer tool for time travel debugging and performance monitoring in React applications.
 - [shinework/photoshot](https://github.com/shinework/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
@@ -2429,7 +2437,7 @@
 - [pilcrowOnPaper/lucia](https://github.com/pilcrowOnPaper/lucia) - Authentication, simple and clean
 - [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative. Cloud version available here -&gt; https://app.coolify.io
 - [typicode/xv](https://github.com/typicode/xv) - 🙅‍♀️ ✌️ A tiny test runner focused on simplicity and speed
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [jasonkuhrt/graphql-request](https://github.com/jasonkuhrt/graphql-request) - Minimal GraphQL client supporting Node and browsers for scripts or simple apps
@@ -2488,6 +2496,7 @@
 
 ## open-source 
 
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥
 - [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total cov
 - [PostOwl/postowl](https://github.com/PostOwl/postowl) - Create a personal website for your blog, journal and sending letters to friends.
@@ -2523,6 +2532,7 @@
 
 ## others 
 
+- [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through Multi-Agent Collaboration)
 - [Kode/Kha](https://github.com/Kode/Kha) - Ultra-portable, high performance, open source multimedia framework.
 - [egoist/dum](https://github.com/egoist/dum) - An npm scripts runner written in Rust.
@@ -2915,7 +2925,7 @@
 ## php 
 
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative. Cloud version available here -&gt; https://app.coolify.io
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
@@ -2953,7 +2963,7 @@
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases.
 - [jarulraj/sqlcheck](https://github.com/jarulraj/sqlcheck) - Automatically identify anti-patterns in SQL queries
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative. Cloud version available here -&gt; https://app.coolify.io
 - [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL
 - [jawj/zapatos](https://github.com/jawj/zapatos) - Zero-abstraction Postgres for TypeScript: a non-ORM database library
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
@@ -3245,7 +3255,7 @@
 - [olifolkerd/tabulator](https://github.com/olifolkerd/tabulator) - Interactive Tables and Data Grids for JavaScript
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
-- [quicktype/glide-data-grid](https://github.com/quicktype/glide-data-grid) - 🦝 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support.
+- [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid) - 🦝 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support.
 - [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - Zero-Legacy Deno/React Suspense SSR Framework
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [letterpad/letterpad](https://github.com/letterpad/letterpad) - A publishing platform for creative people. Discover a world of possibilities for your writing and creativity on Letterpad, the premier blogging platform for creative expression.
@@ -3299,7 +3309,7 @@
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
 - [fastify/fastify-dx](https://github.com/fastify/fastify-dx) - A Full Stack Framework based on Fastify and Vite. Built for great developer experience without compromising on performance and stability.
 - [AlexandroMtzG/remix-page-blocks](https://github.com/AlexandroMtzG/remix-page-blocks) - Simple page block editor with Remix and Tailwind CSS.
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative. Cloud version available here -&gt; https://app.coolify.io
 - [sanity-io/sanity](https://github.com/sanity-io/sanity) - Sanity Studio – Rapidly configure content workspaces powered by structured content
 - [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
 - [open-source-labs/reactime](https://github.com/open-source-labs/reactime) - Developer tool for time travel debugging and performance monitoring in React applications.
@@ -3314,7 +3324,7 @@
 - [pacexy/flow](https://github.com/pacexy/flow) - ePub Reader. Redefined.
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
-- [quicktype/glide-data-grid](https://github.com/quicktype/glide-data-grid) - 🦝 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support.
+- [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid) - 🦝 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support.
 - [letterpad/letterpad](https://github.com/letterpad/letterpad) - A publishing platform for creative people. Discover a world of possibilities for your writing and creativity on Letterpad, the premier blogging platform for creative expression.
 - [horizon-ui/horizon-ui-chakra](https://github.com/horizon-ui/horizon-ui-chakra) - Horizon UI JavaScript ⭐️ The trendiest & innovative Open Source Admin Template for Chakra UI & React!
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
@@ -3368,6 +3378,7 @@
 
 ## rust 
 
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [lancedb/lance](https://github.com/lancedb/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckD
 - [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Sveltekit.
@@ -3425,7 +3436,7 @@
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
 - [chiselstrike/chiselstrike](https://github.com/chiselstrike/chiselstrike) - ChiselStrike abstracts common backends components like databases and message queues, and let you drive them from a convenient TypeScript business logic layer
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
-- [grafbase/grafbase](https://github.com/grafbase/grafbase) - The unified data layer
+- [grafbase/grafbase](https://github.com/grafbase/grafbase) - You data, globally fast.
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript.
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
@@ -3545,7 +3556,7 @@
 - [fermyon/spin](https://github.com/fermyon/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [wundergraph/wunderbase](https://github.com/wundergraph/wunderbase) - Serverless GraphQL Database built on top of Firecracker, SQLite and Prisma
-- [grafbase/grafbase](https://github.com/grafbase/grafbase) - The unified data layer
+- [grafbase/grafbase](https://github.com/grafbase/grafbase) - You data, globally fast.
 - [anttiviljami/openapi-backend](https://github.com/anttiviljami/openapi-backend) - Build, Validate, Route, Authenticate and Mock using OpenAPI
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [upstash/upstash-redis](https://github.com/upstash/upstash-redis) - HTTP based Redis Client for Serverless and Edge Functions
@@ -3571,6 +3582,10 @@
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
+
+## sketch 
+
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 
 ## software 
 
@@ -3654,7 +3669,7 @@
 - [icflorescu/trpc-sveltekit](https://github.com/icflorescu/trpc-sveltekit) - End-to-end typesafe APIs with tRPC.io for your SvelteKit applications.
 - [fwouts/previewjs](https://github.com/fwouts/previewjs) - Preview UI components in your IDE instantly
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative. Cloud version available here -&gt; https://app.coolify.io
 - [pablo-abc/felte](https://github.com/pablo-abc/felte) - An extensible form library for Svelte, Solid and React
 - [CKGrafico/papanasi](https://github.com/CKGrafico/papanasi) - 🥯Papanasi is the Frontend UI library to use cross Frameworks. A set of components to use in Angular, Preact, Qwik, React, Solid, Svelte, Vue and Web Components
 - [appy-one/acebase](https://github.com/appy-one/acebase) - A fast, low memory, transactional, index & query enabled NoSQL database engine and server for node.js and browser with realtime data change notifications
@@ -3764,6 +3779,7 @@
 
 ## typescript 
 
+- [Ironclad/rivet](https://github.com/Ironclad/rivet) - The open-source visual AI programming environment and TypeScript library
 - [fogbender/b2b-saaskit](https://github.com/fogbender/b2b-saaskit) - B2B SaaS Starter Kit - create a B2B web app: quickly and for free
 - [ardatan/feTS](https://github.com/ardatan/feTS) - TypeScript HTTP Framework focusing on e2e type-safety, easy setup, performance & great developer experience
 - [stepci/garph](https://github.com/stepci/garph) - Fullstack GraphQL Framework for TypeScript
@@ -3909,7 +3925,7 @@
 - [ConduitPlatform/Conduit](https://github.com/ConduitPlatform/Conduit) - Batteries-included backend that works with any stack.
 - [OrJDev/create-jd-app](https://github.com/OrJDev/create-jd-app) - The quickest and most efficient way to start new full stack, type safed Solid web app
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
-- [quicktype/glide-data-grid](https://github.com/quicktype/glide-data-grid) - 🦝 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support.
+- [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid) - 🦝 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support.
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - Zero-Legacy Deno/React Suspense SSR Framework
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
@@ -3937,7 +3953,6 @@
 
 ## ubuntu 
 
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 
@@ -4002,7 +4017,7 @@
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [fastify/fastify-dx](https://github.com/fastify/fastify-dx) - A Full Stack Framework based on Fastify and Vite. Built for great developer experience without compromising on performance and stability.
 - [moollaza/repo-remover](https://github.com/moollaza/repo-remover) - A web app that helps you archive and delete old/unused repos, quickly and easily.
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative. Cloud version available here -&gt; https://app.coolify.io
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [histoire-dev/histoire](https://github.com/histoire-dev/histoire) - ⚡ Fast and beautiful interactive component playgrounds, powered by Vite
 - [simon987/sist2](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool
