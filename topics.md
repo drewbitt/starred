@@ -2533,6 +2533,7 @@
 
 ## others 
 
+- [takielias/tablar](https://github.com/takielias/tablar) - Tablar: A Laravel Dashboard Preset Based on Tabler HTML Template + Vite. Demo https://tablar.ebuz.xyz
 - [measuredco/puck](https://github.com/measuredco/puck) - The self-hosted drag and drop editor for React.
 - [leap-ai/headshots-starter](https://github.com/leap-ai/headshots-starter) - 
 - [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
