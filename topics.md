@@ -808,7 +808,7 @@
 
 ## data 
 
-- [paradedb/retake](https://github.com/paradedb/retake) - Open-Source Hybrid Search for Postgres
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - PostgreSQL for Search
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [ngneat/falso](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs 🙂
@@ -831,6 +831,7 @@
 
 ## data-science 
 
+- [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
 - [lancedb/lance](https://github.com/lancedb/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckD
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [quadratichq/quadratic](https://github.com/quadratichq/quadratic) - Quadratic | Data Science Spreadsheet with Python & SQL
@@ -948,7 +949,7 @@
 - [surrealdb/surrealdb.js](https://github.com/surrealdb/surrealdb.js) - SurrealDB driver for JavaScript
 - [skoshx/pentagon](https://github.com/skoshx/pentagon) - Prisma-like ORM built on top of Deno KV. Allows you to write your database schemas and relations using Zod schemas, and run queries using familiar syntax from Prisma.
 - [cheetahstudio/cheetah](https://github.com/cheetahstudio/cheetah) - A framework for the modern web. | Cooking v2.0!
-- [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for the Edges
+- [honojs/hono](https://github.com/honojs/hono) - Lightweight, Ultrafast, Web Standards
 - [mattvr/ShellGPT](https://github.com/mattvr/ShellGPT) - Upgrade your terminal with GPT-4. Ask questions, automate commands, pipe I/O, etc. with deno + typescript
 - [Hexagon/croner](https://github.com/Hexagon/croner) - Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.
 - [denoland/saaskit](https://github.com/denoland/saaskit) - A modern SaaS template built on Fresh.
@@ -2486,7 +2487,7 @@
 ## npm 
 
 - [embedchain/embedchainjs](https://github.com/embedchain/embedchainjs) - Framework to easily create LLM powered bots over any dataset.
-- [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for the Edges
+- [honojs/hono](https://github.com/honojs/hono) - Lightweight, Ultrafast, Web Standards
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [listr2/listr2](https://github.com/listr2/listr2) - NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive.
@@ -2545,7 +2546,6 @@
 - [Kode/Kha](https://github.com/Kode/Kha) - Ultra-portable, high performance, open source multimedia framework.
 - [egoist/dum](https://github.com/egoist/dum) - An npm scripts runner written in Rust.
 - [dtinth/openapi-trpc](https://github.com/dtinth/openapi-trpc) - Generate OpenAPI v3 document from a tRPC router, adhering to tRPC’s HTTP RPC Specification
-- [astridlol/Hitori](https://github.com/astridlol/Hitori) - Serverless Discord bot template using tRPC and Prisma.
 - [maloguertin/msw-trpc](https://github.com/maloguertin/msw-trpc) - tPRC support for MSW
 - [AlchlcDvl/TownOfUsReworked](https://github.com/AlchlcDvl/TownOfUsReworked) - Town Of Us but better! (hopefully)
 - [btpf/Alexandria](https://github.com/btpf/Alexandria) - A minimalistic cross-platform eBook reader built with Tauri, Epub.js, and Typescript
@@ -2726,7 +2726,7 @@
 - [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [WebCoder49/code-input](https://github.com/WebCoder49/code-input) - Fully customisable, editable syntax-highlighted textareas.
-- [wesleyegberto/java-new-features](https://github.com/wesleyegberto/java-new-features) - Exploring Java 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21
+- [wesleyegberto/java-new-features](https://github.com/wesleyegberto/java-new-features) - Exploring Java 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22
 - [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia) - Design ❤️ Code
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall
 - [iway1/react-ts-form](https://github.com/iway1/react-ts-form) - 
@@ -2940,7 +2940,7 @@
 
 ## postgresql 
 
-- [paradedb/retake](https://github.com/paradedb/retake) - Open-Source Hybrid Search for Postgres
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - PostgreSQL for Search
 - [noborus/trdsql](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN. Can output to various formats.
 - [centerofci/mathesar](https://github.com/centerofci/mathesar) - Web application providing an intuitive user experience to databases.
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Materialize is an Operational Data Warehouse: A cloud data warehouse with streaming internals, built for work that needs action on what’s happening right now.
@@ -3020,7 +3020,7 @@
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [griptape-ai/griptape](https://github.com/griptape-ai/griptape) - Python framework for AI workflows and pipelines with chain of thought reasoning, tools, and memory. Griptape is an enterprise grade alternative to LangChain.
 - [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
-- [paradedb/retake](https://github.com/paradedb/retake) - Open-Source Hybrid Search for Postgres
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - PostgreSQL for Search
 - [denosaurs/deno_python](https://github.com/denosaurs/deno_python) - 🐍 Python interpreter bindings for Deno.
 - [metacall/core](https://github.com/metacall/core) - MetaCall: The ultimate polyglot programming experience.
 - [trailofbits/graphtage](https://github.com/trailofbits/graphtage) - A semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV.
@@ -3830,7 +3830,7 @@
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
 - [ivanhofer/sveltekit-typescript-showcase](https://github.com/ivanhofer/sveltekit-typescript-showcase) - This repository shows how Svelte and SvelteKit work together with TypeScript.
 - [dosco/llm-client](https://github.com/dosco/llm-client) - LLMClient - A Caching and Debugging Proxy Server for LLM Users and A Multi-LLM Client Library
-- [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for the Edges
+- [honojs/hono](https://github.com/honojs/hono) - Lightweight, Ultrafast, Web Standards
 - [impulse-oss/impulse](https://github.com/impulse-oss/impulse) - Impossible Dev Tools for React and Tailwind
 - [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents
 - [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
