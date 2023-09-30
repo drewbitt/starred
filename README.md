@@ -152,8 +152,8 @@
 
 - [Norbyte/lslib](https://github.com/Norbyte/lslib) - Tools for manipulating Divinity Original Sin and Baldur's Gate 3 files
 - [AlchlcDvl/TownOfUsReworked](https://github.com/AlchlcDvl/TownOfUsReworked) - Town Of Us but better! (hopefully)
-- [ykundesu/SuperNewRoles](https://github.com/ykundesu/SuperNewRoles) - モードや役職など、様々な要素があるMOD、SuperNewRoles!!!!
-- [Loonie-Toons/TownOfHost-ReEdited](https://github.com/Loonie-Toons/TownOfHost-ReEdited) - A continuation of TOHE to keep its development going.
+- [SuperNewRoles/SuperNewRoles](https://github.com/SuperNewRoles/SuperNewRoles) - モードや役職など、様々な要素があるMOD、SuperNewRoles!!!!
+- [Loonie-Toons/Re-Edited](https://github.com/Loonie-Toons/Re-Edited) - A continuation of TOHE to keep its development going.
 - [DigiWorm0/LevelImposter](https://github.com/DigiWorm0/LevelImposter) - Custom Among Us Mapping Studio (BepInEx Mod)
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 - [yukieiji/ExtremeRoles](https://github.com/yukieiji/ExtremeRoles) - AmongUs Mod for Advanced User(+80 roles, +700 options, and Cosmic addon)
@@ -1210,6 +1210,7 @@
 
 ## TypeScript 
 
+- [OrangeDrangon/android-messages-desktop](https://github.com/OrangeDrangon/android-messages-desktop) - Android Messages as a Cross-platform Desktop App
 - [ciscoheat/sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit validation and displaying of forms easier than ever!
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Supercharges Prisma ORM with access control layer 🔐 and auto-generated CRUD API & hooks
@@ -1466,7 +1467,7 @@
 - [brophdawg11/remix-routers](https://github.com/brophdawg11/remix-routers) - A collection of UI library implementations of the Remix Router
 - [open-source-labs/reactime](https://github.com/open-source-labs/reactime) - Developer tool for time travel debugging and performance monitoring in React applications.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
-- [benallfree/pockethost](https://github.com/benallfree/pockethost) - PocketBase hosting
+- [pockethost/pockethost](https://github.com/pockethost/pockethost) - PocketBase hosting
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [sannajammeh/tw-classed](https://github.com/sannajammeh/tw-classed) - 
 - [p42ai/js-assistant](https://github.com/p42ai/js-assistant) - 120+ refactorings and code-assists for Visual Studio Code
@@ -1617,7 +1618,7 @@
 ## WebAssembly 
 
 - [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript-like language for WebAssembly.
-- [korlibs/korge](https://github.com/korlibs/korge) - KorGE Game Engine. Multiplatform Kotlin Game Engine & Korlibs
+- [korlibs/korge](https://github.com/korlibs/korge) - KorGE Game Engine. Multiplatform Kotlin Game Engine
 
 ## Zig 
 
