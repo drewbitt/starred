@@ -497,7 +497,7 @@
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [chiselstrike/chiselstrike](https://github.com/chiselstrike/chiselstrike) - ChiselStrike abstracts common backends components like databases and message queues, and let you drive them from a convenient TypeScript business logic layer
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
-- [grafbase/grafbase](https://github.com/grafbase/grafbase) - Your data, globally fast.
+- [grafbase/grafbase](https://github.com/grafbase/grafbase) - The unified data layer
 - [mojolicious/mojo.js](https://github.com/mojolicious/mojo.js) - :unicorn: The Mojolicious real-time web framework for Node.js
 - [ConduitPlatform/Conduit](https://github.com/ConduitPlatform/Conduit) - Batteries-included backend that works with any stack.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
@@ -898,7 +898,7 @@
 - [aerotoad/neboa](https://github.com/aerotoad/neboa) - Type-safe NoSQL with Node & SQLite. 🌫️💽
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - Personalized AI SQL Agent
 - [losfair/mvsqlite](https://github.com/losfair/mvsqlite) - Distributed, MVCC SQLite that runs on FoundationDB.
-- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Materialize is an Operational Data Warehouse: A cloud data warehouse with streaming internals, built for work that needs action on what’s happening right now.
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The data warehouse for operational workloads.
 - [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) - Database system for AI-powered apps
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to databases.
@@ -932,7 +932,7 @@
 - [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite replicator built on top of NATS
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [wundergraph/wunderbase](https://github.com/wundergraph/wunderbase) - Serverless GraphQL Database built on top of Firecracker, SQLite and Prisma
-- [grafbase/grafbase](https://github.com/grafbase/grafbase) - Your data, globally fast.
+- [grafbase/grafbase](https://github.com/grafbase/grafbase) - The unified data layer
 - [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build NodeJS / GO APIs in 5 minutes not weeks
 - [denodrivers/sqlite3](https://github.com/denodrivers/sqlite3) - The fastest and correct module for SQLite3 in Deno.
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
@@ -1514,7 +1514,7 @@
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
 - [wundergraph/wunderbase](https://github.com/wundergraph/wunderbase) - Serverless GraphQL Database built on top of Firecracker, SQLite and Prisma
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
-- [grafbase/grafbase](https://github.com/grafbase/grafbase) - Your data, globally fast.
+- [grafbase/grafbase](https://github.com/grafbase/grafbase) - The unified data layer
 - [urql-graphql/urql](https://github.com/urql-graphql/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
 - [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build NodeJS / GO APIs in 5 minutes not weeks
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
@@ -1549,6 +1549,7 @@
 - [ash-project/ash](https://github.com/ash-project/ash) - A declarative and extensible framework for building Elixir applications.
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
+- [blueloveTH/pocketpy](https://github.com/blueloveTH/pocketpy) - Open Source Python Interpreter in 1 File for Game Scripting
 - [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥
 - [firecamp-dev/firecamp](https://github.com/firecamp-dev/firecamp) - open-source postman alternative inspired by vscode dx.
 - [trypromptly/LLMStack](https://github.com/trypromptly/LLMStack) - No-code platform to build generative AI apps, chatbots and agents with your data
@@ -1680,6 +1681,7 @@
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - 
+- [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [TypeScriptToLua/TypeScriptToLua](https://github.com/TypeScriptToLua/TypeScriptToLua) - Typescript to lua transpiler. https://typescripttolua.github.io/
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
@@ -1874,6 +1876,7 @@
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimal code by using schema as the single source of truth.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
+- [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
 - [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
@@ -2631,6 +2634,7 @@
 
 ## others 
 
+- [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
 - [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [ezyang/ghstack](https://github.com/ezyang/ghstack) - Submit stacked diffs to GitHub on the command line
 - [egoist/tailwindcss-icons](https://github.com/egoist/tailwindcss-icons) - Use any icon (100,000+) from Iconify, for TailwindCSS
@@ -2679,7 +2683,6 @@
 - [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
 - [codex-storage/nim-codex](https://github.com/codex-storage/nim-codex) - Decentralized Durability Engine
 - [blawar/titledb](https://github.com/blawar/titledb) - 
-- [Loonie-Toons/Re-Edited](https://github.com/Loonie-Toons/Re-Edited) - A continuation of TOHE to keep its development going.
 - [mquan/api2ai](https://github.com/mquan/api2ai) - Create API agents from OpenAPI Specs
 - [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
 - [unjs/unstorage](https://github.com/unjs/unstorage) - 💾 Unstorage provides an async Key-Value storage API with conventional features like multi driver mounting, watching and working with metadata, dozens of built-in drivers and a tiny core.
@@ -3036,7 +3039,7 @@
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - PostgreSQL for Search
 - [noborus/trdsql](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN. Can output to various formats.
 - [centerofci/mathesar](https://github.com/centerofci/mathesar) - Web application providing an intuitive user experience to databases.
-- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Materialize is an Operational Data Warehouse: A cloud data warehouse with streaming internals, built for work that needs action on what’s happening right now.
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The data warehouse for operational workloads.
 - [allaboutapps/integresql](https://github.com/allaboutapps/integresql) - IntegreSQL manages isolated PostgreSQL databases for your integration tests.
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto is a modern Auth0 alternative for building identity infrastructure with minimal effort, for both your customers and their organizations.
 - [kysely-org/awesome-kysely](https://github.com/kysely-org/awesome-kysely) - A curated list of Kysely resources, tools, utilities and applications.
@@ -3112,6 +3115,7 @@
 - [lancedb/lance](https://github.com/lancedb/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckD
 - [blueloveTH/pocketpy](https://github.com/blueloveTH/pocketpy) - Open Source Python Interpreter in 1 File for Game Scripting
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
+- [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [griptape-ai/griptape](https://github.com/griptape-ai/griptape) - Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory. Griptape is an enterprise grade alternative to LangChain.
 - [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
@@ -3500,7 +3504,7 @@
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
 - [losfair/mvsqlite](https://github.com/losfair/mvsqlite) - Distributed, MVCC SQLite that runs on FoundationDB.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
-- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Materialize is an Operational Data Warehouse: A cloud data warehouse with streaming internals, built for work that needs action on what’s happening right now.
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The data warehouse for operational workloads.
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
@@ -3548,7 +3552,7 @@
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
 - [chiselstrike/chiselstrike](https://github.com/chiselstrike/chiselstrike) - ChiselStrike abstracts common backends components like databases and message queues, and let you drive them from a convenient TypeScript business logic layer
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
-- [grafbase/grafbase](https://github.com/grafbase/grafbase) - Your data, globally fast.
+- [grafbase/grafbase](https://github.com/grafbase/grafbase) - The unified data layer
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript.
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
@@ -3670,7 +3674,7 @@
 - [fermyon/spin](https://github.com/fermyon/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [wundergraph/wunderbase](https://github.com/wundergraph/wunderbase) - Serverless GraphQL Database built on top of Firecracker, SQLite and Prisma
-- [grafbase/grafbase](https://github.com/grafbase/grafbase) - Your data, globally fast.
+- [grafbase/grafbase](https://github.com/grafbase/grafbase) - The unified data layer
 - [anttiviljami/openapi-backend](https://github.com/anttiviljami/openapi-backend) - Build, Validate, Route, Authenticate and Mock using OpenAPI
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [upstash/upstash-redis](https://github.com/upstash/upstash-redis) - HTTP based Redis Client for Serverless and Edge Functions
@@ -3719,7 +3723,7 @@
 - [electric-sql/electric](https://github.com/electric-sql/electric) - Local-first sync layer for web and mobile apps. Build reactive, realtime, local-first apps directly on Postgres.
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - Personalized AI SQL Agent
 - [noborus/trdsql](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN. Can output to various formats.
-- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Materialize is an Operational Data Warehouse: A cloud data warehouse with streaming internals, built for work that needs action on what’s happening right now.
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The data warehouse for operational workloads.
 - [tndrle/node-sqlite3-wasm](https://github.com/tndrle/node-sqlite3-wasm) - WebAssembly port of SQLite3 for Node.js with file system access
 - [kysely-org/awesome-kysely](https://github.com/kysely-org/awesome-kysely) - A curated list of Kysely resources, tools, utilities and applications.
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
@@ -3909,6 +3913,7 @@
 - [ardatan/feTS](https://github.com/ardatan/feTS) - TypeScript HTTP Framework focusing on e2e type-safety, easy setup, performance & great developer experience
 - [stepci/garph](https://github.com/stepci/garph) - Fullstack GraphQL Framework for TypeScript
 - [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
+- [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥
 - [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Sveltekit.
 - [microsoft/devicescript](https://github.com/microsoft/devicescript) - TypeScript for Tiny IoT Devices (ESP32, RP2040, ...)
