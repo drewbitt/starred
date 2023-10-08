@@ -19,6 +19,7 @@
 - [Crystal](#crystal)
 - [Cython](#cython)
 - [Dart](#dart)
+- [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Elm](#elm)
 - [F#](#f#)
@@ -74,6 +75,7 @@
 
 ## Assembly 
 
+- [z88dk/z88dk](https://github.com/z88dk/z88dk) - The development kit for over a hundred z80 family machines - c compiler, assembler, linker, libraries.
 - [xiph/rav1e](https://github.com/xiph/rav1e) - The fastest and safest AV1 encoder.
 
 ## Astro 
@@ -95,6 +97,10 @@
 
 ## C 
 
+- [madler/pigz](https://github.com/madler/pigz) - A parallel implementation of gzip for modern multi-processor, multi-core machines.
+- [jakehilborn/displayplacer](https://github.com/jakehilborn/displayplacer) - macOS command line utility to configure multi-display resolutions and arrangements. Essentially XRandR for macOS.
+- [trholding/llama2.c](https://github.com/trholding/llama2.c) - Llama 2 Everywhere (L2E)
+- [berry-lang/berry](https://github.com/berry-lang/berry) - A ultra-lightweight embedded scripting language optimized for microcontrollers.
 - [Kode/Kha](https://github.com/Kode/Kha) - Ultra-portable, high performance, open source multimedia framework.
 - [adrianseeley/FastMJPG](https://github.com/adrianseeley/FastMJPG) - FastMJPG is a command line tool for capturing, sending, receiving, rendering, piping, and recording MJPG video with extremely low latency. It is optimized for running on constrained hardware and batte
 - [arthenica/ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
@@ -107,7 +113,6 @@
 - [orioledb/orioledb](https://github.com/orioledb/orioledb) - OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)  🇺🇦
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
 - [fhanau/Efficient-Compression-Tool](https://github.com/fhanau/Efficient-Compression-Tool) - Fast and effective C++ file optimizer
-- [z88dk/z88dk](https://github.com/z88dk/z88dk) - The development kit for over a hundred z80 family machines - c compiler, assembler, linker, libraries.
 - [empathicqubit/wabbitemu](https://github.com/empathicqubit/wabbitemu) - Wabbitemu is a Z80 TI Calculator emulator
 - [nmap/npcap](https://github.com/nmap/npcap) - Nmap Project's Windows packet capture and transmission library
 - [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / finder) app for Windows and Linux.
@@ -180,6 +185,7 @@
 
 ## C++ 
 
+- [kanjitalk755/macemu](https://github.com/kanjitalk755/macemu) - Basilisk II and SheepShaver Macintosh emulators
 - [blueloveTH/pocketpy](https://github.com/blueloveTH/pocketpy) - Open Source Python Interpreter in 1 File for Game Scripting
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
 - [ASDAlexander77/TypeScriptCompiler](https://github.com/ASDAlexander77/TypeScriptCompiler) - TypeScript Compiler (by LLVM)
@@ -296,6 +302,10 @@
 - [CRED-CLUB/neopop-flutter](https://github.com/CRED-CLUB/neopop-flutter) - NeoPOP is CRED's inbuilt library for using NeoPOP components in your app
 - [ionicfirebaseapp/getwidget](https://github.com/ionicfirebaseapp/getwidget) - Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app.
 
+## Dockerfile 
+
+- [ublue-os/obs-studio-portable](https://github.com/ublue-os/obs-studio-portable) - OCI container image of OBS Studio that bundles a curated collection of 3rd party plugins
+
 ## Elixir 
 
 - [ash-project/ash](https://github.com/ash-project/ash) - A declarative and extensible framework for building Elixir applications.
@@ -326,6 +336,7 @@
 
 ## Go 
 
+- [beringresearch/macpine](https://github.com/beringresearch/macpine) - Lightweight Linux VMs on MacOS
 - [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
 - [encoredev/encore](https://github.com/encoredev/encore) - Encore is the end-to-end Backend Development Platform that lets you escape cloud complexity.
 - [ejoffe/spr](https://github.com/ejoffe/spr) - Stacked Pull Requests on GitHub
@@ -757,6 +768,8 @@
 
 ## Nix 
 
+- [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin
+- [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) - My NixOS configurations.
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 
@@ -766,6 +779,7 @@
 
 ## Objective-C 
 
+- [quicksilver/Quicksilver](https://github.com/quicksilver/Quicksilver) - Quicksilver Project Source
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall
 
 ## Others 
@@ -830,6 +844,7 @@
 
 ## Python 
 
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [ezyang/ghstack](https://github.com/ezyang/ghstack) - Submit stacked diffs to GitHub on the command line
 - [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
@@ -1016,6 +1031,7 @@
 
 ## Ruby 
 
+- [macOScontainers/homebrew-formula](https://github.com/macOScontainers/homebrew-formula) - 
 - [vagrant-libvirt/vagrant-libvirt](https://github.com/vagrant-libvirt/vagrant-libvirt) - Vagrant provider for libvirt.
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
@@ -1161,6 +1177,7 @@
 
 ## Shell 
 
+- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [xonixx/makesure](https://github.com/xonixx/makesure) - Simple task/command runner with declarative goals and dependencies
 - [xlab-steampunk/spotter-action](https://github.com/xlab-steampunk/spotter-action) - GitHub Action for Steampunk Spotter
 - [b1337xyz/scripts](https://github.com/b1337xyz/scripts) - 
@@ -1195,6 +1212,7 @@
 
 ## Swift 
 
+- [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [mikehouse/Apple-TV-Player](https://github.com/mikehouse/Apple-TV-Player) - Apple TV m3u iptv player tvOS free open source
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [hylo-lang/hylo](https://github.com/hylo-lang/hylo) - The Hylo programming language
@@ -1212,6 +1230,9 @@
 
 ## TypeScript 
 
+- [Helicone/helicone](https://github.com/Helicone/helicone) - 
+- [JLCarveth/nutty](https://github.com/JLCarveth/nutty) - A very simple HTTP server, and a paste server implementation.
+- [leigna/json-schema-to-deno-ts-util](https://github.com/leigna/json-schema-to-deno-ts-util) - This is a tool that converts JSON schemas into TypeScript utility classes for use in Deno.
 - [OrangeDrangon/android-messages-desktop](https://github.com/OrangeDrangon/android-messages-desktop) - Android Messages as a Cross-platform Desktop App
 - [ciscoheat/sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit validation and displaying of forms easier than ever!
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
@@ -1238,7 +1259,7 @@
 - [maloguertin/msw-trpc](https://github.com/maloguertin/msw-trpc) - tPRC support for MSW
 - [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
 - [btpf/Alexandria](https://github.com/btpf/Alexandria) - A minimalistic cross-platform eBook reader built with Tauri, Epub.js, and Typescript
-- [firecamp-dev/firecamp](https://github.com/firecamp-dev/firecamp) - open-source postman alternative inspired by vscode dx.
+- [firecamp-dev/firecamp](https://github.com/firecamp-dev/firecamp) - vscode for apis, open-source postman/insomnia alternative
 - [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Sveltekit.
 - [vantezzen/auto-form](https://github.com/vantezzen/auto-form) - 🌟  A React component that automatically creates a @shadcn/ui form based on a zod schema.
 - [microsoft/devicescript](https://github.com/microsoft/devicescript) - TypeScript for Tiny IoT Devices (ESP32, RP2040, ...)
