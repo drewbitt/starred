@@ -263,6 +263,7 @@
 
 ## Clojure 
 
+- [hyperfiddle/electric](https://github.com/hyperfiddle/electric) - a reactive Clojure dialect for web development that uses a compiler to infer the frontend/backend boundary
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [babashka/nbb](https://github.com/babashka/nbb) - Scripting in Clojure on Node.js using SCI
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
@@ -289,6 +290,7 @@
 
 ## Dart 
 
+- [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android App Updates Directly From the Source.
 - [rive-app/rive-flutter](https://github.com/rive-app/rive-flutter) - 
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [serverpod/serverpod](https://github.com/serverpod/serverpod) - Serverpod is a next-generation app and web server, explicitly built for the Flutter and Dart ecosystem.
@@ -451,7 +453,7 @@
 ## HTML 
 
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source lic
-- [mdbootstrap/Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
+- [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
 - [w3ctag/privacy-principles](https://github.com/w3ctag/privacy-principles) - 
@@ -491,6 +493,7 @@
 
 ## Java 
 
+- [johanw666/Signal-Android](https://github.com/johanw666/Signal-Android) - Fork from a private messenger for Android with extra options added: full backup and (partial, ony text) xml backup of messages. Restore can happen at any time, not only after a fresh install. Import S
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
 - [chat2db/Chat2DB](https://github.com/chat2db/Chat2DB) - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
 - [arakoodev/EdgeChains](https://github.com/arakoodev/EdgeChains) - EdgeChains & EdgeChains.js is a new Language & Grammar for production-friendly Generative AI.  Based on Jsonnet & works everywhere  (java, python, js,etc). Prompts live declaratively & "outside code".
@@ -845,6 +848,7 @@
 
 ## Python 
 
+- [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
 - [Yakabuff/redarc](https://github.com/Yakabuff/redarc) - Collection of tools to view, search and create Reddit archives
 - [mystral-ai/devtale](https://github.com/mystral-ai/devtale) - Document whole code repositories with LLMs
 - [flairNLP/fabricator](https://github.com/flairNLP/fabricator) - Generating and annotating datasets with large language models
@@ -914,7 +918,7 @@
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - NEW - YOLOv8 🚀 in PyTorch &gt; ONNX &gt; OpenVINO &gt; CoreML &gt; TFLite
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - The flexibility of Python with the scale and performance of modern SQL.
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (GPT Index) is a data framework for your LLM applications
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
 - [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
@@ -950,14 +954,14 @@
 - [ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) - An easy and fast way to create a Python GUI 🐍
 - [onekey-sec/unblob](https://github.com/onekey-sec/unblob) - Extract files from any kind of container formats
 - [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra automates infrastructure using Python. It’s fast and scales from one server to thousands. Great for ad-hoc command execution, service deployment, configuration management and more.
-- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
+- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [whipper-team/whipper](https://github.com/whipper-team/whipper) - Python CD-DA ripper preferring accuracy over speed
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸 Web apps in pure Python 🐍
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [djdembeck/Audnexus.bundle](https://github.com/djdembeck/Audnexus.bundle) - An audnexus client, providing rich author and audiobook data to Plex via it's legacy plugin agent system.
+- [djdembeck/Audnexus.bundle](https://github.com/djdembeck/Audnexus.bundle) - An Audnexus client proof of concept for Plex, providing rich author and audiobook data. Developed in Python, offering enhanced user experiences via Plex's legacy plugin agent system.
 - [AutoViML/AutoViz](https://github.com/AutoViML/AutoViz) - Automatically Visualize any dataset, any size with a single line of code.  Created by Ram Seshadri. Collaborators Welcome. Permission Granted upon Request.
 - [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
@@ -1048,6 +1052,7 @@
 
 ## Rust 
 
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Sub-second search & analytics engine on cloud storage
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
@@ -1083,7 +1088,6 @@
 - [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
-- [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
@@ -1152,7 +1156,6 @@
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [Zaplib/zaplib](https://github.com/Zaplib/zaplib) - ⚡ Zaplib is an open-source library for speeding up web applications using Rust and WebAssembly.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -1234,6 +1237,7 @@
 
 ## TypeScript 
 
+- [japa/runner](https://github.com/japa/runner) - Standalone test runner built on top of japa core
 - [meistrari/cursive](https://github.com/meistrari/cursive) - ✦ The intuitive LLM framework
 - [axflow/axflow](https://github.com/axflow/axflow) - The TypeScript framework for AI development
 - [Helicone/helicone](https://github.com/Helicone/helicone) - 
@@ -1397,7 +1401,7 @@
 - [Kanaries/Rath](https://github.com/Kanaries/Rath) - Next generation of automated data exploratory analysis and visualization platform.
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
 - [lost-pixel/lost-pixel](https://github.com/lost-pixel/lost-pixel) - Holistic visual testing for your Frontend 🖼 First class integration with Storybook, Ladle, Playwright & other frontend libraries.
-- [laxamentumtech/audnexus](https://github.com/laxamentumtech/audnexus) - An audiobook data aggregation API, combining multiple sources of data into one, consistent source.
+- [laxamentumtech/audnexus](https://github.com/laxamentumtech/audnexus) - An audiobook data aggregation API that harmonizes data from multiple sources into a unified stream. It offers a consistent and user-friendly source of audiobook data for various applications.
 - [kidonng/unocss-preset-daisy](https://github.com/kidonng/unocss-preset-daisy) - UnoCSS preset for daisyUI
 - [natemoo-re/clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps
 - [dsherret/dax](https://github.com/dsherret/dax) - Cross platform shell tools for Deno inspired by zx.
@@ -1589,6 +1593,7 @@
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 - [etesync/etebase-js](https://github.com/etesync/etebase-js) - Etebase TypeScript API for the web, node and react-native!
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [mydraft-cc/ui](https://github.com/mydraft-cc/ui) - Open source wireframing tool written in typescript, react and redux.
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
@@ -1637,6 +1642,7 @@
 
 ## Vue 
 
+- [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from Swagger files ✨
 - [kochrt/qr-designer](https://github.com/kochrt/qr-designer) - QR designer web app with a novel method of designing qr codes that does not take advantage of error correction
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
 - [KlausSchaefers/quant-ux](https://github.com/KlausSchaefers/quant-ux) - Quant-UX - Prototype, Test and Learn
