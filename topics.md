@@ -219,6 +219,7 @@
 
 ## ai 
 
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop app for multiple cutting-edge LLM models that available on Windows, Mac, Linux
 - [microsoft/promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
 - [axflow/axflow](https://github.com/axflow/axflow) - The TypeScript framework for AI development
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
@@ -348,7 +349,7 @@
 - [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from Swagger files ✨
 - [Yakabuff/redarc](https://github.com/Yakabuff/redarc) - Collection of tools to view, search and create Reddit archives
 - [encoredev/encore](https://github.com/encoredev/encore) - Encore is the end-to-end Backend Development Platform that lets you escape cloud complexity.
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimal code by using schema as the single source of truth.
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimal code using schema for data model and authorization
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [open-source-labs/Swell](https://github.com/open-source-labs/Swell) - Swell: API development tool that enables developers to test endpoints served over streaming technologies including Server-Sent Events (SSE), WebSockets, HTTP2, GraphQL, gRPC, and tRPC..
 - [firecamp-dev/firecamp](https://github.com/firecamp-dev/firecamp) - vscode for apis, open-source postman/insomnia alternative
@@ -568,6 +569,7 @@
 
 ## chatgpt 
 
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop app for multiple cutting-edge LLM models that available on Windows, Mac, Linux
 - [microsoft/promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [embedchain/embedchainjs](https://github.com/embedchain/embedchainjs) - Framework to easily create LLM powered bots over any dataset.
@@ -629,6 +631,8 @@
 
 ## cli 
 
+- [ranyitz/qnm](https://github.com/ranyitz/qnm) - :mag: cli utility for querying the node_modules directory
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [noborus/trdsql](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN. Can output to various formats.
 - [danielgtaylor/restish](https://github.com/danielgtaylor/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
@@ -1028,7 +1032,7 @@
 - [encoredev/encore](https://github.com/encoredev/encore) - Encore is the end-to-end Backend Development Platform that lets you escape cloud complexity.
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
 - [ergomake/layerform](https://github.com/ergomake/layerform) - Layerform helps engineers create reusable environment stacks using plain .tf files. Ideal for multiple "staging" environments.
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -1068,7 +1072,7 @@
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines for macOS
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
@@ -1447,6 +1451,7 @@
 
 ## golang 
 
+- [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [beringresearch/macpine](https://github.com/beringresearch/macpine) - Lightweight Linux VMs on MacOS
 - [encoredev/encore](https://github.com/encoredev/encore) - Encore is the end-to-end Backend Development Platform that lets you escape cloud complexity.
 - [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
@@ -1558,9 +1563,10 @@
 
 ## hacktoberfest 
 
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimal code by using schema as the single source of truth.
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimal code using schema for data model and authorization
 - [lukeautry/tsoa](https://github.com/lukeautry/tsoa) - Build OpenAPI-compliant REST APIs using TypeScript and Node
 - [react-hookz/web](https://github.com/react-hookz/web) - React hooks done right, for browser and SSR.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
@@ -1597,7 +1603,7 @@
 - [winglang/wing](https://github.com/winglang/wing) - The Wing Programming Language
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
 - [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [honojs/hono](https://github.com/honojs/hono) - Lightweight, Ultrafast, Web Standards
@@ -1896,7 +1902,8 @@
 
 ## javascript 
 
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimal code by using schema as the single source of truth.
+- [ranyitz/qnm](https://github.com/ranyitz/qnm) - :mag: cli utility for querying the node_modules directory
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimal code using schema for data model and authorization
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 - [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥
@@ -2126,7 +2133,7 @@
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [fonoster/routr](https://github.com/fonoster/routr) - ⚡ The future of programmable SIP servers.
 - [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [arakoodev/EdgeChains](https://github.com/arakoodev/EdgeChains) - EdgeChains & EdgeChains.js is a new Language & Grammar for production-friendly Generative AI.  Based on Jsonnet & works everywhere  (java, python, js,etc). Prompts live declaratively & "outside code".
 - [gorilla-llm/gorilla-cli](https://github.com/gorilla-llm/gorilla-cli) - LLMs for your CLI
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
@@ -2188,6 +2195,9 @@
 
 ## linux 
 
+- [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) - SpotX, but bash... for Linux and Mac
+- [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop app for multiple cutting-edge LLM models that available on Windows, Mac, Linux
 - [beringresearch/macpine](https://github.com/beringresearch/macpine) - Lightweight Linux VMs on MacOS
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [ublue-os/obs-studio-portable](https://github.com/ublue-os/obs-studio-portable) - OCI container image of OBS Studio that bundles a curated collection of 3rd party plugins
@@ -2281,6 +2291,9 @@
 
 ## macos 
 
+- [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) - SpotX, but bash... for Linux and Mac
+- [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop app for multiple cutting-edge LLM models that available on Windows, Mac, Linux
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [beringresearch/macpine](https://github.com/beringresearch/macpine) - Lightweight Linux VMs on MacOS
 - [arthenica/ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
@@ -2310,6 +2323,7 @@
 
 ## markdown 
 
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [xcatliu/pagic](https://github.com/xcatliu/pagic) - A static site generator powered by Deno + React
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
@@ -2418,7 +2432,7 @@
 
 ## nextjs 
 
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimal code by using schema as the single source of truth.
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimal code using schema for data model and authorization
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Sveltekit.
 - [boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) - Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate
@@ -2494,7 +2508,6 @@
 
 ## node 
 
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimal code by using schema as the single source of truth.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [metacall/core](https://github.com/metacall/core) - MetaCall: The ultimate polyglot programming experience.
 - [debug-js/debug](https://github.com/debug-js/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
@@ -2525,6 +2538,8 @@
 
 ## nodejs 
 
+- [ranyitz/qnm](https://github.com/ranyitz/qnm) - :mag: cli utility for querying the node_modules directory
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimal code using schema for data model and authorization
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 - [aerotoad/neboa](https://github.com/aerotoad/neboa) - Type-safe NoSQL with Node & SQLite. 🌫️💽
 - [formidablejs/formidablejs](https://github.com/formidablejs/formidablejs) - A TypeScript & Imba Full-stack Framework for Nodejs. (Imba Skeleton)
@@ -2609,6 +2624,7 @@
 
 ## npm 
 
+- [ranyitz/qnm](https://github.com/ranyitz/qnm) - :mag: cli utility for querying the node_modules directory
 - [embedchain/embedchainjs](https://github.com/embedchain/embedchainjs) - Framework to easily create LLM powered bots over any dataset.
 - [honojs/hono](https://github.com/honojs/hono) - Lightweight, Ultrafast, Web Standards
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
@@ -2663,6 +2679,7 @@
 
 ## others 
 
+- [wustho/baca](https://github.com/wustho/baca) - TUI Ebook Reader
 - [johanw666/Signal-Android](https://github.com/johanw666/Signal-Android) - Fork from a private messenger for Android with extra options added: full backup and (partial, ony text) xml backup of messages. Restore can happen at any time, not only after a fresh install. Import S
 - [hyperfiddle/electric](https://github.com/hyperfiddle/electric) - a reactive Clojure dialect for web development that uses a compiler to infer the frontend/backend boundary
 - [japa/runner](https://github.com/japa/runner) - Standalone test runner built on top of japa core
@@ -2848,7 +2865,6 @@
 - [johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
 - [resendlabs/react-email](https://github.com/resendlabs/react-email) - 💌 Build and send emails using React
 - [yzi2004/SubtitleParser](https://github.com/yzi2004/SubtitleParser) - 
-- [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [RWELabs/Stardew-Valley-Mod-Manager](https://github.com/RWELabs/Stardew-Valley-Mod-Manager) - [Passion Project] The Stardew Valley Mod Manager is a powerful tool that is designed to be used alongside SMAPI to help you install and manage mods, automatically install modpacks and manage your game
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
@@ -3318,7 +3334,7 @@
 ## react 
 
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimal code by using schema as the single source of truth.
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimal code using schema for data model and authorization
 - [react-hookz/web](https://github.com/react-hookz/web) - React hooks done right, for browser and SSR.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [anymaniax/orval](https://github.com/anymaniax/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
@@ -3497,7 +3513,7 @@
 
 ## rest-api 
 
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimal code by using schema as the single source of truth.
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimal code using schema for data model and authorization
 - [centerofci/mathesar](https://github.com/centerofci/mathesar) - Web application providing an intuitive user experience to databases.
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
@@ -3953,10 +3969,11 @@
 
 ## typescript 
 
+- [ranyitz/qnm](https://github.com/ranyitz/qnm) - :mag: cli utility for querying the node_modules directory
 - [meistrari/cursive](https://github.com/meistrari/cursive) - ✦ The intuitive LLM framework
 - [axflow/axflow](https://github.com/axflow/axflow) - The TypeScript framework for AI development
 - [OrangeDrangon/android-messages-desktop](https://github.com/OrangeDrangon/android-messages-desktop) - Android Messages as a Cross-platform Desktop App
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimal code by using schema as the single source of truth.
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimal code using schema for data model and authorization
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 - [anymaniax/orval](https://github.com/anymaniax/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
@@ -4136,6 +4153,7 @@
 
 ## ubuntu 
 
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop app for multiple cutting-edge LLM models that available on Windows, Mac, Linux
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
@@ -4294,6 +4312,8 @@
 
 ## windows 
 
+- [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop app for multiple cutting-edge LLM models that available on Windows, Mac, Linux
 - [OrangeDrangon/android-messages-desktop](https://github.com/OrangeDrangon/android-messages-desktop) - Android Messages as a Cross-platform Desktop App
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [nmap/npcap](https://github.com/nmap/npcap) - Nmap Project's Windows packet capture and transmission library
