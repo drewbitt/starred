@@ -538,7 +538,7 @@
 - [BuilderIO/qwik-city-build](https://github.com/BuilderIO/qwik-city-build) - `@builder.io/qwik-city` build artifacts from https://github.com/organizations/BuilderIO/qwik
 - [tndrle/node-sqlite3-wasm](https://github.com/tndrle/node-sqlite3-wasm) - WebAssembly port of SQLite3 for Node.js with file system access
 - [kriszyp/lmdb-js](https://github.com/kriszyp/lmdb-js) - Simple, efficient, ultra-fast, scalable data store wrapper for LMDB
-- [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client for Node.js and Deno
+- [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client for Node.js, Deno, Bun and CloudFlare
 - [xcatliu/pagic](https://github.com/xcatliu/pagic) - A static site generator powered by Deno + React
 - [primatejs/primate](https://github.com/primatejs/primate) - Expressive, minimal and extensible web framework
 - [acosgames/acosgames](https://github.com/acosgames/acosgames) - Simulator for ACOS game development using JavaScript
@@ -785,11 +785,14 @@
 
 ## Objective-C 
 
+- [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
 - [quicksilver/Quicksilver](https://github.com/quicksilver/Quicksilver) - Quicksilver Project Source
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall
 
 ## Others 
 
+- [continuedev/what-llm-to-use](https://github.com/continuedev/what-llm-to-use) - What LLM to use? A perspective from the Dev+AI space
+- [underlines/awesome-marketing-datascience](https://github.com/underlines/awesome-marketing-datascience) - Curated list of useful LLM / Analytics / Datascience resources
 - [bernardoduarte/awesome-version-managers](https://github.com/bernardoduarte/awesome-version-managers) - A curated list of awesome Version Managers
 - [shadowspawn/node-version-usage](https://github.com/shadowspawn/node-version-usage) - Document current usage of .node-version file
 - [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
@@ -850,6 +853,9 @@
 
 ## Python 
 
+- [morph-labs/rift](https://github.com/morph-labs/rift) - Rift: an AI-native language server for your personal AI software engineer
+- [FastEval/FastEval](https://github.com/FastEval/FastEval) - Fast & more realistic evaluation of chat language models. Includes leaderboard.
+- [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain) - Your open-source LLM evaluation toolkit. Get scores for factual accuracy, context retrieval quality, tonality, and many more to understand the quality of your LLM applications
 - [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your LLM application, based on OpenTelemetry
 - [wustho/baca](https://github.com/wustho/baca) - TUI Ebook Reader
 - [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
