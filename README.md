@@ -517,7 +517,7 @@
 - [reactiverse/es4x](https://github.com/reactiverse/es4x) - 🚀 fast JavaScript 4 Eclipse Vert.x
 - [vaadin/flow](https://github.com/vaadin/flow) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10+.
 - [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace) - Leading free and open-source face recognition system
-- [yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) - SmartTube - an advanced player for set-top boxes and tv running Android OS
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tv running Android OS
 - [mabe02/lanterna](https://github.com/mabe02/lanterna) - Java library for creating text-based GUIs
 - [sshahine/JFoenix](https://github.com/sshahine/JFoenix) - JavaFX Material Design Library
 - [libgdx/libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
@@ -527,6 +527,7 @@
 
 ## JavaScript 
 
+- [LNReader/lnreader](https://github.com/LNReader/lnreader) - Light novel reader for Android.
 - [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [EmNudge/watlings](https://github.com/EmNudge/watlings) - Learn WebAssembly by writing small programs!
 - [moonbitlang/moonbit-docs](https://github.com/moonbitlang/moonbit-docs) - 
@@ -617,7 +618,6 @@
 - [baiyuwubing/cocos-creator-examples](https://github.com/baiyuwubing/cocos-creator-examples) - cocos creator 一些使用实例
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
-- [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [pixel-point/fontpie](https://github.com/pixel-point/fontpie) - Get your layout shifts optimized with a CLI-generated piece of CSS
 - [aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) - Tunneling Internet traffic over Whatsapp
 - [nicolo-ribaudo/jest-light-runner](https://github.com/nicolo-ribaudo/jest-light-runner) - A Jest runner that runs tests directly in bare Node.js, without virtualizing the environment.
@@ -635,7 +635,7 @@
 - [calebHankins/deno-playground](https://github.com/calebHankins/deno-playground) - Containerized playground for Deno using vscode Remote - Containers
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
-- [magicmark/composerize](https://github.com/magicmark/composerize) - 🏃→🎼  docker run asdlksjfksdf &gt; docker-composerize up
+- [composerize/composerize](https://github.com/composerize/composerize) - 🏃→🎼  docker run asdlksjfksdf &gt; docker-composerize up
 - [SmitharyZach/retap](https://github.com/SmitharyZach/retap) - Time hop for Untappd!
 - [TheNetsky/extensions-generic](https://github.com/TheNetsky/extensions-generic) - Netsky's fork of the official Paperback sources.
 - [prose/prose](https://github.com/prose/prose) - A Content Editor for GitHub.
@@ -685,6 +685,8 @@
 
 ## Kotlin 
 
+- [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
+- [UbadahJ/QReader](https://github.com/UbadahJ/QReader) - Android application for website https://toc.qidianunderground.org/
 - [cashapp/redwood](https://github.com/cashapp/redwood) - Multiplatform reactive UI for Android, iOS, and web using Kotlin and Jetpack Compose
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
 - [mobile-dev-inc/maestro](https://github.com/mobile-dev-inc/maestro) - Painless Mobile UI Automation
@@ -795,7 +797,7 @@
 - [underlines/awesome-marketing-datascience](https://github.com/underlines/awesome-marketing-datascience) - Curated list of useful LLM / Analytics / Datascience resources
 - [bernardoduarte/awesome-version-managers](https://github.com/bernardoduarte/awesome-version-managers) - A curated list of awesome Version Managers
 - [shadowspawn/node-version-usage](https://github.com/shadowspawn/node-version-usage) - Document current usage of .node-version file
-- [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
+- [getcursor/cursor](https://github.com/getcursor/cursor) - An AI-powered code editor based on VSCode 🤖
 - [blawar/titledb](https://github.com/blawar/titledb) - 
 - [humanetech-community/awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech) - Promoting Solutions that Improve Wellbeing, Freedom and Society
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
@@ -979,7 +981,7 @@
 - [JakeWharton/pidcat](https://github.com/JakeWharton/pidcat) - Colored logcat script which only shows log entries for a specific application package.
 - [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
-- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Guarantee flawless API functionality with thorough, high-quality test scenarios generated from your API specification.
+- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Automate your API Testing: catch crashes, validate specs, and save time
 - [baxtree/subaligner](https://github.com/baxtree/subaligner) - Automatically synchronize and translate subtitles, or create new ones by transcribing, using pre-trained DNNs, Forced Alignments and Transformers. https://subaligner.readthedocs.io/
 - [smacke/ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
@@ -1141,7 +1143,7 @@
 - [chiselstrike/chiselstrike](https://github.com/chiselstrike/chiselstrike) - ChiselStrike abstracts common backends components like databases and message queues, and let you drive them from a convenient TypeScript business logic layer
 - [jewlexx/sfsu](https://github.com/jewlexx/sfsu) - Stupid Fast Scoop Utils
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
-- [grafbase/grafbase](https://github.com/grafbase/grafbase) - The unified data layer
+- [grafbase/grafbase](https://github.com/grafbase/grafbase) - The API platform for developers
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
@@ -1247,6 +1249,7 @@
 
 ## TypeScript 
 
+- [sourcegraph/cody](https://github.com/sourcegraph/cody) - AI that knows your entire codebase
 - [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays.
