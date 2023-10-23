@@ -255,7 +255,7 @@
 - [chat2db/Chat2DB](https://github.com/chat2db/Chat2DB) - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
-- [lgrammel/modelfusion](https://github.com/lgrammel/modelfusion) - Build multimodal AI applications, chatbots, and agents with JavaScript and TypeScript.
+- [lgrammel/modelfusion](https://github.com/lgrammel/modelfusion) - The TypeScript library for building multi-modal AI applications.
 - [premAI-io/prem-app](https://github.com/premAI-io/prem-app) - Prem provides a unified environment to develop AI applications and deploy AI models on your infrastructure
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
@@ -376,7 +376,7 @@
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [djdembeck/Audnexus.bundle](https://github.com/djdembeck/Audnexus.bundle) - An Audnexus client proof of concept for Plex, providing rich author and audiobook data. Developed in Python, offering enhanced user experiences via Plex's legacy plugin agent system.
-- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
+- [amplication/amplication](https://github.com/amplication/amplication) - 🇮🇱 Stand with Israel 🇮🇱   Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 - [kwhitley/itty-router](https://github.com/kwhitley/itty-router) - A little router.
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL
@@ -403,7 +403,7 @@
 
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to datasources.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
-- [lgrammel/modelfusion](https://github.com/lgrammel/modelfusion) - Build multimodal AI applications, chatbots, and agents with JavaScript and TypeScript.
+- [lgrammel/modelfusion](https://github.com/lgrammel/modelfusion) - The TypeScript library for building multi-modal AI applications.
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
@@ -1542,7 +1542,7 @@
 - [firecamp-dev/firecamp](https://github.com/firecamp-dev/firecamp) - VS Code for APIs, Open Source Postman/Insomnia Alternative
 - [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
-- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
+- [amplication/amplication](https://github.com/amplication/amplication) - 🇮🇱 Stand with Israel 🇮🇱   Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 - [moollaza/repo-remover](https://github.com/moollaza/repo-remover) - A web app that helps you archive and delete old/unused repos, quickly and easily.
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
 - [pluralsh/plural](https://github.com/pluralsh/plural) - Deploy open source software on Kubernetes in record time. 🚀
@@ -1688,7 +1688,7 @@
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸 Web apps in pure Python 🐍
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [react-simple-code-editor/react-simple-code-editor](https://github.com/react-simple-code-editor/react-simple-code-editor) - Simple no-frills code editor with syntax highlighting
-- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
+- [amplication/amplication](https://github.com/amplication/amplication) - 🇮🇱 Stand with Israel 🇮🇱   Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 - [okteto/okteto](https://github.com/okteto/okteto) - Develop your applications directly in your Kubernetes Cluster
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
@@ -1968,7 +1968,7 @@
 - [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [codeceptjs/CodeceptJS](https://github.com/codeceptjs/CodeceptJS) - Supercharged End 2 End Testing Framework for NodeJS
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
-- [lgrammel/modelfusion](https://github.com/lgrammel/modelfusion) - Build multimodal AI applications, chatbots, and agents with JavaScript and TypeScript.
+- [lgrammel/modelfusion](https://github.com/lgrammel/modelfusion) - The TypeScript library for building multi-modal AI applications.
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [jeremyckahn/shifty](https://github.com/jeremyckahn/shifty) - The fastest TypeScript animation engine on the web
@@ -2009,7 +2009,7 @@
 - [kikko-land/kikko](https://github.com/kikko-land/kikko) - Powerful SQLite adapter for web, mobile and desktop. Build reactive UI on top of it
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [DanielXMoore/Civet](https://github.com/DanielXMoore/Civet) - The modern way to write TypeScript
-- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
+- [amplication/amplication](https://github.com/amplication/amplication) - 🇮🇱 Stand with Israel 🇮🇱   Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [hyoo-ru/mam_mol](https://github.com/hyoo-ru/mam_mol) - $mol - fastest reactive micro-modular compact flexible lazy ui web framework.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
@@ -2103,7 +2103,7 @@
 
 ## js 
 
-- [lgrammel/modelfusion](https://github.com/lgrammel/modelfusion) - Build multimodal AI applications, chatbots, and agents with JavaScript and TypeScript.
+- [lgrammel/modelfusion](https://github.com/lgrammel/modelfusion) - The TypeScript library for building multi-modal AI applications.
 - [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) - ✨ Standard library for JavaScript and Node.js. ✨
 
 ## json 
@@ -2617,7 +2617,7 @@
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases.
 - [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
-- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
+- [amplication/amplication](https://github.com/amplication/amplication) - 🇮🇱 Stand with Israel 🇮🇱   Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative. Cloud version available here -&gt; https://app.coolify.io
 - [typicode/xv](https://github.com/typicode/xv) - 🙅‍♀️ ✌️ fastest test runner
@@ -2722,7 +2722,7 @@
 - [UbadahJ/QReader](https://github.com/UbadahJ/QReader) - Android application for website https://toc.qidianunderground.org/
 - [morph-labs/rift](https://github.com/morph-labs/rift) - Rift: an AI-native language server for your personal AI software engineer
 - [FastEval/FastEval](https://github.com/FastEval/FastEval) - Fast & more realistic evaluation of chat language models. Includes leaderboard.
-- [underlines/awesome-marketing-datascience](https://github.com/underlines/awesome-marketing-datascience) - Curated list of useful LLM / Analytics / Datascience resources
+- [underlines/awesome-ml](https://github.com/underlines/awesome-ml) - Curated list of useful LLM / Analytics / Datascience resources
 - [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
 - [nyaggah/bedframe](https://github.com/nyaggah/bedframe) - Your Browser Extension Development Framework
 - [wustho/baca](https://github.com/wustho/baca) - TUI Ebook Reader
@@ -2953,7 +2953,7 @@
 - [haxeui/haxeui-core](https://github.com/haxeui/haxeui-core) - The core library of the HaxeUI framework
 - [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC) - Modern VNC Server and client, web based and secure
 - [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
-- [jewlexx/sfsu](https://github.com/jewlexx/sfsu) - Stupid Fast Scoop Utils
+- [jewlexx/sfsu](https://github.com/jewlexx/sfsu) - Super fast replacements and additions to scoop commands written in Rust
 - [JakeWharton/pidcat](https://github.com/JakeWharton/pidcat) - Colored logcat script which only shows log entries for a specific application package.
 - [anderlli0053/DEV-tools](https://github.com/anderlli0053/DEV-tools) - 📦 General development tools for applications and games and pretty much everything else too :) . Created and maintained by Andrew Poženel - anderlli0053 . 📦
 - [nefarius/DsHidMini](https://github.com/nefarius/DsHidMini) - Virtual HID Mini-user-mode-driver for Sony DualShock 3 Controllers
@@ -4083,7 +4083,7 @@
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
-- [lgrammel/modelfusion](https://github.com/lgrammel/modelfusion) - Build multimodal AI applications, chatbots, and agents with JavaScript and TypeScript.
+- [lgrammel/modelfusion](https://github.com/lgrammel/modelfusion) - The TypeScript library for building multi-modal AI applications.
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [jeremyckahn/shifty](https://github.com/jeremyckahn/shifty) - The fastest TypeScript animation engine on the web
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool  / ChatBot  / Zapier Alternative
@@ -4133,7 +4133,7 @@
 - [avitorio/outstatic](https://github.com/avitorio/outstatic) - Outstatic - A static CMS for Next.js
 - [DanielXMoore/Civet](https://github.com/DanielXMoore/Civet) - The modern way to write TypeScript
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
-- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
+- [amplication/amplication](https://github.com/amplication/amplication) - 🇮🇱 Stand with Israel 🇮🇱   Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 - [AlexandroMtzG/remix-page-blocks](https://github.com/AlexandroMtzG/remix-page-blocks) - Simple page block editor with Remix and Tailwind CSS.
 - [hyoo-ru/mam_mol](https://github.com/hyoo-ru/mam_mol) - $mol - fastest reactive micro-modular compact flexible lazy ui web framework.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
@@ -4306,7 +4306,7 @@
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
+- [amplication/amplication](https://github.com/amplication/amplication) - 🇮🇱 Stand with Israel 🇮🇱   Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
