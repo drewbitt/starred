@@ -511,7 +511,7 @@
 - [Phalcode/gamevault-backend](https://github.com/Phalcode/gamevault-backend) - Backend for the self-hosted gaming platform for drm-free games
 - [fastrodev/fastro](https://github.com/fastrodev/fastro) - Fast and simple web application framework for deno
 - [primatejs/primate](https://github.com/primatejs/primate) - Expressive, minimal and extensible web framework
-- [sparckles/Robyn](https://github.com/sparckles/Robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
+- [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [chiselstrike/chiselstrike](https://github.com/chiselstrike/chiselstrike) - ChiselStrike abstracts common backends components like databases and message queues, and let you drive them from a convenient TypeScript business logic layer
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [grafbase/grafbase](https://github.com/grafbase/grafbase) - The API platform for developers
@@ -567,7 +567,6 @@
 - [uTox/uTox](https://github.com/uTox/uTox) - µTox the lightest and fluffiest Tox client
 - [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
-- [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [simon987/sist2](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool
 - [farfalleflickan/cmyflix](https://github.com/farfalleflickan/cmyflix) - cmyflix, a Netflix clone!
@@ -740,6 +739,7 @@
 - [winglang/wing](https://github.com/winglang/wing) - The Wing Programming Language
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+- [oracle/graal](https://github.com/oracle/graal) - GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [TypeScriptToLua/TypeScriptToLua](https://github.com/TypeScriptToLua/TypeScriptToLua) - Typescript to lua transpiler. https://typescripttolua.github.io/
@@ -1688,7 +1688,7 @@
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
-- [sparckles/Robyn](https://github.com/sparckles/Robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
+- [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: 
 - [bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js) - A BPMN 2.0 rendering toolkit and web modeler.
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
@@ -1759,7 +1759,6 @@
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [Unmanic/unmanic](https://github.com/Unmanic/unmanic) - Unmanic - Library Optimiser
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
@@ -1910,7 +1909,7 @@
 - [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) - JHipster Lite ⚡ is a development platform to generate, develop & deploy modern web applications & microservices architecture, step by step - using Hexagonal Architecture :gem:
 - [Wisser/Jailer](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool.
 - [oracle/graaljs](https://github.com/oracle/graaljs) - A ECMAScript 2022 compliant JavaScript implementation built on GraalVM. With polyglot language interoperability support. Running Node.js applications!
-- [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
+- [oracle/graal](https://github.com/oracle/graal) - GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: 
 - [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
 - [guardrail-dev/guardrail](https://github.com/guardrail-dev/guardrail) - Principled code generation from OpenAPI specifications
@@ -2007,7 +2006,6 @@
 - [titaniumnetwork-dev/Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet) - A highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers. Works by intercepting HTTP requests with a service w
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
 - [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
-- [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [rikschennink/fitty](https://github.com/rikschennink/fitty) - ✨ Makes text fit perfectly
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
@@ -3301,11 +3299,10 @@
 - [lavie/runlike](https://github.com/lavie/runlike) - Given an existing docker container, prints the command line necessary to run a copy of it.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) - An easy and fast way to create a Python GUI 🐍
-- [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [onekey-sec/unblob](https://github.com/onekey-sec/unblob) - Extract files from any kind of container formats
 - [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra automates infrastructure using Python. It’s fast and scales from one server to thousands. Great for ad-hoc command execution, service deployment, configuration management and more.
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
-- [sparckles/Robyn](https://github.com/sparckles/Robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
+- [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
 - [whipper-team/whipper](https://github.com/whipper-team/whipper) - Python CD-DA ripper preferring accuracy over speed
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.
@@ -3356,7 +3353,7 @@
 - [TeaM-TL/FotoKilof](https://github.com/TeaM-TL/FotoKilof) - GUI for ImageMagick and Wand
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) - An easy and fast way to create a Python GUI 🐍
-- [sparckles/Robyn](https://github.com/sparckles/Robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
+- [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [AutoViML/AutoViz](https://github.com/AutoViML/AutoViz) - Automatically Visualize any dataset, any size with a single line of code.  Created by Ram Seshadri. Collaborators Welcome. Permission Granted upon Request.
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
@@ -3389,7 +3386,6 @@
 ## r 
 
 - [h2oai/wave](https://github.com/h2oai/wave) - Realtime Web Apps and Dashboards for Python and R
-- [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 
 ## rails 
 
@@ -3623,7 +3619,6 @@
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 - [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [toy/image_optim](https://github.com/toy/image_optim) - Optimize images using multiple utilities
-- [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [stimulusreflex/stimulus_reflex](https://github.com/stimulusreflex/stimulus_reflex) - Build reactive applications with the Rails tooling you already know and love.
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [nning/imgshr](https://github.com/nning/imgshr) - Simple image gallery sharing web application.
@@ -3681,7 +3676,7 @@
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
-- [sparckles/Robyn](https://github.com/sparckles/Robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
+- [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - Bytes, distributed.
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
@@ -4336,6 +4331,7 @@
 - [planety/prologue](https://github.com/planety/prologue) - Powerful and flexible web framework written in Nim
 - [luckyframework/lucky](https://github.com/luckyframework/lucky) - A full-featured Crystal web framework that catches bugs for you, runs incredibly fast, and helps you write code that lasts.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
+- [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [amplication/amplication](https://github.com/amplication/amplication) - 🇮🇱 Stand with Israel 🇮🇱   Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
