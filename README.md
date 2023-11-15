@@ -816,7 +816,7 @@
 - [blawar/titledb](https://github.com/blawar/titledb) - 
 - [humanetech-community/awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech) - Promoting Solutions that Improve Wellbeing, Freedom and Society
 - [kysely-org/awesome-kysely](https://github.com/kysely-org/awesome-kysely) - A curated list of Kysely resources, tools, utilities and applications.
-- [Purfview/whisper-standalone-win](https://github.com/Purfview/whisper-standalone-win) - Standalone executables for those who don't want to bother with Python.
+- [Purfview/whisper-standalone-win](https://github.com/Purfview/whisper-standalone-win) - Whisper & Faster-Whisper standalone executables for those who don't want to bother with Python.
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
@@ -1366,7 +1366,7 @@
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Bing, Anthropic, OpenRouter, PaLM 2, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Pres
 - [unjs/nitro](https://github.com/unjs/nitro) - Create, build and deploy universal web servers. The open engine powering Nuxt and open to everyone.
 - [web-infra-dev/garfish](https://github.com/web-infra-dev/garfish) - A powerful micro front-end framework 🚚
-- [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - Modern.js is a web engineering system, including a web framework, a npm package solution and a build tool.
+- [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - Modern.js is a web engineering system, including a web framework and a npm package solution.
 - [wobsoriano/bnx](https://github.com/wobsoriano/bnx) - zx inspired shell for Bun.
 - [Phalcode/gamevault-backend](https://github.com/Phalcode/gamevault-backend) - Backend for the self-hosted gaming platform for drm-free games
 - [subframe7536/kysely-sqlite-tools](https://github.com/subframe7536/kysely-sqlite-tools) - tools for Kysely, include auto serialize plugin, sqlite wasm / sqlite worker / Tauri sql plugin / bun:sqlite dialects, useful tools (schema auto sync, precompile query, nest transaction...)
