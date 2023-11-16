@@ -503,7 +503,7 @@
 - [johanw666/Signal-Android](https://github.com/johanw666/Signal-Android) - Fork from a private messenger for Android with extra options added: full backup and (partial, ony text) xml backup of messages. Restore can happen at any time, not only after a fresh install. Import S
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
 - [chat2db/Chat2DB](https://github.com/chat2db/Chat2DB) - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
-- [arakoodev/EdgeChains](https://github.com/arakoodev/EdgeChains) - EdgeChains & EdgeChains.js is a new Language & Grammar for production-friendly Generative AI.  Based on Jsonnet & works everywhere  (java, python, js,etc). Prompts live declaratively & "outside code".
+- [arakoodev/EdgeChains](https://github.com/arakoodev/EdgeChains) - EdgeChains.js is a Grammar for production-friendly Generative AI.  Based on Jsonnet & WASM. Works anywhere that Webassembly does. Prompts live declaratively & "outside code". Easy to Reason/Test/Deplo
 - [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) - JHipster Lite ⚡ is a development platform to generate, develop & deploy modern web applications & microservices architecture, step by step - using Hexagonal Architecture :gem:
 - [Wisser/Jailer](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool.
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
@@ -613,7 +613,7 @@
 - [typicode/xv](https://github.com/typicode/xv) - 🙅‍♀️ ✌️ fastest test runner
 - [wooorm/starry-night](https://github.com/wooorm/starry-night) - Syntax highlighting, like GitHub
 - [raphamorim/react-ape](https://github.com/raphamorim/react-ape) - 🦍• React Renderer to build UI interfaces using canvas/WebGL (TV and Hardware-Accelerated GPU development based)
-- [datawrapper/datawrapper](https://github.com/datawrapper/datawrapper) - This is a read-only mirror of a part of our codebase.
+- [datawrapper/datawrapper](https://github.com/datawrapper/datawrapper) - Utility functions developed for Datawrapper
 - [niutech/jxl.js](https://github.com/niutech/jxl.js) - JPEG XL decoder in JavaScript using WebAssembly (WASM)
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward) - Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
@@ -1284,6 +1284,7 @@
 
 ## TypeScript 
 
+- [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [markmanx/isoflow](https://github.com/markmanx/isoflow) - 
 - [seanoliver/audioflare](https://github.com/seanoliver/audioflare) - An all-in-one AI audio playground using Cloudflare AI Workers to transcribe, analyze, summarize, and translate any audio file.
 - [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Chrome extension that generates API specs for any app or website
@@ -1398,7 +1399,7 @@
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
 - [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
 - [KevinVandy/mantine-react-table](https://github.com/KevinVandy/mantine-react-table) - A fully featured Mantine V5 implementation of TanStack React Table V8, forked from Material React Table
-- [langgenius/dify](https://github.com/langgenius/dify) - The next-gen development platform - Easily build and operate generative AI applications.  Create Assistants API and GPTs based on any LLMs.
+- [langgenius/dify](https://github.com/langgenius/dify) - An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack requ
 - [snaplet/copycat](https://github.com/snaplet/copycat) - Generate deterministic fake values: The same input will always generate the same fake-output.
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [legit-programmer/unisum](https://github.com/legit-programmer/unisum) - One stop to analyze and summarize all your documents.
@@ -1530,7 +1531,7 @@
 - [amplication/amplication](https://github.com/amplication/amplication) - 🇮🇱 Stand with Israel 🇮🇱   Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [react-page/react-page](https://github.com/react-page/react-page) - Next-gen, highly customizable content editor for the browser - based on React and written in TypeScript. WYSIWYG on steroids.
-- [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual page builder and web design tool for any website or web app tech stack
+- [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
 - [AlexandroMtzG/remix-page-blocks](https://github.com/AlexandroMtzG/remix-page-blocks) - Simple page block editor with Remix and Tailwind CSS.
 - [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia) - Design ❤️ Code
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
