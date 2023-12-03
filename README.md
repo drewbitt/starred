@@ -1295,6 +1295,7 @@
 
 ## TypeScript 
 
+- [hwy-js/hwy](https://github.com/hwy-js/hwy) - Hwy is a simple, lightweight, and flexible web framework, built on Hono and HTMX.
 - [nick-keller/react-datasheet-grid](https://github.com/nick-keller/react-datasheet-grid) - An Airtable-like / Excel-like component to create beautiful spreadsheets.
 - [favware/cliff-jumper](https://github.com/favware/cliff-jumper) - A small CLI tool to create a semantic release and git-cliff powered Changelog
 - [Hacker-GPT/HackerGPT](https://github.com/Hacker-GPT/HackerGPT) - The official HackerGPT repository
