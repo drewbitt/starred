@@ -364,6 +364,7 @@
 - [tursodatabase/turso-cli](https://github.com/tursodatabase/turso-cli) - Command line interface to Turso.
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
+- [inngest/inngest](https://github.com/inngest/inngest) - Inngest is the developer platform for easily building reliable workflows with zero infrastructure.
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [bcspragu/kagi](https://github.com/bcspragu/kagi) - A simple CLI for querying the Kagi search engine via their FastGPT API
 - [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.
@@ -597,7 +598,7 @@
 - [atomicojs/atomico](https://github.com/atomicojs/atomico) - Atomico a micro-library for creating webcomponents using only functions, hooks and virtual-dom.
 - [bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js) - A BPMN 2.0 rendering toolkit and web modeler.
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
 - [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [WebCoder49/code-input](https://github.com/WebCoder49/code-input) - Fully customisable, editable syntax-highlighted textareas.
@@ -865,7 +866,7 @@
 
 ## PowerShell 
 
-- [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - These scripts will Customize, Debloat and Improve Privacy/Performance and System Responsiveness on Windows 10+.
+- [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
 - [gcloudrig/gcloudrig](https://github.com/gcloudrig/gcloudrig) - Scripts to manage cloud gaming on Google Compute Engine.
 - [anderlli0053/DEV-tools](https://github.com/anderlli0053/DEV-tools) - 📦 General development tools for applications and games and pretty much everything else too :) . Created and maintained by Andrew Poženel - anderlli0053 . 📦
 - [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - SpotX patcher used for patching the desktop version of Spotify
@@ -1322,7 +1323,7 @@
 - [OrangeDrangon/android-messages-desktop](https://github.com/OrangeDrangon/android-messages-desktop) - Android Messages as a Cross-platform Desktop App
 - [ciscoheat/sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit validation and displaying of forms a pleasure!
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimum code by defining authorization and validation rules inside the data schema that closer to the database
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimum code by defining authorization and validation rules inside the data schema, closer to the database
 - [lukeautry/tsoa](https://github.com/lukeautry/tsoa) - Build OpenAPI-compliant REST APIs using TypeScript and Node
 - [react-hookz/web](https://github.com/react-hookz/web) - React hooks done right, for browser and SSR.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
@@ -1415,7 +1416,6 @@
 - [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
 - [KevinVandy/mantine-react-table](https://github.com/KevinVandy/mantine-react-table) - A fully featured Mantine V5 implementation of TanStack React Table V8, forked from Material React Table
 - [langgenius/dify](https://github.com/langgenius/dify) - An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack requ
-- [inngest/inngest](https://github.com/inngest/inngest) - Inngest is the developer platform for easily building reliable workflows with zero infrastructure.
 - [snaplet/copycat](https://github.com/snaplet/copycat) - Generate deterministic fake values: The same input will always generate the same fake-output.
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [legit-programmer/unisum](https://github.com/legit-programmer/unisum) - One stop to analyze and summarize all your documents.
@@ -1593,7 +1593,7 @@
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
 - [urql-graphql/urql](https://github.com/urql-graphql/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
-- [ardatan/graphql-mesh](https://github.com/ardatan/graphql-mesh) - Fully functional GraphQL gateway framework
+- [ardatan/graphql-mesh](https://github.com/ardatan/graphql-mesh) - Anything to GraphQL gateway framework
 - [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
 - [fullstack-build/tslog](https://github.com/fullstack-build/tslog) - 📝 tslog - Universal Logger for TypeScript and JavaScript
 - [remult/remult](https://github.com/remult/remult) - Full-stack CRUD, simplified, with SSOT TypeScript entities
