@@ -155,7 +155,7 @@
 - [SuperNewRoles/SuperNewRoles](https://github.com/SuperNewRoles/SuperNewRoles) - モードや役職など、様々な要素があるMOD、SuperNewRoles!!!!
 - [DigiWorm0/LevelImposter](https://github.com/DigiWorm0/LevelImposter) - Custom Among Us Mapping Studio (BepInEx Mod)
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
-- [yukieiji/ExtremeRoles](https://github.com/yukieiji/ExtremeRoles) - AmongUs Mod for Advanced User(+80 roles, +700 options, and Cosmic addon)
+- [yukieiji/ExtremeRoles](https://github.com/yukieiji/ExtremeRoles) - AmongUs Mod for Advanced User(+85 roles, +1300 options, and Cosmic addon)
 - [tukasa0001/TownOfHost](https://github.com/tukasa0001/TownOfHost) - Host only mod for Among Us.
 - [The-New-Platinum-Team/PlatinumQuest-Dev](https://github.com/The-New-Platinum-Team/PlatinumQuest-Dev) - The main repository for the game PlatinumQuest after the formation of new development team.
 - [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
@@ -613,7 +613,6 @@
 - [typicode/xv](https://github.com/typicode/xv) - 🙅‍♀️ ✌️ fastest test runner
 - [wooorm/starry-night](https://github.com/wooorm/starry-night) - Syntax highlighting, like GitHub
 - [raphamorim/react-ape](https://github.com/raphamorim/react-ape) - 🦍• React Renderer to build UI interfaces using canvas/WebGL (TV and Hardware-Accelerated GPU development based)
-- [datawrapper/datawrapper](https://github.com/datawrapper/datawrapper) - Utility functions developed for Datawrapper
 - [niutech/jxl.js](https://github.com/niutech/jxl.js) - JPEG XL decoder in JavaScript using WebAssembly (WASM)
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward) - Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
@@ -1585,6 +1584,7 @@
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
 - [shinework/photoshot](https://github.com/shinework/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
 - [skarab42/zoxy](https://github.com/skarab42/zoxy) - A small type-safe object proxy around Zod to help you stay safe after your data is loaded while continuing to edit them.
+- [datawrapper/datawrapper](https://github.com/datawrapper/datawrapper) - Utility functions developed for Datawrapper
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [nearform/graphql-hooks](https://github.com/nearform/graphql-hooks) - 🎣 Minimal hooks-first GraphQL client
