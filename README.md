@@ -92,6 +92,7 @@
 
 ## C 
 
+- [cunarist/rinf](https://github.com/cunarist/rinf) - Rust for native business logic, Flutter for flexible and beautiful GUI
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written mostly in C.
 - [moretension/duti](https://github.com/moretension/duti) - A command-line tool to select default applications for document types and URL schemes on Mac OS X
 - [madler/pigz](https://github.com/madler/pigz) - A parallel implementation of gzip for modern multi-processor, multi-core machines.
@@ -286,7 +287,6 @@
 
 ## Dart 
 
-- [cunarist/rinf](https://github.com/cunarist/rinf) - Rust for native business logic, Flutter for flexible and beautiful GUI
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android App Updates Directly From the Source.
 - [rive-app/rive-flutter](https://github.com/rive-app/rive-flutter) - 
@@ -614,6 +614,7 @@
 - [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for Humans
 - [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
 - [tmountain/pico-8-typescript](https://github.com/tmountain/pico-8-typescript) - Create PICO-8 games in TypeScript
+- [pockethost/pockethost](https://github.com/pockethost/pockethost) - PocketBase hosting
 - [shepherd-pro/shepherd](https://github.com/shepherd-pro/shepherd) - Guide your users through a tour of your app
 - [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
 - [typicode/xv](https://github.com/typicode/xv) - 🙅‍♀️ ✌️ fastest test runner
@@ -1148,7 +1149,7 @@
 - [quadratichq/quadratic](https://github.com/quadratichq/quadratic) - Quadratic | Data Science Spreadsheet with Python & SQL
 - [obi1kenobi/trustfall](https://github.com/obi1kenobi/trustfall) - A query engine for any combination of data sources. Query your files and APIs as if they were databases!
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
-- [jdx/rtx](https://github.com/jdx/rtx) - Runtime Executor (asdf-plugin compatible)
+- [jdx/rtx](https://github.com/jdx/rtx) - dev tools, env vars, task runner
 - [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust.
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -1389,7 +1390,7 @@
 - [unjs/unstorage](https://github.com/unjs/unstorage) - 💾 Unstorage provides an async Key-Value storage API with conventional features like multi driver mounting, watching and working with metadata, dozens of built-in drivers and a tiny core.
 - [lizheming/github-translate-action](https://github.com/lizheming/github-translate-action) - A GitHub Action to translate non-English GitHub issues and GitHub discussions into English automatically.
 - [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️
-- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
+- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Mu
 - [unjs/nitro](https://github.com/unjs/nitro) - Create, build and deploy universal web servers. The open engine powering Nuxt and open to everyone.
 - [web-infra-dev/garfish](https://github.com/web-infra-dev/garfish) - A powerful micro front-end framework 🚚
@@ -1556,7 +1557,7 @@
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [react-simple-code-editor/react-simple-code-editor](https://github.com/react-simple-code-editor/react-simple-code-editor) - Simple no-frills code editor with syntax highlighting
-- [amplication/amplication](https://github.com/amplication/amplication) - 🇮🇱 Stand with Israel 🇮🇱   Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
+- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [react-page/react-page](https://github.com/react-page/react-page) - Next-gen, highly customizable content editor for the browser - based on React and written in TypeScript. WYSIWYG on steroids.
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
@@ -1587,7 +1588,6 @@
 - [brophdawg11/remix-routers](https://github.com/brophdawg11/remix-routers) - A collection of UI library implementations of the Remix Router
 - [open-source-labs/reactime](https://github.com/open-source-labs/reactime) - Developer tool for time travel debugging and performance monitoring in React applications.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
-- [pockethost/pockethost](https://github.com/pockethost/pockethost) - PocketBase hosting
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [sannajammeh/tw-classed](https://github.com/sannajammeh/tw-classed) - 
 - [p42ai/js-assistant](https://github.com/p42ai/js-assistant) - 120+ refactorings and code-assists for Visual Studio Code
