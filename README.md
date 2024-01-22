@@ -1002,6 +1002,7 @@
 - [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private Q&A and summarization of documents+images or chat with local GPT, 100% private, Apache 2.0. Supports Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://codellama.h2o.ai/
 - [KasperskyLab/triangle_check](https://github.com/KasperskyLab/triangle_check) - 
+- [fern-api/fern](https://github.com/fern-api/fern) - 🌿 Deliver Stripe-level SDKs and Docs for your API
 - [bram2w/baserow](https://github.com/bram2w/baserow) - The official repository is hosted on https://gitlab.com/bramw/baserow. Baserow is an open source no-code database tool and Airtable alternative.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [FMInference/FlexGen](https://github.com/FMInference/FlexGen) - Running large language models on a single GPU for throughput-oriented scenarios.
@@ -1514,7 +1515,6 @@
 - [joe-bell/cva](https://github.com/joe-bell/cva) - Class Variance Authority
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
-- [fern-api/fern](https://github.com/fern-api/fern) - 🌿 Deliver Stripe-level SDKs and Docs for your API
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 - [ssleptsov/ninja-keys](https://github.com/ssleptsov/ninja-keys) - Keyboard shortcuts interface for your website. Working with static HTML, Vanilla JS, Vue, React, Svelte.
 - [clerk/javascript](https://github.com/clerk/javascript) - Official Javascript repository for Clerk authentication
@@ -1547,7 +1547,7 @@
 - [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 150 icon sets and 200k icons). SV
 - [js-temporal/temporal-polyfill](https://github.com/js-temporal/temporal-polyfill) - Polyfill for Temporal (under construction)
 - [dflex-js/dflex](https://github.com/dflex-js/dflex) - The sophisticated Drag and Drop library you've been waiting for 🥳
-- [TunnlTo/desktop-app](https://github.com/TunnlTo/desktop-app) - TunnlTo is a lightweight, fast, Windows WireGuard VPN client built for split tunneling.
+- [TunnlTo/desktop-app](https://github.com/TunnlTo/desktop-app) - TunnlTo is Windows WireGuard VPN client built for split tunneling.
 - [saas-js/saas-ui](https://github.com/saas-js/saas-ui) - The React component library for startups, built with Chakra UI.
 - [felixgirault/schemist](https://github.com/felixgirault/schemist) - Build cohesive and accessible color schemes.
 - [webview/webview_deno](https://github.com/webview/webview_deno) - 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs
