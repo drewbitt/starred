@@ -4705,7 +4705,7 @@
 - [nmap/npcap](https://github.com/nmap/npcap) - Nmap Project's Windows packet capture and transmission library
 - [uTox/uTox](https://github.com/uTox/uTox) - µTox the lightest and fluffiest Tox client
 - [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
-- [TunnlTo/desktop-app](https://github.com/TunnlTo/desktop-app) - TunnlTo is a lightweight, fast, Windows WireGuard VPN client built for split tunneling.
+- [TunnlTo/desktop-app](https://github.com/TunnlTo/desktop-app) - TunnlTo is Windows WireGuard VPN client built for split tunneling.
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
