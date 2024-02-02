@@ -896,6 +896,7 @@
 
 ## Python 
 
+- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
 - [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - Accurate line-level text detection and recognition (OCR) in any language
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
@@ -970,7 +971,6 @@
 - [earthgecko/skyline](https://github.com/earthgecko/skyline) - Anomaly detection
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
 - [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
-- [approximatelabs/datadm](https://github.com/approximatelabs/datadm) - DataDM is your private data assistant. Slide into your data's DMs
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [narenmanoharan/gpt-code-assistant](https://github.com/narenmanoharan/gpt-code-assistant) - gpt-code-assistant is an open-source coding assistant leveraging language models to search, retrieve, explore and understand any codebase.
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
@@ -1335,6 +1335,10 @@
 
 ## TypeScript 
 
+- [lowcoder-org/lowcoder](https://github.com/lowcoder-org/lowcoder) - 🔥 🔥 🔥 The Open Source Retool, Tooljet and Appsmith Alternative
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
+- [boardzilla/boardzilla-core](https://github.com/boardzilla/boardzilla-core) - Boardzilla core library
+- [edmundhung/conform](https://github.com/edmundhung/conform) - A type-safe form validation library utilizing web fundamentals to progressively enhance HTML Forms with full support for server frameworks like Remix and Next.js.
 - [gvergnaud/hotscript](https://github.com/gvergnaud/hotscript) - A library of composable functions for the type-level! Transform your TypeScript types in any way you want using functions you already know.
 - [piotrwitek/utility-types](https://github.com/piotrwitek/utility-types) - Collection of utility types, complementing TypeScript built-in mapped types and aliases (think "lodash" for static types).
 - [pmndrs/valtio](https://github.com/pmndrs/valtio) - 💊 Valtio makes proxy-state simple  for React and Vanilla
@@ -1397,7 +1401,7 @@
 - [Ironclad/rivet](https://github.com/Ironclad/rivet) - The open-source visual AI programming environment and TypeScript library
 - [jbilcke-hf/ai-comic-factory](https://github.com/jbilcke-hf/ai-comic-factory) - Generate comic panels using a LLM + SDXL. Powered by Hugging Face 🤗
 - [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas app and SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
 - [fogbender/b2b-saaskit](https://github.com/fogbender/b2b-saaskit) - B2B SaaS Starter Kit - create a B2B web app: quickly and for free
 - [ardatan/feTS](https://github.com/ardatan/feTS) - TypeScript HTTP Framework focusing on e2e type-safety, easy setup, performance & great developer experience
 - [dtinth/openapi-trpc](https://github.com/dtinth/openapi-trpc) - Generate OpenAPI v3 document from a tRPC router, adhering to tRPC’s HTTP RPC Specification
@@ -1687,7 +1691,6 @@
 - [ecyrbe/zodios](https://github.com/ecyrbe/zodios) - typescript http client and server with zod validation
 - [primer/react](https://github.com/primer/react) - An implementation of GitHub's Primer Design System using React
 - [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
-- [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - Next generation testing framework powered by Vite.
 - [open-source-labs/Spearmint](https://github.com/open-source-labs/Spearmint) - Testing, simplified. || An inclusive, accessibility-first GUI for generating clean, semantic Javascript tests in only a few clicks of a button.
