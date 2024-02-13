@@ -539,7 +539,7 @@
 - [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥
 - [spinspire/pocketbase-sveltekit-starter](https://github.com/spinspire/pocketbase-sveltekit-starter) - a starter project to build a SvelteKit frontend with PocketBase backend
 - [Phalcode/gamevault-backend](https://github.com/Phalcode/gamevault-backend) - Backend for the self-hosted gaming platform for drm-free games
-- [fastrodev/fastro](https://github.com/fastrodev/fastro) - Fast and simple web application framework for deno
+- [fastrodev/fastro](https://github.com/fastrodev/fastro) - Full Stack Framework for Deno, TypeScript, Preact JS and Tailwind CSS
 - [readysettech/readyset](https://github.com/readysettech/readyset) - Readyset is a MySQL and Postgres wire-compatible caching layer that sits in front of existing databases to speed up queries and horizontally scale read throughput. Under the hood, ReadySet caches the 
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [chiselstrike/chiselstrike](https://github.com/chiselstrike/chiselstrike) - ChiselStrike abstracts common backends components like databases and message queues, and let you drive them from a convenient TypeScript business logic layer
@@ -605,6 +605,7 @@
 
 ## chatgpt 
 
+- [VadimBoev/freegpt-webui-v2](https://github.com/VadimBoev/freegpt-webui-v2) - (NEW) GPT 3.5/4 with a Chat Web UI. No API key required.
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [casibase/casibase](https://github.com/casibase/casibase) - ⚡️Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, LLaMA, Google Gemini, HuggingFace, Claude, Grok, etc.,
 - [evalplus/evalplus](https://github.com/evalplus/evalplus) - EvalPlus for rigourous evaluation of LLM-synthesized code
@@ -635,13 +636,11 @@
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
-- [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
 - [mattvr/ShellGPT](https://github.com/mattvr/ShellGPT) - Upgrade your terminal with GPT-4. Ask questions, automate commands, pipe I/O, etc. Made with Deno.
 - [aschmelyun/subvert](https://github.com/aschmelyun/subvert) - Generate subtitles, summaries, and chapters from videos in seconds
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
-- [ramonvc/freegpt-webui](https://github.com/ramonvc/freegpt-webui) - GPT 3.5/4 with a Chat Web UI. No API key required.
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private Q&A and summarization of documents+images or chat with local GPT, 100% private, Apache 2.0. Supports Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://codellama.h2o.ai/
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
@@ -649,11 +648,11 @@
 
 ## chatgpt-api 
 
+- [VadimBoev/freegpt-webui-v2](https://github.com/VadimBoev/freegpt-webui-v2) - (NEW) GPT 3.5/4 with a Chat Web UI. No API key required.
 - [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
-- [ramonvc/freegpt-webui](https://github.com/ramonvc/freegpt-webui) - GPT 3.5/4 with a Chat Web UI. No API key required.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 
 ## chrome 
@@ -773,7 +772,7 @@
 - [enso-org/enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
-- [winglang/wing](https://github.com/winglang/wing) - 🔥 A programming language for the cloud - A unified programming model, combining infrastructure and runtime code into one language  🚀🚀
+- [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
@@ -1075,7 +1074,7 @@
 - [cicadahq/cicada](https://github.com/cicadahq/cicada) - Write CI/CD pipelines using TypeScript
 - [xcatliu/pagic](https://github.com/xcatliu/pagic) - A static site generator powered by Deno + React
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A task runner and repo management tool for the web ecosystem, written in Rust.
-- [fastrodev/fastro](https://github.com/fastrodev/fastro) - Fast and simple web application framework for deno
+- [fastrodev/fastro](https://github.com/fastrodev/fastro) - Full Stack Framework for Deno, TypeScript, Preact JS and Tailwind CSS
 - [surrealdb/surrealdb.js](https://github.com/surrealdb/surrealdb.js) - SurrealDB driver for JavaScript
 - [skoshx/pentagon](https://github.com/skoshx/pentagon) - Prisma-like ORM built on top of Deno KV. Allows you to write your database schemas and relations using Zod schemas, and run queries using familiar syntax from Prisma.
 - [primatejs/primate](https://github.com/primatejs/primate) - Polymorphic development platform
@@ -1240,7 +1239,7 @@
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
-- [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A Native GOG, Amazon and Epic Games Launcher for Linux, Windows and Mac.
+- [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 - [kikko-land/kikko](https://github.com/kikko-land/kikko) - Powerful SQLite adapter for web, mobile and desktop. Build reactive UI on top of it
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API.
@@ -1373,7 +1372,7 @@
 - [web-infra-dev/garfish](https://github.com/web-infra-dev/garfish) - A powerful micro front-end framework 🚚
 - [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - Modern.js is a web engineering system, including a web framework and a npm package solution.
 - [ThousandBirdsInc/chidori](https://github.com/ThousandBirdsInc/chidori) - A reactive runtime for building durable AI agents
-- [fastrodev/fastro](https://github.com/fastrodev/fastro) - Fast and simple web application framework for deno
+- [fastrodev/fastro](https://github.com/fastrodev/fastro) - Full Stack Framework for Deno, TypeScript, Preact JS and Tailwind CSS
 - [sanic-org/sanic](https://github.com/sanic-org/sanic) - Accelerate your web app development  | Build fast. Run fast.
 - [cheetahstudio/cheetah](https://github.com/cheetahstudio/cheetah) - A framework for the modern web.
 - [analogjs/analog](https://github.com/analogjs/analog) - The fullstack meta-framework for Angular. Powered by Vite
@@ -1422,7 +1421,7 @@
 - [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥
 - [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
 - [spinspire/pocketbase-sveltekit-starter](https://github.com/spinspire/pocketbase-sveltekit-starter) - a starter project to build a SvelteKit frontend with PocketBase backend
-- [fastrodev/fastro](https://github.com/fastrodev/fastro) - Fast and simple web application framework for deno
+- [fastrodev/fastro](https://github.com/fastrodev/fastro) - Full Stack Framework for Deno, TypeScript, Preact JS and Tailwind CSS
 - [Wisser/Jailer](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool.
 - [rjaros/kvision](https://github.com/rjaros/kvision) - Object oriented web framework for Kotlin/JS
 - [angel-rs/css-color-filter-generator](https://github.com/angel-rs/css-color-filter-generator) - Generate custom css filter property to achieve any target color :art:
@@ -1492,11 +1491,13 @@
 
 ## games 
 
+- [partykit/partykit](https://github.com/partykit/partykit) - PartyKit simplifies developing multiplayer applications
 - [thisago/tic80](https://github.com/thisago/tic80) - Nim TIC-80 bindings
 - [domeengine/dome](https://github.com/domeengine/dome) - A lightweight game development environment where games can be written in Wren
 
 ## git 
 
+- [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [justuswilhelm/pufferfish](https://github.com/justuswilhelm/pufferfish) - fish, tmux and neovim for fun people
 - [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
@@ -1720,6 +1721,8 @@
 
 ## hacktoberfest 
 
+- [tinylibs/tinyspy](https://github.com/tinylibs/tinyspy) - 🕵🏻‍♂️ minimal fork of nanospy, with more features
+- [tinylibs/tinybench](https://github.com/tinylibs/tinybench) - 🔎 A simple, tiny and lightweight benchmarking library!
 - [denosaurs/bench](https://github.com/denosaurs/bench) - 📊 Comparing deno & node HTTP frameworks
 - [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
 - [vaibhav111tandon/vov.css](https://github.com/vaibhav111tandon/vov.css) - 📱💻A CSS Library for small but useful animations💻📱
@@ -2073,6 +2076,7 @@
 
 ## javascript 
 
+- [typicode/xv](https://github.com/typicode/xv) - 🙅‍♀️ ✌️ fastest test runner
 - [Daninet/hash-wasm](https://github.com/Daninet/hash-wasm) - Lightning fast hash functions using hand-tuned WebAssembly binaries
 - [nshiab/simple-data-analysis](https://github.com/nshiab/simple-data-analysis) - Easy-to-use and high-performance JavaScript library for data analysis.
 - [denosaurs/bench](https://github.com/denosaurs/bench) - 📊 Comparing deno & node HTTP frameworks
@@ -2177,7 +2181,6 @@
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [chiselstrike/chiselstrike](https://github.com/chiselstrike/chiselstrike) - ChiselStrike abstracts common backends components like databases and message queues, and let you drive them from a convenient TypeScript business logic layer
 - [p42ai/js-assistant](https://github.com/p42ai/js-assistant) - 120+ refactorings and code-assists for Visual Studio Code
-- [typicode/xv](https://github.com/typicode/xv) - 🙅‍♀️ ✌️ fastest test runner
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
@@ -2266,6 +2269,8 @@
 
 ## json 
 
+- [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
+- [gajus/roarr](https://github.com/gajus/roarr) - JSON logger for Node.js and browser.
 - [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
 - [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validations and serializations through transformation
 - [moltar/typescript-runtime-type-benchmarks](https://github.com/moltar/typescript-runtime-type-benchmarks) - 📊 Benchmark Comparison of Packages with Runtime Validation and TypeScript Support
@@ -2362,7 +2367,7 @@
 - [pocketpy/pocketpy](https://github.com/pocketpy/pocketpy) - Open Source Python Interpreter in 1 File for Game Scripting
 - [enso-org/enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
-- [winglang/wing](https://github.com/winglang/wing) - 🔥 A programming language for the cloud - A unified programming model, combining infrastructure and runtime code into one language  🚀🚀
+- [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [projectfluent/fluent.js](https://github.com/projectfluent/fluent.js) - JavaScript implementation of Project Fluent
@@ -2409,7 +2414,7 @@
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) - SpotX adblocker for Spotify desktop clients on Linux and Mac
+- [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) - SpotX Mac and Linux adblocker for the Spotify desktop client
 - [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux
 - [beringresearch/macpine](https://github.com/beringresearch/macpine) - Lightweight Linux VMs on MacOS
@@ -2421,7 +2426,7 @@
 - [arthenica/ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
 - [danielealbano/cachegrand](https://github.com/danielealbano/cachegrand) - cachegrand - a modern data ingestion, processing and serving platform built for today's hardware
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
-- [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A Native GOG, Amazon and Epic Games Launcher for Linux, Windows and Mac.
+- [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 - [uTox/uTox](https://github.com/uTox/uTox) - µTox the lightest and fluffiest Tox client
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines for macOS
@@ -2489,6 +2494,7 @@
 
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, virtual screens, PIP and lots more!
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
+- [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) - SpotX Mac and Linux adblocker for the Spotify desktop client
 - [OrangeDrangon/android-messages-desktop](https://github.com/OrangeDrangon/android-messages-desktop) - Android Messages as a Cross-platform Desktop App
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
@@ -2531,7 +2537,6 @@
 - [ploomber/ploomber](https://github.com/ploomber/ploomber) - The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️
 - [georgedouzas/sports-betting](https://github.com/georgedouzas/sports-betting) - Collection of sports betting AI tools.
 - [PeterL1n/BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2) - Real-Time High-Resolution Background Matting
-- [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 
 ## macos 
@@ -2551,7 +2556,7 @@
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, virtual screens, PIP and lots more!
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
-- [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) - SpotX adblocker for Spotify desktop clients on Linux and Mac
+- [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) - SpotX Mac and Linux adblocker for the Spotify desktop client
 - [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
@@ -2790,6 +2795,7 @@
 
 ## node 
 
+- [typicode/xv](https://github.com/typicode/xv) - 🙅‍♀️ ✌️ fastest test runner
 - [BretFisher/nodejs-rocks-in-docker](https://github.com/BretFisher/nodejs-rocks-in-docker) - DockerCon "Docker for Node.js" examples
 - [Azure/autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
@@ -2807,7 +2813,6 @@
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute: Node.js enhanced to run TypeScript & ESM
-- [typicode/xv](https://github.com/typicode/xv) - 🙅‍♀️ ✌️ fastest test runner
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Like Next.js / Nuxt but as do-one-thing-do-it-well Vite plugin.
@@ -2823,6 +2828,8 @@
 
 ## nodejs 
 
+- [typicode/xv](https://github.com/typicode/xv) - 🙅‍♀️ ✌️ fastest test runner
+- [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
 - [clinicjs/node-clinic](https://github.com/clinicjs/node-clinic) - Clinic.js diagnoses your Node.js performance issues
 - [nshiab/simple-data-analysis](https://github.com/nshiab/simple-data-analysis) - Easy-to-use and high-performance JavaScript library for data analysis.
 - [BretFisher/nodejs-rocks-in-docker](https://github.com/BretFisher/nodejs-rocks-in-docker) - DockerCon "Docker for Node.js" examples
@@ -2854,7 +2861,6 @@
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools.
 - [dosco/llm-client](https://github.com/dosco/llm-client) - LLMClient - A simple library to build RAG + Reasoning + Function calling Agents + LLM Proxy + Tracing + Logging
 - [codeceptjs/CodeceptJS](https://github.com/codeceptjs/CodeceptJS) - Supercharged End 2 End Testing Framework for NodeJS
-- [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [clerk/javascript](https://github.com/clerk/javascript) - Official Javascript repository for Clerk authentication
@@ -2876,7 +2882,6 @@
 - [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-- [typicode/xv](https://github.com/typicode/xv) - 🙅‍♀️ ✌️ fastest test runner
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
 - [jasonkuhrt/graphql-request](https://github.com/jasonkuhrt/graphql-request) - Minimal GraphQL client supporting Node and browsers for scripts or simple apps
 - [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build NodeJS / GO APIs in 5 minutes not weeks
@@ -2981,12 +2986,15 @@
 
 ## others 
 
+- [icetbr/comparing-testing-libraries](https://github.com/icetbr/comparing-testing-libraries) - Comparing the experience of using different testing libraries in javascript
+- [Hillobar/Rope](https://github.com/Hillobar/Rope) - GUI-focused roop
+- [vercel/fun](https://github.com/vercel/fun) - ƒun - Local serverless function λ development runtime
 - [asteasolutions/zod-to-openapi](https://github.com/asteasolutions/zod-to-openapi) - A library that generates OpenAPI (Swagger) docs from Zod schemas
 - [vinejs/vine](https://github.com/vinejs/vine) - VineJS is a form data validation library for Node.js
 - [msutkowski/ts-rest-hono](https://github.com/msutkowski/ts-rest-hono) - A hono adapter for ts-rest
 - [jackc/tern](https://github.com/jackc/tern) - The SQL Fan's Migrator
 - [hviana/faster](https://github.com/hviana/faster) - A fast and optimized middleware server with an absurdly small amount of code (300 lines) built on top of Deno's native HTTP APIs with no dependencies. It also has a collection of useful middlewares: l
-- [cyberus-technology/virtualbox-kvm](https://github.com/cyberus-technology/virtualbox-kvm) - VirtualBox with KVM Backend
+- [cyberus-technology/virtualbox-kvm](https://github.com/cyberus-technology/virtualbox-kvm) - VirtualBox with KVM Backend. With our current development model, we cannot easily accept pull requests here. If you'd like to contribute, feel free to reach out to us, we are happy to find a solution.
 - [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 - [sindresorhus/md5-hex](https://github.com/sindresorhus/md5-hex) - Create a MD5 hash with hex encoding
 - [sindresorhus/hasha](https://github.com/sindresorhus/hasha) - Hashing made simple. Get the hash of a buffer/string/stream/file.
@@ -3006,7 +3014,7 @@
 - [microsoft/typespec](https://github.com/microsoft/typespec) - 
 - [lowcoder-org/lowcoder](https://github.com/lowcoder-org/lowcoder) - 🔥 🔥 🔥 The Open Source Retool, Tooljet and Appsmith Alternative
 - [boardzilla/boardzilla-core](https://github.com/boardzilla/boardzilla-core) - Boardzilla core library
-- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - Accurate line-level text detection and recognition (OCR) in any language
+- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR and line detection in 90+ languages
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [bholmesdev/simple-stack](https://github.com/bholmesdev/simple-stack) - 🌱 Web apps made simple
@@ -3552,6 +3560,7 @@
 
 ## python 
 
+- [nyggus/perftester](https://github.com/nyggus/perftester) - A lightweight Python package for performance testing of Python functions.
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [unit8co/darts](https://github.com/unit8co/darts) - A python library for user-friendly forecasting and anomaly detection on time series.
 - [Nixtla/statsforecast](https://github.com/Nixtla/statsforecast) - Lightning ⚡️ fast forecasting with statistical and econometric models.
@@ -3726,6 +3735,7 @@
 
 ## react 
 
+- [partykit/remix-starter](https://github.com/partykit/remix-starter) - 🎈 PartyKit ⤫ Remix 💿
 - [edmundhung/conform](https://github.com/edmundhung/conform) - A type-safe form validation library utilizing web fundamentals to progressively enhance HTML Forms with full support for server frameworks like Remix and Next.js.
 - [pixijs/pixi-react](https://github.com/pixijs/pixi-react) - Write PIXI apps using React declarative style
 - [pmndrs/valtio](https://github.com/pmndrs/valtio) - 💊 Valtio makes proxy-state simple  for React and Vanilla
@@ -3754,7 +3764,7 @@
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [kuma-ui/kuma-ui](https://github.com/kuma-ui/kuma-ui) - 🐻‍❄️ A Headless, Utility-First, and Zero-Runtime UI Component Library ✨
-- [fastrodev/fastro](https://github.com/fastrodev/fastro) - Fast and simple web application framework for deno
+- [fastrodev/fastro](https://github.com/fastrodev/fastro) - Full Stack Framework for Deno, TypeScript, Preact JS and Tailwind CSS
 - [primatejs/primate](https://github.com/primatejs/primate) - Polymorphic development platform
 - [impulse-oss/impulse](https://github.com/impulse-oss/impulse) - Impossible Dev Tools for React and Tailwind
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
@@ -3989,7 +3999,7 @@
 - [cicadahq/cicada](https://github.com/cicadahq/cicada) - Write CI/CD pipelines using TypeScript
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A task runner and repo management tool for the web ecosystem, written in Rust.
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
-- [winglang/wing](https://github.com/winglang/wing) - 🔥 A programming language for the cloud - A unified programming model, combining infrastructure and runtime code into one language  🚀🚀
+- [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
@@ -4143,6 +4153,8 @@
 
 ## serverless 
 
+- [partykit/remix-starter](https://github.com/partykit/remix-starter) - 🎈 PartyKit ⤫ Remix 💿
+- [upstash/ratelimit](https://github.com/upstash/ratelimit) - Rate limiting library for serverless runtimes
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays.
 - [encoredev/encore](https://github.com/encoredev/encore) - Encore is the end-to-end Backend Development Platform that lets you escape cloud complexity.
@@ -4150,7 +4162,7 @@
 - [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
 - [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
 - [tursodatabase/turso-cli](https://github.com/tursodatabase/turso-cli) - Command line interface to Turso.
-- [winglang/wing](https://github.com/winglang/wing) - 🔥 A programming language for the cloud - A unified programming model, combining infrastructure and runtime code into one language  🚀🚀
+- [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
 - [inngest/inngest](https://github.com/inngest/inngest) - Inngest is the developer platform for easily building reliable workflows with zero infrastructure.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any Node.js module. Never fail to scale with Art
@@ -4376,6 +4388,7 @@
 
 ## terminal 
 
+- [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [warbacon/zunder-zsh](https://github.com/warbacon/zunder-zsh) - ⚡ A minimalistic zsh configuration with sane defaults.
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written mostly in C.
@@ -4422,6 +4435,8 @@
 
 ## testing 
 
+- [typicode/xv](https://github.com/typicode/xv) - 🙅‍♀️ ✌️ fastest test runner
+- [nyggus/perftester](https://github.com/nyggus/perftester) - A lightweight Python package for performance testing of Python functions.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [evalplus/evalplus](https://github.com/evalplus/evalplus) - EvalPlus for rigourous evaluation of LLM-synthesized code
 - [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
@@ -4435,7 +4450,6 @@
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any Node.js module. Never fail to scale with Art
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
-- [typicode/xv](https://github.com/typicode/xv) - 🙅‍♀️ ✌️ fastest test runner
 - [Cornutum/tcases](https://github.com/Cornutum/tcases) - A model-based test case generator
 - [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Automate your API Testing: catch crashes, validate specs, and save time
 - [testcontainers/testcontainers-node](https://github.com/testcontainers/testcontainers-node) - Testcontainers is a NodeJS library that supports tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
@@ -4456,6 +4470,7 @@
 
 ## typescript 
 
+- [typicode/xv](https://github.com/typicode/xv) - 🙅‍♀️ ✌️ fastest test runner
 - [webpro/knip](https://github.com/webpro/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [Daninet/hash-wasm](https://github.com/Daninet/hash-wasm) - Lightning fast hash functions using hand-tuned WebAssembly binaries
 - [nshiab/simple-data-analysis](https://github.com/nshiab/simple-data-analysis) - Easy-to-use and high-performance JavaScript library for data analysis.
@@ -4519,12 +4534,12 @@
 - [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem) - An in memory postgres DB instance for your unit tests
 - [cicadahq/cicada](https://github.com/cicadahq/cicada) - Write CI/CD pipelines using TypeScript
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A task runner and repo management tool for the web ecosystem, written in Rust.
-- [fastrodev/fastro](https://github.com/fastrodev/fastro) - Fast and simple web application framework for deno
+- [fastrodev/fastro](https://github.com/fastrodev/fastro) - Full Stack Framework for Deno, TypeScript, Preact JS and Tailwind CSS
 - [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service!
 - [skoshx/pentagon](https://github.com/skoshx/pentagon) - Prisma-like ORM built on top of Deno KV. Allows you to write your database schemas and relations using Zod schemas, and run queries using familiar syntax from Prisma.
 - [fabian-hiller/modular-forms](https://github.com/fabian-hiller/modular-forms) - The modular and type-safe form library for SolidJS, Qwik and Preact
 - [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
-- [winglang/wing](https://github.com/winglang/wing) - 🔥 A programming language for the cloud - A unified programming model, combining infrastructure and runtime code into one language  🚀🚀
+- [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
 - [cheetahstudio/cheetah](https://github.com/cheetahstudio/cheetah) - A framework for the modern web.
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
@@ -4536,7 +4551,6 @@
 - [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [h2oai/wave](https://github.com/h2oai/wave) - Realtime Web Apps and Dashboards for Python and R
-- [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
 - [arakoodev/EdgeChains](https://github.com/arakoodev/EdgeChains) - EdgeChains.js Typescript/Javascript production-friendly Generative AI.  Based on Jsonnet. Works anywhere that Webassembly does. Prompts live declaratively & "outside code in config". Kubernetes & edge
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
@@ -4601,7 +4615,6 @@
 - [hayes/pothos](https://github.com/hayes/pothos) - Pothos GraphQL is library for creating GraphQL schemas in typescript using a strongly typed code first approach
 - [chiselstrike/chiselstrike](https://github.com/chiselstrike/chiselstrike) - ChiselStrike abstracts common backends components like databases and message queues, and let you drive them from a convenient TypeScript business logic layer
 - [p42ai/js-assistant](https://github.com/p42ai/js-assistant) - 120+ refactorings and code-assists for Visual Studio Code
-- [typicode/xv](https://github.com/typicode/xv) - 🙅‍♀️ ✌️ fastest test runner
 - [jawj/zapatos](https://github.com/jawj/zapatos) - Zero-abstraction Postgres for TypeScript: a non-ORM database library
 - [shinework/photoshot](https://github.com/shinework/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
@@ -4835,8 +4848,8 @@
 
 ## website 
 
+- [VadimBoev/freegpt-webui-v2](https://github.com/VadimBoev/freegpt-webui-v2) - (NEW) GPT 3.5/4 with a Chat Web UI. No API key required.
 - [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - Modern.js is a web engineering system, including a web framework and a npm package solution.
-- [ramonvc/freegpt-webui](https://github.com/ramonvc/freegpt-webui) - GPT 3.5/4 with a Chat Web UI. No API key required.
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [TannerReynolds/ShareX-Upload-Server](https://github.com/TannerReynolds/ShareX-Upload-Server) - AKA ShareS - Feature full & Stable ShareX and file server in node. Includes images, videos, code, text, markdown rendering, password protected uploads, logging via discord, administration through Disc
