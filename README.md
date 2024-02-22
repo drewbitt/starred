@@ -179,6 +179,7 @@
 
 ## C++ 
 
+- [OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
@@ -186,7 +187,7 @@
 - [kanjitalk755/macemu](https://github.com/kanjitalk755/macemu) - Basilisk II and SheepShaver Macintosh emulators
 - [pocketpy/pocketpy](https://github.com/pocketpy/pocketpy) - Open Source Python Interpreter in 1 File for Game Scripting
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
 - [ASDAlexander77/TypeScriptCompiler](https://github.com/ASDAlexander77/TypeScriptCompiler) - TypeScript Compiler (by LLVM)
 - [Norbyte/bg3se](https://github.com/Norbyte/bg3se) - Baldur's Gate 3 Script Extender
 - [Streampunk/beamcoder](https://github.com/Streampunk/beamcoder) - Node.js native bindings to FFmpeg.
@@ -354,6 +355,7 @@
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
 - [jetpack-io/typeid](https://github.com/jetpack-io/typeid) - Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs
+- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, smart, & global CDN for modern(es2015+) web development.
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
 - [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396
@@ -558,6 +560,7 @@
 
 ## JavaScript 
 
+- [dy/linefont](https://github.com/dy/linefont) - Font for rendering line chart data
 - [ehmicky/nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions
 - [ktrongnhan/xxhash-addon](https://github.com/ktrongnhan/xxhash-addon) - Yet another xxhash addon for Node.js which can be x50 times faster than crypto MD5
 - [MionKit/Benchmarks](https://github.com/MionKit/Benchmarks) - Comparing mion against fastify, deepkit and other frameworks
@@ -991,7 +994,7 @@
 - [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) - Database system for AI-powered apps
 - [haoheliu/voicefixer](https://github.com/haoheliu/voicefixer) - General Speech Restoration
 - [kagisearch/pyllms](https://github.com/kagisearch/pyllms) - Minimal Python library to connect to LLMs (OpenAI, Anthropic, AI21, Cohere, Aleph Alpha, HuggingfaceHub, Google PaLM2, with a built-in model performance benchmark.
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The middleware for building custom AI, enabling smarter organizations.
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building custom AI, enabling smarter organizations.
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
 - [hegelai/prompttools](https://github.com/hegelai/prompttools) - Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB).
 - [idealo/imagededup](https://github.com/idealo/imagededup) - 😎 Finding duplicate images made easy!
@@ -1393,6 +1396,7 @@
 
 ## TypeScript 
 
+- [remorses/genql](https://github.com/remorses/genql) - Type safe TypeScript client for any GraphQL API
 - [qwikifiers/qwik-ui](https://github.com/qwikifiers/qwik-ui) - Qwik UI Components
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.
 - [react-hook-form/devtools](https://github.com/react-hook-form/devtools) - 📋 DevTools to help debug forms.
@@ -1455,7 +1459,6 @@
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform. Observability, metrics, evals, prompt management 🍊YC W23 🤖 SDKs + integrations for Typescript, Python, OpenAI, Langchain, Litellm
 - [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) - 📦 🍣 Next-gen package bundler for TypeScript & ESM
 - [raidendotai/openv0](https://github.com/raidendotai/openv0) - AI generated UI components
-- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, smart, & global CDN for modern(es2015+) web development.
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [unkeyed/unkey](https://github.com/unkeyed/unkey) - Open source API authentication and authorization
 - [alephtwo/tragedy-looper-generator](https://github.com/alephtwo/tragedy-looper-generator) - Generate somewhat randomized plots for Tragedy Looper.
