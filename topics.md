@@ -14,7 +14,6 @@
 - [angular](#angular)
 - [ansible](#ansible)
 - [api](#api)
-- [archlinux](#archlinux)
 - [artificial-intelligence](#artificial-intelligence)
 - [automation](#automation)
 - [awesome](#awesome)
@@ -433,10 +432,6 @@
 - [athena-framework/athena](https://github.com/athena-framework/athena) - An ecosystem of reusable, independent components
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [TannerReynolds/ShareX-Upload-Server](https://github.com/TannerReynolds/ShareX-Upload-Server) - AKA ShareS - Feature full & Stable ShareX and file server in node. Includes images, videos, code, text, markdown rendering, password protected uploads, logging via discord, administration through Disc
-
-## archlinux 
-
-- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 
 ## artificial-intelligence 
 
@@ -3196,7 +3191,7 @@
 - [alephtwo/tragedy-looper-generator](https://github.com/alephtwo/tragedy-looper-generator) - Generate somewhat randomized plots for Tragedy Looper.
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [swc-project/swc-node](https://github.com/swc-project/swc-node) - Faster ts-node without typecheck
-- [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and the IETF draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
+- [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
 - [facebook/stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
 - [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
 - [grishka/NearDrop](https://github.com/grishka/NearDrop) - An unofficial Google Nearby Share app for macOS
@@ -4519,7 +4514,7 @@
 
 ## storybook 
 
-- [lost-pixel/lost-pixel](https://github.com/lost-pixel/lost-pixel) - Holistic visual testing for your Frontend 🖼 First class integration with Storybook, Ladle, Playwright & other frontend libraries.
+- [lost-pixel/lost-pixel](https://github.com/lost-pixel/lost-pixel) - Open source alternative to Percy, Chromatic, Applitools.
 - [0l1v3rr/github-readme-tech-stack](https://github.com/0l1v3rr/github-readme-tech-stack) - Show off your favorite technologies and tools by using these cards in your GitHub README.
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
@@ -4795,7 +4790,7 @@
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
-- [lost-pixel/lost-pixel](https://github.com/lost-pixel/lost-pixel) - Holistic visual testing for your Frontend 🖼 First class integration with Storybook, Ladle, Playwright & other frontend libraries.
+- [lost-pixel/lost-pixel](https://github.com/lost-pixel/lost-pixel) - Open source alternative to Percy, Chromatic, Applitools.
 - [laxamentumtech/audnexus](https://github.com/laxamentumtech/audnexus) - An audiobook data aggregation API that harmonizes data from multiple sources into a unified stream. It offers a consistent and user-friendly source of audiobook data for various applications.
 - [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust.
 - [Viijay-Kr/react-ts-css](https://github.com/Viijay-Kr/react-ts-css) - VS Code Extension for CSS modules in typescript bases react projects
