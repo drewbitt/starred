@@ -1369,6 +1369,8 @@
 
 ## express 
 
+- [colyseus/uWebSockets-express](https://github.com/colyseus/uWebSockets-express) - Express API compatibility layer for uWebSockets.js
+- [fastify/fastify-express](https://github.com/fastify/fastify-express) - Express compatibility layer for Fastify
 - [kartikk221/hyper-express](https://github.com/kartikk221/hyper-express) - High performance Node.js webserver with a simple-to-use API powered by uWebsockets.js under the hood.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
@@ -1879,7 +1881,7 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [codeceptjs/CodeceptJS](https://github.com/codeceptjs/CodeceptJS) - Supercharged End 2 End Testing Framework for NodeJS
 - [h2oai/wave](https://github.com/h2oai/wave) - Realtime Web Apps and Dashboards for Python and R
-- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Providing AI Software Company, Towards Natural Language Programming
+- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
@@ -2997,6 +2999,7 @@
 
 ## nodejs 
 
+- [colyseus/uWebSockets-express](https://github.com/colyseus/uWebSockets-express) - Express API compatibility layer for uWebSockets.js
 - [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
@@ -3172,6 +3175,11 @@
 
 ## others 
 
+- [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
+- [chearon/dropflow](https://github.com/chearon/dropflow) - A CSS layout engine
+- [pugson/hexp3](https://github.com/pugson/hexp3) - Quickly convert your HEX colors to Display P3 color space.
+- [suhaotian/xior](https://github.com/suhaotian/xior) - A lite request lib based on fetch with plugins support and similar axios API
+- [pocketbase/benchmarks](https://github.com/pocketbase/benchmarks) - PocketBase test application with various benchmarks
 - [anchordotdev/cli](https://github.com/anchordotdev/cli) - 
 - [salesforce/fack](https://github.com/salesforce/fack) - Fack answers frequently asked questions using Generative AI.
 - [WebKit/Speedometer](https://github.com/WebKit/Speedometer) - An open source repository for the Speedometer benchmark
@@ -3202,7 +3210,7 @@
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
 - [WebReflection/fetch](https://github.com/WebReflection/fetch) - A fetch with Response abilities.
 - [mihaip/infinite-mac](https://github.com/mihaip/infinite-mac) - A classic Mac loaded with everything you'd want
-- [Gurge44/TOHE_PLUS](https://github.com/Gurge44/TOHE_PLUS) - Town of Host Edited, but with a lot of new useful features as well as some more roles.
+- [Gurge44/EndlessHostRoles](https://github.com/Gurge44/EndlessHostRoles) - Town of Host Edited, but with a lot of new useful features as well as some more roles.
 - [icetbr/comparing-testing-libraries](https://github.com/icetbr/comparing-testing-libraries) - Comparing the experience of using different testing libraries in javascript
 - [Hillobar/Rope](https://github.com/Hillobar/Rope) - GUI-focused roop
 - [vercel/fun](https://github.com/vercel/fun) - ƒun - Local serverless function λ development runtime
@@ -4209,6 +4217,7 @@
 
 ## rust 
 
+- [proofrock/sqliterg](https://github.com/proofrock/sqliterg) - A SQLite Remote Gateway - query SQLite via HTTP
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [salvo-rs/salvo](https://github.com/salvo-rs/salvo) - A powerful web framework built with a simplified design.
 - [flosse/rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison) - A comparison of some web frameworks and libs written in Rust
@@ -4531,6 +4540,7 @@
 
 ## sqlite 
 
+- [proofrock/sqliterg](https://github.com/proofrock/sqliterg) - A SQLite Remote Gateway - query SQLite via HTTP
 - [teableio/teable](https://github.com/teableio/teable) - ✨ A Super fast, Real-time, Professional, Developer friendly, No code database
 - [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
 - [tursodatabase/libsql-js](https://github.com/tursodatabase/libsql-js) - A better-sqlite3 compatible API for libSQL that supports Bun, Deno, and Node
