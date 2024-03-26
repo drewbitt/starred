@@ -762,7 +762,6 @@
 
 ## Jupyter Notebook 
 
-- [intel-analytics/BigDL](https://github.com/intel-analytics/BigDL) - Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, Baichuan, Mixtral, Gemma, etc.) on Intel CPU and GPU (e.g., local PC with iGPU, discrete GPU such as Arc, Flex and Max). A
 - [mshumer/gpt-llm-trainer](https://github.com/mshumer/gpt-llm-trainer) - 
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [AISE-TUDelft/STACC](https://github.com/AISE-TUDelft/STACC) - STACC: a set of SentenceTransformer Assisted Comment Classifiers
@@ -975,6 +974,7 @@
 - [online-ml/river](https://github.com/online-ml/river) - 🌊 Online machine learning in Python
 - [amazon-science/chronos-forecasting](https://github.com/amazon-science/chronos-forecasting) - Chronos: Pretrained (Language) Models for Probabilistic Time Series Forecasting
 - [salesforce/Merlion](https://github.com/salesforce/Merlion) - Merlion: A Machine Learning Framework for Time Series Intelligence
+- [intel-analytics/ipex-llm](https://github.com/intel-analytics/ipex-llm) - Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, Baichuan, Mixtral, Gemma, etc.) on Intel CPU and GPU (e.g., local PC with iGPU, discrete GPU such as Arc, Flex and Max). A
 - [marsupialtail/quokka](https://github.com/marsupialtail/quokka) - Making data lake work for time series
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
@@ -1455,7 +1455,6 @@
 ## TypeScript 
 
 - [roblox-ts/roblox-ts](https://github.com/roblox-ts/roblox-ts) - A TypeScript-to-Luau Compiler for Roblox
-- [OrJDev/prpc](https://github.com/OrJDev/prpc) - Utility Library For NextJS, Bling & SolidStart, Combining Tanstack Query With server$
 - [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript
 - [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
 - [odoo/owl](https://github.com/odoo/owl) - OWL: A web framework for structured, dynamic and maintainable applications
