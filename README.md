@@ -531,6 +531,7 @@
 
 ## HTML 
 
+- [mbebe/blomqvist](https://github.com/mbebe/blomqvist) - blomqvist
 - [grassmunk/Chicago95](https://github.com/grassmunk/Chicago95) - A rendition of everyone's favorite 1995 Microsoft operating system for Linux.
 - [shadawck/awesome-cli-frameworks](https://github.com/shadawck/awesome-cli-frameworks) - Collection of tools to build beautiful command line interface in different languages
 - [ClickHouse/ClickBench](https://github.com/ClickHouse/ClickBench) - ClickBench: a Benchmark For Analytical Databases
@@ -1567,7 +1568,7 @@
 - [zustandjs/zustand-valtio](https://github.com/zustandjs/zustand-valtio) - A sweet combination of Zustand and Valtio
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Effortless, instant screen sharing. Open-source and cross-platform.
 - [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) - Fast drag and drop for any experience on any tech stack
-- [streamich/json-joy](https://github.com/streamich/json-joy) - JSON CRDT, JSON CRDT Patch, JSON Patch+, JSON Predicate, CBOR, MessagePack, UBJSON, JSON Reactive RPC, JSON-RPC 2.0, JSON Pointer, JSON Expression, JSON Type
+- [streamich/json-joy](https://github.com/streamich/json-joy) - JSON CRDT, JSON CRDT Patch, JSON Patch+, JSON Predicate, JSON Pointer, JSON Expression, JSON Type
 - [bokuweb/zstd-wasm](https://github.com/bokuweb/zstd-wasm) - Zstandard for browser, Node.js and Deno
 - [dahlia/logtape](https://github.com/dahlia/logtape) - Simple logging library with zero dependencies for Deno/Node.js/Bun/browsers
 - [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
@@ -1608,7 +1609,7 @@
 - [colyseus/uWebSockets-express](https://github.com/colyseus/uWebSockets-express) - Express API compatibility layer for uWebSockets.js
 - [pugson/hexp3](https://github.com/pugson/hexp3) - Quickly convert your HEX colors to Display P3 color space.
 - [suhaotian/xior](https://github.com/suhaotian/xior) - A lite request lib based on fetch with plugin support and similar API to axios.
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TT
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TT
 - [ngneat/elf](https://github.com/ngneat/elf) - 🧙‍♀️ A Reactive Store with Magical Powers
 - [bewcloud/bewcloud](https://github.com/bewcloud/bewcloud) - A simpler alternative to Nextcloud and ownCloud, built with TypeScript and Deno using Fresh. 🦕 🍋
 - [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
@@ -1703,7 +1704,7 @@
 - [rvion/CushyStudio](https://github.com/rvion/CushyStudio) - 🛋 The AI and Generative Art platform for everyone
 - [defenseunicorns/pepr](https://github.com/defenseunicorns/pepr) - Type safe K8s middleware for humans
 - [Azure/autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python
-- [sjc5/hwy](https://github.com/sjc5/hwy) - Hwy is a simple, lightweight, and flexible web framework.
+- [sjc5/hwy](https://github.com/sjc5/hwy) - Hwy is a minimalist fullstack web framework for Node.js and Go.
 - [nick-keller/react-datasheet-grid](https://github.com/nick-keller/react-datasheet-grid) - An Airtable-like / Excel-like component to create beautiful spreadsheets.
 - [favware/cliff-jumper](https://github.com/favware/cliff-jumper) - A small CLI tool to create a semantic release and git-cliff powered Changelog
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
