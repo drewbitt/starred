@@ -914,6 +914,7 @@
 
 ## cpp 
 
+- [apache/incubator-fury](https://github.com/apache/incubator-fury) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
 - [rapidsai/cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
@@ -1401,6 +1402,7 @@
 
 ## documentation 
 
+- [evildmp/diataxis-documentation-framework](https://github.com/evildmp/diataxis-documentation-framework) - A systematic approach to creating better documentation.
 - [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source developer content platform
 - [pastelsky/tsdocs](https://github.com/pastelsky/tsdocs) - Browse type documentation for JS libraries
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
@@ -1838,6 +1840,8 @@
 
 ## golang 
 
+- [apache/incubator-fury](https://github.com/apache/incubator-fury) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
+- [vouch/vouch-proxy](https://github.com/vouch/vouch-proxy) - an SSO and OAuth / OIDC login solution for Nginx using the auth_request module
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go.
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for building complex, real-world software with LLMs
@@ -1987,6 +1991,7 @@
 
 ## hacktoberfest 
 
+- [apache/incubator-fury](https://github.com/apache/incubator-fury) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
 - [KinsonDigital/Velaptor](https://github.com/KinsonDigital/Velaptor) - 2D game and media application development framework
 - [TimMikeladze/next-upload](https://github.com/TimMikeladze/next-upload) - 🗃️ Turn-key solution for signed & secure file-uploads to an S3 compliant storage service such as R2, AWS, or Minio. Built for Next.js. Generates signed URLs for uploading files directly to your storag
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: access data freely.
@@ -2320,6 +2325,7 @@
 
 ## java 
 
+- [apache/incubator-fury](https://github.com/apache/incubator-fury) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
@@ -2367,6 +2373,7 @@
 
 ## javascript 
 
+- [apache/incubator-fury](https://github.com/apache/incubator-fury) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
 - [hyparam/hyparquet](https://github.com/hyparam/hyparquet) - parquet file parser for javascript
 - [dahlia/logtape](https://github.com/dahlia/logtape) - Simple logging library with zero dependencies for Deno/Node.js/Bun/browsers
 - [kylebarron/parquet-wasm](https://github.com/kylebarron/parquet-wasm) - Rust-based WebAssembly bindings to read and write Apache Parquet data
@@ -4157,6 +4164,7 @@
 
 ## python 
 
+- [apache/incubator-fury](https://github.com/apache/incubator-fury) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
 - [nbQA-dev/nbQA](https://github.com/nbQA-dev/nbQA) - Run ruff, isort, pyupgrade, mypy, pylint, flake8, and more on Jupyter Notebooks
 - [rapidsai/cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
 - [mxmlnkn/ratarmount](https://github.com/mxmlnkn/ratarmount) - Access large archives as a filesystem efficiently, e.g., TAR, RAR, ZIP, GZ, BZ2, XZ, ZSTD archives
@@ -4618,6 +4626,7 @@
 
 ## rust 
 
+- [apache/incubator-fury](https://github.com/apache/incubator-fury) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: access data freely.
@@ -5181,6 +5190,7 @@
 
 ## testing 
 
+- [allure-framework/allure-js](https://github.com/allure-framework/allure-js) - Allure integrations for JavaScript test frameworks
 - [m-radzikowski/aws-sdk-client-mock](https://github.com/m-radzikowski/aws-sdk-client-mock) - AWS JavaScript SDK v3 mocks for easy unit testing. 🖋️ Typed 🔬 Tested 📄 Documented 🛠️ Maintained
 - [db-benchmarks/db-benchmarks](https://github.com/db-benchmarks/db-benchmarks) - Fair database benchmarks framework and datasets
 - [typicode/xv](https://github.com/typicode/xv) - 🙅‍♀️ ✌️ fastest test runner
