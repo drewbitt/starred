@@ -165,6 +165,7 @@
 
 ## C# # 
 
+- [KinsonDigital/Velaptor](https://github.com/KinsonDigital/Velaptor) - 2D game and media application development framework
 - [supeshio/TheSpaceRoles](https://github.com/supeshio/TheSpaceRoles) - いろんな役職があるAmongUs mod! TSR!
 - [0xDrMoe/TownofHost-Enhanced](https://github.com/0xDrMoe/TownofHost-Enhanced) - TOHE is the best Host-Only mod for anyone who wants to change their Among Us Experience!
 - [microsoft/garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication feature
@@ -379,6 +380,7 @@
 
 ## Go 
 
+- [vouch/vouch-proxy](https://github.com/vouch/vouch-proxy) - an SSO and OAuth / OIDC login solution for Nginx using the auth_request module
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for building complex, real-world software with LLMs
 - [minio/warp](https://github.com/minio/warp) - S3 benchmarking tool
@@ -542,6 +544,7 @@
 
 ## HTML 
 
+- [evildmp/diataxis-documentation-framework](https://github.com/evildmp/diataxis-documentation-framework) - A systematic approach to creating better documentation.
 - [simonw/datasette-lite](https://github.com/simonw/datasette-lite) - Datasette running in your browser using WebAssembly and Pyodide
 - [grassmunk/Chicago95](https://github.com/grassmunk/Chicago95) - A rendition of everyone's favorite 1995 Microsoft operating system for Linux.
 - [shadawck/awesome-cli-frameworks](https://github.com/shadawck/awesome-cli-frameworks) - Collection of tools to build beautiful command line interface in different languages
@@ -589,6 +592,7 @@
 
 ## Java 
 
+- [apache/incubator-fury](https://github.com/apache/incubator-fury) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
 - [flyun/chatAir](https://github.com/flyun/chatAir) - ☁️A native Android client for OpenAI and Gemini ☁️OpenAI 和 Gemini 的原生安卓客户端
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries
 - [MaxiHuHe04/iTunes-Backup-Explorer](https://github.com/MaxiHuHe04/iTunes-Backup-Explorer) - A graphical tool that can extract and replace files from encrypted and non-encrypted iOS backups
@@ -1350,7 +1354,7 @@
 - [rust-minidump/rust-minidump](https://github.com/rust-minidump/rust-minidump) - Type definitions, parsing, and analysis for the minidump file format.
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
 - [supabase/edge-runtime](https://github.com/supabase/edge-runtime) - A server based on Deno runtime, capable of running JavaScript, TypeScript, and WASM services.
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - SQL stream processing, analytics, and management. PostgreSQL simplicity, unrivaled performance, and seamless elasticity. 🚀 10x more productive. 🚀 10x more cost-efficient.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - SQL stream processing, analytics, and management. We decouple storage and compute to offer speedy bootstrapping, dynamic scaling, time-travel queries, and efficient joins.
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
 - [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript with Rollup-compatible API.
@@ -1595,6 +1599,7 @@
 
 ## TypeScript 
 
+- [allure-framework/allure-js](https://github.com/allure-framework/allure-js) - Allure integrations for JavaScript test frameworks
 - [Vali-98/ChatterUI](https://github.com/Vali-98/ChatterUI) - Simple frontend for LLMs built in react-native.
 - [valtyr/prisma-kysely](https://github.com/valtyr/prisma-kysely) - 🪄 Generate Kysely types directly from your Prisma schema!
 - [corvudev/corvu](https://github.com/corvudev/corvu) - 🐦‍⬛ Unstyled, accessible and customizable UI primitives for SolidJS
