@@ -2097,7 +2097,6 @@
 - [callstack/repack](https://github.com/callstack/repack) - A Webpack-based toolkit to build your React Native application with full support of Webpack ecosystem.
 - [novuhq/novu](https://github.com/novuhq/novu) - GitOps based Notification Infrastructure as Code. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
-- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [Esri/calcite-design-system](https://github.com/Esri/calcite-design-system) - A monorepo containing the packages for Esri's Calcite Design System
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [LibreELEC/LibreELEC.tv](https://github.com/LibreELEC/LibreELEC.tv) - Just enough OS for KODI
@@ -3361,7 +3360,7 @@
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute: Node.js enhanced to run TypeScript & ESM
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
-- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Like Next.js / Nuxt but as do-one-thing-do-it-well Vite plugin.
+- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Flexible, robust, community-driven, fast Vite-based frontend framework.
 - [testcontainers/testcontainers-node](https://github.com/testcontainers/testcontainers-node) - Testcontainers is a NodeJS library that supports tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [hydro-dev/Hydro](https://github.com/hydro-dev/Hydro) - Hydro - Next generation high performance online-judge platform - 新一代高效强大的信息学在线测评系统 (a.k.a. vj5)
 - [nicolo-ribaudo/jest-light-runner](https://github.com/nicolo-ribaudo/jest-light-runner) - A Jest runner that runs tests directly in bare Node.js, without virtualizing the environment.
@@ -3374,6 +3373,7 @@
 
 ## nodejs 
 
+- [joist-orm/joist-orm](https://github.com/joist-orm/joist-orm) - a TypeScript ORM for Postgres
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [nashaofu/node-screenshots](https://github.com/nashaofu/node-screenshots) - Zero-dependent. A native nodejs screenshots library for Mac、Windows、Linux.
 - [yisibl/resvg-js](https://github.com/yisibl/resvg-js) - A high-performance SVG renderer and toolkit, powered by Rust based resvg and napi-rs.
@@ -3572,6 +3572,8 @@
 
 ## others 
 
+- [total-typescript/tsconfig](https://github.com/total-typescript/tsconfig) - The simplest way to set up your tsconfig.json
+- [wix-incubator/wixmadefor](https://github.com/wix-incubator/wixmadefor) - Wix Madefor font
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [gorules/zen](https://github.com/gorules/zen) - Open-source Business Rules Engine for your Rust, NodeJS, Python or Go applications.
 - [btw-so/btw](https://github.com/btw-so/btw) - Open source Medium alternative- set up your personal blog in minutes.
@@ -4158,6 +4160,7 @@
 
 ## postgresql 
 
+- [joist-orm/joist-orm](https://github.com/joist-orm/joist-orm) - a TypeScript ORM for Postgres
 - [supabase/index_advisor](https://github.com/supabase/index_advisor) - PostgreSQL Index Advisor
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 - [pgspider/parquet_s3_fdw](https://github.com/pgspider/parquet_s3_fdw) - ParquetS3 Foreign Data Wrapper for PostgresSQL
@@ -4602,7 +4605,7 @@
 - [primefaces/primereact](https://github.com/primefaces/primereact) - The Most Complete React UI Component Library
 - [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
 - [remult/remult](https://github.com/remult/remult) - Full-stack CRUD, simplified, with SSOT TypeScript entities
-- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Like Next.js / Nuxt but as do-one-thing-do-it-well Vite plugin.
+- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Flexible, robust, community-driven, fast Vite-based frontend framework.
 - [pablo-abc/felte](https://github.com/pablo-abc/felte) - An extensible form library for Svelte, Solid and React
 - [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components.
 - [pankod/superplate](https://github.com/pankod/superplate) - A well-structured production-ready frontend boilerplate with Typescript, React Testing Library, styled-component, React Query, .env, Axios, Bundle Analyzer, Prettier and 30+ plugins. superplate create
@@ -5363,6 +5366,7 @@
 
 ## typescript 
 
+- [joist-orm/joist-orm](https://github.com/joist-orm/joist-orm) - a TypeScript ORM for Postgres
 - [kylebarron/arrow-js-ffi](https://github.com/kylebarron/arrow-js-ffi) - Zero-copy reading of Arrow data from WebAssembly
 - [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) - LlamaIndex is a data framework for your LLM applications
 - [truefoundry/cognita](https://github.com/truefoundry/cognita) - RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry
@@ -5650,7 +5654,7 @@
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [remult/remult](https://github.com/remult/remult) - Full-stack CRUD, simplified, with SSOT TypeScript entities
-- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Like Next.js / Nuxt but as do-one-thing-do-it-well Vite plugin.
+- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Flexible, robust, community-driven, fast Vite-based frontend framework.
 - [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components.
 - [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
 - [CKGrafico/papanasi](https://github.com/CKGrafico/papanasi) - 🥯Papanasi is the Frontend UI library to use cross Frameworks. A set of components to use in Angular, Preact, Qwik, React, Solid, Svelte, Vue and Web Components
