@@ -464,7 +464,7 @@
 - [openfaas/faasd](https://github.com/openfaas/faasd) - A lightweight & portable faas engine
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [athena-framework/athena](https://github.com/athena-framework/athena) - An ecosystem of reusable, independent components
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
@@ -1998,7 +1998,7 @@
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
 - [graphql-editor/graphql-zeus](https://github.com/graphql-editor/graphql-zeus) - GraphQL client and GraphQL code generator with GraphQL autocomplete library generation ⚡⚡⚡ for browser,nodejs and react native ( apollo compatible )
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
@@ -2065,7 +2065,6 @@
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥
 - [firecamp-dev/firecamp](https://github.com/firecamp-dev/firecamp) - Developer-first OpenSource API DevTool, Postman/Insomnia alternative.
-- [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Unified embedding generation and search engine. Also available on cloud - cloud.marqo.ai
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
@@ -2190,7 +2189,7 @@
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [Unmanic/unmanic](https://github.com/Unmanic/unmanic) - Unmanic - Library Optimiser
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
@@ -2270,7 +2269,7 @@
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
 - [denosaurs/bench](https://github.com/denosaurs/bench) - 📊 Comparing deno, node and bun HTTP frameworks
-- [jawah/niquests](https://github.com/jawah/niquests) - Requests but with HTTP/3, HTTP/2, Multiplexed Connections, System CAs, Certificate Revocation, DNS over HTTPS / TLS / QUIC or UDP, Async, DNSSEC, and (much) pain removed!
+- [jawah/niquests](https://github.com/jawah/niquests) - “Safest, Fastest, Easiest, and Most advanced” Python HTTP Client. Production Ready! Drop-in replacement for Requests.
 - [miguelgrinberg/microdot](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for Python and MicroPython.
 - [sukovanej/effect-http](https://github.com/sukovanej/effect-http) - Declarative HTTP API library for effect-ts
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
@@ -2284,7 +2283,7 @@
 - [ecyrbe/zodios](https://github.com/ecyrbe/zodios) - typescript http client and server with zod validation
 - [openfaas/faasd](https://github.com/openfaas/faasd) - A lightweight & portable faas engine
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [distribyted/distribyted](https://github.com/distribyted/distribyted) - Torrent client with HTTP, fuse, and WebDAV interfaces. Start exploring your torrent files right away, even zip, rar, or 7zip archive contents!
 - [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
 - [jorisvink/kore](https://github.com/jorisvink/kore) - An easy to use, scalable and secure web application framework for writing web APIs in C or Python. || This is a read-only mirror, please see https://kore.io/mail and https://kore.io/source for informa
@@ -3364,7 +3363,7 @@
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute: Node.js enhanced to run TypeScript & ESM
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
-- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Flexible, lean, robust, community-driven, fast Vite-based frontend framework.
+- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Flexible, lean, community-driven, dependable, fast Vite-based frontend framework.
 - [testcontainers/testcontainers-node](https://github.com/testcontainers/testcontainers-node) - Testcontainers is a NodeJS library that supports tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [hydro-dev/Hydro](https://github.com/hydro-dev/Hydro) - Hydro - Next generation high performance online-judge platform - 新一代高效强大的信息学在线测评系统 (a.k.a. vj5)
 - [nicolo-ribaudo/jest-light-runner](https://github.com/nicolo-ribaudo/jest-light-runner) - A Jest runner that runs tests directly in bare Node.js, without virtualizing the environment.
@@ -4286,7 +4285,7 @@
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [pacexy/flow](https://github.com/pacexy/flow) - Browser-based ePub Reader.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop headless CMS for React, Vue, Svelte, Qwik, and more
 
 ## python 
@@ -4323,7 +4322,7 @@
 - [ourownstory/neural_prophet](https://github.com/ourownstory/neural_prophet) - NeuralProphet: A simple forecasting package
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 - [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
-- [jawah/niquests](https://github.com/jawah/niquests) - Requests but with HTTP/3, HTTP/2, Multiplexed Connections, System CAs, Certificate Revocation, DNS over HTTPS / TLS / QUIC or UDP, Async, DNSSEC, and (much) pain removed!
+- [jawah/niquests](https://github.com/jawah/niquests) - “Safest, Fastest, Easiest, and Most advanced” Python HTTP Client. Production Ready! Drop-in replacement for Requests.
 - [miguelgrinberg/microdot](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for Python and MicroPython.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice) - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine
@@ -4614,7 +4613,7 @@
 - [primefaces/primereact](https://github.com/primefaces/primereact) - The Most Complete React UI Component Library
 - [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
 - [remult/remult](https://github.com/remult/remult) - Full-stack CRUD, simplified, with SSOT TypeScript entities
-- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Flexible, lean, robust, community-driven, fast Vite-based frontend framework.
+- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Flexible, lean, community-driven, dependable, fast Vite-based frontend framework.
 - [pablo-abc/felte](https://github.com/pablo-abc/felte) - An extensible form library for Svelte, Solid and React
 - [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components.
 - [pankod/superplate](https://github.com/pankod/superplate) - A well-structured production-ready frontend boilerplate with Typescript, React Testing Library, styled-component, React Query, .env, Axios, Bundle Analyzer, Prettier and 30+ plugins. superplate create
@@ -4733,7 +4732,7 @@
 - [cdimascio/express-openapi-validator](https://github.com/cdimascio/express-openapi-validator) - 🦋 Auto-validates api requests, responses, and securities using ExpressJS and an OpenAPI 3.x specification
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace) - Leading free and open-source face recognition system
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [javalin/javalin](https://github.com/javalin/javalin) - A simple and modern Java and Kotlin web framework
@@ -4741,7 +4740,7 @@
 ## reverse-engineering 
 
 - [gorisanson/pikachu-volleyball](https://github.com/gorisanson/pikachu-volleyball) - Pikachu Volleyball implemented into JavaScript by reverse engineering the original game
-- [JJTech0130/pypush](https://github.com/JJTech0130/pypush) - Cross-platform iMessage POC
+- [JJTech0130/pypush](https://github.com/JJTech0130/pypush) - [being rewritten] Cross-platform iMessage POC
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter) - Export iMessage data + run iMessage Diagnostics
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
@@ -4940,6 +4939,7 @@
 ## self-hosted 
 
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
+- [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams
 - [latitude-dev/latitude](https://github.com/latitude-dev/latitude) - Developer-first embedded analytics
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 - [bricks-cloud/BricksLLM](https://github.com/bricks-cloud/BricksLLM) - 🔒 Enterprise-grade API gateway that helps you monitor and impose cost or rate limits per API key. Get fine-grained access control and monitoring per user, application, or environment. Supports OpenAI,
@@ -5362,7 +5362,7 @@
 - [dubzzz/fast-check](https://github.com/dubzzz/fast-check) - Property based testing framework for JavaScript (like QuickCheck) written in TypeScript
 - [karatelabs/karate](https://github.com/karatelabs/karate) - Test Automation Made Simple
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [afroisalreadyinu/miniboss](https://github.com/afroisalreadyinu/miniboss) - The most versatile way to manage containers locally
 - [react-cosmos/react-cosmos](https://github.com/react-cosmos/react-cosmos) - Sandbox for developing and testing UI components in isolation
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
@@ -5664,7 +5664,7 @@
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [remult/remult](https://github.com/remult/remult) - Full-stack CRUD, simplified, with SSOT TypeScript entities
-- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Flexible, lean, robust, community-driven, fast Vite-based frontend framework.
+- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Flexible, lean, community-driven, dependable, fast Vite-based frontend framework.
 - [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components.
 - [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
 - [CKGrafico/papanasi](https://github.com/CKGrafico/papanasi) - 🥯Papanasi is the Frontend UI library to use cross Frameworks. A set of components to use in Angular, Preact, Qwik, React, Solid, Svelte, Vue and Web Components
@@ -5675,7 +5675,7 @@
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop headless CMS for React, Vue, Svelte, Qwik, and more
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
@@ -5696,7 +5696,7 @@
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [histoire-dev/histoire](https://github.com/histoire-dev/histoire) - ⚡ Fast and beautiful interactive component playgrounds, powered by Vite
 - [simon987/sist2](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 
 ## web 
 
