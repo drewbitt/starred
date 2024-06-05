@@ -602,6 +602,7 @@
 
 ## Java 
 
+- [timeseries/qstudio](https://github.com/timeseries/qstudio) - qStudio - Free SQL Analysis Tool
 - [apache/incubator-fury](https://github.com/apache/incubator-fury) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
 - [flyun/chatAir](https://github.com/flyun/chatAir) - ☁️A native Android client for OpenAI, Gemini, and Claude ☁️OpenAI、Gemini 和 Claude 的原生安卓客户端
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries
