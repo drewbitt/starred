@@ -729,6 +729,7 @@
 - [aschmelyun/subvert](https://github.com/aschmelyun/subvert) - Generate subtitles, summaries, and chapters from videos in seconds
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://codellama.h2o.ai/
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The missing GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
 
 ## chatgpt-api 
@@ -2935,6 +2936,7 @@
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://codellama.h2o.ai/
 - [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) - 📋 A list of open LLMs available for commercial use.
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 
 ## localization 
 
@@ -3033,6 +3035,7 @@
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - NEW - YOLOv8 🚀 in PyTorch &gt; ONNX &gt; OpenVINO &gt; CoreML &gt; TFLite
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [FMInference/FlexGen](https://github.com/FMInference/FlexGen) - Running large language models on a single GPU for throughput-oriented scenarios.
 - [Kanaries/Rath](https://github.com/Kanaries/Rath) - Next generation of automated data exploratory analysis and visualization platform.
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
@@ -3606,6 +3609,11 @@
 
 ## others 
 
+- [tembo-io/trunk](https://github.com/tembo-io/trunk) - Package manager and registry for Postgres extensions
+- [tembo-io/pg_later](https://github.com/tembo-io/pg_later) - Execute SQL now and get the results later.
+- [tembo-io/pgmq](https://github.com/tembo-io/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
+- [timescale/pgvectorscale](https://github.com/timescale/pgvectorscale) - A complement to pgvector for high performance, cost efficient vector search on large workloads.
+- [sek-consulting/solid-ui](https://github.com/sek-consulting/solid-ui) - Beautifully designed components. Built with Kobalte & corvu. Styled with Tailwind CSS.
 - [bvaughn/react-error-boundary](https://github.com/bvaughn/react-error-boundary) - Simple reusable React error boundary component
 - [sindresorhus/p-limit](https://github.com/sindresorhus/p-limit) - Run multiple promise-returning & async functions with limited concurrency
 - [sindresorhus/p-queue](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control
@@ -4203,6 +4211,8 @@
 
 ## postgresql 
 
+- [hydradatabase/hydra](https://github.com/hydradatabase/hydra) - Hydra: Column-oriented Postgres. Add scalable analytics to your project in minutes.
+- [pgxman/pgxman](https://github.com/pgxman/pgxman) - Developer-friendly package manager and registry for PostgreSQL extensions
 - [timeseries/qstudio](https://github.com/timeseries/qstudio) - qStudio - Free SQL Analysis Tool
 - [joist-orm/joist-orm](https://github.com/joist-orm/joist-orm) - a TypeScript ORM for Postgres
 - [supabase/index_advisor](https://github.com/supabase/index_advisor) - PostgreSQL Index Advisor
@@ -4502,6 +4512,7 @@
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
 - [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Models for All.
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - NEW - YOLOv8 🚀 in PyTorch &gt; ONNX &gt; OpenVINO &gt; CoreML &gt; TFLite
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch and FLAX.
