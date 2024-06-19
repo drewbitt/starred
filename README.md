@@ -562,7 +562,7 @@
 - [shadawck/awesome-cli-frameworks](https://github.com/shadawck/awesome-cli-frameworks) - Collection of tools to build beautiful command line interface in different languages
 - [ClickHouse/ClickBench](https://github.com/ClickHouse/ClickBench) - ClickBench: a Benchmark For Analytical Databases
 - [coiled/tpch](https://github.com/coiled/tpch) - Results from TPC-H Benchmarks
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - The ultimate open-source RAG framework. Features include hybrid search, knowledge graphs, multimodal/advanced RAG, and more.
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - R2R is an open source RAG engine with a RESTful API. Features include hybrid search, GraphRAG, multimodal RAG, observability and analytics, and more.
 - [merakiui/merakiui](https://github.com/merakiui/merakiui) - Tailwind CSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid with elegant Dark Mode 🚀 ☄️.
 - [keiyoushi/extensions](https://github.com/keiyoushi/extensions) - Source extensions for the Mihon/Tachiyomi app.
 - [jobinau/pg_gather](https://github.com/jobinau/pg_gather) - Scan PostgreSQL Instance for potential problems. pg_gather is a SQL-only script leveraging the built-in features of psql.
@@ -914,6 +914,7 @@
 
 ## MDX 
 
+- [celest-dev/website](https://github.com/celest-dev/website) - The code for celest.dev: home of Celest, the Flutter cloud platform
 - [rocicorp/reflect-docs](https://github.com/rocicorp/reflect-docs) - Docs for Reflect.net
 - [mintlify/starter](https://github.com/mintlify/starter) - 📖 The starter kit for your Mintlify docs
 - [denosaurs/mod.land](https://github.com/denosaurs/mod.land) - 📦 Pretty subdomains for you deno project
@@ -1566,6 +1567,7 @@
 
 ## Shell 
 
+- [ngencokamin/sh-imessage-setup](https://github.com/ngencokamin/sh-imessage-setup) - Script to set up bbctl automatically for sh-imessage bridge
 - [mikedidomizio/geocomply-plc-toggler](https://github.com/mikedidomizio/geocomply-plc-toggler) - An application to disable/enable the GeoComply Player Location Check (PLC) software
 - [tanrax/maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) - Local ad blocker. Like Pi-hole but local and using your operating system.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
@@ -1649,12 +1651,12 @@
 
 ## TypeScript 
 
+- [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [wellwelwel/poku](https://github.com/wellwelwel/poku) - 🐷 Poku makes testing easy for Node.js, Bun, Deno and you at the same time.
 - [sek-consulting/solid-ui](https://github.com/sek-consulting/solid-ui) - Beautifully designed components. Built with Kobalte & corvu. Styled with Tailwind CSS.
 - [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
 - [bvaughn/react-error-boundary](https://github.com/bvaughn/react-error-boundary) - Simple reusable React error boundary component
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
-- [celest-dev/website](https://github.com/celest-dev/website) - The code for celest.dev: home of Celest, the Flutter cloud platform
 - [sindresorhus/p-queue](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [crowdwave/checkpoint401](https://github.com/crowdwave/checkpoint401) - Checkpoint 401 Forward Auth Security Server.
@@ -2062,7 +2064,7 @@
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [react-simple-code-editor/react-simple-code-editor](https://github.com/react-simple-code-editor/react-simple-code-editor) - Simple no-frills code editor with syntax highlighting
-- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
+- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [react-page/react-page](https://github.com/react-page/react-page) - Next-gen, highly customizable content editor for the browser - based on React and written in TypeScript. WYSIWYG on steroids.
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
