@@ -385,6 +385,9 @@
 
 ## Go 
 
+- [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager
+- [walles/moar](https://github.com/walles/moar) - Moar is a pager. It's designed to just do the right thing without any configuration.
+- [laktak/zfind](https://github.com/laktak/zfind) - search for files (even inside tar/zip/7z/rar) using a SQL-WHERE filter
 - [pgxman/pgxman](https://github.com/pgxman/pgxman) - Developer-friendly package manager and registry for PostgreSQL extensions
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
@@ -1097,6 +1100,7 @@
 
 ## Python 
 
+- [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
 - [wix-incubator/wixmadefor](https://github.com/wix-incubator/wixmadefor) - Wix Madefor font
 - [VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
@@ -1367,6 +1371,7 @@
 
 ## Rust 
 
+- [chaosprint/asak](https://github.com/chaosprint/asak) - A cross-platform audio recording/playback CLI tool with TUI, written in Rust.
 - [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - The Universal Binary Installer
 - [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
 - [tembo-io/trunk](https://github.com/tembo-io/trunk) - Package manager and registry for Postgres extensions
