@@ -363,6 +363,7 @@
 
 ## android 
 
+- [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
 - [flyun/chatAir](https://github.com/flyun/chatAir) - ☁️A native Android app for ChatGPT, Gemini, and Claude ☁️ChatGPT、Gemini 和 Claude 的原生安卓应用程序
 - [stantanasi/streamflix](https://github.com/stantanasi/streamflix) - An Android TV and mobile app to stream movies and TV shows for free
 - [respawn-app/FlowMVI](https://github.com/respawn-app/FlowMVI) - A Kotlin Multiplatform MVI library based on coroutines with a rich DSL and a powerful plugin system.
@@ -780,6 +781,7 @@
 
 ## cli 
 
+- [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 - [dirkpetersen/froster](https://github.com/dirkpetersen/froster) - Froster is a user-friendly archiving tool for teams that move data between Posix file systems and S3 like object storage systems such as AWS Glacier
 - [fabiospampinato/tiny-spinner](https://github.com/fabiospampinato/tiny-spinner) - A simple, yet beautiful, CLI spinner.
 - [fabiospampinato/specialist](https://github.com/fabiospampinato/specialist) - A library that helps you write tiny, fast, bundled and beautiful CLI apps that can automatically check for updates.
@@ -856,7 +858,7 @@
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [atomicdata-dev/atomic-server](https://github.com/atomicdata-dev/atomic-server) - An open source headless CMS / real-time database. Powerful table editor, full-text search, and SDKs for JS / React / Svelte.
 - [pixop/video-compare](https://github.com/pixop/video-compare) - Split screen video comparison tool using FFmpeg and SDL2
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+- [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
 - [pankod/superplate](https://github.com/pankod/superplate) - A well-structured production-ready frontend boilerplate with Typescript, React Testing Library, styled-component, React Query, .env, Axios, Bundle Analyzer, Prettier and 30+ plugins. superplate create
 - [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Supercharge your API testing, catch bugs, and ensure compliance
@@ -996,7 +998,7 @@
 ## csharp 
 
 - [0xDrMoe/TownofHost-Enhanced](https://github.com/0xDrMoe/TownofHost-Enhanced) - TOHE is the best Host-Only mod for anyone who wants to change their Among Us Experience!
-- [Gurge44/EndlessHostRoles](https://github.com/Gurge44/EndlessHostRoles) - EHR is the biggest host-only mod for Among Us, with over 350 roles and 6 game modes, along with a Custom Team Assigner application to fully customize your games!
+- [Gurge44/EndlessHostRoles](https://github.com/Gurge44/EndlessHostRoles) - EHR is the biggest host-only mod for Among Us, with over 350 roles and 7 game modes, along with a Custom Team Assigner application to fully customize your games!
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [Azure/autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
@@ -1526,6 +1528,7 @@
 
 ## electron 
 
+- [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [ArchGPT/insomnium](https://github.com/ArchGPT/insomnium) - Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
@@ -1780,6 +1783,8 @@
 
 ## game-development 
 
+- [NobleRobot/NobleEngine](https://github.com/NobleRobot/NobleEngine) - A li'l game engine for Playdate.
+- [samdze/playdate-nim](https://github.com/samdze/playdate-nim) - Nim bindings with extra features for the Playdate SDK
 - [KinsonDigital/Velaptor](https://github.com/KinsonDigital/Velaptor) - 2D game and media application development framework
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [pocketpy/pocketpy](https://github.com/pocketpy/pocketpy) - Open Source Python Interpreter in 1 File for Game Scripting
@@ -1795,6 +1800,7 @@
 
 ## game-engine 
 
+- [NobleRobot/NobleEngine](https://github.com/NobleRobot/NobleEngine) - A li'l game engine for Playdate.
 - [KinsonDigital/Velaptor](https://github.com/KinsonDigital/Velaptor) - 2D game and media application development framework
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
@@ -2065,7 +2071,7 @@
 - [apollographql/federation](https://github.com/apollographql/federation) - 🌐  Build and scale a single data graph across multiple services with Apollo's federation gateway.
 - [krakend/krakend-ce](https://github.com/krakend/krakend-ce) - KrakenD Community Edition: High-performance, stateless, declarative, API Gateway written in Go.
 - [dotansimha/graphql-yoga](https://github.com/dotansimha/graphql-yoga) - 🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements WHATWG Fetch API and can run/deploy on any JS environment.
-- [tailcallhq/graphql-runtime](https://github.com/tailcallhq/graphql-runtime) - High Performance GraphQL Runtime
+- [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - High Performance GraphQL Runtime
 - [0no-co/gql.tada](https://github.com/0no-co/gql.tada) - 🪄 Magical GraphQL query engine for TypeScript
 - [stepci/garph](https://github.com/stepci/garph) - Fullstack GraphQL Framework for TypeScript
 - [open-source-labs/Swell](https://github.com/open-source-labs/Swell) - Swell: API development tool that enables developers to test endpoints served over streaming technologies including Server-Sent Events (SSE), WebSockets, HTTP2, GraphQL, gRPC, and tRPC..
@@ -2963,7 +2969,7 @@
 - [Canner/WrenAI](https://github.com/Canner/WrenAI) - Wren AI makes your database RAG-ready. Implement Text-to-SQL more accurately and securely.
 - [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
 - [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) - LlamaIndex in TypeScript
-- [VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
+- [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [truefoundry/cognita](https://github.com/truefoundry/cognita) - RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry
 - [philippgille/chromem-go](https://github.com/philippgille/chromem-go) - Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence.
@@ -3058,6 +3064,7 @@
 
 ## lua 
 
+- [NobleRobot/NobleEngine](https://github.com/NobleRobot/NobleEngine) - A li'l game engine for Playdate.
 - [stevenlafl/tts-typescript](https://github.com/stevenlafl/tts-typescript) - Typescript Declarations for Tabletop Simulator
 - [ceifa/wasmoon](https://github.com/ceifa/wasmoon) - A real lua 5.4 VM with JS bindings made with webassembly
 - [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis and PostgreSQL support
@@ -3084,7 +3091,7 @@
 ## machine-learning 
 
 - [Quantco/polarify](https://github.com/Quantco/polarify) - Simplifying conditional Polars Expressions with Python 🐍 🐻‍❄️
-- [VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
+- [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [winedarksea/AutoTS](https://github.com/winedarksea/AutoTS) - Automated Time Series Forecasting
 - [truefoundry/cognita](https://github.com/truefoundry/cognita) - RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry
@@ -3141,6 +3148,7 @@
 
 ## macos 
 
+- [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
 - [carlosqsilva/vfetch](https://github.com/carlosqsilva/vfetch) - A command-line system fetch tool for macOS written in vlang
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -3285,6 +3293,7 @@
 
 ## music 
 
+- [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.
@@ -3433,6 +3442,7 @@
 
 ## nim 
 
+- [samdze/playdate-nim](https://github.com/samdze/playdate-nim) - Nim bindings with extra features for the Playdate SDK
 - [mratsim/Arraymancer](https://github.com/mratsim/Arraymancer) - A fast, ergonomic and portable tensor library in Nim with a deep learning focus for CPU, GPU and embedded devices via OpenMP, Cuda and OpenCL backends
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
 - [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥
@@ -3518,6 +3528,7 @@
 
 ## nodejs 
 
+- [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
 - [alfateam/orange-orm](https://github.com/alfateam/orange-orm) - The ultimate ORM for Node and Typescript
 - [eta-dev/eta](https://github.com/eta-dev/eta) - Embedded JS template engine for Node, Deno, and the browser. Lighweight, fast, and pluggable. Written in TypeScript
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
@@ -3656,7 +3667,7 @@
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [listr2/listr2](https://github.com/listr2/listr2) - NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive.
 - [EqualMa/gitpkg](https://github.com/EqualMa/gitpkg) - use a sub directory of a github repo as yarn / npm dependency directly
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+- [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [pixel-point/fontpie](https://github.com/pixel-point/fontpie) - Get your layout shifts optimized with a CLI-generated piece of CSS
 
@@ -3678,7 +3689,7 @@
 - [bewcloud/bewcloud](https://github.com/bewcloud/bewcloud) - A simpler alternative to Nextcloud and ownCloud, built with TypeScript and Deno using Fresh. 🦕 🍋
 - [OnedocLabs/react-print-pdf](https://github.com/OnedocLabs/react-print-pdf) - Build and generate PDF using React 📄 UI kit for PDFs and print documents. Simple, reusable components and templates to create great invoices, docs, brochures. Use your favorite front-end framework Rea
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.
-- [tailcallhq/graphql-runtime](https://github.com/tailcallhq/graphql-runtime) - High Performance GraphQL Runtime
+- [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - High Performance GraphQL Runtime
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [unkeyed/unkey](https://github.com/unkeyed/unkey) - Open source API management platform
 - [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your LLM application, based on OpenTelemetry
@@ -4317,7 +4328,7 @@
 - [pwnwriter/hysp](https://github.com/pwnwriter/hysp) - 📦 An independent package manager that every hacker deserves.
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+- [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
@@ -4709,6 +4720,7 @@
 
 ## react 
 
+- [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
 - [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source application launcher with React-based plugins
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid,
 - [typicode/mistcss](https://github.com/typicode/mistcss) - 💧 Write atomic components using only CSS! (JS-from-CSS™)
@@ -4898,6 +4910,7 @@
 
 ## reactjs 
 
+- [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
 - [litestar-org/litestar-fullstack](https://github.com/litestar-org/litestar-fullstack) - Litestar Fullstack Reference Application with React, Vite, SQLAlchemy, Docker, Task Queues, and more!
 - [streamdal/streamdal](https://github.com/streamdal/streamdal) - Code-Native Data Privacy
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
@@ -4979,6 +4992,7 @@
 
 ## rust 
 
+- [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 - [ToucanToco/fastexcel](https://github.com/ToucanToco/fastexcel) - A Python wrapper around calamine
 - [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source application launcher with React-based plugins
 - [b-fuze/deno-dom](https://github.com/b-fuze/deno-dom) - Browser DOM & HTML parser in Deno
@@ -5143,7 +5157,7 @@
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [openziti/zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
 - [bricks-cloud/BricksLLM](https://github.com/bricks-cloud/BricksLLM) - 🔒 Enterprise-grade API gateway that helps you monitor and impose cost or rate limits per API key. Get fine-grained access control and monitoring per user, application, or environment. Supports OpenAI,
-- [tailcallhq/graphql-runtime](https://github.com/tailcallhq/graphql-runtime) - High Performance GraphQL Runtime
+- [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - High Performance GraphQL Runtime
 - [turbot/flowpipe](https://github.com/turbot/flowpipe) - Flowpipe is a cloud scripting engine. Automation and workflow to connect your clouds to the people, systems and data that matters.
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
@@ -5549,6 +5563,7 @@
 
 ## terminal 
 
+- [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 - [fabiospampinato/tiny-spinner](https://github.com/fabiospampinato/tiny-spinner) - A simple, yet beautiful, CLI spinner.
 - [fabiospampinato/tiny-colors](https://github.com/fabiospampinato/tiny-colors) - A tiny library providing the basic ANSI colors for the terminal.
 - [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager
@@ -5924,6 +5939,7 @@
 
 ## vim 
 
+- [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 
@@ -6135,7 +6151,7 @@
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+- [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI) - Transparently compress active games and programs using Windows 10/11 APIs
 - [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - SpotX patcher used for patching the desktop version of Spotify
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
