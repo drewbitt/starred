@@ -59,6 +59,7 @@
 - [ReScript](#rescript)
 - [Ruby](#ruby)
 - [Rust](#rust)
+- [SCSS](#scss)
 - [Scala](#scala)
 - [Scheme](#scheme)
 - [Shell](#shell)
@@ -103,6 +104,7 @@
 
 ## C 
 
+- [martymac/fpart](https://github.com/martymac/fpart) - Sort files and pack them into partitions
 - [duckdb/sqlite_scanner](https://github.com/duckdb/sqlite_scanner) - DuckDB extension to read and write to SQLite databases
 - [yandex/odyssey](https://github.com/yandex/odyssey) - Scalable PostgreSQL connection pooler
 - [hydradatabase/hydra](https://github.com/hydradatabase/hydra) - Hydra: Column-oriented Postgres. Add scalable analytics to your project in minutes.
@@ -1611,6 +1613,10 @@
 - [puppetmaster-/compact-space](https://github.com/puppetmaster-/compact-space) - How long can you stay alive?
 - [vislyhq/stretch](https://github.com/vislyhq/stretch) - High performance flexbox implementation written in rust
 - [baskerville/plato](https://github.com/baskerville/plato) - Document reader
+
+## SCSS 
+
+- [Kovah/Taboo](https://github.com/Kovah/Taboo) - A Taboo-like game for your browser, without a backend, built with Vue
 
 ## Scala 
 
