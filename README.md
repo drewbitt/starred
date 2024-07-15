@@ -104,6 +104,9 @@
 
 ## C 
 
+- [nbarkhina/numero](https://github.com/nbarkhina/numero) - TI-83 Emulator for Libretro
+- [Sternbach-Software/Wabbitemu-Android](https://github.com/Sternbach-Software/Wabbitemu-Android) - Wabbitemu for Android
+- [neil4/RetroArch-Lite](https://github.com/neil4/RetroArch-Lite) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 - [martinellimarco/t2sz](https://github.com/martinellimarco/t2sz) - Compress a file into a seekable zstd with special handling for .tar archives
 - [martymac/fpart](https://github.com/martymac/fpart) - Sort files and pack them into partitions
 - [duckdb/sqlite_scanner](https://github.com/duckdb/sqlite_scanner) - DuckDB extension to read and write to SQLite databases
@@ -910,6 +913,7 @@
 
 ## Kotlin 
 
+- [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) - All in one emulator on Android!
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 - [nanihadesuka/NovelDokusha](https://github.com/nanihadesuka/NovelDokusha) - Android web novel reader
 - [stantanasi/streamflix](https://github.com/stantanasi/streamflix) - An Android TV and mobile app to stream movies and TV shows for free
@@ -1150,7 +1154,7 @@
 - [voila-dashboards/voila](https://github.com/voila-dashboards/voila) - Voilà turns Jupyter notebooks into standalone web applications
 - [juancarlospaco/cpython](https://github.com/juancarlospaco/cpython) - Alternative StdLib for Nim for Python targets, hijacks Python StdLib for Nim
 - [google/mesop](https://github.com/google/mesop) - Build delightful web apps quickly in Python
-- [narwhals-dev/narwhals](https://github.com/narwhals-dev/narwhals) - Lightweight and extensible compatibility layer between Polars, pandas, cuDF, Modin, and more!
+- [narwhals-dev/narwhals](https://github.com/narwhals-dev/narwhals) - Lightweight and extensible compatibility layer between dataframe libraries!
 - [Quantco/polarify](https://github.com/Quantco/polarify) - Simplifying conditional Polars Expressions with Python 🐍 🐻‍❄️
 - [Giskard-AI/giskard](https://github.com/Giskard-AI/giskard) - 🐢 Open-Source Evaluation & Testing for LLMs and ML models
 - [litestar-org/api-performance-tests](https://github.com/litestar-org/api-performance-tests) - Benchmarking Litestar vs other ASGI API framework
