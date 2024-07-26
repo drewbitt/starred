@@ -173,6 +173,7 @@
 
 ## C# # 
 
+- [T0biasCZe/AdbFileManager](https://github.com/T0biasCZe/AdbFileManager) - Fast Android &lt;-&gt; Windows file manager using ADB protocol
 - [dretax/TabletopHax](https://github.com/dretax/TabletopHax) - Tabletop Simulator DLC Patcher Hack to get free DLCs for you and your friends.
 - [KinsonDigital/Velaptor](https://github.com/KinsonDigital/Velaptor) - 2D game and media application development framework
 - [supeshio/TheSpaceRoles](https://github.com/supeshio/TheSpaceRoles) - いろんな役職があるAmongUs mod! TSR!
@@ -1729,7 +1730,7 @@
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
 - [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
-- [grishka/NearDrop](https://github.com/grishka/NearDrop) - An unofficial Google Nearby Share app for macOS
+- [grishka/NearDrop](https://github.com/grishka/NearDrop) - An unofficial Google Nearby Share/Quick Share app for macOS
 - [yonaskolb/XcodeGen](https://github.com/yonaskolb/XcodeGen) - A Swift command line tool for generating your Xcode project
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
