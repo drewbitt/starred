@@ -1298,7 +1298,7 @@
 - [SalesforceAIResearch/uni2ts](https://github.com/SalesforceAIResearch/uni2ts) - [ICML2024] Unified Training of Universal Time Series Forecasting Transformers
 - [mosaicml/composer](https://github.com/mosaicml/composer) - Supercharge Your Model Training
 - [mratsim/Arraymancer](https://github.com/mratsim/Arraymancer) - A fast, ergonomic and portable tensor library in Nim with a deep learning focus for CPU, GPU and embedded devices via OpenMP, Cuda and OpenCL backends
-- [eduardoleao052/js-pytorch](https://github.com/eduardoleao052/js-pytorch) - A JavaScript library like PyTorch, built from scratch.
+- [eduardoleao052/js-pytorch](https://github.com/eduardoleao052/js-pytorch) - A JavaScript library like PyTorch, with GPU acceleration.
 - [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 - [autogluon/autogluon](https://github.com/autogluon/autogluon) - Fast and Accurate ML in 3 Lines of Code
 - [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
@@ -4784,7 +4784,7 @@
 - [intel-analytics/BigDL-2.x](https://github.com/intel-analytics/BigDL-2.x) - BigDL: Distributed TensorFlow, Keras and PyTorch on Apache Spark/Flink & Ray
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [mosaicml/composer](https://github.com/mosaicml/composer) - Supercharge Your Model Training
-- [eduardoleao052/js-pytorch](https://github.com/eduardoleao052/js-pytorch) - A JavaScript library like PyTorch, built from scratch.
+- [eduardoleao052/js-pytorch](https://github.com/eduardoleao052/js-pytorch) - A JavaScript library like PyTorch, with GPU acceleration.
 - [intel-analytics/ipex-llm](https://github.com/intel-analytics/ipex-llm) - Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, Baichuan, Mixtral, Gemma, Phi, etc.) on Intel CPU and GPU (e.g., local PC with iGPU, discrete GPU such as Arc, Flex and Ma
 - [autogluon/autogluon](https://github.com/autogluon/autogluon) - Fast and Accurate ML in 3 Lines of Code
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
