@@ -127,6 +127,7 @@
 - [trholding/llama2.c](https://github.com/trholding/llama2.c) - Llama 2 Everywhere (L2E)
 - [berry-lang/berry](https://github.com/berry-lang/berry) - A ultra-lightweight embedded scripting language optimized for microcontrollers.
 - [Kode/Kha](https://github.com/Kode/Kha) - Ultra-portable, high performance, open source multimedia framework.
+- [pocketpy/pocketpy](https://github.com/pocketpy/pocketpy) - Portable Python 3.x Interpreter in Modern C
 - [arthenica/ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
 - [metacall/core](https://github.com/metacall/core) - MetaCall: The ultimate polyglot programming experience.
@@ -237,7 +238,6 @@
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [kanjitalk755/macemu](https://github.com/kanjitalk755/macemu) - Basilisk II and SheepShaver Macintosh emulators
-- [pocketpy/pocketpy](https://github.com/pocketpy/pocketpy) - Open Source Python Interpreter in 1 File for Game Scripting
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [ASDAlexander77/TypeScriptCompiler](https://github.com/ASDAlexander77/TypeScriptCompiler) - TypeScript Compiler (by LLVM)
@@ -1270,7 +1270,7 @@
 - [griptape-ai/griptape](https://github.com/griptape-ai/griptape) - Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory.
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Unified embedding generation and search engine. Also available on cloud - cloud.marqo.ai
 - [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Structured Text Generation
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate, Groq (100+ LLMs)
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - LLM Proxy to call 100+ LLM APIs using the OpenAI format - Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq
 - [sybrenjansen/mpire](https://github.com/sybrenjansen/mpire) - A Python package for easy multiprocessing, but faster than multiprocessing
 - [trailofbits/graphtage](https://github.com/trailofbits/graphtage) - A semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV.
 - [wireservice/csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats.
@@ -1501,7 +1501,7 @@
 - [rust-minidump/rust-minidump](https://github.com/rust-minidump/rust-minidump) - Type definitions, parsing, and analysis for the minidump file format.
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
 - [supabase/edge-runtime](https://github.com/supabase/edge-runtime) - A server based on Deno runtime, capable of running JavaScript, TypeScript, and WASM services.
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Continuous SQL query engine for event streams and time series. Perform streaming analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streamin
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - SQL query engine for event streams. Perform streaming analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming and batch processing. Pos
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
 - [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
@@ -1791,7 +1791,7 @@
 - [aeria-org/aeria](https://github.com/aeria-org/aeria) - A secure backend framework
 - [cloudflare/serverless-registry](https://github.com/cloudflare/serverless-registry) - A Docker registry backed by Workers and R2.
 - [evidence-dev/sqltools-duckdb-driver](https://github.com/evidence-dev/sqltools-duckdb-driver) - DuckDB Driver for SQLTools
-- [Canner/WrenAI](https://github.com/Canner/WrenAI) - Open-source Text-to-SQL solution, Wren AI makes your database RAG-ready.
+- [Canner/WrenAI](https://github.com/Canner/WrenAI) - 🚀 Open-source Text-to-SQL solution, make database RAG ready. 🙌
 - [eta-dev/eta](https://github.com/eta-dev/eta) - Embedded JS template engine for Node, Deno, and the browser. Lighweight, fast, and pluggable. Written in TypeScript
 - [unjs/listhen](https://github.com/unjs/listhen) - 👂 Elegant HTTP Listener
 - [unjs/crossws](https://github.com/unjs/crossws) - 🔌   Cross-platform WebSocket Servers for Node.js, Deno, Bun and Cloudflare Workers.
@@ -2004,7 +2004,7 @@
 - [japa/runner](https://github.com/japa/runner) - Standalone test runner built on top of japa core
 - [meistrari/cursive](https://github.com/meistrari/cursive) - ✦ The intuitive LLM framework
 - [axflow/axflow](https://github.com/axflow/axflow) - The TypeScript framework for AI development
-- [Helicone/helicone](https://github.com/Helicone/helicone) - 🧊 LLM-Observability for Developers. The open-source platform for logging, monitoring, and debugging.
+- [Helicone/helicone](https://github.com/Helicone/helicone) - 🧊 Open source LLM-Observability Platform for Developers. One-line integration for monitoring, metrics, evals, agent tracing, prompt management, playground, etc. Supports OpenAI SDK, Vercel AI SDK, Ant
 - [JLCarveth/nutty](https://github.com/JLCarveth/nutty) - A very simple HTTP server, and a paste server implementation.
 - [OrangeDrangon/android-messages-desktop](https://github.com/OrangeDrangon/android-messages-desktop) - Android Messages as a Cross-platform Desktop App
 - [ciscoheat/sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit forms a pleasure to use!
@@ -2057,7 +2057,7 @@
 - [fonoster/routr](https://github.com/fonoster/routr) - ⚡ The future of programmable SIP servers.
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
 - [mquan/api2ai](https://github.com/mquan/api2ai) - Create API agents from OpenAPI Specs
-- [Swetrix/swetrix-api](https://github.com/Swetrix/swetrix-api) - Swetrix Analytics API
+- [Swetrix/swetrix-api](https://github.com/Swetrix/swetrix-api) - Cookieless, open source and privacy-first web analytics service
 - [unjs/unstorage](https://github.com/unjs/unstorage) - 💾 Unstorage provides an async Key-Value storage API with conventional features like multi driver mounting, watching and working with metadata, dozens of built-in drivers and a tiny core.
 - [lizheming/github-translate-action](https://github.com/lizheming/github-translate-action) - A GitHub Action to translate non-English GitHub issues and GitHub discussions into English automatically.
 - [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️
@@ -2120,13 +2120,13 @@
 - [Tameyer41/liftoff](https://github.com/Tameyer41/liftoff) - Mock Interview Simulator with AI-Powered Feedback
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [jeremyckahn/shifty](https://github.com/jeremyckahn/shifty) - The fastest TypeScript animation engine on the web
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Redteaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command l
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command 
 - [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
-- [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript.
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [callstack/repack](https://github.com/callstack/repack) - A Webpack-based toolkit to build your React Native application with full support of Webpack ecosystem.
 - [epicweb-dev/epic-stack](https://github.com/epicweb-dev/epic-stack) - This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea.
