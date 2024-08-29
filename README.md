@@ -937,7 +937,7 @@
 - [cashapp/redwood](https://github.com/cashapp/redwood) - Multiplatform reactive UI for Android, iOS, and web using Kotlin and Jetpack Compose
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
 - [mobile-dev-inc/maestro](https://github.com/mobile-dev-inc/maestro) - Painless Mobile UI Automation
-- [AliAsadi/Android-Clean-Architecture](https://github.com/AliAsadi/Android-Clean-Architecture) - 🎞 A demo movie android app showcasing Clean Architecture, written in Kotlin and featuring Jetpack Compose for modern, declarative UIs. (Offline-first App)
+- [AliAsadi/Android-Clean-Architecture](https://github.com/AliAsadi/Android-Clean-Architecture) - 🎞 A movie Android app that mimics a real-world project environment, showcasing Clean Architecture, Kotlin, and Jetpack Compose, with Offline-first support.
 - [dharmik1992/MVVM-Clean-Kotlin-Android-Architecture](https://github.com/dharmik1992/MVVM-Clean-Kotlin-Android-Architecture) - A simple app to showcase modern Android development architecture (MVVM Clean + Compose + Kotlin + Retrofit2 + Hilt + Coroutines + Kotlin Flow)
 - [kowasm/kowasm](https://github.com/kowasm/kowasm) - Server-side and full stack development with Kotlin and WebAssembly leveraging WASI and Component Model
 - [rjaros/kvision](https://github.com/rjaros/kvision) - Object oriented web framework for Kotlin/JS
@@ -1973,7 +1973,7 @@
 - [pmndrs/valtio](https://github.com/pmndrs/valtio) - 🧙 Valtio makes proxy-state simple  for React and Vanilla
 - [0no-co/gql.tada](https://github.com/0no-co/gql.tada) - 🪄 Magical GraphQL query engine for TypeScript
 - [bholmesdev/simple-stack](https://github.com/bholmesdev/simple-stack) - 🌱 Web apps made simple
-- [schedule-x/schedule-x](https://github.com/schedule-x/schedule-x) - Material design event calendar and date picker
+- [schedule-x/schedule-x](https://github.com/schedule-x/schedule-x) - Material design event calendar. Modern alternative to fullcalendar and react-big-calendar.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) - 📦  Zero-config package bundler for Node.js + TypeScript
@@ -2068,7 +2068,7 @@
 - [lizheming/github-translate-action](https://github.com/lizheming/github-translate-action) - A GitHub Action to translate non-English GitHub issues and GitHub discussions into English automatically.
 - [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️
 - [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT 
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, OpenAI, Assistants API, Azure, Groq, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL-E-3, Cha
 - [unjs/nitro](https://github.com/unjs/nitro) - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
 - [web-infra-dev/garfish](https://github.com/web-infra-dev/garfish) - A powerful micro front-end framework 🚚
 - [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - Modern.js is a web engineering system, including a web framework and a npm package solution.
