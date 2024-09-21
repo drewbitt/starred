@@ -78,6 +78,7 @@
 
 ## Assembly 
 
+- [calc84maniac/tiboyce](https://github.com/calc84maniac/tiboyce) - A Game Boy emulator for the TI-84 Plus CE and TI-83 Premium CE.
 - [z88dk/z88dk](https://github.com/z88dk/z88dk) - The development kit for over a hundred z80 family machines - c compiler, assembler, linker, libraries.
 - [xiph/rav1e](https://github.com/xiph/rav1e) - The fastest and safest AV1 encoder.
 
@@ -673,7 +674,6 @@
 - [jooby-project/jooby](https://github.com/jooby-project/jooby) - The modular web framework for Java and Kotlin
 - [thymeleaf/thymeleaf](https://github.com/thymeleaf/thymeleaf) - Thymeleaf is a modern server-side Java template engine for both web and standalone environments.
 - [quarkusio/quarkus](https://github.com/quarkusio/quarkus) - Quarkus: Supersonic Subatomic Java.
-- [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
 - [fzakaria/mvn2nix](https://github.com/fzakaria/mvn2nix) - Easily package your Maven Java application with the Nix package manager.
 - [evllabs/JGAAP](https://github.com/evllabs/JGAAP) - The Java Graphical Authorship Attribution Program
 - [Over-Run/overrungl](https://github.com/Over-Run/overrungl) - Overrun Game Library is a high-performance library implemented with Java 22, enables cross-platform access to a set of C/C++ library bindings, and provides some useful utilities.
@@ -768,7 +768,7 @@
 - [sindresorhus/md5-hex](https://github.com/sindresorhus/md5-hex) - Create a MD5 hash with hex encoding
 - [sindresorhus/hasha](https://github.com/sindresorhus/hasha) - Hashing made simple. Get the hash of a buffer/string/stream/file.
 - [mcollina/hyperid](https://github.com/mcollina/hyperid) - Uber-fast unique id generation, for Node.js and the browser
-- [evanwashere/mitata](https://github.com/evanwashere/mitata) - cross-runtime benchmarking lib and cli
+- [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that makes your heart warm
 - [moment/luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
 - [kartikk221/hyper-express](https://github.com/kartikk221/hyper-express) - High performance Node.js webserver with a simple-to-use API powered by uWebsockets.js under the hood.
 - [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
@@ -959,6 +959,7 @@
 - [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
 - [InsertKoinIO/koin](https://github.com/InsertKoinIO/koin) - Koin - a pragmatic lightweight dependency injection framework for Kotlin & Kotlin Multiplatform
 - [ktorio/ktor](https://github.com/ktorio/ktor) - Framework for quickly creating connected applications in Kotlin with minimal effort
+- [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
 - [Snd-R/komf](https://github.com/Snd-R/komf) - Komga and Kavita metadata fetcher
 - [kwebio/kweb-core](https://github.com/kwebio/kweb-core) - A Kotlin web framework
 - [shosetsuorg/shosetsu](https://github.com/shosetsuorg/shosetsu) - An android application for reading light novels. Moved to https://gitlab.com/shosetsuorg/shosetsu
@@ -1286,7 +1287,7 @@
 - [griptape-ai/griptape](https://github.com/griptape-ai/griptape) - Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory.
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Unified embedding generation and search engine. Also available on cloud - cloud.marqo.ai
 - [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Text Generation
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server to call 100+ LLM APIs using the OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 - [sybrenjansen/mpire](https://github.com/sybrenjansen/mpire) - A Python package for easy multiprocessing, but faster than multiprocessing
 - [trailofbits/graphtage](https://github.com/trailofbits/graphtage) - A semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV.
 - [wireservice/csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats.
@@ -1329,6 +1330,7 @@
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
+- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - NEW - YOLOv8 🚀 in PyTorch &gt; ONNX &gt; OpenVINO &gt; CoreML &gt; TFLite
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
@@ -1467,6 +1469,8 @@
 
 ## Rust 
 
+- [touchHLE/touchHLE](https://github.com/touchHLE/touchHLE) - High-level emulator for iPhone OS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/touchHLE/touchHLE
+- [QuiiBz/sherif](https://github.com/QuiiBz/sherif) - Opinionated, zero-config linter for JavaScript monorepos
 - [GlareDB/glaredb](https://github.com/GlareDB/glaredb) - GlareDB: An analytics DBMS for distributed data
 - [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
 - [vlcn-io/cr-sqlite](https://github.com/vlcn-io/cr-sqlite) - Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite
@@ -1637,7 +1641,7 @@
 - [chiselstrike/chiselstrike](https://github.com/chiselstrike/chiselstrike) - ChiselStrike abstracts common backends components like databases and message queues, and let you drive them from a convenient TypeScript business logic layer
 - [winpax/sfsu](https://github.com/winpax/sfsu) - (WIP) A modern, and very very fast, implementation of Scoop
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
-- [grafbase/grafbase](https://github.com/grafbase/grafbase) - The future of APIs
+- [grafbase/grafbase](https://github.com/grafbase/grafbase) - The GraphQL Federation platform
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
@@ -2120,7 +2124,7 @@
 - [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
 - [KevinVandy/mantine-react-table](https://github.com/KevinVandy/mantine-react-table) - A fully featured Mantine V5 implementation of TanStack React Table V8, forked from Material React Table
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
-- [inngest/inngest](https://github.com/inngest/inngest) - A scalable, low-latency, event-driven durable execution platform.  Supports functions deployed to serverless, servers, or the edge.
+- [inngest/inngest](https://github.com/inngest/inngest) - A scalable, event-driven durable execution platform.  Run stateful step functions functions deployed to serverless, servers, or the edge.
 - [supabase-community/copycat](https://github.com/supabase-community/copycat) - Generate deterministic fake values: The same input will always generate the same fake-output.
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [legit-programmer/unisum](https://github.com/legit-programmer/unisum) - One stop to analyze and summarize all your documents.
@@ -2135,7 +2139,6 @@
 - [mintlify/writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
 - [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API.
 - [sqlchat/sqlchat](https://github.com/sqlchat/sqlchat) - Chat-based SQL Client and Editor for the next decade
-- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
 - [microsoft/prompt-engine](https://github.com/microsoft/prompt-engine) - A library for helping developers craft prompts for Large Language Models
 - [algolia/autocomplete](https://github.com/algolia/autocomplete) - 🔮 Fast and full-featured autocomplete library
