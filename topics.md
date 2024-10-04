@@ -762,6 +762,7 @@
 ## chatbot 
 
 - [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) - LlamaIndex in TypeScript
+- [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [casibase/casibase](https://github.com/casibase/casibase) - Spising: ⚡️Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, LLaMA, Google Gemini, HuggingFace, Claude, Gr
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
@@ -2264,8 +2265,10 @@
 - [silvia-odwyer/photon](https://github.com/silvia-odwyer/photon) - ⚡ Rust/WebAssembly image processing library
 - [neplextech/canvacord](https://github.com/neplextech/canvacord) - Easily generate images using react-like components in nodejs. Canvacord is suitable for creating dynamic images such as social media posts, greetings cards, memes, etc. It is also possible to create y
 - [cagnulein/qdomyos-zwift](https://github.com/cagnulein/qdomyos-zwift) - Zwift bridge for smart treadmills and bike/cyclette
+- [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [apache/fury](https://github.com/apache/fury) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
 - [KinsonDigital/Velaptor](https://github.com/KinsonDigital/Velaptor) - 2D game development framework
+- [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 - [TimMikeladze/next-upload](https://github.com/TimMikeladze/next-upload) - 🗃️ Turn-key solution for signed & secure file-uploads to an S3 compliant storage service such as R2, AWS, or Minio. Built for Next.js. Generates signed URLs for uploading files directly to your storag
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: access data freely.
 - [ballerina-platform/ballerina-lang](https://github.com/ballerina-platform/ballerina-lang) - The Ballerina Programming Language
@@ -2274,6 +2277,7 @@
 - [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
 - [devflowinc/trieve](https://github.com/devflowinc/trieve) - All-in-one infrastructure for search, recommendations, RAG, and analytics offered via API
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+- [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [Savory/Danet](https://github.com/Savory/Danet) - The most mature backend framework for Deno. Create awesome HTTP and WebSocket server as well as KVQueue workers !
 - [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
 - [Difegue/LANraragi](https://github.com/Difegue/LANraragi) - Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.
@@ -4033,6 +4037,7 @@
 
 ## others 
 
+- [A2-Security/GitBook-Scraper](https://github.com/A2-Security/GitBook-Scraper) - 
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [lustre-labs/lustre](https://github.com/lustre-labs/lustre) - A Gleam web framework for building HTML templates, single page applications, and real-time server components.
 - [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
@@ -4152,7 +4157,7 @@
 - [remorses/docker-phobia](https://github.com/remorses/docker-phobia) - Analyze Docker images size
 - [archiecobbs/s3backer](https://github.com/archiecobbs/s3backer) - FUSE/NBD single file backing store via Amazon S3
 - [simonw/datasette-lite](https://github.com/simonw/datasette-lite) - Datasette running in your browser using WebAssembly and Pyodide
-- [zen-fs/core](https://github.com/zen-fs/core) - A filesystem, anywhere. v1.0.0 releasing on Oct. 1!
+- [zen-fs/core](https://github.com/zen-fs/core) - A filesystem, anywhere.
 - [mmomtchev/sqlite-wasm-http](https://github.com/mmomtchev/sqlite-wasm-http) - An experimental HTTP VFS driver for SQLite WASM
 - [igalklebanov/kysely-s3-select](https://github.com/igalklebanov/kysely-s3-select) - Kysely dialect, plugins and other goodies for Amazon S3 Select
 - [emergentmethods/flowdapt](https://github.com/emergentmethods/flowdapt) - Gitlab.com Mirror - Please open issues and pull requests over there
@@ -4299,7 +4304,6 @@
 - [tarasglek/chatcraft.org](https://github.com/tarasglek/chatcraft.org) - Developer-oriented ChatGPT clone
 - [simonw/llm-openrouter](https://github.com/simonw/llm-openrouter) - LLM plugin for models hosted by OpenRouter
 - [UbadahJ/QReader](https://github.com/UbadahJ/QReader) - Android application for website https://toc.qidianunderground.org/
-- [morph-labs/rift](https://github.com/morph-labs/rift) - Rift: an AI-native language server for your personal AI software engineer
 - [underlines/awesome-ml](https://github.com/underlines/awesome-ml) - Curated list of useful LLM / Analytics / Datascience resources
 - [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
 - [nyaggah/bedframe](https://github.com/nyaggah/bedframe) - Your Browser Extension Development Framework
@@ -5782,7 +5786,7 @@
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [jarulraj/sqlcheck](https://github.com/jarulraj/sqlcheck) - Automatically identify anti-patterns in SQL queries
 - [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL
-- [cashapp/sqldelight](https://github.com/cashapp/sqldelight) - SQLDelight - Generates typesafe Kotlin APIs from SQL
+- [sqldelight/sqldelight](https://github.com/sqldelight/sqldelight) - SQLDelight - Generates typesafe Kotlin APIs from SQL
 - [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build NodeJS / GO APIs in 5 minutes not weeks
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
