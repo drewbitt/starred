@@ -255,6 +255,7 @@
 
 ## ai 
 
+- [adaline/gateway](https://github.com/adaline/gateway) - The only fully local production-grade Super SDK that provides a simple, unified, and powerful interface for calling more than 200+ LLMs.
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app
@@ -1081,7 +1082,7 @@
 ## csharp 
 
 - [EnhancedNetwork/TownofHost-Enhanced](https://github.com/EnhancedNetwork/TownofHost-Enhanced) - TOHE is the best Host-Only mod for anyone who wants to change their Among Us Experience!
-- [Gurge44/EndlessHostRoles](https://github.com/Gurge44/EndlessHostRoles) - EHR is the biggest host-only mod for Among Us, with over 400 roles and 9 game modes, along with a Custom Team Assigner application to fully customize your games!
+- [Gurge44/EndlessHostRoles](https://github.com/Gurge44/EndlessHostRoles) - EHR is the biggest host-only mod for Among Us, with over 400 roles and 10 game modes, along with a Custom Team Assigner application to fully customize your games!
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [Azure/autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
@@ -1236,7 +1237,7 @@
 
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [nutsdb/nutsdb](https://github.com/nutsdb/nutsdb) - A simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as  list, set, sorted set.
-- [askorama/orama](https://github.com/askorama/orama) - 🌌  Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service!
+- [askorama/orama](https://github.com/askorama/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
 
 ## data-visualization 
 
@@ -1406,7 +1407,7 @@
 - [cross-org/kv](https://github.com/cross-org/kv) - A fast, lightweight, powerful and cross-platform key-value database for Node.js, Deno, and Bun.
 - [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
 - [b-fuze/deno-dom](https://github.com/b-fuze/deno-dom) - Browser DOM & HTML parser in Deno
-- [aeria-org/aeria](https://github.com/aeria-org/aeria) - A web framework for MongoDB
+- [aeria-org/aeria](https://github.com/aeria-org/aeria) - A web framework for MongoDB with a Prisma-like schema definition language
 - [eta-dev/eta](https://github.com/eta-dev/eta) - Embedded JS template engine for Node, Deno, and the browser. Lighweight, fast, and pluggable. Written in TypeScript
 - [exograph/exograph](https://github.com/exograph/exograph) - Build production-ready backends in minutes
 - [fluentci-io/fluentci-studio](https://github.com/fluentci-io/fluentci-studio) - 🎙️ The easiest way to explore and manipulate your CI Pipelines in all of your FluentCI projects.
@@ -2706,7 +2707,7 @@
 - [ArtifexSoftware/mupdf.js](https://github.com/ArtifexSoftware/mupdf.js) - JavaScript bindings for MuPDF
 - [dromara/newcar](https://github.com/dromara/newcar) - 🪢A modern animation engine for JavaScript ecosystem based on Skia (canvaskit-wasm)
 - [cross-org/kv](https://github.com/cross-org/kv) - A fast, lightweight, powerful and cross-platform key-value database for Node.js, Deno, and Bun.
-- [aeria-org/aeria](https://github.com/aeria-org/aeria) - A web framework for MongoDB
+- [aeria-org/aeria](https://github.com/aeria-org/aeria) - A web framework for MongoDB with a Prisma-like schema definition language
 - [cloudflare/serverless-registry](https://github.com/cloudflare/serverless-registry) - A container registry backed by Workers and R2.
 - [eta-dev/eta](https://github.com/eta-dev/eta) - Embedded JS template engine for Node, Deno, and the browser. Lighweight, fast, and pluggable. Written in TypeScript
 - [snuffyDev/nanothreads](https://github.com/snuffyDev/nanothreads) - A tiny multi-threading & concurrency library, for Node.js and the browser
@@ -2793,7 +2794,7 @@
 - [stryker-mutator/stryker-js](https://github.com/stryker-mutator/stryker-js) - Mutation testing for JavaScript and friends
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
 - [surrealdb/surrealdb.js](https://github.com/surrealdb/surrealdb.js) - SurrealDB SDK for JavaScript
-- [askorama/orama](https://github.com/askorama/orama) - 🌌  Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service!
+- [askorama/orama](https://github.com/askorama/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
 - [primatejs/primate](https://github.com/primatejs/primate) - Web framework focused on flexibility and developer freedom
 - [acosgames/acosgames](https://github.com/acosgames/acosgames) - Simulator for ACOS game development using JavaScript
 - [quick-lint/quick-lint-js](https://github.com/quick-lint/quick-lint-js) - quick-lint-js finds bugs in JavaScript programs
@@ -3128,7 +3129,6 @@
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 🎁 wraps all package managers with a unifying CLI
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-- [pwnwriter/hysp](https://github.com/pwnwriter/hysp) - 📦 An independent package manager that every hacker deserves.
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [cunarist/rinf](https://github.com/cunarist/rinf) - Rust for native business logic, Flutter for flexible and beautiful GUI
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
@@ -3177,6 +3177,7 @@
 
 ## llm 
 
+- [adaline/gateway](https://github.com/adaline/gateway) - The only fully local production-grade Super SDK that provides a simple, unified, and powerful interface for calling more than 200+ LLMs.
 - [mayneyao/eidos](https://github.com/mayneyao/eidos) - Offline alternative to Notion. Eidos is an extensible framework for managing your personal data throughout your lifetime in one place.
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
@@ -3261,7 +3262,7 @@
 
 ## low-code 
 
-- [aeria-org/aeria](https://github.com/aeria-org/aeria) - A web framework for MongoDB
+- [aeria-org/aeria](https://github.com/aeria-org/aeria) - A web framework for MongoDB with a Prisma-like schema definition language
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [turbot/flowpipe](https://github.com/turbot/flowpipe) - Flowpipe is a cloud scripting engine. Automation and workflow to connect your clouds to the people, systems and data that matters.
@@ -3492,7 +3493,7 @@
 
 - [medz/prisma-dart](https://github.com/medz/prisma-dart) - Prisma Client Dart is an auto-generated type-safe ORM. It uses Prisma Engine as the data access layer and is as consistent as possible with the Prisma Client JS/TS APIs.
 - [maxnowack/signaldb](https://github.com/maxnowack/signaldb) - SignalDB is a local JavaScript database with a MongoDB-like interface and TypeScript support, enabling optimistic UI with signal-based reactivity across multiple frameworks. It integrates easily with 
-- [aeria-org/aeria](https://github.com/aeria-org/aeria) - A web framework for MongoDB
+- [aeria-org/aeria](https://github.com/aeria-org/aeria) - A web framework for MongoDB with a Prisma-like schema definition language
 - [Josuto/monguito](https://github.com/Josuto/monguito) - Lightweight MongoDB Abstract Repository implementation for Node.js apps
 - [adminerevo/adminerevo](https://github.com/adminerevo/adminerevo) - Database management in a single PHP file
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
@@ -3729,7 +3730,7 @@
 
 - [timgit/pg-boss](https://github.com/timgit/pg-boss) - Queueing jobs in Postgres from Node.js like a boss
 - [cross-org/kv](https://github.com/cross-org/kv) - A fast, lightweight, powerful and cross-platform key-value database for Node.js, Deno, and Bun.
-- [aeria-org/aeria](https://github.com/aeria-org/aeria) - A web framework for MongoDB
+- [aeria-org/aeria](https://github.com/aeria-org/aeria) - A web framework for MongoDB with a Prisma-like schema definition language
 - [poolifier/benchmark](https://github.com/poolifier/benchmark) - Poolifier benchmark versus other worker pools
 - [poolifier/tatami-ng](https://github.com/poolifier/tatami-ng) - Cross JavaScript runtime benchmarking library and CLI
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
@@ -3754,7 +3755,7 @@
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
 - [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem) - An in memory postgres DB instance for your unit tests
 - [unjs/destr](https://github.com/unjs/destr) - 🚀 Faster, secure and convenient alternative for JSON.parse for arbitrary inputs
-- [askorama/orama](https://github.com/askorama/orama) - 🌌  Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service!
+- [askorama/orama](https://github.com/askorama/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
 - [primatejs/primate](https://github.com/primatejs/primate) - Web framework focused on flexibility and developer freedom
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [bombshell-dev/clack](https://github.com/bombshell-dev/clack) - Effortlessly build beautiful command-line apps
@@ -3835,7 +3836,7 @@
 - [yao-pkg/pkg](https://github.com/yao-pkg/pkg) - Package your Node.js project into an executable
 - [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) - 📦  Zero-config package bundler for Node.js + TypeScript
 - [tursodatabase/libsql-js](https://github.com/tursodatabase/libsql-js) - A better-sqlite3 compatible API for libSQL that supports Bun, Deno, and Node
-- [thevahidal/soul](https://github.com/thevahidal/soul) - 🕉 A SQLite REST and realtime server
+- [thevahidal/soul](https://github.com/thevahidal/soul) - 🕉 Soul | A automatic SQLite RESTful  and realtime API server | Build CRUD APIs in seconds!
 - [ranyitz/qnm](https://github.com/ranyitz/qnm) - :mag: cli utility for querying the node_modules directory
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
@@ -3982,6 +3983,7 @@
 
 ## openai 
 
+- [adaline/gateway](https://github.com/adaline/gateway) - The only fully local production-grade Super SDK that provides a simple, unified, and powerful interface for calling more than 200+ LLMs.
 - [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app
 - [token-js/token.js](https://github.com/token-js/token.js) - Integrate 200+ LLMs with one TypeScript SDK using OpenAI's format.
 - [Canner/WrenAI](https://github.com/Canner/WrenAI) - 🚀 Open-source SQL AI Agent for Text-to-SQL. Supporting PostgreSQL, DuckDB, MySQL, MS SQL, ClickHouse, Trino, JSON, CSV, Parquet data sources, and more! 🚀
@@ -4701,7 +4703,6 @@
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
 - [ds300/patch-package](https://github.com/ds300/patch-package) - Fix broken node modules instantly  🏃🏽‍♀️💨
 - [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 🎁 wraps all package managers with a unifying CLI
-- [pwnwriter/hysp](https://github.com/pwnwriter/hysp) - 📦 An independent package manager that every hacker deserves.
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
@@ -4983,7 +4984,7 @@
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
 - [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
-- [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast static code analyzer & language server for Python
+- [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast, feature-rich static code analyzer & language server for Python
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [quadratichq/quadratic](https://github.com/quadratichq/quadratic) - Quadratic | Spreadsheet with Python, SQL, and AI
 - [obi1kenobi/trustfall](https://github.com/obi1kenobi/trustfall) - A query engine for any combination of data sources. Query your files and APIs as if they were databases!
@@ -5510,7 +5511,7 @@
 - [bit-gpt/app](https://github.com/bit-gpt/app) - BitGPT it's your personal AI in your pocket
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
-- [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast static code analyzer & language server for Python
+- [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast, feature-rich static code analyzer & language server for Python
 - [obi1kenobi/trustfall](https://github.com/obi1kenobi/trustfall) - A query engine for any combination of data sources. Query your files and APIs as if they were databases!
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -5870,7 +5871,7 @@
 - [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
 - [tursodatabase/libsql-js](https://github.com/tursodatabase/libsql-js) - A better-sqlite3 compatible API for libSQL that supports Bun, Deno, and Node
 - [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - Blazing-fast Data-Wrangling toolkit
-- [thevahidal/soul](https://github.com/thevahidal/soul) - 🕉 A SQLite REST and realtime server
+- [thevahidal/soul](https://github.com/thevahidal/soul) - 🕉 Soul | A automatic SQLite RESTful  and realtime API server | Build CRUD APIs in seconds!
 - [electric-sql/electric](https://github.com/electric-sql/electric) - Sync little subsets of your Postgres data into local apps and services.
 - [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Privacy-focused encrypted email for everyone.  All-in-one alternative to Gmail + Mailchimp + Sendgrid.
 - [asg017/sqlite-xsv](https://github.com/asg017/sqlite-xsv) - the fastest CSV SQLite extension, written in Rust
@@ -6153,6 +6154,7 @@
 
 ## typescript 
 
+- [adaline/gateway](https://github.com/adaline/gateway) - The only fully local production-grade Super SDK that provides a simple, unified, and powerful interface for calling more than 200+ LLMs.
 - [brisa-build/brisa](https://github.com/brisa-build/brisa) - The Web Platform Framework.
 - [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~2.1KB routing for React and Preact
 - [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Type-safe full-stack framework for Artisans. Develop modern clouds, apps & framework-agnostic libraries, faster.
@@ -6174,7 +6176,7 @@
 - [cross-org/kv](https://github.com/cross-org/kv) - A fast, lightweight, powerful and cross-platform key-value database for Node.js, Deno, and Bun.
 - [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
 - [b-fuze/deno-dom](https://github.com/b-fuze/deno-dom) - Browser DOM & HTML parser in Deno
-- [aeria-org/aeria](https://github.com/aeria-org/aeria) - A web framework for MongoDB
+- [aeria-org/aeria](https://github.com/aeria-org/aeria) - A web framework for MongoDB with a Prisma-like schema definition language
 - [cloudflare/serverless-registry](https://github.com/cloudflare/serverless-registry) - A container registry backed by Workers and R2.
 - [Canner/WrenAI](https://github.com/Canner/WrenAI) - 🚀 Open-source SQL AI Agent for Text-to-SQL. Supporting PostgreSQL, DuckDB, MySQL, MS SQL, ClickHouse, Trino, JSON, CSV, Parquet data sources, and more! 🚀
 - [alfateam/orange-orm](https://github.com/alfateam/orange-orm) - The ultimate ORM for Node and Typescript
@@ -6297,7 +6299,7 @@
 - [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem) - An in memory postgres DB instance for your unit tests
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
 - [fastrodev/fastro](https://github.com/fastrodev/fastro) - Full Stack Framework for Deno, TypeScript, Preact JS and Tailwind CSS
-- [askorama/orama](https://github.com/askorama/orama) - 🌌  Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service!
+- [askorama/orama](https://github.com/askorama/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
 - [skoshx/pentagon](https://github.com/skoshx/pentagon) - Prisma-like ORM built on top of Deno KV. Allows you to write your database schemas and relations using Zod schemas, and run queries using familiar syntax from Prisma.
 - [primatejs/primate](https://github.com/primatejs/primate) - Web framework focused on flexibility and developer freedom
 - [fabian-hiller/modular-forms](https://github.com/fabian-hiller/modular-forms) - The modular and type-safe form library for SolidJS, Qwik and Preact
