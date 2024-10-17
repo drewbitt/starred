@@ -154,7 +154,6 @@
 - [petersalomonsen/wasm-git](https://github.com/petersalomonsen/wasm-git) - GIT for nodejs and the browser using https://libgit2.org compiled to WebAssembly with https://emscripten.org
 - [wolfcw/libfaketime](https://github.com/wolfcw/libfaketime) - libfaketime modifies the system time for a single application
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
-- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [RavenSystem/esp-homekit-devices](https://github.com/RavenSystem/esp-homekit-devices) - Advanced firmware to add native Apple HomeKit and custom configurations, compatible with any SoC based on ESP32, ESP32-S, ESP32-C and ESP8266 series. (Shelly, Sonoff, Electrodragon, Tuya...)
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [simon987/sist2](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool
@@ -284,6 +283,7 @@
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
 - [YtFlow/Maple](https://github.com/YtFlow/Maple) - A lightweight Universal Windows proxy app based on https://github.com/eycorsican/leaf
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system for Linux, Windows and macOS
@@ -786,7 +786,7 @@
 - [yao-pkg/pkg](https://github.com/yao-pkg/pkg) - Package your Node.js project into an executable
 - [tursodatabase/libsql-js](https://github.com/tursodatabase/libsql-js) - A better-sqlite3 compatible API for libSQL that supports Bun, Deno, and Node
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
-- [thevahidal/soul](https://github.com/thevahidal/soul) - 🕉 Soul | A automatic SQLite RESTful  and realtime API server | Build CRUD APIs in seconds!
+- [thevahidal/soul](https://github.com/thevahidal/soul) - 🕉 Soul | Automatic SQLite RESTful  and realtime API server | Build CRUD APIs in seconds!
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [facebook/stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
 - [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
@@ -1478,7 +1478,7 @@
 
 ## Rust 
 
-- [spiraldb/vortex](https://github.com/spiraldb/vortex) - "The LLVM of columnar file formats". A toolkit for working with compressed Arrow on-disk, in-memory, and over-the-wire.
+- [spiraldb/vortex](https://github.com/spiraldb/vortex) - An extensible, state-of-the-art columnar file format, with associated tools for working with compressed Apache Arrow arrays in-memory, on-disk, and over-the-wire.
 - [rossmacarthur/sheldon](https://github.com/rossmacarthur/sheldon) - :bowtie: Fast, configurable, shell plugin manager
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
@@ -2127,7 +2127,7 @@
 - [btpf/Alexandria](https://github.com/btpf/Alexandria) - A minimalistic cross-platform eBook reader built with Tauri, Epub.js, and Typescript
 - [firecamp-dev/firecamp](https://github.com/firecamp-dev/firecamp) - Developer-first OpenSource API DevTool, Postman/Insomnia alternative.
 - [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Sveltekit.
-- [vantezzen/auto-form](https://github.com/vantezzen/auto-form) - 🌟  A React component that automatically creates a @shadcn/ui form based on a zod schema.
+- [vantezzen/autoform](https://github.com/vantezzen/autoform) - 🌟 Automatically render forms for your existing data schema
 - [microsoft/devicescript](https://github.com/microsoft/devicescript) - TypeScript for Tiny IoT Devices (ESP32, RP2040, ...)
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [nextui-org/tailwind-variants](https://github.com/nextui-org/tailwind-variants) - 🦄 Tailwindcss first-class variant API
@@ -2354,7 +2354,7 @@
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [nearform/graphql-hooks](https://github.com/nearform/graphql-hooks) - 🎣 Minimal hooks-first GraphQL client
-- [jasonkuhrt/graffle](https://github.com/jasonkuhrt/graffle) - Simple GraphQL Client for JavaScript. Minimal. Extensible. Type Safe. Runs everywhere.
+- [graffle-js/graffle](https://github.com/graffle-js/graffle) - Simple GraphQL Client for JavaScript. Minimal. Extensible. Type Safe. Runs everywhere.
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
