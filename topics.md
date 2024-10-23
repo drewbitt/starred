@@ -2821,7 +2821,7 @@
 - [Hexagon/croner](https://github.com/Hexagon/croner) - Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.
 - [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
-- [clerk/javascript](https://github.com/clerk/javascript) - Official Javascript repository for Clerk authentication
+- [clerk/javascript](https://github.com/clerk/javascript) - Official JavaScript repository for Clerk authentication
 - [obi1kenobi/trustfall](https://github.com/obi1kenobi/trustfall) - A query engine for any combination of data sources. Query your files and APIs as if they were databases!
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
 - [webui-dev/nim-webui](https://github.com/webui-dev/nim-webui) - Use any web browser as GUI, with Nim in the backend and HTML5 in the frontend.
@@ -3662,7 +3662,7 @@
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
-- [clerk/javascript](https://github.com/clerk/javascript) - Official Javascript repository for Clerk authentication
+- [clerk/javascript](https://github.com/clerk/javascript) - Official JavaScript repository for Clerk authentication
 - [0l1v3rr/github-readme-tech-stack](https://github.com/0l1v3rr/github-readme-tech-stack) - Show off your favorite technologies by using cards in your GitHub README
 - [rakkasjs/rakkasjs](https://github.com/rakkasjs/rakkasjs) - Bleeding-edge React framework powered by Vite
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
@@ -3865,7 +3865,7 @@
 - [codeceptjs/CodeceptJS](https://github.com/codeceptjs/CodeceptJS) - Supercharged End 2 End Testing Framework for NodeJS
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
-- [clerk/javascript](https://github.com/clerk/javascript) - Official Javascript repository for Clerk authentication
+- [clerk/javascript](https://github.com/clerk/javascript) - Official JavaScript repository for Clerk authentication
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
 - [laxamentumtech/audnexus](https://github.com/laxamentumtech/audnexus) - An audiobook data aggregation API that harmonizes data from multiple sources into a unified stream. It offers a consistent and user-friendly source of audiobook data for various applications.
@@ -4066,6 +4066,8 @@
 
 ## others 
 
+- [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient.
+- [will-moss/erin](https://github.com/will-moss/erin) - Self-hostable TikTok feed for your clips. Make a TikTok feed with your own videos
 - [dic1911/NekoX](https://github.com/dic1911/NekoX) - A third-party Telegram android app.
 - [barvian/number-flow](https://github.com/barvian/number-flow) - A React component to transition, format, and localize numbers.
 - [rossmacarthur/zsh-plugin-manager-benchmark](https://github.com/rossmacarthur/zsh-plugin-manager-benchmark) - Benchmark the speed of different Zsh plugin managers
@@ -4213,7 +4215,7 @@
 - [zustandjs/zustand-valtio](https://github.com/zustandjs/zustand-valtio) - A sweet combination of Zustand and Valtio
 - [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) - Fast drag and drop for any experience on any tech stack
 - [kriszyp/msgpackr](https://github.com/kriszyp/msgpackr) - Ultra-fast MessagePack implementation with extension for record and structural cloning / msgpack.org[JavaScript/NodeJS]
-- [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing
+- [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
 - [phiresky/sqlite-zstd](https://github.com/phiresky/sqlite-zstd) - Transparent dictionary-based row-level compression for SQLite
 - [bokuweb/zstd-wasm](https://github.com/bokuweb/zstd-wasm) - Zstandard for browser, Node.js and Deno
 - [NumbersStationAI/DuckDB-NSQL](https://github.com/NumbersStationAI/DuckDB-NSQL) - DuckDB NSQL Model
@@ -4411,7 +4413,7 @@
 - [SciNim/getting-started](https://github.com/SciNim/getting-started) - Getting started with Nim for Scientific Computing
 - [treeform/debby](https://github.com/treeform/debby) - Database ORM layer for Nim
 - [unjs/nitro](https://github.com/unjs/nitro) - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
-- [QwikDev/qwik-city-build](https://github.com/QwikDev/qwik-city-build) - `@builder.io/qwik-city` build artifacts from https://github.com/organizations/BuilderIO/qwik
+- [QwikDev/qwik-city-build](https://github.com/QwikDev/qwik-city-build) - `@builder.io/qwik-city` build artifacts from https://github.com/organizations/QwikDev/qwik
 - [fkirc/skip-duplicate-actions](https://github.com/fkirc/skip-duplicate-actions) - Save time and cost when using GitHub Actions
 - [DigiWorm0/LevelImposter](https://github.com/DigiWorm0/LevelImposter) - Custom Among Us Mapping Studio (BepInEx Mod)
 - [JSlush611/PrizePicks](https://github.com/JSlush611/PrizePicks) - 
@@ -5217,7 +5219,7 @@
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 - [ssleptsov/ninja-keys](https://github.com/ssleptsov/ninja-keys) - Keyboard shortcuts interface for your website. Working with static HTML, Vanilla JS, Vue, React, Svelte.
-- [clerk/javascript](https://github.com/clerk/javascript) - Official Javascript repository for Clerk authentication
+- [clerk/javascript](https://github.com/clerk/javascript) - Official JavaScript repository for Clerk authentication
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
 - [JakubGluszek/intentio](https://github.com/JakubGluszek/intentio) - A prototype of a productivity type desktop app built around the pomodoro concept.
 - [unplugin/unplugin-icons](https://github.com/unplugin/unplugin-icons) - 🤹 Access thousands of icons as components on-demand universally.
