@@ -119,7 +119,7 @@
 - [cloudflare/zlib](https://github.com/cloudflare/zlib) - Cloudflare fork of zlib with massive performance improvements
 - [archiecobbs/s3backer](https://github.com/archiecobbs/s3backer) - FUSE/NBD single file backing store via Amazon S3
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [webui-dev/webui](https://github.com/webui-dev/webui) - Use any web browser or WebView as GUI, with your preferred language in the backend and modern web technologies in the frontend, all in a lightweight portable library.
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
@@ -264,7 +264,7 @@
 - [acoustid/chromaprint](https://github.com/acoustid/chromaprint) - C library for generating audio fingerprints used by AcoustID
 - [debrouxl/tilibs](https://github.com/debrouxl/tilibs) - TILP (formerly GtkTiLink) can transfer data between Texas Instruments graphing calculators and a computer. It works with all link cables (parallel, serial, Black/Gray/Silver/Direct Link) and it suppor
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
-- [oracle/graaljs](https://github.com/oracle/graaljs) - A high-performance, ECMAScript compliant, and embeddable JavaScript runtime for Java
+- [oracle/graaljs](https://github.com/oracle/graaljs) - GraalJS – A high-performance, ECMAScript compliant, and embeddable JavaScript runtime for Java
 - [DaGooseYT/EncodeGUI](https://github.com/DaGooseYT/EncodeGUI) - EncodeGUI (encode-gooey) is a free and open source video transcoder GUI that utilizes AI tools for a fascinating encoding experience.
 - [pgmodeler/pgmodeler](https://github.com/pgmodeler/pgmodeler) - Open-source data modeling tool designed for PostgreSQL. No more typing DDL commands. Let pgModeler do the work for you!
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
@@ -313,6 +313,7 @@
 - [simonw/datasette-lite](https://github.com/simonw/datasette-lite) - Datasette running in your browser using WebAssembly and Pyodide
 - [vaibhav111tandon/vov.css](https://github.com/vaibhav111tandon/vov.css) - 📱💻A CSS Library for small but useful animations💻📱
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
+- [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - Lord of Large Language Models Web User Interface
 - [zce/html5up](https://github.com/zce/html5up) - HTML5 UP! Responsive HTML5 and CSS3 Site Templates
 - [amethystnetwork-dev/Incognito](https://github.com/amethystnetwork-dev/Incognito) - Unofficial Incognito easy deployment version with wisp server included.
 - [angel-rs/css-color-filter-generator](https://github.com/angel-rs/css-color-filter-generator) - Generate custom css filter property to achieve any target color :art:
@@ -484,7 +485,7 @@
 - [gembaadvantage/uplift](https://github.com/gembaadvantage/uplift) - Semantic versioning the easy way. Powered by Conventional Commits. Built for use with CI.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [aquaproj/aqua](https://github.com/aquaproj/aqua) - Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly
-- [casibase/casibase](https://github.com/casibase/casibase) - Spising: ⚡️Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, LLaMA, Google Gemini, HuggingFace, Claude, Gr
+- [casibase/casibase](https://github.com/casibase/casibase) - AI Cloud: ⚡️Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, LLaMA, Google Gemini, HuggingFace, Claude, G
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [beringresearch/macpine](https://github.com/beringresearch/macpine) - Lightweight Linux VMs on MacOS
 - [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
@@ -663,7 +664,7 @@
 - [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) - JHipster Lite ⚡ is a development platform to generate, develop & deploy modern web applications & microservices architecture, step by step - using Hexagonal Architecture :gem:
 - [Wisser/Jailer](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool.
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
-- [wesleyegberto/java-new-features](https://github.com/wesleyegberto/java-new-features) - Exploring Java 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23
+- [wesleyegberto/java-new-features](https://github.com/wesleyegberto/java-new-features) - Exploring Java 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24
 - [Cornutum/tcases](https://github.com/Cornutum/tcases) - A model-based test case generator
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [gluonhq/substrate](https://github.com/gluonhq/substrate) - Create native Java(FX) apps for desktop, mobile and embedded
@@ -688,6 +689,7 @@
 
 ## JavaScript 
 
+- [just-js/lo](https://github.com/just-js/lo) - it's JavaScript Jim, but not as we know it. :space_invader:
 - [will-moss/erin](https://github.com/will-moss/erin) - Self-hostable TikTok feed for your clips. Make a TikTok feed with your own videos
 - [alohe/quicky](https://github.com/alohe/quicky) - A simple CLI tool to self-host Next.js applications.
 - [usmanyunusov/nano-staged](https://github.com/usmanyunusov/nano-staged) - Tiny tool to run commands for modified, staged, and committed files in a GIT repository.
@@ -705,7 +707,7 @@
 - [uwdata/flechette](https://github.com/uwdata/flechette) - Fast, lightweight access to Apache Arrow data.
 - [platformatic/ssr-performance-showdown](https://github.com/platformatic/ssr-performance-showdown) - Let's evaluate the performance of SSR libraries
 - [vital987/chrome-novnc](https://github.com/vital987/chrome-novnc) - Chromium via noVNC (Browser in Browser)
-- [Zenika/alpine-chrome](https://github.com/Zenika/alpine-chrome) - Chrome Headless docker images built upon alpine official image
+- [jlandure/alpine-chrome](https://github.com/jlandure/alpine-chrome) - Chrome Headless docker images built upon alpine official image
 - [webrecorder/pywb](https://github.com/webrecorder/pywb) - Core Python Web Archiving Toolkit for replay and recording of web archives
 - [sqlite/sqlite-wasm](https://github.com/sqlite/sqlite-wasm) - SQLite Wasm conveniently wrapped as an ES Module.
 - [just-js/lo-bench](https://github.com/just-js/lo-bench) - benchmarks for lo js runtime :chart_with_upwards_trend:
@@ -723,7 +725,7 @@
 - [poolifier/tatami-ng](https://github.com/poolifier/tatami-ng) - Cross JavaScript runtime benchmarking library and CLI
 - [fabiospampinato/watcher](https://github.com/fabiospampinato/watcher) - The file system watcher that strives for perfection, with no native dependencies and optional rename detection support.
 - [teknium1/Prompt-Engineering-Toolkit](https://github.com/teknium1/Prompt-Engineering-Toolkit) - 
-- [typicode/mistcss](https://github.com/typicode/mistcss) - 💧 Write atomic components using only CSS! (JS-from-CSS™)
+- [typicode/mistcss](https://github.com/typicode/mistcss) - Create React visual components without JavaScript or TypeScript.  Leverage native HTML and CSS. It's an alternative to CSS-in-JS and CSS modules.
 - [sindresorhus/p-limit](https://github.com/sindresorhus/p-limit) - Run multiple promise-returning & async functions with limited concurrency
 - [alexeyraspopov/picocolors](https://github.com/alexeyraspopov/picocolors) - The tiniest and the fastest library for terminal output formatting with ANSI colors
 - [webdiscus/ansis](https://github.com/webdiscus/ansis) - Small and fast Node.js CJS/ESM lib to colorize terminal output. Lightweight alternative to Chalk with more features. Supports Bun, Deno, Next.JS. Fallback to supported color space.
@@ -749,7 +751,7 @@
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [fernando-mc/serverless-finch](https://github.com/fernando-mc/serverless-finch) - A Serverless Framework Plugin for Static Site Deployment
 - [fastify/fast-json-stringify](https://github.com/fastify/fast-json-stringify) - 2x faster than JSON.stringify()
-- [nuejs/nue](https://github.com/nuejs/nue) - The UX Framework for the Web
+- [nuejs/nue](https://github.com/nuejs/nue) - The Design Engineering Framework for the Web
 - [eduardoleao052/js-pytorch](https://github.com/eduardoleao052/js-pytorch) - A JavaScript library like PyTorch, with GPU acceleration.
 - [aws-lite/aws-lite](https://github.com/aws-lite/aws-lite) - A simple, fast, extensible AWS client
 - [fastify/fastify-express](https://github.com/fastify/fastify-express) - Express compatibility layer for Fastify
@@ -925,7 +927,7 @@
 - [intel-analytics/BigDL-2.x](https://github.com/intel-analytics/BigDL-2.x) - BigDL: Distributed TensorFlow, Keras and PyTorch on Apache Spark/Flink & Ray
 - [blue-yonder/tsfresh](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series:
 - [langchain-ai/langsmith-cookbook](https://github.com/langchain-ai/langsmith-cookbook) - 
-- [SalesforceAIResearch/uni2ts](https://github.com/SalesforceAIResearch/uni2ts) - [ICML2024] Unified Training of Universal Time Series Forecasting Transformers
+- [SalesforceAIResearch/uni2ts](https://github.com/SalesforceAIResearch/uni2ts) - Unified Training of Universal Time Series Forecasting Transformers
 - [superlinked/VectorHub](https://github.com/superlinked/VectorHub) - VectorHub is a free, open-source learning website for people (software developers to senior ML architects) interested in adding vector retrieval to their ML stack.
 - [jasonppy/VoiceCraft](https://github.com/jasonppy/VoiceCraft) - Zero-Shot Speech Editing and Text-to-Speech in the Wild
 - [defog-ai/sqlcoder](https://github.com/defog-ai/sqlcoder) - SoTA LLM for converting natural language questions to SQL queries
@@ -1542,7 +1544,7 @@
 - [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers
 - [devflowinc/trieve](https://github.com/devflowinc/trieve) - All-in-one infrastructure for search, recommendations, RAG, and analytics offered via API
 - [spiceai/spiceai](https://github.com/spiceai/spiceai) - A self-hostable CDN for databases. Spice provides a unified SQL query interface and portable runtime to locally materialize, accelerate, and query datasets across databases, data warehouses, and data 
-- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!
 - [rust-minidump/rust-minidump](https://github.com/rust-minidump/rust-minidump) - Type definitions, parsing, and analysis for the minidump file format.
 - [databendlabs/databend](https://github.com/databendlabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
@@ -1600,7 +1602,7 @@
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
-- [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
+- [youki-dev/youki](https://github.com/youki-dev/youki) - A container runtime written in Rust
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [losfair/mvsqlite](https://github.com/losfair/mvsqlite) - Distributed, MVCC SQLite that runs on FoundationDB.
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - Postgres for Search and Analytics
@@ -1694,7 +1696,7 @@
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [GRVYDEV/Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) - A self contained OBS -&gt; FTL -&gt; WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX and WASI
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [master-of-zen/Av1an](https://github.com/master-of-zen/Av1an) - Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
 - [puppetmaster-/compact-space](https://github.com/puppetmaster-/compact-space) - How long can you stay alive?
@@ -1708,7 +1710,7 @@
 ## Scala 
 
 - [snowplow/snowplow](https://github.com/snowplow/snowplow) - The leader in Next-Generation Customer Data Infrastructure
-- [enso-org/enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
+- [enso-org/enso](https://github.com/enso-org/enso) - Enso Analytics is a self-service data prep and analysis platform designed for data teams.
 - [guardrail-dev/guardrail](https://github.com/guardrail-dev/guardrail) - Principled code generation from OpenAPI specifications
 - [shadaj/slinky](https://github.com/shadaj/slinky) - Write Scala.js React apps just like you would in ES6
 - [Aivean/royalroad-downloader](https://github.com/Aivean/royalroad-downloader) - https://royalroad.com book downloader
@@ -1796,8 +1798,8 @@
 - [mikehouse/Apple-TV-Player](https://github.com/mikehouse/Apple-TV-Player) - Apple TV m3u iptv player tvOS free open source
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [hylo-lang/hylo](https://github.com/hylo-lang/hylo) - The Hylo programming language
-- [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The missing GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
-- [evelyneee/accord](https://github.com/evelyneee/accord) - a discord client for modern macs
+- [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The first GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
+- [tealbathingsuit/accord](https://github.com/tealbathingsuit/accord) - a discord client for modern macs
 - [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS
 - [ra1028/swiftui-hooks](https://github.com/ra1028/swiftui-hooks) - 🪝 A SwiftUI implementation of React Hooks. Enhances reusability of stateful logic and gives state and lifecycle to function view.
 - [tattn/VTuberKit](https://github.com/tattn/VTuberKit) - Avatar support library like an AvatarKit (Animoji)
@@ -1810,6 +1812,7 @@
 
 ## TypeScript 
 
+- [hviana/faster_react](https://github.com/hviana/faster_react) - Full Stack web framework with React + Faster. Automatic routes, reload and component bundle. It uses its own RSC engine, combining SSR and CSR. 100% Deno, no Node dependencies. Fully compatible with D
 - [sveltejs/cli](https://github.com/sveltejs/cli) - The Svelte CLI
 - [nextjs/deploy-deno](https://github.com/nextjs/deploy-deno) - Next.js template to deploy to Deno Deploy.
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript
@@ -1878,7 +1881,6 @@
 - [es-tooling/eslint-plugin-depend](https://github.com/es-tooling/eslint-plugin-depend) - An ESLint plugin for suggesting optimisations in choice of dependency, native equivalents, etc.
 - [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
 - [tchayen/red-otter](https://github.com/tchayen/red-otter) - Self-contained WebGL flexbox layout engine
-- [hypermodeinc/base-template](https://github.com/hypermodeinc/base-template) - Base template for new Hypermode projects
 - [maxnowack/signaldb](https://github.com/maxnowack/signaldb) - SignalDB is a local JavaScript database with a MongoDB-like interface and TypeScript support, enabling optimistic UI with signal-based reactivity across multiple frameworks. It integrates easily with 
 - [powersync-ja/powersync-js](https://github.com/powersync-ja/powersync-js) - SDK that enables local-first and real-time reactive apps with embedded SQLite for JavaScript clients, including React Native and Web
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps.
@@ -1937,7 +1939,7 @@
 - [neplextech/canvacord](https://github.com/neplextech/canvacord) - Easily generate images using react-like components in nodejs. Canvacord is suitable for creating dynamic images such as social media posts, greetings cards, memes, etc. It is also possible to create y
 - [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file vault written in TypeScript! 🚀
 - [perfsee/perfsee](https://github.com/perfsee/perfsee) - a set of tools for measuring and debugging performance of frontend applications
-- [yisibl/resvg-js](https://github.com/yisibl/resvg-js) - A high-performance SVG renderer and toolkit, powered by Rust based resvg and napi-rs.
+- [thx/resvg-js](https://github.com/thx/resvg-js) - A high-performance SVG renderer and toolkit, powered by Rust based resvg and napi-rs.
 - [ceifa/wasmoon](https://github.com/ceifa/wasmoon) - A real lua 5.4 VM with JS bindings made with webassembly
 - [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) - Data framework for your LLM applications. Focus on server side solution
 - [preactjs/preset-vite](https://github.com/preactjs/preset-vite) - Preset for using Preact with the vite bundler
@@ -2040,7 +2042,7 @@
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
 - [oliver-oloughlin/kvdex](https://github.com/oliver-oloughlin/kvdex) - A high-level abstraction layer for Deno KV with zero third-party dependencies by default 🦕🗝️
 - [colyseus/colyseus](https://github.com/colyseus/colyseus) - ⚔ Multiplayer Framework for Node.js
-- [panva/jose](https://github.com/panva/jose) - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes.
+- [panva/jose](https://github.com/panva/jose) - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes
 - [formkit/tempo](https://github.com/formkit/tempo) - 📆 Parse, format, manipulate, and internationalize dates and times in JavaScript and TypeScript.
 - [mihaip/infinite-mac](https://github.com/mihaip/infinite-mac) - A classic Mac loaded with everything you'd want
 - [tinylibs/tinyspy](https://github.com/tinylibs/tinyspy) - 🕵🏻‍♂️ minimal fork of nanospy, with more features
@@ -2171,7 +2173,7 @@
 - [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️
 - [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL
-- [unjs/nitro](https://github.com/unjs/nitro) - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
+- [nitrojs/nitro](https://github.com/nitrojs/nitro) - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
 - [web-infra-dev/garfish](https://github.com/web-infra-dev/garfish) - A powerful micro front-end framework 🚚
 - [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - Modern.js is a web engineering system, including a web framework and a npm package solution.
 - [Phalcode/gamevault-backend](https://github.com/Phalcode/gamevault-backend) - Backend for the self-hosted gaming platform for drm-free games
@@ -2506,7 +2508,6 @@
 - [antfu-collective/vite-plugin-inspect](https://github.com/antfu-collective/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins
 - [luveqz/dear-ghost](https://github.com/luveqz/dear-ghost) - A minimalist text editor for creative writing with language models.
 - [Frontesque/scrcpy-plus](https://github.com/Frontesque/scrcpy-plus) - A simple GUI for SCRCPY and other ADB functions
-- [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - Lord of Large Language Models Web User Interface
 - [kochrt/qr-designer](https://github.com/kochrt/qr-designer) - QR designer web app with a novel method of designing qr codes that does not take advantage of error correction
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
 - [KlausSchaefers/quant-ux](https://github.com/KlausSchaefers/quant-ux) - Quant-UX - Prototype, Test and Learn
