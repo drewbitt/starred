@@ -481,7 +481,6 @@
 
 ## api 
 
-- [unnoq/orpc](https://github.com/unnoq/orpc) - End-to-end typesafe APIs builder, Developer-first simplicity
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
 - [StreamPot/StreamPot](https://github.com/StreamPot/StreamPot) - Run FFmpeg as an API with fluent-ffmpeg compatibility, queues and S3 storage.
 - [litestar-org/api-performance-tests](https://github.com/litestar-org/api-performance-tests) - Benchmarking Litestar vs other ASGI API framework
@@ -685,7 +684,6 @@
 
 ## backend 
 
-- [unnoq/orpc](https://github.com/unnoq/orpc) - End-to-end typesafe APIs builder, Developer-first simplicity
 - [givanz/Vvveb](https://github.com/givanz/Vvveb) - Powerful and easy to use cms to build websites, blogs or ecommerce stores.
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The Convex open-source backend
 - [kitajs/kitajs](https://github.com/kitajs/kitajs) - 🌷 Performant & type safe fastify router — end-to-end safety with ZERO abstraction cost!
@@ -809,7 +807,7 @@
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Unified embedding generation and search engine. Also available on cloud - cloud.marqo.ai
 - [epsilla-cloud/vectordb](https://github.com/epsilla-cloud/vectordb) - Epsilla is a high performance Vector Database Management System. Try out hosted Epsilla at https://cloud.epsilla.com/
 - [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) - Database system for AI-powered apps
-- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
+- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini/Claude LLM 应用。
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code In
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
 - [xcfcode/Summarization-Papers](https://github.com/xcfcode/Summarization-Papers) - Summarization Papers
@@ -1422,6 +1420,7 @@
 ## deno 
 
 - [lowlighter/mizu](https://github.com/lowlighter/mizu) - 🌊 Lightweight, intuitive, and customizable JS library that makes building powerful web apps a breeze!
+- [unnoq/orpc](https://github.com/unnoq/orpc) - Typesafe API's Made Simple 🪄
 - [wsporto/typesql](https://github.com/wsporto/typesql) - TypeSQL - Generate Typescript API from raw SQL. Supports PostgresSQL, MySQL, Sqlite, LibSQL (Turso) and D1 (Cloudflare)
 - [kevingorski/denodevs.com](https://github.com/kevingorski/denodevs.com) - Deno developer reverse job board
 - [hviana/faster_react](https://github.com/hviana/faster_react) - Tiny Full-Stack React framework. Avoid Overengineering. Automatic routes, reload and component bundle. It uses its own RSC engine, combining SSR and CSR. 100% Deno, no Node dependencies. Fully compati
@@ -2286,6 +2285,7 @@
 
 ## hacktoberfest 
 
+- [callstack/reassure](https://github.com/callstack/reassure) - Performance testing companion for React and React Native
 - [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database.
 - [web-infra-dev/rslib](https://github.com/web-infra-dev/rslib) - Create JavaScript libraries in a simple and intuitive way.
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript
@@ -3682,7 +3682,6 @@
 
 ## nextjs 
 
-- [unnoq/orpc](https://github.com/unnoq/orpc) - End-to-end typesafe APIs builder, Developer-first simplicity
 - [alohe/quicky](https://github.com/alohe/quicky) - A simple CLI tool to self-host Next.js applications.
 - [edspencer/inform-ai](https://github.com/edspencer/inform-ai) - InformAI allows you to easily retrofit context-aware AI into any React application.
 - [midday-ai/v1](https://github.com/midday-ai/v1) - An open-source starter kit based on Midday.
@@ -3707,7 +3706,7 @@
 - [boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) - 🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀
 - [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - RPC-like client, contract, and server implementation for a pure REST API
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
-- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
+- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini/Claude LLM 应用。
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [impulse-oss/impulse](https://github.com/impulse-oss/impulse) - Impossible Dev Tools for React and Tailwind
@@ -3788,6 +3787,7 @@
 
 ## node 
 
+- [unnoq/orpc](https://github.com/unnoq/orpc) - Typesafe API's Made Simple 🪄
 - [wsporto/typesql](https://github.com/wsporto/typesql) - TypeSQL - Generate Typescript API from raw SQL. Supports PostgresSQL, MySQL, Sqlite, LibSQL (Turso) and D1 (Cloudflare)
 - [timgit/pg-boss](https://github.com/timgit/pg-boss) - Queueing jobs in Postgres from Node.js like a boss
 - [cross-org/kv](https://github.com/cross-org/kv) - A fast, lightweight, powerful and cross-platform key-value database for Node.js, Deno, and Bun.
@@ -4129,6 +4129,9 @@
 
 ## others 
 
+- [NoCrypt/migu](https://github.com/NoCrypt/migu) - Stream anime torrents, real-time with no waiting for downloads
+- [openauthjs/openauth](https://github.com/openauthjs/openauth) - ▦ Universal, standards-based auth provider.
+- [souporserious/restyle](https://github.com/souporserious/restyle) - The simplest way to add CSS styles to your React components.
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [0ssamaak0/CLIPPyX](https://github.com/0ssamaak0/CLIPPyX) - AI Powered Image search tool offers content-based, text, and visual similarity system-wide search.
 - [YouROK/TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server
@@ -5234,8 +5237,10 @@
 
 ## react 
 
+- [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
+- [callstack/reassure](https://github.com/callstack/reassure) - Performance testing companion for React and React Native
+- [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid and Svelte.
 - [mui/base-ui](https://github.com/mui/base-ui) - Base UI is an open-source library of accessible, unstyled UI components for React.
-- [unnoq/orpc](https://github.com/unnoq/orpc) - End-to-end typesafe APIs builder, Developer-first simplicity
 - [gluestack/gluestack-ui](https://github.com/gluestack/gluestack-ui) - React & React Native Components & Patterns (copy-paste components & patterns crafted with Tailwind CSS (NativeWind))
 - [jpudysz/react-native-unistyles](https://github.com/jpudysz/react-native-unistyles) - Level up your React Native StyleSheet
 - [mrousavy/nitro](https://github.com/mrousavy/nitro) - 🔥 Insanely fast native C++, Swift or Kotlin modules with a statically compiled binding layer to JSI
@@ -5313,7 +5318,7 @@
 - [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - RPC-like client, contract, and server implementation for a pure REST API
 - [vuestorefront/storefront-ui](https://github.com/vuestorefront/storefront-ui) - A frontend library for React and Vue that helps developers quickly build fast, accessible, and beautiful storefronts. Made with 💚 by Vue Storefront team and contributors.
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
-- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
+- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini/Claude LLM 应用。
 - [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - A progressive web framework based on React and Rsbuild.
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
@@ -5426,6 +5431,7 @@
 
 ## react-native 
 
+- [callstack/reassure](https://github.com/callstack/reassure) - Performance testing companion for React and React Native
 - [gluestack/gluestack-ui](https://github.com/gluestack/gluestack-ui) - React & React Native Components & Patterns (copy-paste components & patterns crafted with Tailwind CSS (NativeWind))
 - [jpudysz/react-native-unistyles](https://github.com/jpudysz/react-native-unistyles) - Level up your React Native StyleSheet
 - [mrousavy/nitro](https://github.com/mrousavy/nitro) - 🔥 Insanely fast native C++, Swift or Kotlin modules with a statically compiled binding layer to JSI
@@ -5451,6 +5457,7 @@
 
 ## reactjs 
 
+- [unnoq/orpc](https://github.com/unnoq/orpc) - Typesafe API's Made Simple 🪄
 - [tldraw/signia](https://github.com/tldraw/signia) - Reactive signals that scale, by tldraw.
 - [edspencer/inform-ai](https://github.com/edspencer/inform-ai) - InformAI allows you to easily retrofit context-aware AI into any React application.
 - [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
@@ -5471,7 +5478,7 @@
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [pankod/superplate](https://github.com/pankod/superplate) - A well-structured production-ready frontend boilerplate with Typescript, React Testing Library, styled-component, React Query, .env, Axios, Bundle Analyzer, Prettier and 30+ plugins. superplate create
-- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
+- [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
 - [rescript-lang/rescript-react](https://github.com/rescript-lang/rescript-react) - Official ReScript bindings for ReactJS
 - [ariakit/ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
 - [pacexy/flow](https://github.com/pacexy/flow) - Browser-based ePub reader
@@ -6087,6 +6094,7 @@
 
 ## svelte 
 
+- [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid and Svelte.
 - [PuruVJ/neodrag](https://github.com/PuruVJ/neodrag) - One Draggable to rule them all 💍
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
 - [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, and Svelte.
@@ -6194,7 +6202,7 @@
 - [SimeonGriggs/tints.dev](https://github.com/SimeonGriggs/tints.dev) - 10-color Palette Generator and API for Tailwind CSS
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
 - [surjithctly/astroship](https://github.com/surjithctly/astroship) - Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS
-- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
+- [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
 - [OrJDev/create-jd-app](https://github.com/OrJDev/create-jd-app) - The quickest and most efficient way to start new full stack, type safed Solid web app
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
@@ -6273,6 +6281,7 @@
 
 ## testing 
 
+- [callstack/reassure](https://github.com/callstack/reassure) - Performance testing companion for React and React Native
 - [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) - SiteOne Crawler is a cross-platform website crawler and analyzer for SEO, security, accessibility, and performance optimization—ideal for developers, DevOps, QA engineers, and consultants. Supports Wi
 - [wellwelwel/poku](https://github.com/wellwelwel/poku) - 🐷 Poku makes testing easy for Node.js, Bun, Deno, and you at the same time.
 - [allure-framework/allure-js](https://github.com/allure-framework/allure-js) - Allure integrations for JavaScript test frameworks
@@ -6318,7 +6327,6 @@
 
 - [PuruVJ/neodrag](https://github.com/PuruVJ/neodrag) - One Draggable to rule them all 💍
 - [lowlighter/mizu](https://github.com/lowlighter/mizu) - 🌊 Lightweight, intuitive, and customizable JS library that makes building powerful web apps a breeze!
-- [unnoq/orpc](https://github.com/unnoq/orpc) - End-to-end typesafe APIs builder, Developer-first simplicity
 - [ibttf/interview-coder](https://github.com/ibttf/interview-coder) - An open-source invisible desktop application to help you pass your technical interviews.
 - [angus-c/just](https://github.com/angus-c/just) - A library of dependency-free JavaScript utilities that do just one thing.
 - [jpudysz/react-native-unistyles](https://github.com/jpudysz/react-native-unistyles) - Level up your React Native StyleSheet
@@ -6567,7 +6575,7 @@
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API.
 - [fabien0102/openapi-codegen](https://github.com/fabien0102/openapi-codegen) - A tool for generating code base on an OpenAPI schema.
 - [yrming/vscode-type-challenges](https://github.com/yrming/vscode-type-challenges) - Take Type Challenges in VS Code
-- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
+- [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
 - [hanabi1224/Programming-Language-Benchmarks](https://github.com/hanabi1224/Programming-Language-Benchmarks) - Yet another implementation of computer language benchmarks game
 - [ecyrbe/zodios](https://github.com/ecyrbe/zodios) - typescript http client and server with zod validation
 - [juancarlospaco/nodejs](https://github.com/juancarlospaco/nodejs) - Alternative StdLib for Nim for NodeJS/JavaScript targets, hijacks NodeJS StdLib for Nim
@@ -6650,6 +6658,7 @@
 
 ## vue 
 
+- [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid and Svelte.
 - [bayang/jelu](https://github.com/bayang/jelu) - Self hosted read and to-read list book tracker
 - [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌  Your Self-hosted Comment System. | 自托管评论系统
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
@@ -6705,6 +6714,7 @@
 
 ## vuejs 
 
+- [unnoq/orpc](https://github.com/unnoq/orpc) - Typesafe API's Made Simple 🪄
 - [Thavarshan/comet](https://github.com/Thavarshan/comet) - ☄️ A cross-platform desktop app powered by FFmpeg for easy, beautiful media conversion.
 - [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
