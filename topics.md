@@ -320,7 +320,7 @@
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
 - [ianarawjo/ChainForge](https://github.com/ianarawjo/ChainForge) - An open-source visual programming environment for battle-testing prompts to LLMs.
 - [narenmanoharan/gpt-code-assistant](https://github.com/narenmanoharan/gpt-code-assistant) - gpt-code-assistant is an open-source coding assistant leveraging language models to search, retrieve, explore and understand any codebase.
-- [shobrook/adrenaline](https://github.com/shobrook/adrenaline) - Chat with (and visualize) any codebase
+- [shobrook/adrenaline](https://github.com/shobrook/adrenaline) - Chat with (and visualize) your codebase
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
 - [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
@@ -782,7 +782,7 @@
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) - Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, an
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents
-- [shobrook/adrenaline](https://github.com/shobrook/adrenaline) - Chat with (and visualize) any codebase
+- [shobrook/adrenaline](https://github.com/shobrook/adrenaline) - Chat with (and visualize) your codebase
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [arakoodev/EdgeChains](https://github.com/arakoodev/EdgeChains) - EdgeChains.js is Full-Stack GenAI library. Front-end, backend, apis, prompt management, distributed computing. All core prompts & chains are managed declaratively in jsonnet (and not hidden in classes
 - [vercel/modelfusion](https://github.com/vercel/modelfusion) - The TypeScript library for building AI applications.
@@ -3303,7 +3303,7 @@
 - [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
 - [narenmanoharan/gpt-code-assistant](https://github.com/narenmanoharan/gpt-code-assistant) - gpt-code-assistant is an open-source coding assistant leveraging language models to search, retrieve, explore and understand any codebase.
-- [shobrook/adrenaline](https://github.com/shobrook/adrenaline) - Chat with (and visualize) any codebase
+- [shobrook/adrenaline](https://github.com/shobrook/adrenaline) - Chat with (and visualize) your codebase
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
@@ -4222,7 +4222,7 @@
 - [e18e/e18e](https://github.com/e18e/e18e) - 
 - [mjackson/remix-the-web](https://github.com/mjackson/remix-the-web) - Open source tools for Remix (or any framework!)
 - [ReactBricks/nextjs-starter-reactbricks-ui](https://github.com/ReactBricks/nextjs-starter-reactbricks-ui) - React Bricks starter for Next.js - Website and Blog with Tailwind and React Bricks UI
-- [yusukebe/hono-remix-adapter](https://github.com/yusukebe/hono-remix-adapter) - Hono &lt;-&gt; Remix Adapter
+- [yusukebe/hono-react-router-adapter](https://github.com/yusukebe/hono-react-router-adapter) - Hono &lt;-&gt; React Router Adapter
 - [tower-rs/tower-http](https://github.com/tower-rs/tower-http) - HTTP specific Tower utilities.
 - [basecamp/kamal-proxy](https://github.com/basecamp/kamal-proxy) - Lightweight proxy server for Kamal
 - [touchHLE/touchHLE](https://github.com/touchHLE/touchHLE) - High-level emulator for iPhone OS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/touchHLE/touchHLE
@@ -4546,7 +4546,7 @@
 - [KevinVandy/mantine-react-table](https://github.com/KevinVandy/mantine-react-table) - A fully featured Mantine V5 implementation of TanStack React Table V8, forked from Material React Table
 - [supabase-community/copycat](https://github.com/supabase-community/copycat) - Generate deterministic fake values: The same input will always generate the same fake-output.
 - [hylo-lang/hylo](https://github.com/hylo-lang/hylo) - The Hylo programming language
-- [yukieiji/ExtremeRoles](https://github.com/yukieiji/ExtremeRoles) - AmongUs Mod for Advanced User(+90 roles, +1300 options, and Cosmic addon)
+- [yukieiji/ExtremeRoles](https://github.com/yukieiji/ExtremeRoles) - AmongUs Mod for Advanced User(Add 100 roles, +1300 options, and Cosmic addon)
 - [e-johnstonn/BriefGPT](https://github.com/e-johnstonn/BriefGPT) - Locally hosted tool that connects documents to LLMs for summarization and querying, with a simple GUI.
 - [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [bcspragu/kagi](https://github.com/bcspragu/kagi) - A simple CLI for querying the Kagi search engine via their FastGPT API
