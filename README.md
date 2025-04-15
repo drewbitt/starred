@@ -48,6 +48,7 @@
 - [Nix](#nix)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
+- [Odin](#odin)
 - [Others](#others)
 - [PHP](#php)
 - [PLpgSQL](#plpgsql)
@@ -111,6 +112,7 @@
 
 ## C 
 
+- [holepunchto/bare](https://github.com/holepunchto/bare) - Small and modular JavaScript runtime for desktop and mobile
 - [Tencent/puerts](https://github.com/Tencent/puerts) - PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScript.
 - [nginx/njs](https://github.com/nginx/njs) - A subset of JavaScript language to use in nginx
 - [tscircuit/bun-ffi-benchmarking](https://github.com/tscircuit/bun-ffi-benchmarking) - 
@@ -224,6 +226,7 @@
 
 ## C++ 
 
+- [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
 - [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 - [quackscience/duckdb-extension-clickhouse-sql](https://github.com/quackscience/duckdb-extension-clickhouse-sql) - DuckDB Community Extension implementing ClickHouse SQL Dialect macros and Custom functions for DuckDB
 - [Query-farm/duckdb-airport-extension](https://github.com/Query-farm/duckdb-airport-extension) - The Airport extension for DuckDB, enables the use of Arrow Flight with DuckDB
@@ -364,6 +367,7 @@
 
 ## Dart 
 
+- [FaFaRunner/FaFaRunner](https://github.com/FaFaRunner/FaFaRunner) - Enjoy smooth gameplay, stunning graphics, and endless fun.
 - [xajik/thedeck](https://github.com/xajik/thedeck) - The Deck: An Open-Source, Cross-Platform, Mobile, Turn by Turn Card Game Engine in Flutter
 - [OpenBubbles/openbubbles-app](https://github.com/OpenBubbles/openbubbles-app) - A cross-platform app ecosystem, bringing iMessage to Android and PC!
 - [BeamlakAschalew/flixquest](https://github.com/BeamlakAschalew/flixquest) - Open-source Android app made with Flutter with functionality of watching movies and tv series for free.
@@ -503,7 +507,7 @@
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
 - [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
-- [sjc5/river](https://github.com/sjc5/river) - River is a framework for writing modern, type-safe web applications with Go and TypeScript. 🛶
+- [river-now/river](https://github.com/river-now/river) - 🌊 River is a framework for writing modern, type-safe web applications with Go and TypeScript.
 - [cage1016/alfred-devtoys](https://github.com/cage1016/alfred-devtoys) - A Swiss Army knife for developers for Alfred
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang).
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
@@ -515,7 +519,7 @@
 - [beringresearch/macpine](https://github.com/beringresearch/macpine) - Lightweight Linux VMs on MacOS
 - [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
 - [encoredev/encore](https://github.com/encoredev/encore) - Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [pgaskin/kepubify](https://github.com/pgaskin/kepubify) - Fast, standalone EPUB to Kobo EPUB conversion tool.
 - [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
@@ -695,7 +699,7 @@
 - [jhipster/jhipster-lite](https://github.com/jhipster/jhipster-lite) - JHipster Lite ⚡ is a development platform to generate, develop & deploy modern web applications & microservices architecture, step by step - using Hexagonal Architecture :gem:
 - [Wisser/Jailer](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool.
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
-- [wesleyegberto/java-new-features](https://github.com/wesleyegberto/java-new-features) - Exploring Java 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24
+- [wesleyegberto/java-new-features](https://github.com/wesleyegberto/java-new-features) - Exploring Java features from 8 to 25
 - [Cornutum/tcases](https://github.com/Cornutum/tcases) - A model-based test case generator
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [gluonhq/substrate](https://github.com/gluonhq/substrate) - Create native Java(FX) apps for desktop, mobile and embedded
@@ -991,6 +995,7 @@
 
 ## Kotlin 
 
+- [GrakovNe/lissen-android](https://github.com/GrakovNe/lissen-android) - Minimalistic Android client app for Audiobookshelf
 - [Snd-R/Komelia](https://github.com/Snd-R/Komelia) - Komga media client
 - [bayang/jelu](https://github.com/bayang/jelu) - Self hosted read and to-read list book tracker
 - [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) - All in one emulator on Android!
@@ -1130,6 +1135,10 @@
 - [quicksilver/Quicksilver](https://github.com/quicksilver/Quicksilver) - Quicksilver Project Source
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free open-source macOS firewall
 
+## Odin 
+
+- [odin-lang/Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
+
 ## Others 
 
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
@@ -1256,6 +1265,7 @@
 
 ## Python 
 
+- [hauntsaninja/pyp](https://github.com/hauntsaninja/pyp) - Easily run Python at the shell! Magical, but never mysterious.
 - [mylar3/mylar3](https://github.com/mylar3/mylar3) - The python3 version of the automated Comic Book downloader (cbr/cbz) for use with various download clients.
 - [simonw/sqlite-utils-tui](https://github.com/simonw/sqlite-utils-tui) - Terminal UI for sqlite-utils
 - [p0n1/epub_to_audiobook](https://github.com/p0n1/epub_to_audiobook) - EPUB to audiobook converter, optimized for Audiobookshelf
@@ -1567,6 +1577,8 @@
 
 ## Rust 
 
+- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [alexpovel/srgn](https://github.com/alexpovel/srgn) - A grep-like tool which understands source code syntax and allows for manipulation in addition to search
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [CheckerNetwork/zinnia](https://github.com/CheckerNetwork/zinnia) - Runtime for worker nodes executing modules in a resource-limited sandbox
 - [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code.
@@ -1870,6 +1882,7 @@
 
 ## Svelte 
 
+- [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever.
 - [mistweaverco/bananas](https://github.com/mistweaverco/bananas) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.
 - [gsidhu/buzee-tauri](https://github.com/gsidhu/buzee-tauri) - A superfast full-text search application
 - [NoCrypt/migu](https://github.com/NoCrypt/migu) - Stream anime torrents, real-time with no waiting for downloads
@@ -1926,6 +1939,11 @@
 
 ## TypeScript 
 
+- [seek-oss/capsize](https://github.com/seek-oss/capsize) - Flipping how we define typography in CSS.
+- [rexxars/eventsource-client](https://github.com/rexxars/eventsource-client) - A modern, streaming server-sent events/eventsource client
+- [threepointone/partyserver](https://github.com/threepointone/partyserver) - PartyKit, for Workers
+- [upstash/context7-mcp](https://github.com/upstash/context7-mcp) - Context7 MCP Server
+- [vuejs/vue-vapor](https://github.com/vuejs/vue-vapor) - Vue Vapor is a variant of Vue that offers rendering without the Virtual DOM.
 - [mcampa/trpc-to-openapi](https://github.com/mcampa/trpc-to-openapi) - OpenAPI support for tRPC 🧩
 - [lynx-family/lynx-stack](https://github.com/lynx-family/lynx-stack) - The framework and toolset of Lynx
 - [0no-co/graphql.web](https://github.com/0no-co/graphql.web) - The spec-compliant minimum of client-side GraphQL.
@@ -1958,7 +1976,7 @@
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - An AI web browsing framework focused on simplicity and extensibility.
 - [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant
 - [iulianraduat/save-restore-editors](https://github.com/iulianraduat/save-restore-editors) - A Visual Studio Code extension for saving and restoring all opened text editors
-- [dmno-dev/dmno](https://github.com/dmno-dev/dmno) - Full-stack configuration & secrets. Batteries included.
+- [dmno-dev/dmno](https://github.com/dmno-dev/dmno) - The missing middleware for your configuration and secrets.
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
 - [zasper-io/zasper](https://github.com/zasper-io/zasper) - 4X Better IDE than Jupyterlab
 - [Kanaries/graphic-walker](https://github.com/Kanaries/graphic-walker) - An open source alternative to Tableau. Embeddable visual analytic
@@ -2016,6 +2034,7 @@
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [mayneyao/eidos](https://github.com/mayneyao/eidos) - An extensible framework for Personal Data Management.
 - [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~2.1KB routing for React and Preact
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Modern full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [unjs/confbox](https://github.com/unjs/confbox) - Compact YAML, TOML, JSONC and JSON5 and INI parser and serializer
 - [jacobparis/underkill-stack](https://github.com/jacobparis/underkill-stack) - A react router 7 stack for simple projects
 - [briefercloud/briefer](https://github.com/briefercloud/briefer) - Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.
@@ -2382,7 +2401,7 @@
 - [MarconLP/snapify](https://github.com/MarconLP/snapify) - Screen recording sharing for absolutely everyone.
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
 - [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
-- [KevinVandy/mantine-react-table](https://github.com/KevinVandy/mantine-react-table) - A fully featured Mantine V5 implementation of TanStack React Table V8, forked from Material React Table
+- [KevinVandy/mantine-react-table](https://github.com/KevinVandy/mantine-react-table) - A fully featured Mantine V7 implementation of TanStack React Table V8, forked from Material React Table
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [supabase-community/copycat](https://github.com/supabase-community/copycat) - Generate deterministic fake values: The same input will always generate the same fake-output.
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
@@ -2410,11 +2429,11 @@
 - [jeremyckahn/shifty](https://github.com/jeremyckahn/shifty) - The fastest TypeScript animation engine on the web
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command 
 - [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI agents & MCPs & workflow automation • (280+ MCP servers for AI agents) • AI automation with MCPs • No-code AI agents with MCPs • AI workflows
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
-- [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [callstack/repack](https://github.com/callstack/repack) - A webpack-based toolkit to build your React Native application with full support of webpack ecosystem.
 - [epicweb-dev/epic-stack](https://github.com/epicweb-dev/epic-stack) - This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea.
@@ -2686,7 +2705,6 @@
 ## Vue 
 
 - [pixkk/VueTube](https://github.com/pixkk/VueTube) - A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)
-- [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Modern full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [antfu-collective/vite-plugin-inspect](https://github.com/antfu-collective/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins
 - [larxn/dear-ghost](https://github.com/larxn/dear-ghost) - A minimalist text editor for creative writing with language models.
 - [Frontesque/scrcpy-plus](https://github.com/Frontesque/scrcpy-plus) - A simple GUI for SCRCPY and other ADB functions
