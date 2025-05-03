@@ -111,6 +111,7 @@
 
 ## C 
 
+- [dankamongmen/notcurses](https://github.com/dankamongmen/notcurses) - blingful character graphics/TUI library. definitely not curses.
 - [sagemathinc/cowasm](https://github.com/sagemathinc/cowasm) - CoWasm: Collaborative WebAssembly for Servers and Browsers.   Built using Zig.  Supports Python with extension modules, including numpy.
 - [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
 - [holepunchto/bare](https://github.com/holepunchto/bare) - Small and modular JavaScript runtime for desktop and mobile
@@ -434,7 +435,7 @@
 
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - 
 - [element-hq/dendrite](https://github.com/element-hq/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
-- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests using proof-of-work to stop AI crawlers
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [remotemobprogramming/mob](https://github.com/remotemobprogramming/mob) - Tool for smooth git handover.
 - [nafey/minimalytics](https://github.com/nafey/minimalytics) - Standalone analytics app in a CLI
 - [BemiHQ/BemiDB](https://github.com/BemiHQ/BemiDB) - Single-binary Postgres read replica optimized for analytics
@@ -518,7 +519,7 @@
 - [gembaadvantage/uplift](https://github.com/gembaadvantage/uplift) - Semantic versioning the easy way. Powered by Conventional Commits. Built for use with CI.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [aquaproj/aqua](https://github.com/aquaproj/aqua) - Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly
-- [casibase/casibase](https://github.com/casibase/casibase) - ⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and Manus-like agent management platform with admin UI, user management and Single-Sign-On⚡️, supports ChatGPT, Claude, DeepSeek R1, Llama
+- [casibase/casibase](https://github.com/casibase/casibase) - ⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and MCP (model-context-protocol)/A2A (agent-to-agent) management platform with admin UI, user management and Single-Sign-On⚡️, supports Ch
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [beringresearch/macpine](https://github.com/beringresearch/macpine) - Lightweight Linux VMs on MacOS
 - [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
@@ -680,7 +681,7 @@
 ## Java 
 
 - [Suwayomi/Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) - A rewrite of Tachiyomi for the Desktop
-- [jbellis/brokk](https://github.com/jbellis/brokk) - Brokk brings code intelligence to AI
+- [BrokkAi/brokk](https://github.com/BrokkAi/brokk) - Brokk brings code intelligence to AI
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
 - [dylibso/chicory](https://github.com/dylibso/chicory) - Native JVM WebAssembly runtime
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
@@ -714,7 +715,7 @@
 - [quarkusio/quarkus](https://github.com/quarkusio/quarkus) - Quarkus: Supersonic Subatomic Java.
 - [fzakaria/mvn2nix](https://github.com/fzakaria/mvn2nix) - Easily package your Maven Java application with the Nix package manager.
 - [evllabs/JGAAP](https://github.com/evllabs/JGAAP) - The Java Graphical Authorship Attribution Program
-- [Over-Run/overrungl](https://github.com/Over-Run/overrungl) - Overrun Game Library is a high-performance library implemented with Java 23, enables cross-platform access to a set of C/C++ library bindings, and provides some useful utilities.
+- [Over-Run/overrungl](https://github.com/Over-Run/overrungl) - Overrun Game Library is a high-performance library implemented with Java 24, enables cross-platform access to a set of C/C++ library bindings, and provides some useful utilities.
 - [karatelabs/karate](https://github.com/karatelabs/karate) - Test Automation Made Simple
 - [reactiverse/es4x](https://github.com/reactiverse/es4x) - 🚀 fast JavaScript 4 Eclipse Vert.x
 - [vaadin/flow](https://github.com/vaadin/flow) - Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10+.
@@ -729,6 +730,7 @@
 
 ## JavaScript 
 
+- [context-labs/bblessed](https://github.com/context-labs/bblessed) - A high-level terminal interface library for bun js.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [0no-co/graphql-web-lite](https://github.com/0no-co/graphql-web-lite) - The small sibling of the graphql package, slimmed down for client-side libraries.
 - [hasura/graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
@@ -907,7 +909,6 @@
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [electerious/Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy.
 - [cwsdigital/tailwind-utopia](https://github.com/cwsdigital/tailwind-utopia) - A Tailwind CSS plugin to generate utility classes for interpolated fluid type and space scales based off utopia.fyi
-- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [node-config/node-config](https://github.com/node-config/node-config) - Node.js Application Configuration
 - [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for Humans
 - [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
@@ -981,6 +982,7 @@
 
 ## Jupyter Notebook 
 
+- [jaco-bro/diajax](https://github.com/jaco-bro/diajax) - Dia-JAX: A JAX port of Dia, the text-to-speech model for generating realistic dialogue from text with emotion and tone control.
 - [dantetemplar/pdf-extraction-agenda](https://github.com/dantetemplar/pdf-extraction-agenda) - Overview of pipelines related to PDF document processing.
 - [intel/BigDL](https://github.com/intel/BigDL) - BigDL: Distributed TensorFlow, Keras and PyTorch on Apache Spark/Flink & Ray
 - [blue-yonder/tsfresh](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series:
@@ -1082,6 +1084,7 @@
 
 ## Nim 
 
+- [michaelsbradleyjr/nim-notcurses](https://github.com/michaelsbradleyjr/nim-notcurses) - Nim wrapper for Notcurses: blingful TUIs and character graphics
 - [metacraft-labs/codetracer](https://github.com/metacraft-labs/codetracer) - CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of programming languages.
 - [samdze/playdate-nim](https://github.com/samdze/playdate-nim) - Nim bindings with extra features for the Playdate SDK
 - [mratsim/Arraymancer](https://github.com/mratsim/Arraymancer) - A fast, ergonomic and portable tensor library in Nim with a deep learning focus for CPU, GPU and embedded devices via OpenMP, Cuda and OpenCL backends
@@ -1145,6 +1148,7 @@
 
 ## Others 
 
+- [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
 - [gizmodata/gizmosql-public](https://github.com/gizmodata/gizmosql-public) - GizmoSQL Public repo - used for README purposes and to make artifacts available for public download
 - [lechmazur/elimination_game](https://github.com/lechmazur/elimination_game) - A multi-player tournament benchmark that tests LLMs in social reasoning, strategy, and deception. Players engage in public and private conversations, form alliances, and vote to eliminate each other
@@ -1269,8 +1273,12 @@
 
 ## Python 
 
+- [xavierog/moulti](https://github.com/xavierog/moulti) - Moulti is a CLI-driven Terminal User Interface (TUI) displaying arbitrary outputs inside visual, collapsible blocks called steps.
+- [supreme-gg-gg/instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) - The ultimate weapon against brainrot
+- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
+- [WANDEX/twitchez](https://github.com/WANDEX/twitchez) - TUI client for Amazon's twitch.tv with thumbnails
+- [abdallah-ali-abdallah/turjuman-book-translator](https://github.com/abdallah-ali-abdallah/turjuman-book-translator) - Translate full books and large texts with LLM autonomously
 - [music-assistant/server](https://github.com/music-assistant/server) - Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistan
-- [jaco-bro/diajax](https://github.com/jaco-bro/diajax) - Dia-JAX: A JAX port of Dia, the text-to-speech model for generating realistic dialogue from text with emotion and tone control.
 - [prakharsr/audiobook-creator](https://github.com/prakharsr/audiobook-creator) - Audiobook Creator is an open-source tool that converts books (EPUB, PDF, TXT) into fully voiced audiobooks with intelligent character voice attribution. It uses NLP, LLMs, and Kokoro TTS to generate e
 - [noDRM/DeDRM_tools](https://github.com/noDRM/DeDRM_tools) - DeDRM tools for ebooks
 - [TnS-hun/kobo-book-downloader](https://github.com/TnS-hun/kobo-book-downloader) - A tool to download your purchased Kobo books and remove the DRM from them.
@@ -1596,11 +1604,15 @@
 
 ## Rust 
 
+- [ProgDroid/twitch_launcher](https://github.com/ProgDroid/twitch_launcher) - CLI Twitch browser/launcher to be used with streamlink and Chatterino
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A cross-platform, fast and extensible general purpose fuzzy finder TUI 📺
+- [josueBarretogit/manga-tui](https://github.com/josueBarretogit/manga-tui) - Terminal-based manga reader and downloader with image rendering support
+- [mayocream/koharu](https://github.com/mayocream/koharu) - Automated manga translation tool with LLM, written in Rust.
 - [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Blazingly fast LLM inference.
 - [AlbanDAVID/Toutui](https://github.com/AlbanDAVID/Toutui) - 🦜 Listen to your audiobooks and podcasts from your terminal. TUI Audiobookshelf client for Linux and macOS.
 - [KSXGitHub/parallel-disk-usage](https://github.com/KSXGitHub/parallel-disk-usage) - Highly parallelized, blazing fast directory tree analyzer
 - [fourlexboehm/faasta](https://github.com/fourlexboehm/faasta) - A faster FaaS Platform with full wasi-http compliance
-- [514-labs/moose](https://github.com/514-labs/moose) - The developer framework for your data & analytics stack
+- [514-labs/moose](https://github.com/514-labs/moose) - The developer framework for building analytical backends on top of Clickhouse, Redpanda and other high-performance analytical infrastructure
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube’s universal semantic layer platform is the next evolution of OLAP technology for AI, BI, spreadsheets, and embedded analytics
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [alexpovel/srgn](https://github.com/alexpovel/srgn) - A grep-like tool which understands source code syntax and allows for manipulation in addition to search
@@ -1636,7 +1648,7 @@
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
 - [jikkenio/jikken](https://github.com/jikkenio/jikken) - Jikken CLI Tool
 - [gitext-rs/git-stack](https://github.com/gitext-rs/git-stack) - Stacked branch management for Git
-- [Automattic/harper](https://github.com/Automattic/harper) - The Grammar Checker for Developers
+- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [bitwhip/bitwhip](https://github.com/bitwhip/bitwhip) - CLI Native WebRTC Agent in Rust
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
@@ -1864,6 +1876,7 @@
 
 ## Shell 
 
+- [krathalan/wtwitch](https://github.com/krathalan/wtwitch) - Terminal user interface for Twitch
 - [IceWhaleTech/ZimaOS](https://github.com/IceWhaleTech/ZimaOS) - 
 - [fsantini/KoboCloud](https://github.com/fsantini/KoboCloud) - A set of scripts to synchronize a kobo reader with popular cloud services
 - [winblues/blue95](https://github.com/winblues/blue95) - A desktop for your childhood home's computer room
@@ -1922,6 +1935,7 @@
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [paoloricciuti/svelte-action-balancer](https://github.com/paoloricciuti/svelte-action-balancer) - A svelte action to balance the text inside the an html node. Heavily inspired by react-wrap-balancer
 - [AgnosticUI/agnosticui](https://github.com/AgnosticUI/agnosticui) - AgnosticUI is a set of UI primitives that start their lives in clean HTML and CSS. These standards compliant components are then copied to our framework implementations in: React, Vue 3, Angular, and 
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [svelteuidev/svelteui](https://github.com/svelteuidev/svelteui) - SvelteUI Monorepo
 - [ThaUnknown/miru](https://github.com/ThaUnknown/miru) - Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.
 - [Niek/obs-web](https://github.com/Niek/obs-web) - OBS-web - the easiest way to control OBS remotely
@@ -1967,6 +1981,8 @@
 
 ## TypeScript 
 
+- [microsoft/tui-test](https://github.com/microsoft/tui-test) - An end-to-end terminal testing framework for CLI and TUI experiences
+- [pkgxdev/mcp](https://github.com/pkgxdev/mcp) - can your ai run anything? yes it can
 - [redwoodjs/sdk](https://github.com/redwoodjs/sdk) - A React Framework for Cloudflare.
 - [diegomura/react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
 - [serwist/serwist](https://github.com/serwist/serwist) - A Swiss Army knife for service workers.
@@ -2015,7 +2031,7 @@
 - [dmno-dev/dmno](https://github.com/dmno-dev/dmno) - The missing middleware for your configuration and secrets.
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
-- [zasper-io/zasper](https://github.com/zasper-io/zasper) - High Performace IDE for running Jupyter Notebooks
+- [zasper-io/zasper](https://github.com/zasper-io/zasper) - High Performace IDE for Jupyter Notebooks
 - [Kanaries/graphic-walker](https://github.com/Kanaries/graphic-walker) - An open source alternative to Tableau. Embeddable visual analytic
 - [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
 - [callstack/reassure](https://github.com/callstack/reassure) - Performance testing companion for React and React Native
@@ -2182,7 +2198,7 @@
 - [ceifa/wasmoon](https://github.com/ceifa/wasmoon) - A real lua 5.4 VM with JS bindings made with webassembly
 - [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) - Data framework for your LLM applications. Focus on server side solution
 - [preactjs/preset-vite](https://github.com/preactjs/preset-vite) - Preset for using Preact with the vite bundler
-- [hydralauncher/hydra](https://github.com/hydralauncher/hydra) - Hydra is a game launcher with its own embedded bittorrent client
+- [hydralauncher/hydra](https://github.com/hydralauncher/hydra) - Hydra Launcher is an open-source gaming platform created to be the single tool that you need
 - [allure-framework/allure-js](https://github.com/allure-framework/allure-js) - Allure integrations for JavaScript test frameworks
 - [Vali-98/ChatterUI](https://github.com/Vali-98/ChatterUI) - Simple frontend for LLMs built in react-native.
 - [valtyr/prisma-kysely](https://github.com/valtyr/prisma-kysely) - 🪄 Generate Kysely types directly from your Prisma schema!
@@ -2610,7 +2626,7 @@
 - [fullstack-build/tslog](https://github.com/fullstack-build/tslog) - 📝 tslog - Universal Logger for TypeScript and JavaScript
 - [remult/remult](https://github.com/remult/remult) - Full-stack CRUD, simplified, with SSOT TypeScript entities
 - [hattipjs/hattip](https://github.com/hattipjs/hattip) - Like Express, but for the future
-- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 The Framework *You* Control – Next.js & Nuxt alternative for unprecedented flexibility and dependability.
+- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 The Framework *You* Control – Next.js & Nuxt alternative for unprecedented flexibility and stability.
 - [pablo-abc/felte](https://github.com/pablo-abc/felte) - An extensible form library for Svelte, Solid and React
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
 - [SimeonGriggs/tints.dev](https://github.com/SimeonGriggs/tints.dev) - 10-color Palette Generator and API for Tailwind CSS
