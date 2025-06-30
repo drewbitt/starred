@@ -101,7 +101,7 @@
 ## Batchfile 
 
 - [lechmazur/writing](https://github.com/lechmazur/writing) - This benchmark tests how well LLMs incorporate a set of 10 mandatory story elements (characters, objects, core concepts, attributes, motivations, etc.) in a short creative story
-- [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome and Firefox.
+- [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari.
 - [kkkgo/KMS_VL_ALL](https://github.com/kkkgo/KMS_VL_ALL) - 🔑KMS_VL_ALL - Smart Activation Script
 - [Svintooo/LEShortcutCreator](https://github.com/Svintooo/LEShortcutCreator) - Create shortcuts for games/applications that will run them through Locale Emulator.
 
@@ -379,7 +379,7 @@
 - [niuhuan/jasmine](https://github.com/niuhuan/jasmine) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
 - [Suwayomi/Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - A free and open source manga reader app to read manga from a Tachidesk-Server instance.
 - [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) - Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused.
-- [FaFaRunner/FaFaRunner](https://github.com/FaFaRunner/FaFaRunner) - Enjoy smooth gameplay, stunning graphics, and endless fun.
+- [FaFaRunner/fafarunner](https://github.com/FaFaRunner/fafarunner) - Enjoy smooth gameplay, stunning graphics, and endless fun.
 - [xajik/thedeck](https://github.com/xajik/thedeck) - The Deck: An Open-Source, Cross-Platform, Mobile, Turn by Turn Card Game Engine in Flutter
 - [OpenBubbles/openbubbles-app](https://github.com/OpenBubbles/openbubbles-app) - A cross-platform app ecosystem, bringing iMessage to Android and PC!
 - [BeamlakAschalew/flixquest](https://github.com/BeamlakAschalew/flixquest) - Open-source Android app made with Flutter with functionality of watching movies and tv series for free.
@@ -518,7 +518,7 @@
 - [yandex-cloud/geesefs](https://github.com/yandex-cloud/geesefs) - Finally, a good FUSE FS implementation over S3
 - [turbot/flowpipe](https://github.com/turbot/flowpipe) - Flowpipe is a cloud scripting engine. Automation and workflow to connect your clouds to the people, systems and data that matters.
 - [Equationzhao/g](https://github.com/Equationzhao/g) - powerful and cross-platform ls 🌈
-- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC activ
+- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replicatio
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [jetify-com/typeid](https://github.com/jetify-com/typeid) - Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs
@@ -1714,7 +1714,7 @@
 - [versotile-org/verso](https://github.com/versotile-org/verso) - Mirror of https://gitlab.com/verso-browser/verso
 - [vlcn-io/cr-sqlite](https://github.com/vlcn-io/cr-sqlite) - Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite
 - [emilpriver/geni](https://github.com/emilpriver/geni) - Standalone database migration tool which works for Postgres, MariaDB, MySQL, Sqlite and LibSQL(Turso).
-- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a project to build the next evolution of SQLite.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso Database is a project to build the next evolution of SQLite.
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 - [ToucanToco/fastexcel](https://github.com/ToucanToco/fastexcel) - A Python wrapper around calamine
 - [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
@@ -1752,6 +1752,7 @@
 - [kylebarron/parquet-wasm](https://github.com/kylebarron/parquet-wasm) - Rust-based WebAssembly bindings to read and write Apache Parquet data
 - [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust
 - [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers
+- [devflowinc/trieve](https://github.com/devflowinc/trieve) - All-in-one platform for search, recommendations, RAG, and analytics offered via API
 - [spiceai/spiceai](https://github.com/spiceai/spiceai) - A portable accelerated data query and LLM-inference engine, written in Rust, for data-grounded AI apps and agents.
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [tsonglew/dutis](https://github.com/tsonglew/dutis) - A cmd util to manage default app on macOS, inspired by duti
@@ -1873,7 +1874,7 @@
 - [fermyon/bartholomew](https://github.com/fermyon/bartholomew) - The Micro-CMS for WebAssembly and Spin
 - [spinframework/spin](https://github.com/spinframework/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL
 - [chiselstrike/chiselstrike](https://github.com/chiselstrike/chiselstrike) - ChiselStrike abstracts common backends components like databases and message queues, and let you drive them from a convenient TypeScript business logic layer
 - [winpax/sfsu](https://github.com/winpax/sfsu) - (WIP) A modern, and very very fast, implementation of Scoop
@@ -2070,7 +2071,7 @@
 - [diegomura/react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
 - [serwist/serwist](https://github.com/serwist/serwist) - A Swiss Army knife for service workers.
 - [kolodny/acto](https://github.com/kolodny/acto) - 
-- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source, AI-native testing framework for web apps
+- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - The AI browser automation framework
 - [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
 - [sqlrooms/sqlrooms](https://github.com/sqlrooms/sqlrooms) - Building blocks for React data analytics apps powered by DuckDB-WASM
@@ -2139,7 +2140,7 @@
 - [wsporto/typesql](https://github.com/wsporto/typesql) - TypeSQL - Generate Typescript API from raw SQL. Supports PostgresSQL, MySQL, Sqlite, LibSQL (Turso) and D1 (Cloudflare)
 - [kevingorski/denodevs.com](https://github.com/kevingorski/denodevs.com) - Deno developer reverse job board
 - [jehna/humanify](https://github.com/jehna/humanify) - Deobfuscate Javascript code using ChatGPT
-- [Maggi64/moderndash](https://github.com/Maggi64/moderndash) - A Typescript-First utility library inspired by Lodash. Optimized for modern browsers.
+- [maxdewald/moderndash](https://github.com/maxdewald/moderndash) - A Typescript-First utility library inspired by Lodash. Optimized for modern browsers.
 - [drizzle-team/brocli](https://github.com/drizzle-team/brocli) - Modern type-safe way of building CLIs
 - [drizzle-team/waddler](https://github.com/drizzle-team/waddler) - Modern SQL client for DuckDB
 - [stackblitz/alien-signals](https://github.com/stackblitz/alien-signals) - 👾 The lightest signal library
@@ -2309,14 +2310,13 @@
 - [duckdb/duckdb-wasm](https://github.com/duckdb/duckdb-wasm) - WebAssembly version of DuckDB
 - [kitajs/kitajs](https://github.com/kitajs/kitajs) - 🌷 Performant & type safe fastify router — end-to-end safety with ZERO abstraction cost!
 - [eknkc/ssr-benchmark](https://github.com/eknkc/ssr-benchmark) - Benchmarking JS web framework SSR performance
-- [devflowinc/trieve](https://github.com/devflowinc/trieve) - All-in-one platform for search, recommendations, RAG, and analytics offered via API
 - [graphql-hive/graphql-yoga](https://github.com/graphql-hive/graphql-yoga) - 🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements WHATWG Fetch API and can run/deploy on any JS environment.
 - [kitsonk/kv-toolbox](https://github.com/kitsonk/kv-toolbox) - Utilities for working with Deno KV 🦕🗝️
 - [superagent-ai/superagent](https://github.com/superagent-ai/superagent) - 🥷 Run AI-agents with an API
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
 - [msgpack/msgpack-javascript](https://github.com/msgpack/msgpack-javascript) - @msgpack/msgpack - MessagePack for JavaScript / msgpack.org[ECMA-262/JavaScript/TypeScript]
 - [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
-- [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - All the goodies from both Mixpanel and Plausible combined into one tool.
+- [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - Openpanel is an open-source web and product analytics platform that combines the power of Mixpanel with the ease of Plausible and one of the best Google Analytics replacements.
 - [divriots/jampack](https://github.com/divriots/jampack) - Optimizes static websites for best user experience and best Core Web Vitals scores.
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
@@ -2450,7 +2450,7 @@
 - [OrangeDrangon/android-messages-desktop](https://github.com/OrangeDrangon/android-messages-desktop) - Android Messages as a Cross-platform Desktop App
 - [ciscoheat/sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit forms a pleasure to use!
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Fullstack TypeScript toolkit that enhances Prisma ORM with flexible Authorization layer for RBAC/ABAC/PBAC/ReBAC, offering auto-generated type-safe APIs and frontend hooks.
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Full-Stack TypeScript toolkit that enhances Prisma ORM with flexible Authorization layer for RBAC/ABAC/PBAC/ReBAC, offering auto-generated type-safe APIs and frontend hooks.
 - [lukeautry/tsoa](https://github.com/lukeautry/tsoa) - Build OpenAPI-compliant REST APIs using TypeScript and Node
 - [react-hookz/web](https://github.com/react-hookz/web) - React hooks done right, for browser and SSR.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
@@ -2497,7 +2497,7 @@
 - [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 - [waku-org/js-waku](https://github.com/waku-org/js-waku) - JavaScript implementation of Waku v2
 - [fonoster/routr](https://github.com/fonoster/routr) - ⚡ The future of programmable SIP servers.
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Auth infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
 - [mquan/api2ai](https://github.com/mquan/api2ai) - Create API agents from OpenAPI Specs
 - [Swetrix/swetrix](https://github.com/Swetrix/swetrix) - 📈 Swetrix is a cookie-less, open source, privacy-first web analytics, website speed monitoring and error tracking service that you can host yourself or use in the cloud. Get started for free!
 - [unjs/unstorage](https://github.com/unjs/unstorage) - 💾 Unstorage provides an async Key-Value storage API with conventional features like multi driver mounting, watching and working with metadata, dozens of built-in drivers and a tiny core.
