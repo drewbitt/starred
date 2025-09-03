@@ -1630,7 +1630,7 @@
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [FMInference/FlexLLMGen](https://github.com/FMInference/FlexLLMGen) - Running large language models on a single GPU for throughput-oriented scenarios.
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - :hugging_face: Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
@@ -2162,7 +2162,7 @@
 - [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
 - [denosaurs/bench](https://github.com/denosaurs/bench) - 📊 Comparing deno, node and bun HTTP frameworks
 - [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
-- [river-now/river](https://github.com/river-now/river) - 🌊 A simple, lightweight, and flexible web framework for Go / TypeScript, built on Vite.
+- [river-now/river](https://github.com/river-now/river) - 🌊 A full-stack, type-safe meta-framework (like Next.js or Remix), but with a Go backend
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
@@ -2407,7 +2407,7 @@
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
-- [river-now/river](https://github.com/river-now/river) - 🌊 A simple, lightweight, and flexible web framework for Go / TypeScript, built on Vite.
+- [river-now/river](https://github.com/river-now/river) - 🌊 A full-stack, type-safe meta-framework (like Next.js or Remix), but with a Go backend
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang).
 - [gembaadvantage/uplift](https://github.com/gembaadvantage/uplift) - Semantic versioning the easy way. Powered by Conventional Commits. Built for use with CI.
 - [encoredev/encore](https://github.com/encoredev/encore) - Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure
@@ -4628,6 +4628,7 @@
 
 ## others 
 
+- [smly/mjai.app](https://github.com/smly/mjai.app) - Mahjong game simulator for RiichiLab https://mjai.app
 - [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters
 - [hotheadhacker/seedbox-lite](https://github.com/hotheadhacker/seedbox-lite) - A light-weight torrent media center at one place.
 - [eLyiN/gemini-bridge](https://github.com/eLyiN/gemini-bridge) - A lightweight MCP server bridging AI agents to Google's Gemini AI via official CLI
@@ -5035,7 +5036,6 @@
 - [JamieMason/ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) - Make optimisation of images part of your automated build process
 - [romanzy313/trpc-uwebsockets](https://github.com/romanzy313/trpc-uwebsockets) - tRPC adapter for uWebSockets.js server
 - [moment/luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
-- [47ng/nuqs](https://github.com/47ng/nuqs) - Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.
 - [privatenumber/ts-runtime-comparison](https://github.com/privatenumber/ts-runtime-comparison) - Comparison of Node.js TypeScript runtimes
 - [yandex-cloud/geesefs](https://github.com/yandex-cloud/geesefs) - Finally, a good FUSE FS implementation over S3
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
@@ -5680,7 +5680,7 @@
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
 - [whitphx/stlite](https://github.com/whitphx/stlite) - In-browser Streamlit 🎈🚀
 - [juancarlospaco/cpython](https://github.com/juancarlospaco/cpython) - Alternative StdLib for Nim for Python targets, hijacks Python StdLib for Nim
-- [ToucanToco/fastexcel](https://github.com/ToucanToco/fastexcel) - A Python wrapper around calamine
+- [ToucanToco/fastexcel](https://github.com/ToucanToco/fastexcel) - A fast excel reader for Rust and Python
 - [Quantco/polarify](https://github.com/Quantco/polarify) - Simplifying conditional Polars Expressions with Python 🐍 🐻‍❄️
 - [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse
 - [litestar-org/api-performance-tests](https://github.com/litestar-org/api-performance-tests) - Benchmarking Litestar vs other ASGI API framework
@@ -5867,7 +5867,7 @@
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - :hugging_face: Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 
@@ -5982,13 +5982,14 @@
 - [react-hook-form/devtools](https://github.com/react-hook-form/devtools) - 📋 DevTools to help debug forms.
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
 - [partykit/remix-starter](https://github.com/partykit/remix-starter) - 🎈 PartyKit ⤫ Remix 💿
+- [47ng/nuqs](https://github.com/47ng/nuqs) - Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.
 - [edmundhung/conform](https://github.com/edmundhung/conform) - A type-safe form validation library utilizing web fundamentals to progressively enhance HTML Forms with full support for server frameworks like Remix and Next.js.
 - [pixijs/pixi-react](https://github.com/pixijs/pixi-react) - Write PIXI apps using React declarative style
 - [pmndrs/valtio](https://github.com/pmndrs/valtio) - 🧙 Valtio makes proxy-state simple  for React and Vanilla
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [schedule-x/schedule-x](https://github.com/schedule-x/schedule-x) - JavaScript event calendar. Modern alternative to fullcalendar and react-big-calendar.
 - [raidendotai/openv0](https://github.com/raidendotai/openv0) - AI generated UI components
-- [river-now/river](https://github.com/river-now/river) - 🌊 A simple, lightweight, and flexible web framework for Go / TypeScript, built on Vite.
+- [river-now/river](https://github.com/river-now/river) - 🌊 A full-stack, type-safe meta-framework (like Next.js or Remix), but with a Go backend
 - [nick-keller/react-datasheet-grid](https://github.com/nick-keller/react-datasheet-grid) - An Airtable-like / Excel-like component to create beautiful spreadsheets.
 - [LNReader/lnreader](https://github.com/LNReader/lnreader) - Light novel reader for Android.
 - [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
@@ -6301,7 +6302,7 @@
 - [versotile-org/verso](https://github.com/versotile-org/verso) - Mirror of https://gitlab.com/verso-browser/verso
 - [emilpriver/geni](https://github.com/emilpriver/geni) - Standalone database migration tool which works for Postgres, MariaDB, MySQL, Sqlite and LibSQL(Turso).
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
-- [ToucanToco/fastexcel](https://github.com/ToucanToco/fastexcel) - A Python wrapper around calamine
+- [ToucanToco/fastexcel](https://github.com/ToucanToco/fastexcel) - A fast excel reader for Rust and Python
 - [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
 - [b-fuze/deno-dom](https://github.com/b-fuze/deno-dom) - Browser DOM & HTML parser in Deno
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust
@@ -6828,7 +6829,7 @@
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [vercel/modelfusion](https://github.com/vercel/modelfusion) - The TypeScript library for building AI applications.
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - :hugging_face: Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
 - [premieroctet/photoshot](https://github.com/premieroctet/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
 
 ## statistics 
@@ -7302,7 +7303,7 @@
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [Azure/autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python
-- [river-now/river](https://github.com/river-now/river) - 🌊 A simple, lightweight, and flexible web framework for Go / TypeScript, built on Vite.
+- [river-now/river](https://github.com/river-now/river) - 🌊 A full-stack, type-safe meta-framework (like Next.js or Remix), but with a Go backend
 - [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [ranyitz/qnm](https://github.com/ranyitz/qnm) - :mag: cli utility for querying the node_modules directory
