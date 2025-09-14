@@ -2104,6 +2104,7 @@
 
 ## TypeScript 
 
+- [Vanilagy/mediabunny](https://github.com/Vanilagy/mediabunny) - Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.
 - [cloudflare/agents](https://github.com/cloudflare/agents) - Build and deploy AI Agents on Cloudflare
 - [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
@@ -2480,7 +2481,7 @@
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
 - [react-hook-form/devtools](https://github.com/react-hook-form/devtools) - 📋 DevTools to help debug forms.
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
-- [marcj/deepkit](https://github.com/marcj/deepkit) - modular TypeScript framework
+- [marcj/deepkit](https://github.com/marcj/deepkit) - modular high-performance TypeScript framework
 - [ds300/patch-package](https://github.com/ds300/patch-package) - Fix broken node modules instantly  🏃🏽‍♀️💨
 - [un-ts/prettier](https://github.com/un-ts/prettier) - :package: Opinionated but Incredible Prettier plugins.
 - [un-ts/synckit](https://github.com/un-ts/synckit) - Perform async work synchronously in Node.js/Bun using `worker_threads` with first-class TypeScript and Yarn P'n'P support.
