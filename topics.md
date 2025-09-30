@@ -35,6 +35,7 @@
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [clojure](#clojure)
+- [cloud](#cloud)
 - [cms](#cms)
 - [code](#code)
 - [code-quality](#code-quality)
@@ -101,7 +102,6 @@
 - [git](#git)
 - [github](#github)
 - [go](#go)
-- [godot](#godot)
 - [golang](#golang)
 - [good-first-issue](#good-first-issue)
 - [google](#google)
@@ -255,7 +255,6 @@
 - [ui](#ui)
 - [ui-design](#ui-design)
 - [unity](#unity)
-- [unreal-engine](#unreal-engine)
 - [vagrant](#vagrant)
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
@@ -275,6 +274,7 @@
 - [xcode](#xcode)
 - [xml](#xml)
 - [zig](#zig)
+- [zsh](#zsh)
 
 ## 3d 
 
@@ -292,7 +292,7 @@
 - [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own!
 - [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding 
 - [vercel/streamdown](https://github.com/vercel/streamdown) - A drop-in replacement for react-markdown, designed for AI-powered streaming.
-- [stravu/crystal](https://github.com/stravu/crystal) - Run multiple Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app.
+- [stravu/crystal](https://github.com/stravu/crystal) - Run multiple Codex and Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app.
 - [intellectronica/ruler](https://github.com/intellectronica/ruler) - Ruler — apply the same rules to all coding agents
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
 - [MotiaDev/motia](https://github.com/MotiaDev/motia) - Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
@@ -301,7 +301,8 @@
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is a database built from scratch to be the backend for any AI application.
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework
-- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open-source, vision-first browser agent
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd: Bootstrap 1000+ command line tools in seconds.
+- [sagekit/magnitude](https://github.com/sagekit/magnitude) - Open-source, vision-first browser agent
 - [devnen/Dia-TTS-Server](https://github.com/devnen/Dia-TTS-Server) - Self-host the powerful Dia TTS model. This server offers a user-friendly Web UI, flexible API endpoints (incl. OpenAI compatible), support for SafeTensors/BF16, voice cloning, dialogue generation, and
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [cloudflare/partykit](https://github.com/cloudflare/partykit) - PartyKit, for Workers
@@ -451,6 +452,7 @@
 
 ## android 
 
+- [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) - Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows
 - [coreply/coreply](https://github.com/coreply/coreply) - Finishes your sentences while typing in a messaging app.
 - [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is a Android APP that supports for multiple LLM providers.
 - [arkivanov/Decompose](https://github.com/arkivanov/Decompose) - Kotlin Multiplatform lifecycle-aware business logic components (aka BLoCs) with routing (navigation) and pluggable UI (Jetpack Compose, SwiftUI, JS React, etc.)
@@ -477,7 +479,6 @@
 - [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) - All in one emulator on Android!
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 - [newhinton/Round-Sync](https://github.com/newhinton/Round-Sync) - An android cloud file manager, powered by rclone. Visit https://roundsync.com for more information!
-- [nanihadesuka/NovelDokusha](https://github.com/nanihadesuka/NovelDokusha) - Android web novel reader
 - [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
 - [niedev/RTranslator](https://github.com/niedev/RTranslator) - Open source real-time translation app for Android that runs locally
 - [respawn-app/FlowMVI](https://github.com/respawn-app/FlowMVI) - Architecture Framework for Kotlin. Reuse every line of code. Handle all errors automatically. No boilerplate. Build features in minutes. Analytics, metrics, debugging in 3 lines of code. Make all code
@@ -651,7 +652,7 @@
 - [welovemedia/ffmate](https://github.com/welovemedia/ffmate) - FFmate is a modern and powerful automation layer built on top of FFmpeg - designed to make video and audio transcoding simpler, smarter, and easier to integrate
 - [microsoft/tui-test](https://github.com/microsoft/tui-test) - An end-to-end terminal testing framework for CLI and TUI experiences
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
-- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open-source, vision-first browser agent
+- [sagekit/magnitude](https://github.com/sagekit/magnitude) - Open-source, vision-first browser agent
 - [antiwork/shortest](https://github.com/antiwork/shortest) - QA via natural language AI tests
 - [Cybrarist/Discount-Bandit](https://github.com/Cybrarist/Discount-Bandit) - Track products pricing across multi ecommerce stores such as amazon,ebay,walmart, target and many more.
 - [alohe/quicky](https://github.com/alohe/quicky) - A simple CLI tool to self-host Next.js applications.
@@ -810,12 +811,13 @@
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 - [carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin) - A multi-shell completion binary.
 - [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ A dotfile ecosystem: cross-shell, cross-os, cross-arch. Make your commands and configurations portable, solve a problem once and for all users. Hundreds of builtin composable primitives for powe
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd: Bootstrap 1000+ command line tools in seconds.
 - [microsoft/tui-test](https://github.com/microsoft/tui-test) - An end-to-end terminal testing framework for CLI and TUI experiences
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
 - [jstrieb/just.sh](https://github.com/jstrieb/just.sh) - Compile Justfiles to portable shell scripts
 - [rossmacarthur/sheldon](https://github.com/rossmacarthur/sheldon) - :bowtie: Fast, configurable, shell plugin manager
-- [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
+- [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Golang, Python, Flutter, .NET & more
 - [tanrax/maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) - Simple, native and efficient local ad blocker. Only Bash.
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
@@ -875,6 +877,7 @@
 
 ## c-plus-plus 
 
+- [sourcemeta/blaze](https://github.com/sourcemeta/blaze) - The ultra high-performance C++ JSON Schema validator, providing validation in the nano-second range along with perfect compliance scores. Supports Draft 4, Draft 6, Draft 7, 2019-09 and 2020-12. For b
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen) - Optimizer and compiler/toolchain library for WebAssembly
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
@@ -959,6 +962,7 @@
 
 ## chrome 
 
+- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [fabiospampinato/chrome-devbox](https://github.com/fabiospampinato/chrome-devbox) - A collection of tools for web developers.
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [0x48piraj/fadblock](https://github.com/0x48piraj/fadblock) - Friendly Adblock for YouTube: A fast, lightweight, and undetectable YouTube Ads Blocker for Chrome, Opera and Firefox.
@@ -1020,7 +1024,7 @@
 - [sveltejs/cli](https://github.com/sveltejs/cli) - The Svelte CLI
 - [alohe/quicky](https://github.com/alohe/quicky) - A simple CLI tool to self-host Next.js applications.
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
-- [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
+- [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Golang, Python, Flutter, .NET & more
 - [bloomberg/stricli](https://github.com/bloomberg/stricli) - Build complex CLIs with type safety and no dependencies
 - [QuiiBz/sherif](https://github.com/QuiiBz/sherif) - Opinionated, zero-config linter for JavaScript monorepos
 - [clemlesne/scrape-it-now](https://github.com/clemlesne/scrape-it-now) - Web scraper made for AI and simplicity in mind. It runs as a CLI that can be parallelized and outputs high-quality markdown content.
@@ -1032,7 +1036,7 @@
 - [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager
 - [laktak/zfind](https://github.com/laktak/zfind) - search for files (even inside tar/zip/7z/rar) using a SQL-WHERE filter
 - [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [webdiscus/ansis](https://github.com/webdiscus/ansis) - CJS/ESM ANSI color library for terminals, CI and Chromium-based browser consoles. Compatible with Bun, Deno, Next.JS.
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
@@ -1123,6 +1127,26 @@
 - [cljfx/cljfx](https://github.com/cljfx/cljfx) - Declarative, functional and extensible wrapper of JavaFX inspired by better parts of react and re-frame
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [reagent-project/reagent](https://github.com/reagent-project/reagent) - A minimalistic ClojureScript interface to React.js
+
+## cloud 
+
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd: Bootstrap 1000+ command line tools in seconds.
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
+- [newhinton/Round-Sync](https://github.com/newhinton/Round-Sync) - An android cloud file manager, powered by rclone. Visit https://roundsync.com for more information!
+- [celest-dev/website](https://github.com/celest-dev/website) - The code for celest.dev: home of Celest, the Flutter cloud platform
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
+- [turbot/flowpipe](https://github.com/turbot/flowpipe) - Flowpipe is a cloud scripting engine. Automation and workflow to connect your clouds to the people, systems and data that matters.
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
+- [encoredev/encore](https://github.com/encoredev/encore) - Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure
+- [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
+- [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
+- [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
+- [pluralsh/plural](https://github.com/pluralsh/plural) - Enterprise Kubernetes management, accelerated. 🚀
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
+- [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
+- [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 
 ## cms 
 
@@ -1228,6 +1252,7 @@
 
 ## cpp 
 
+- [sourcemeta/blaze](https://github.com/sourcemeta/blaze) - The ultra high-performance C++ JSON Schema validator, providing validation in the nano-second range along with perfect compliance scores. Supports Draft 4, Draft 6, Draft 7, 2019-09 and 2020-12. For b
 - [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
 - [metacraft-labs/codetracer](https://github.com/metacraft-labs/codetracer) - CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of programming languages.
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.
@@ -1352,6 +1377,7 @@
 
 ## dart 
 
+- [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) - Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows
 - [frostnova721/animestream](https://github.com/frostnova721/animestream) - An app to stream and download anime
 - [Suwayomi/Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - A free and open source manga reader app to read manga from a Tachidesk-Server instance.
 - [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) - Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused.
@@ -1380,7 +1406,6 @@
 - [514-labs/moosestack](https://github.com/514-labs/moosestack) - The developer framework for building analytical backends on top of ClickHouse, Redpanda and other high-performance analytical infrastructure
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [Kanaries/graphic-walker](https://github.com/Kanaries/graphic-walker) - An open source alternative to Tableau. Embeddable visual analytic
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 - [uwdata/flechette](https://github.com/uwdata/flechette) - Fast, lightweight access to Apache Arrow data.
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - A reactive data store & sync engine.
 - [martymac/fpart](https://github.com/martymac/fpart) - Sort files and pack them into partitions
@@ -1704,7 +1729,6 @@
 - [skymethod/denoflare](https://github.com/skymethod/denoflare) - Develop, test, and deploy Cloudflare Workers with Deno.
 - [tursodatabase/libsql-js](https://github.com/tursodatabase/libsql-js) - A better-sqlite3 compatible API for libSQL that supports Node, Bun, and Deno.
 - [JLCarveth/nutty](https://github.com/JLCarveth/nutty) - A very simple HTTP server, and a paste server implementation.
-- [rivet-dev/engine](https://github.com/rivet-dev/engine) - Scale and orchestrate RivetKit
 - [denosaurs/deno_python](https://github.com/denosaurs/deno_python) - 🐍 Python interpreter bindings for Deno and Bun.
 - [moonrepo/proto](https://github.com/moonrepo/proto) - A pluggable multi-language version manager.
 - [kysely-org/awesome-kysely](https://github.com/kysely-org/awesome-kysely) - A curated list of Kysely resources, tools, utilities and applications.
@@ -1763,6 +1787,7 @@
 
 ## developer-tools 
 
+- [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [MotiaDev/motia](https://github.com/MotiaDev/motia) - Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
@@ -2113,6 +2138,7 @@
 
 ## flutter 
 
+- [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) - Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows
 - [frostnova721/animestream](https://github.com/frostnova721/animestream) - An app to stream and download anime
 - [ComicSparks/jasmine](https://github.com/ComicSparks/jasmine) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
 - [Suwayomi/Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - A free and open source manga reader app to read manga from a Tachidesk-Server instance.
@@ -2161,7 +2187,7 @@
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [MotiaDev/motia](https://github.com/MotiaDev/motia) - Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework
-- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open-source, vision-first browser agent
+- [sagekit/magnitude](https://github.com/sagekit/magnitude) - Open-source, vision-first browser agent
 - [514-labs/moosestack](https://github.com/514-labs/moosestack) - The developer framework for building analytical backends on top of ClickHouse, Redpanda and other high-performance analytical infrastructure
 - [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [lazarv/react-server](https://github.com/lazarv/react-server) - The easiest way to build React apps with server-side rendering
@@ -2183,7 +2209,7 @@
 - [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
 - [denosaurs/bench](https://github.com/denosaurs/bench) - 📊 Comparing deno, node and bun HTTP frameworks
 - [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
-- [river-now/river](https://github.com/river-now/river) - Blazing-fast Go. Magical TypeScript. Unrivaled flexibility.
+- [river-now/river](https://github.com/river-now/river) - Vite-powered web framework for building full-stack applications with Go and TypeScript
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
@@ -2288,7 +2314,6 @@
 - [samdze/playdate-nim](https://github.com/samdze/playdate-nim) - Nim bindings with extra features for the Playdate SDK
 - [KinsonDigital/Velaptor](https://github.com/KinsonDigital/Velaptor) - 2D game development framework
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
-- [rivet-dev/engine](https://github.com/rivet-dev/engine) - Scale and orchestrate RivetKit
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
@@ -2352,7 +2377,7 @@
 
 ## gh-extension 
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 
 ## git 
 
@@ -2395,7 +2420,7 @@
 ## github 
 
 - [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [AsyncBanana/microdiff](https://github.com/AsyncBanana/microdiff) - A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang).
@@ -2421,7 +2446,7 @@
 - [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌  Your Self-hosted Comment System. | 自托管评论系统
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
@@ -2437,7 +2462,7 @@
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
-- [river-now/river](https://github.com/river-now/river) - Blazing-fast Go. Magical TypeScript. Unrivaled flexibility.
+- [river-now/river](https://github.com/river-now/river) - Vite-powered web framework for building full-stack applications with Go and TypeScript
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang).
 - [gembaadvantage/uplift](https://github.com/gembaadvantage/uplift) - Semantic versioning the easy way. Powered by Conventional Commits. Built for use with CI.
 - [encoredev/encore](https://github.com/encoredev/encore) - Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure
@@ -2482,10 +2507,6 @@
 - [distribyted/distribyted](https://github.com/distribyted/distribyted) - Torrent client with HTTP, fuse, and WebDAV interfaces. Start exploring your torrent files right away, even zip, rar, or 7zip archive contents!
 - [asticode/go-astisub](https://github.com/asticode/go-astisub) - Manipulate subtitles in GO (.srt, .ssa/.ass, .stl, .ttml, .vtt (webvtt), teletext, etc.)
 
-## godot 
-
-- [rivet-dev/engine](https://github.com/rivet-dev/engine) - Scale and orchestrate RivetKit
-
 ## golang 
 
 - [welovemedia/ffmate](https://github.com/welovemedia/ffmate) - FFmate is a modern and powerful automation layer built on top of FFmpeg - designed to make video and audio transcoding simpler, smarter, and easier to integrate
@@ -2500,11 +2521,11 @@
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌  Your Self-hosted Comment System. | 自托管评论系统
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
-- [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
+- [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Golang, Python, Flutter, .NET & more
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [libretro/ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang
 - [proofrock/ws4sqlite](https://github.com/proofrock/ws4sqlite) - Query sqlite via json+http
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [cshum/imagor](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [apache/fory](https://github.com/apache/fory) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
@@ -2531,7 +2552,7 @@
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [Azure/autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python
-- [river-now/river](https://github.com/river-now/river) - Blazing-fast Go. Magical TypeScript. Unrivaled flexibility.
+- [river-now/river](https://github.com/river-now/river) - Vite-powered web framework for building full-stack applications with Go and TypeScript
 - [cage1016/alfred-devtoys](https://github.com/cage1016/alfred-devtoys) - A Swiss Army knife for developers for Alfred
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang).
 - [gembaadvantage/uplift](https://github.com/gembaadvantage/uplift) - Semantic versioning the easy way. Powered by Conventional Commits. Built for use with CI.
@@ -2622,6 +2643,7 @@
 - [apollographql/federation](https://github.com/apollographql/federation) - 🌐  Build and scale a single data graph across multiple services with Apollo's federation gateway.
 - [krakend/krakend-ce](https://github.com/krakend/krakend-ce) - KrakenD Community Edition: High-performance, stateless, declarative, API Gateway written in Go.
 - [graphql-hive/graphql-yoga](https://github.com/graphql-hive/graphql-yoga) - 🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements WHATWG Fetch API and can run/deploy on any JS environment.
+- [isographlabs/isograph](https://github.com/isographlabs/isograph) - The UI framework for teams that move fast — without breaking things.
 - [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - High Performance GraphQL Runtime
 - [0no-co/gql.tada](https://github.com/0no-co/gql.tada) - 🪄 Magical GraphQL query engine for TypeScript
 - [stepci/garph](https://github.com/stepci/garph) - Fullstack GraphQL Framework for TypeScript
@@ -2666,6 +2688,7 @@
 ## hacktoberfest 
 
 - [statoscope/statoscope](https://github.com/statoscope/statoscope) - Statoscope is a toolkit to analyze and validate webpack bundle
+- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
 - [FrontMatter/web-documentation-nextjs](https://github.com/FrontMatter/web-documentation-nextjs) - Front Matter documenation
 - [ChuckerTeam/chucker](https://github.com/ChuckerTeam/chucker) - 🔎 An HTTP inspector for Android & OkHTTP (like Charles but on device)
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
@@ -2801,6 +2824,7 @@
 - [ealush/vest](https://github.com/ealush/vest) - Vest ✅ Declarative validations framework
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
 - [ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) - An easy and fast way to create a Python GUI 🐍
 - [vscode-shellcheck/vscode-shellcheck](https://github.com/vscode-shellcheck/vscode-shellcheck) - Integrates ShellCheck into VS Code, a linter for Shell scripts.
@@ -2817,6 +2841,7 @@
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [react-simple-code-editor/react-simple-code-editor](https://github.com/react-simple-code-editor/react-simple-code-editor) - Simple no-frills code editor with syntax highlighting
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
+- [litedb-org/LiteDB](https://github.com/litedb-org/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 - [okteto/okteto](https://github.com/okteto/okteto) - Develop your applications directly in your Kubernetes Cluster
 - [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
@@ -2842,6 +2867,7 @@
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [aarch64-switch-rs/nx](https://github.com/aarch64-switch-rs/nx) - Userland library for 64-bit Nintendo Switch homebrew (and other potential purposes), written in pure Rust and some assembly bits
 - [wolfcw/libfaketime](https://github.com/wolfcw/libfaketime) - libfaketime modifies the system time for a single application
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [postlund/pyatv](https://github.com/postlund/pyatv) - A client library for Apple TV and AirPlay devices
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
@@ -3000,6 +3026,7 @@
 
 ## ios 
 
+- [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) - Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows
 - [icerockdev/moko-resources](https://github.com/icerockdev/moko-resources) - Resources access for mobile (android & ios) Kotlin Multiplatform development
 - [aws-samples/swift-chat](https://github.com/aws-samples/swift-chat) - A lightning-fast, cross-platform AI chat application built with React Native.
 - [ComicSparks/jasmine](https://github.com/ComicSparks/jasmine) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
@@ -3394,6 +3421,7 @@
 
 ## json 
 
+- [sourcemeta/blaze](https://github.com/sourcemeta/blaze) - The ultra high-performance C++ JSON Schema validator, providing validation in the nano-second range along with perfect compliance scores. Supports Draft 4, Draft 6, Draft 7, 2019-09 and 2020-12. For b
 - [liquidaty/zsv](https://github.com/liquidaty/zsv) - zsv+lib: tabular data swiss-army knife CLI + world's fastest (simd) CSV parser
 - [Thinkmill/keystatic](https://github.com/Thinkmill/keystatic) - First class CMS experience, TypeScript API, Markdown & YAML/JSON based, no DB
 - [ClickHouse/JSONBench](https://github.com/ClickHouse/JSONBench) - JSONBench: a Benchmark For Data Analytics On JSON
@@ -3464,7 +3492,6 @@
 - [bayang/jelu](https://github.com/bayang/jelu) - Self hosted read and to-read list book tracker
 - [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) - All in one emulator on Android!
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
-- [nanihadesuka/NovelDokusha](https://github.com/nanihadesuka/NovelDokusha) - Android web novel reader
 - [respawn-app/FlowMVI](https://github.com/respawn-app/FlowMVI) - Architecture Framework for Kotlin. Reuse every line of code. Handle all errors automatically. No boilerplate. Build features in minutes. Analytics, metrics, debugging in 3 lines of code. Make all code
 - [jobobby04/TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) - Free and open source manga reader for Android
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A mod for the Discord Android App
@@ -3590,6 +3617,7 @@
 
 ## linux 
 
+- [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) - Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
 - [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding 
 - [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) - Realtime BirdNET soundscape analyzer
@@ -3603,7 +3631,7 @@
 - [winblues/blue95](https://github.com/winblues/blue95) - A desktop for your childhood home's computer room
 - [metacraft-labs/codetracer](https://github.com/metacraft-labs/codetracer) - CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of programming languages.
 - [tamnguyenvan/screenvivid](https://github.com/tamnguyenvan/screenvivid) - An Open Source Cross-platform Screen Recorder for Everyone
-- [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
+- [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Golang, Python, Flutter, .NET & more
 - [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [nashaofu/node-screenshots](https://github.com/nashaofu/node-screenshots) - Zero-dependent. A native nodejs screenshots library for Mac、Windows、Linux.
@@ -3795,7 +3823,7 @@
 
 ## lua 
 
-- [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
+- [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Golang, Python, Flutter, .NET & more
 - [NobleRobot/NobleEngine](https://github.com/NobleRobot/NobleEngine) - A li'l game engine for Playdate.
 - [stevenlafl/tts-typescript](https://github.com/stevenlafl/tts-typescript) - Typescript Declarations for Tabletop Simulator
 - [ceifa/wasmoon](https://github.com/ceifa/wasmoon) - A real lua 5.4 VM with JS bindings made with webassembly
@@ -3882,6 +3910,7 @@
 
 ## macos 
 
+- [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) - Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows
 - [pakerwreah/Calendr](https://github.com/pakerwreah/Calendr) - Menu bar calendar for macOS
 - [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ A dotfile ecosystem: cross-shell, cross-os, cross-arch. Make your commands and configurations portable, solve a problem once and for all users. Hundreds of builtin composable primitives for powe
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
@@ -3897,7 +3926,7 @@
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
 - [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 - [MythicApp/Mythic](https://github.com/MythicApp/Mythic) - An open-source macOS game launcher with the ability to play Windows games through a custom implementation of Apple's Game Porting Toolkit — supporting multiple platforms.
-- [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
+- [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Golang, Python, Flutter, .NET & more
 - [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
 - [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
 - [carlosqsilva/vfetch](https://github.com/carlosqsilva/vfetch) - A command-line system fetch tool for macOS written in vlang
@@ -4359,7 +4388,7 @@
 - [Tencent/puerts](https://github.com/Tencent/puerts) - PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScript.
 - [drizzle-team/waddler](https://github.com/drizzle-team/waddler) - Modern SQL client
 - [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
-- [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
+- [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Golang, Python, Flutter, .NET & more
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [lazarv/react-server](https://github.com/lazarv/react-server) - The easiest way to build React apps with server-side rendering
 - [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
@@ -4654,6 +4683,7 @@
 ## operating-system 
 
 - [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
+- [IceWhaleTech/ZimaOS](https://github.com/IceWhaleTech/ZimaOS) - A Simplified, Focused and Open NAS OS_
 - [tractordev/wanix](https://github.com/tractordev/wanix) - A virtual environment runtime for the web, inspired by Plan 9
 - [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
@@ -4667,6 +4697,10 @@
 
 ## others 
 
+- [rektpartyaftermath/Legado-booksource-collection](https://github.com/rektpartyaftermath/Legado-booksource-collection) - Some booksource collection for legado.
+- [AnnexLabs/AnnexUI](https://github.com/AnnexLabs/AnnexUI) - MIT licensed UI library for Typesense.
+- [cloudflare/capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
+- [alexreardon/tiny-invariant](https://github.com/alexreardon/tiny-invariant) - A tiny invariant function
 - [lzt1008/powerflow](https://github.com/lzt1008/powerflow) - macOS App for monitoring power usage and charging status
 - [get-convex/chef](https://github.com/get-convex/chef) - The only AI app builder that knows backend
 - [arethetypeswrong/arethetypeswrong.github.io](https://github.com/arethetypeswrong/arethetypeswrong.github.io) - Tool for analyzing TypeScript types of npm packages
@@ -4680,7 +4714,7 @@
 - [jina-ai/MCP](https://github.com/jina-ai/MCP) - Official Jina AI Remote MCP Server
 - [multiocular-com/multiocular](https://github.com/multiocular-com/multiocular) - ꙮ Review dependencies changes to prevent supply chain attack
 - [unjs/perfect-debounce](https://github.com/unjs/perfect-debounce) - Debounce promise-returning & async functions.
-- [sam-goodwin/alchemy](https://github.com/sam-goodwin/alchemy) - Infrastructure as TypeScript
+- [alchemy-run/alchemy](https://github.com/alchemy-run/alchemy) - Infrastructure as TypeScript
 - [facebookincubator/Glean](https://github.com/facebookincubator/Glean) - System for collecting, deriving and working with facts about source code.
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
 - [itcook/graphiti-mcp-pro](https://github.com/itcook/graphiti-mcp-pro) - Base on Graphiti, Enhanced Core Capabilities, Broader AI Model Compatibility, and Comprehensive Management UI.
@@ -4757,7 +4791,6 @@
 - [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [TanStack/db](https://github.com/TanStack/db) - A reactive client store for building super fast apps
 - [brahmkshatriya/echo](https://github.com/brahmkshatriya/echo) - Just a music player.
-- [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - UI components for building fantastic desktop application by using GPUI.
 - [g1mv/density](https://github.com/g1mv/density) - Superfast compression library
 - [KDAB/codebrowser](https://github.com/KDAB/codebrowser) - Woboq CodeBrowser
 - [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) - 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers,  supports local knowledge base and  tools via model context protocol servers .
@@ -4776,7 +4809,6 @@
 - [jaco-bro/diajax](https://github.com/jaco-bro/diajax) - Dia-JAX: A JAX port of Dia, the text-to-speech model for generating realistic dialogue from text with emotion and tone control.
 - [prakharsr/audiobook-creator](https://github.com/prakharsr/audiobook-creator) - Audiobook Creator is an app that converts books (EPUB, PDF, TXT etc.) into fully voiced audiobooks with intelligent character voice attribution. It uses NLP, LLMs, and Kokoro/Orpheus TTS  to generate 
 - [kolodny/acto](https://github.com/kolodny/acto) - 
-- [IceWhaleTech/ZimaOS](https://github.com/IceWhaleTech/ZimaOS) - 
 - [fsantini/KoboCloud](https://github.com/fsantini/KoboCloud) - A set of scripts to synchronize a kobo reader with popular cloud services
 - [noDRM/DeDRM_tools](https://github.com/noDRM/DeDRM_tools) - DeDRM tools for ebooks
 - [TnS-hun/kobo-book-downloader](https://github.com/TnS-hun/kobo-book-downloader) - A tool to download your purchased Kobo books and remove the DRM from them.
@@ -4865,7 +4897,6 @@
 - [will-moss/erin](https://github.com/will-moss/erin) - Self-hostable TikTok feed for your clips. Make a TikTok feed with your own videos
 - [dic1911/Momogram](https://github.com/dic1911/Momogram) - A third-party Telegram android app.
 - [rossmacarthur/zsh-plugin-manager-benchmark](https://github.com/rossmacarthur/zsh-plugin-manager-benchmark) - Benchmark the speed of different Zsh plugin managers
-- [romkatv/zsh-bench](https://github.com/romkatv/zsh-bench) - Benchmark for interactive Zsh
 - [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing
 - [unjs/db0](https://github.com/unjs/db0) - 📚  Lightweight SQL Connector
 - [Rabek009/MoreGamemodes](https://github.com/Rabek009/MoreGamemodes) - More Gamemodes is an Among Us mod that adds new gamemodes and roles. Only the host needs to have a mod for it to work.
@@ -4876,7 +4907,6 @@
 - [gitext-rs/git-stack](https://github.com/gitext-rs/git-stack) - Stacked branch management for Git
 - [A2-Security/GitBook-Scraper](https://github.com/A2-Security/GitBook-Scraper) - 
 - [lustre-labs/lustre](https://github.com/lustre-labs/lustre) - A Gleam web framework for building HTML templates, single page applications, and real-time server components.
-- [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
 - [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [simonw/sqlite-history](https://github.com/simonw/sqlite-history) - Track changes to SQLite tables using triggers
@@ -5054,7 +5084,6 @@
 - [bytecodealliance/jco](https://github.com/bytecodealliance/jco) - JavaScript toolchain for working with WebAssembly Components
 - [mintlify/starter](https://github.com/mintlify/starter) - 📖 The starter kit for your Mintlify docs
 - [remorses/genql](https://github.com/remorses/genql) - Type safe TypeScript client for any GraphQL API
-- [isographlabs/isograph](https://github.com/isographlabs/isograph) - The UI framework for teams that move fast — without breaking things.
 - [fe1ixxu/ALMA](https://github.com/fe1ixxu/ALMA) - State-of-the-art LLM-based translation models.
 - [tailcallhq/graphql-benchmarks](https://github.com/tailcallhq/graphql-benchmarks) - Setup to compare graphql frameworks
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
@@ -5265,7 +5294,6 @@
 - [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - Pythonic AI generation of images and videos
 - [GeorgLegato/Txt2Vectorgraphics](https://github.com/GeorgLegato/Txt2Vectorgraphics) - Custom Script for Automatics1111 StableDiffusion-WebUI.
 - [johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
-- [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [yzi2004/SubtitleParser](https://github.com/yzi2004/SubtitleParser) - 
 - [RWELabs/Stardew-Valley-Mod-Manager](https://github.com/RWELabs/Stardew-Valley-Mod-Manager) - [Passion Project] The Stardew Valley Mod Manager is a powerful tool that is designed to be used alongside SMAPI to help you install and manage mods, automatically install modpacks and manage your game
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
@@ -5458,6 +5486,7 @@
 
 ## package-manager 
 
+- [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
 - [ds300/patch-package](https://github.com/ds300/patch-package) - Fix broken node modules instantly  🏃🏽‍♀️💨
 - [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 🎁 wraps all package managers with a unifying CLI
@@ -5597,7 +5626,7 @@
 
 - [carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin) - A multi-shell completion binary.
 - [microsoft/tui-test](https://github.com/microsoft/tui-test) - An end-to-end terminal testing framework for CLI and TUI experiences
-- [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
+- [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Golang, Python, Flutter, .NET & more
 - [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
@@ -5994,7 +6023,7 @@
 - [redwoodjs/sdk](https://github.com/redwoodjs/sdk) - A React Framework for Cloudflare.
 - [diegomura/react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
-- [lynx-family/lynx-stack](https://github.com/lynx-family/lynx-stack) - The framework and toolset of Lynx
+- [lynx-family/lynx-stack](https://github.com/lynx-family/lynx-stack) - The frontend framework and toolchain of Lynx
 - [pmndrs/koota](https://github.com/pmndrs/koota) - 🌎 Performant real-time state management for React and TypeScript
 - [goatplatform/goatdb](https://github.com/goatplatform/goatdb) - The Embedded, Distributed, Document DB
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
@@ -6051,6 +6080,7 @@
 - [react-monaco-editor/react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) - Monaco Editor for React.
 - [brimdata/react-arborist](https://github.com/brimdata/react-arborist) - The complete tree view component for React
 - [lukasbach/react-complex-tree](https://github.com/lukasbach/react-complex-tree) - Unopinionated Accessible Tree Component with Multi-Select and Drag-And-Drop
+- [isographlabs/isograph](https://github.com/isographlabs/isograph) - The UI framework for teams that move fast — without breaking things.
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
 - [react-hook-form/devtools](https://github.com/react-hook-form/devtools) - 📋 DevTools to help debug forms.
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
@@ -6062,7 +6092,7 @@
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [schedule-x/schedule-x](https://github.com/schedule-x/schedule-x) - JavaScript event calendar. Modern alternative to fullcalendar and react-big-calendar.
 - [raidendotai/openv0](https://github.com/raidendotai/openv0) - AI generated UI components
-- [river-now/river](https://github.com/river-now/river) - Blazing-fast Go. Magical TypeScript. Unrivaled flexibility.
+- [river-now/river](https://github.com/river-now/river) - Vite-powered web framework for building full-stack applications with Go and TypeScript
 - [nick-keller/react-datasheet-grid](https://github.com/nick-keller/react-datasheet-grid) - An Airtable-like / Excel-like component to create beautiful spreadsheets.
 - [LNReader/lnreader](https://github.com/LNReader/lnreader) - Light novel reader for Android.
 - [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
@@ -6335,6 +6365,7 @@
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
+- [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [ComicSparks/jasmine](https://github.com/ComicSparks/jasmine) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
 - [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is a database built from scratch to be the backend for any AI application.
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
@@ -6349,7 +6380,7 @@
 - [514-labs/moosestack](https://github.com/514-labs/moosestack) - The developer framework for building analytical backends on top of ClickHouse, Redpanda and other high-performance analytical infrastructure
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube’s universal semantic layer platform is the next evolution of OLAP technology for AI, BI, spreadsheets, and embedded analytics
 - [alexpovel/srgn](https://github.com/alexpovel/srgn) - A grep-like tool which understands source code syntax and allows for manipulation in addition to search
-- [lynx-family/lynx-stack](https://github.com/lynx-family/lynx-stack) - The framework and toolset of Lynx
+- [lynx-family/lynx-stack](https://github.com/lynx-family/lynx-stack) - The frontend framework and toolchain of Lynx
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [honeycombio/gritql](https://github.com/honeycombio/gritql) - GritQL is a query language for searching, linting, and modifying code.
 - [metacraft-labs/codetracer](https://github.com/metacraft-labs/codetracer) - CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of programming languages.
@@ -6698,6 +6729,7 @@
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 - [carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin) - A multi-shell completion binary.
 - [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ A dotfile ecosystem: cross-shell, cross-os, cross-arch. Make your commands and configurations portable, solve a problem once and for all users. Hundreds of builtin composable primitives for powe
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd: Bootstrap 1000+ command line tools in seconds.
 - [hauntsaninja/pyp](https://github.com/hauntsaninja/pyp) - Easily run Python at the shell! Magical, but never mysterious.
 - [jstrieb/just.sh](https://github.com/jstrieb/just.sh) - Compile Justfiles to portable shell scripts
 - [rossmacarthur/sheldon](https://github.com/rossmacarthur/sheldon) - :bowtie: Fast, configurable, shell plugin manager
@@ -6745,7 +6777,7 @@
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
 - [ClickHouse/JSONBench](https://github.com/ClickHouse/JSONBench) - JSONBench: a Benchmark For Data Analytics On JSON
-- [Query-farm/duckdb-extension-clickhouse-sql](https://github.com/Query-farm/duckdb-extension-clickhouse-sql) - DuckDB Community Extension implementing ClickHouse SQL Dialect macros and Custom functions for DuckDB
+- [Query-farm/clickhouse-sql](https://github.com/Query-farm/clickhouse-sql) - DuckDB Community Extension implementing ClickHouse SQL Dialect macros and Custom functions for DuckDB
 - [bodo-ai/Bodo](https://github.com/bodo-ai/Bodo) - High-Performance Python Compute Engine for Data and AI
 - [wsporto/typesql](https://github.com/wsporto/typesql) - TypeSQL - Generate Typescript API from raw SQL. Supports PostgresSQL, MySQL, Sqlite, LibSQL (Turso) and D1 (Cloudflare)
 - [drizzle-team/waddler](https://github.com/drizzle-team/waddler) - Modern SQL client
@@ -7127,7 +7159,7 @@
 - [fabiospampinato/tiny-spinner](https://github.com/fabiospampinato/tiny-spinner) - A simple, yet beautiful, CLI spinner.
 - [fabiospampinato/tiny-colors](https://github.com/fabiospampinato/tiny-colors) - A tiny library providing the basic ANSI colors for the terminal.
 - [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [alexeyraspopov/picocolors](https://github.com/alexeyraspopov/picocolors) - The tiniest and the fastest library for terminal output formatting with ANSI colors
 - [webdiscus/ansis](https://github.com/webdiscus/ansis) - CJS/ESM ANSI color library for terminals, CI and Chromium-based browser consoles. Compatible with Bun, Deno, Next.JS.
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
@@ -7255,7 +7287,7 @@
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework
 - [supreme-gg-gg/instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) - Instagram's unofficial CLI and terminal client - The ultimate weapon against brainrot
 - [redwoodjs/sdk](https://github.com/redwoodjs/sdk) - A React Framework for Cloudflare.
-- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open-source, vision-first browser agent
+- [sagekit/magnitude](https://github.com/sagekit/magnitude) - Open-source, vision-first browser agent
 - [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
 - [514-labs/moosestack](https://github.com/514-labs/moosestack) - The developer framework for building analytical backends on top of ClickHouse, Redpanda and other high-performance analytical infrastructure
 - [alexpovel/srgn](https://github.com/alexpovel/srgn) - A grep-like tool which understands source code syntax and allows for manipulation in addition to search
@@ -7383,7 +7415,7 @@
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [Azure/autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python
-- [river-now/river](https://github.com/river-now/river) - Blazing-fast Go. Magical TypeScript. Unrivaled flexibility.
+- [river-now/river](https://github.com/river-now/river) - Vite-powered web framework for building full-stack applications with Go and TypeScript
 - [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [ranyitz/qnm](https://github.com/ranyitz/qnm) - :mag: cli utility for querying the node_modules directory
@@ -7614,10 +7646,6 @@
 - [SubmergedAmongUs/Submerged](https://github.com/SubmergedAmongUs/Submerged) - An Among Us mod which adds a new underwater map
 - [Tencent/puerts](https://github.com/Tencent/puerts) - PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScript.
 
-## unreal-engine 
-
-- [rivet-dev/engine](https://github.com/rivet-dev/engine) - Scale and orchestrate RivetKit
-
 ## vagrant 
 
 - [vagrant-libvirt/vagrant-libvirt](https://github.com/vagrant-libvirt/vagrant-libvirt) - Vagrant provider for libvirt.
@@ -7806,6 +7834,7 @@
 ## web-development 
 
 - [tractordev/wanix](https://github.com/tractordev/wanix) - A virtual environment runtime for the web, inspired by Plan 9
+- [isographlabs/isograph](https://github.com/isographlabs/isograph) - The UI framework for teams that move fast — without breaking things.
 - [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A nobuild content delivery network(CDN) for modern web development.
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 - [arakoodev/EdgeChains](https://github.com/arakoodev/EdgeChains) - EdgeChains.js is Full-Stack GenAI library. Front-end, backend, apis, prompt management, distributed computing. All core prompts & chains are managed declaratively in jsonnet (and not hidden in classes
@@ -7851,6 +7880,7 @@
 
 ## website 
 
+- [Bittu5134/ORV-Reader](https://github.com/Bittu5134/ORV-Reader) - ORV-Reader: A website for reading the webnovel Omniscient Reader's Viewpoint and its Side Stories.
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) - SiteOne Crawler is a cross-platform website crawler and analyzer for SEO, security, accessibility, and performance optimization—ideal for developers, DevOps, QA engineers, and consultants. Supports Wi
 - [JoshHeng/GameFinder](https://github.com/JoshHeng/GameFinder) - A website that suggests online, multiplayer games to play
@@ -7862,6 +7892,7 @@
 
 ## windows 
 
+- [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) - Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows
 - [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding 
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
 - [Suwayomi/Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - A free and open source manga reader app to read manga from a Tachidesk-Server instance.
@@ -7871,7 +7902,7 @@
 - [fafarunner/fafarunner](https://github.com/fafarunner/fafarunner) - Enjoy smooth gameplay, stunning graphics, and endless fun.
 - [metacraft-labs/codetracer](https://github.com/metacraft-labs/codetracer) - CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of programming languages.
 - [tamnguyenvan/screenvivid](https://github.com/tamnguyenvan/screenvivid) - An Open Source Cross-platform Screen Recorder for Everyone
-- [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
+- [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Golang, Python, Flutter, .NET & more
 - [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -7948,6 +7979,27 @@
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
 - [buzz-language/buzz](https://github.com/buzz-language/buzz) - 👨‍🚀  buzz, A small/lightweight statically typed scripting language
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+
+## zsh 
+
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
+- [carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin) - A multi-shell completion binary.
+- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ A dotfile ecosystem: cross-shell, cross-os, cross-arch. Make your commands and configurations portable, solve a problem once and for all users. Hundreds of builtin composable primitives for powe
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd: Bootstrap 1000+ command line tools in seconds.
+- [rossmacarthur/sheldon](https://github.com/rossmacarthur/sheldon) - :bowtie: Fast, configurable, shell plugin manager
+- [romkatv/zsh-bench](https://github.com/romkatv/zsh-bench) - Benchmark for interactive Zsh
+- [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Golang, Python, Flutter, .NET & more
+- [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
+- [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
+- [warbacon/zunder-zsh](https://github.com/warbacon/zunder-zsh) - ⚡ A minimalistic zsh configuration with sane defaults.
+- [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 
 
 ## License
