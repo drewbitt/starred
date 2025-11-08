@@ -139,6 +139,7 @@
 - [hydradatabase/columnar](https://github.com/hydradatabase/columnar) - Postgres-native columnar storage extension
 - [cloudflare/zlib](https://github.com/cloudflare/zlib) - Cloudflare fork of zlib with massive performance improvements
 - [archiecobbs/s3backer](https://github.com/archiecobbs/s3backer) - FUSE/NBD single file backing store via Amazon S3
+- [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
@@ -261,14 +262,13 @@
 - [google/fuse-archive](https://github.com/google/fuse-archive) - FUSE file system for archives and compressed files (ZIP, RAR, 7Z, ISO, TGZ, XZ...)
 - [google/mount-zip](https://github.com/google/mount-zip) - FUSE file system for ZIP archives
 - [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse
-- [timeplus-io/proton](https://github.com/timeplus-io/proton) - Fastest SQL ETL pipeline in a single C++ binary - for stream processing, analytics, and AI/ML on real-time data from events, logs, metrics, traces, and transactions.
+- [timeplus-io/proton](https://github.com/timeplus-io/proton) - ⚡  Fastest SQL ETL pipeline in a single C++ binary,  built for Stream Processing, Observability, Analytics and AI/ML.   🔥  50 GB/s throughput. Zero replication. Zero lag.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [niedev/RTranslator](https://github.com/niedev/RTranslator) - Open source real-time translation app for Android that runs locally
 - [cagnulein/qdomyos-zwift](https://github.com/cagnulein/qdomyos-zwift) - Zwift bridge for smart treadmills and bike/cyclette
 - [rapidsai/cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
 - [facebookincubator/nimble](https://github.com/facebookincubator/nimble) - New file format for storage of large columnar datasets.
-- [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
 - [danielknobe/blobbyvolley2](https://github.com/danielknobe/blobbyvolley2) - Official continuation of the famous Blobby Volley 1.x arcade game.
 - [duckdb/duckdb-wasm](https://github.com/duckdb/duckdb-wasm) - WebAssembly version of DuckDB
@@ -462,7 +462,7 @@
 ## Go 
 
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through 
-- [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm) - Terminal client for .http/.rest files with HTTP, GraphQL and gRPC, websockets, SSE, workflows, profiling and response diffs.
+- [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm) - Terminal client for HTTP/GraphQL/gRPC with support for WebSockets, SSE, workflows, profiling, OpenAPI and response diffs.
 - [oxc-project/tsgolint](https://github.com/oxc-project/tsgolint) - Type aware linting for oxlint
 - [internetarchive/Zeno](https://github.com/internetarchive/Zeno) - State-of-the-art web crawler 🔱
 - [jorgerojas26/lazysql](https://github.com/jorgerojas26/lazysql) - A cross-platform TUI database management tool written in Go.
@@ -628,7 +628,7 @@
 - [nginx-proxy/docker-gen](https://github.com/nginx-proxy/docker-gen) - Generate files from docker container meta-data
 - [whyvl/wireproxy](https://github.com/whyvl/wireproxy) - Wireguard client that exposes itself as a socks5 proxy
 - [canonical/lxd](https://github.com/canonical/lxd) - Powerful system container and virtual machine manager
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Privacy-first authentication and user management for B2C and B2B. Open source alternative to Auth0, Cognito, Clerk, Descope, Stytch.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
 - [jetify-com/launchpad](https://github.com/jetify-com/launchpad) - From Code to Kubernetes in One Step.
@@ -882,7 +882,6 @@
 - [obsidianmd/jsoncanvas](https://github.com/obsidianmd/jsoncanvas) - An open file format for infinite canvas data.
 - [kieler/elkjs](https://github.com/kieler/elkjs) - ELK's layout algorithms for JavaScript
 - [AsyncBanana/microdiff](https://github.com/AsyncBanana/microdiff) - A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.
-- [bytecodealliance/jco](https://github.com/bytecodealliance/jco) - JavaScript toolchain for working with WebAssembly Components
 - [ktrongnhan/xxhash-addon](https://github.com/ktrongnhan/xxhash-addon) - Yet another xxhash addon for Node.js which can be x50 times faster than crypto MD5
 - [MionKit/Benchmarks](https://github.com/MionKit/Benchmarks) - Comparing mion against fastify, deepkit and other frameworks
 - [krausest/js-framework-benchmark](https://github.com/krausest/js-framework-benchmark) - A comparison of the performance of a few popular javascript frameworks
@@ -1313,7 +1312,7 @@
 - [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
 - [JustSteveKing/subvert](https://github.com/JustSteveKing/subvert) - Generate subtitles, summaries, and chapters from videos in seconds
 - [aschmelyun/subvert](https://github.com/aschmelyun/subvert) - Generate subtitles, summaries, and chapters from videos in seconds
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 
@@ -1463,7 +1462,7 @@
 - [NumbersStationAI/DuckDB-NSQL](https://github.com/NumbersStationAI/DuckDB-NSQL) - DuckDB NSQL Model
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 - [posit-dev/great-tables](https://github.com/posit-dev/great-tables) - Make awesome display tables using Python
-- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
+- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
 - [fugue-project/fugue](https://github.com/fugue-project/fugue) - A unified interface for distributed computing. Fugue executes SQL, Python, Pandas, and Polars code on Spark, Dask and Ray without any rewrites.
 - [nuclia/nucliadb](https://github.com/nuclia/nucliadb) - NucliaDB, The AI Search database for RAG
 - [h2oai/enterprise-h2ogpte](https://github.com/h2oai/enterprise-h2ogpte) - Client Code Examples, Use Cases and Benchmarks for Enterprise h2oGPTe RAG-Based GenAI Platform
@@ -1550,7 +1549,7 @@
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
 - [e-johnstonn/BriefGPT](https://github.com/e-johnstonn/BriefGPT) - Locally hosted tool that connects documents to LLMs for summarization and querying, with a simple GUI.
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
-- [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) - Collection of Testflight public app link（iOS/iPad OS/macOS）。
+- [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) - Collection of Testflight public app link（iOS/iPad OS/macOS/tvOS）
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
@@ -1573,7 +1572,7 @@
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
-- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍 (For more advanced: check Qodo Merge)
+- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [mave5/podalize](https://github.com/mave5/podalize) - Podalize: Podcast Transcription and Analysis
@@ -1703,6 +1702,8 @@
 
 ## Rust 
 
+- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
+- [supabase/etl](https://github.com/supabase/etl) - Stream your Postgres data anywhere in real-time. Simple Rust building blocks for change data capture (CDC) pipelines.
 - [sgb-io/fta](https://github.com/sgb-io/fta) - Rust-based static analysis for TypeScript projects
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 - [slatedb/slatedb](https://github.com/slatedb/slatedb) - A cloud native embedded storage engine built on object storage.
@@ -1853,6 +1854,7 @@
 - [salvo-rs/salvo](https://github.com/salvo-rs/salvo) - A powerful web framework built with a simplified design.
 - [flosse/rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison) - A comparison of some web frameworks and libs written in Rust
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
+- [bytecodealliance/jco](https://github.com/bytecodealliance/jco) - JavaScript toolchain for working with WebAssembly Components
 - [isographlabs/isograph](https://github.com/isographlabs/isograph) - The UI framework for teams that move fast — without breaking things.
 - [pepyakin/emchipten](https://github.com/pepyakin/emchipten) - Emchipten — Compile your CHIP-8 into WebAssembly binaries!
 - [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - High Performance GraphQL Runtime
@@ -1888,6 +1890,7 @@
 - [lancedb/lance](https://github.com/lancedb/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckD
 - [egoist/dum](https://github.com/egoist/dum) - An npm scripts runner written in Rust.
 - [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
+- [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - An open-source library for long-lived processes with realtime, persistence, and hibernation
 - [tirr-c/jxl-oxide](https://github.com/tirr-c/jxl-oxide) - Pure Rust implementation of JPEG XL decoder
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
@@ -1916,7 +1919,7 @@
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Open-source search and retrieval database for AI applications.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more.
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable Javascript engine written in Rust.
 - [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
 - [houseabsolute/precious](https://github.com/houseabsolute/precious) - One code quality tool to rule them all
@@ -2070,7 +2073,7 @@
 
 ## Svelte 
 
-- [hayase-app/website](https://github.com/hayase-app/website) - Torrent streaming made simple. Watch anime torrents, real-time with no waiting for downloads.
+- [hayase-app/website](https://github.com/hayase-app/website) - Website of the Hayase project
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [tbocek/preveltekit](https://github.com/tbocek/preveltekit) - PrevelteKit is a lightweight, high-performance web application framework built on Svelte 5, with CSR + Build-time Pre-Rendering using Rsbuild and jsdom
 - [vkurko/calendar](https://github.com/vkurko/calendar) - Full-sized drag & drop JavaScript event calendar with resource & timeline views
@@ -2645,7 +2648,6 @@
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [heroui-inc/tailwind-variants](https://github.com/heroui-inc/tailwind-variants) - 🦄 Tailwindcss first-class variant API
 - [Jannchie/anichart.js](https://github.com/Jannchie/anichart.js) - Easily create data visualization animation videos
-- [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - An open-source library for long-lived processes with realtime, persistence, and hibernation
 - [aerotoad/neboa](https://github.com/aerotoad/neboa) - Type-safe NoSQL with Node & SQLite. 🌫️💽
 - [formidablejs/formidablejs-typescript](https://github.com/formidablejs/formidablejs-typescript) - A TypeScript & Imba Full-stack Framework for Nodejs. (TypeScript Skeleton)
 - [lightdash/lightdash](https://github.com/lightdash/lightdash) - Self-serve BI to 10x your data team ⚡️
@@ -2752,7 +2754,7 @@
 - [whoiskatrin/sql-translator](https://github.com/whoiskatrin/sql-translator) - SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.
 - [denoland/saaskit](https://github.com/denoland/saaskit) - A modern SaaS template built on Fresh.
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Progressive Web Framework.
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations.
 - [wakujs/waku](https://github.com/wakujs/waku) - ⛩️ The minimal React framework
