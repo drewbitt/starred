@@ -207,7 +207,7 @@
 - [microsoft/garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication feature
 - [ChristopherHX/runner.server](https://github.com/ChristopherHX/runner.server) - An unofficial Local GitHub Actions and Azure Pipelines Emulator
 - [dabao40/TheOtherRolesGMIA](https://github.com/dabao40/TheOtherRolesGMIA) - A New Mod Which Provides Extra Roles And Extra Options
-- [Gurge44/EndlessHostRoles](https://github.com/Gurge44/EndlessHostRoles) - EHR is the biggest host-only mod for Among Us, with 400+ roles / add-ons and 12 game modes, along with a Custom Team Assigner application to fully customize your games!
+- [Gurge44/EndlessHostRoles](https://github.com/Gurge44/EndlessHostRoles) - EHR is the biggest host-only mod for Among Us, with 450+ roles / add-ons and 16 game modes, along with a Custom Team Assigner application to fully customize your games!
 - [Norbyte/lslib](https://github.com/Norbyte/lslib) - Tools for manipulating Divinity Original Sin and Baldur's Gate 3 files
 - [AlchlcDvl/TownOfUsReworked](https://github.com/AlchlcDvl/TownOfUsReworked) - Town Of Us but better! (hopefully)
 - [SuperNewRoles/SuperNewRoles](https://github.com/SuperNewRoles/SuperNewRoles) - モードや役職など、様々な要素があるAmongUsのMOD、SuperNewRoles!!!!
@@ -246,7 +246,7 @@
 - [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
 - [Vector35/binaryninja-api](https://github.com/Vector35/binaryninja-api) - Public API, examples, documentation and issues for Binary Ninja
-- [RetroDECK/ES-DE](https://github.com/RetroDECK/ES-DE) - ES-DE with light RetroDECK's customizations
+- [RetroDECK/ES-DE](https://github.com/RetroDECK/ES-DE) - ES‑DE with Light RetroDECK tweaks. All new development occurs in the ES‑DE project; this fork only adjusts menus and toggles systems. Please direct any suggestions or improvements to ES‑DE.
 - [Query-farm/radio](https://github.com/Query-farm/radio) - Radio is a DuckDB extension by Query.Farm that brings real-time event streams into your SQL workflows. It enables DuckDB to receive and send events over systems like WebSocket and Redis Pub/Sub.
 - [KDAB/codebrowser](https://github.com/KDAB/codebrowser) - Woboq CodeBrowser
 - [CookiePLMonster/SilentPatch](https://github.com/CookiePLMonster/SilentPatch) - SilentPatch for GTA III, Vice City, and San Andreas
@@ -613,7 +613,7 @@
 - [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI is an open source client for container development
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [okteto/okteto](https://github.com/okteto/okteto) - Develop your applications directly in your Kubernetes Cluster
-- [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite replicator built on top of NATS
+- [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite server with MySQL wire compatible interface
 - [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build NodeJS / GO APIs in 5 minutes not weeks
 - [diamondburned/dissent](https://github.com/diamondburned/dissent) - Tiny native Discord app
 - [teleclimber/Dropserver](https://github.com/teleclimber/Dropserver) - An application platform for your personal web services. https://dropserver.org
@@ -961,7 +961,7 @@
 - [atomicojs/atomico](https://github.com/atomicojs/atomico) - Atomico a micro-library for creating webcomponents using only functions, hooks and virtual-dom.
 - [bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js) - A BPMN 2.0 rendering toolkit and web modeler.
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
-- [WebCoder49/code-input](https://github.com/WebCoder49/code-input) - An editable &lt;textarea&gt; that supports any syntax highlighting algorithm, for code or something else. Also, added plugins. [contribute here or on https://codeberg.org/code-input-js/website]
+- [WebCoder49/code-input](https://github.com/WebCoder49/code-input) - An editable &lt;textarea&gt; that supports any syntax highlighting algorithm, for code or something else. Also, added plugins. [contribute here or on https://codeberg.org/code-input-js/code-input-js]
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [electerious/Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy.
 - [cwsdigital/tailwind-utopia](https://github.com/cwsdigital/tailwind-utopia) - A Tailwind CSS plugin to generate utility classes for interpolated fluid type and space scales based off utopia.fyi
@@ -1420,7 +1420,7 @@
 - [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - A debugging and profiling tool that can trace and visualize python code execution
 - [OpenSPG/KAG](https://github.com/OpenSPG/KAG) - KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs.  It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge base
 - [0ssamaak0/CLIPPyX](https://github.com/0ssamaak0/CLIPPyX) - AI Powered search tool offers content-based, text, and visual similarity system-wide search.
-- [bodo-ai/Bodo](https://github.com/bodo-ai/Bodo) - High-Performance Python Compute Engine for Data and AI
+- [bodo-ai/Bodo](https://github.com/bodo-ai/Bodo) - High Performance Data Processing in Python
 - [nteract/papermill](https://github.com/nteract/papermill) - 📚 Parameterize, execute, and analyze notebooks
 - [jstrieb/just.sh](https://github.com/jstrieb/just.sh) - Compile Justfiles to portable shell scripts
 - [Mathics3/mathics-core](https://github.com/Mathics3/mathics-core) - An open-source Mathematica Kernel. This repository contains the Python modules for WL Built-in functions, variables, core primitives, e.g. Symbol, a parser to create Expressions, and an evaluator to e
@@ -1572,6 +1572,7 @@
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
+- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
@@ -1682,6 +1683,7 @@
 
 ## ReScript 
 
+- [DZakh/sury](https://github.com/DZakh/sury) - 🧬 The fastest schema with next-gen DX
 - [rescript-lang/rescript](https://github.com/rescript-lang/rescript) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.
 - [rescript-lang/rescript-react](https://github.com/rescript-lang/rescript-react) - Official ReScript bindings for ReactJS
 
@@ -1720,7 +1722,7 @@
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
 - [lusingander/stu](https://github.com/lusingander/stu) - TUI explorer application for Amazon S3 (AWS S3) 🪣
 - [Barre/ZeroFS](https://github.com/Barre/ZeroFS) - ZeroFS - The Filesystem That Makes S3 your Primary Storage. ZeroFS is 9P/NFS/NBD on top of S3. Initially built for www.merklemap.com
-- [Skardyy/mcat](https://github.com/Skardyy/mcat) - Terminal image, video, directory, and Markdown viewer
+- [Skardyy/mcat](https://github.com/Skardyy/mcat) - Terminal image, video, and Markdown viewer
 - [wunnr/partydeck](https://github.com/wunnr/partydeck) - A split-screen game launcher for Linux/SteamOS
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A program for managing systemd services through a TUI (Terminal User Interfaces).
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
@@ -1748,7 +1750,7 @@
 - [ProgDroid/twitch_launcher](https://github.com/ProgDroid/twitch_launcher) - CLI Twitch browser/launcher to be used with streamlink and Chatterino
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A fast and hackable fuzzy finder for the terminal.
 - [josueBarretogit/manga-tui](https://github.com/josueBarretogit/manga-tui) - Terminal-based manga reader and downloader with image rendering support
-- [mayocream/koharu](https://github.com/mayocream/koharu) - Automated manga translation tool with LLM, written in Rust.
+- [mayocream/koharu](https://github.com/mayocream/koharu) - AI-powered manga translator, written in Rust.
 - [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Blazingly fast LLM inference.
 - [AlbanDAVID/Toutui](https://github.com/AlbanDAVID/Toutui) - 🦜 Listen to your audiobooks and podcasts from your terminal. TUI Audiobookshelf client for Linux and macOS.
 - [KSXGitHub/parallel-disk-usage](https://github.com/KSXGitHub/parallel-disk-usage) - Highly parallelized, blazing fast directory tree analyzer
@@ -1774,7 +1776,7 @@
 - [jhugman/uniffi-bindgen-react-native](https://github.com/jhugman/uniffi-bindgen-react-native) - Make React-Native Turbo Modules out of Rust
 - [chaqchase/lla](https://github.com/chaqchase/lla) - blazing fast `ls` replacement with superpowers
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail.
-- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data
 - [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database.
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [erebe/wstunnel](https://github.com/erebe/wstunnel) - Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available
@@ -1819,7 +1821,7 @@
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
 - [silvia-odwyer/photon](https://github.com/silvia-odwyer/photon) - ⚡ Rust/WebAssembly image processing library
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
-- [gorules/zen](https://github.com/gorules/zen) - Open-source Business Rules Engine for your Rust, NodeJS, Python, Go, Kotlin (JVM) and Java applications.
+- [gorules/zen](https://github.com/gorules/zen) - Open-source Business Rules Engine for your Rust, NodeJS, Python, Go, Java, Kotlin (JVM), Kotlin (Android) and Swift (iOS) applications.
 - [toeverything/OctoBase](https://github.com/toeverything/OctoBase) - 🐙 OctoBase is the open-source database behind AFFiNE, local-first, yet collaborative. A light-weight, scalable, data engine written in Rust.
 - [y-crdt/y-octo](https://github.com/y-crdt/y-octo) - CRDT implementation which is compatible with https://github.com/yjs/yjs
 - [nashaofu/node-screenshots](https://github.com/nashaofu/node-screenshots) - Zero-dependent. A native nodejs screenshots library for Mac、Windows、Linux.
@@ -2141,6 +2143,9 @@
 
 ## TypeScript 
 
+- [onejs/one](https://github.com/onejs/one) - ❶ One is a new React framework - target web and native with a single Vite plugin and fully shared code, so you can ship cross-platform nearly as easy as single-platform.
+- [unadlib/mutative](https://github.com/unadlib/mutative) - Efficient immutable updates, 2-6x faster than naive handcrafted reducer, and more than 10x faster than Immer.
+- [mutativejs/zustand-mutative](https://github.com/mutativejs/zustand-mutative) - A Mutative middleware for Zustand enhances the efficiency of immutable state updates.
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
 - [openworkflowdev/openworkflow](https://github.com/openworkflowdev/openworkflow) - Open-source TypeScript framework for building durable, resumable workflows.
@@ -2242,7 +2247,7 @@
 - [codetrek/haystack-vscode](https://github.com/codetrek/haystack-vscode) - Haystack VS Code Extensions
 - [FrontMatter/web-documentation-nextjs](https://github.com/FrontMatter/web-documentation-nextjs) - Front Matter documenation
 - [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
-- [TanStack/db](https://github.com/TanStack/db) - A reactive client store for building super fast apps
+- [TanStack/db](https://github.com/TanStack/db) - The reactive client store for your API.
 - [aws-samples/swift-chat](https://github.com/aws-samples/swift-chat) - A lightning-fast, cross-platform AI chat application built with React Native.
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
 - [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) - 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers,  supports local knowledge base and  tools via model context protocol servers .
@@ -2731,7 +2736,6 @@
 - [mintlify/writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
 - [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy.
 - [sqlchat/sqlchat](https://github.com/sqlchat/sqlchat) - Chat-based SQL Client and Editor for the next decade
-- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
 - [algolia/autocomplete](https://github.com/algolia/autocomplete) - 🔮 Fast and full-featured autocomplete library
 - [vercel/modelfusion](https://github.com/vercel/modelfusion) - The TypeScript library for building AI applications.
