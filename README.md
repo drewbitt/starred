@@ -250,7 +250,7 @@
 - [Query-farm/radio](https://github.com/Query-farm/radio) - Radio is a DuckDB extension by Query.Farm that brings real-time event streams into your SQL workflows. It enables DuckDB to receive and send events over systems like WebSocket and Redis Pub/Sub.
 - [KDAB/codebrowser](https://github.com/KDAB/codebrowser) - Woboq CodeBrowser
 - [CookiePLMonster/SilentPatch](https://github.com/CookiePLMonster/SilentPatch) - SilentPatch for GTA III, Vice City, and San Andreas
-- [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
+- [snapcast/snapcast](https://github.com/snapcast/snapcast) - Synchronous multiroom audio player
 - [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 - [Query-farm/clickhouse-sql](https://github.com/Query-farm/clickhouse-sql) - DuckDB Community Extension implementing ClickHouse SQL Dialect macros and Custom functions for DuckDB
 - [Query-farm/airport](https://github.com/Query-farm/airport) - The Airport extension for DuckDB, enables the use of Arrow Flight with DuckDB
@@ -404,13 +404,13 @@
 - [OpenBubbles/openbubbles-app](https://github.com/OpenBubbles/openbubbles-app) - A cross-platform app ecosystem, bringing iMessage to Android and PC!
 - [BeamlakAschalew/flixquest](https://github.com/BeamlakAschalew/flixquest) - Open-source Android app made with Flutter with functionality of watching movies and tv series for free.
 - [objectbox/objectbox-dart-performance](https://github.com/objectbox/objectbox-dart-performance) - Flutter App benchmarking the performance of ObjectBox against others (e.g. sqflite, Hive).
-- [medz/prisma-dart](https://github.com/medz/prisma-dart) - Prisma Client Dart is an auto-generated type-safe ORM. It uses Prisma Engine as the data access layer and is as consistent as possible with the Prisma Client JS/TS APIs.
+- [medz/dart-orm](https://github.com/medz/dart-orm) - Prisma Client Dart is an auto-generated type-safe ORM. It uses Prisma Engine as the data access layer and is as consistent as possible with the Prisma Client JS/TS APIs.
 - [nlfiedler/oxidized](https://github.com/nlfiedler/oxidized) - Dart package with Rust-like types such as Option and Result.
 - [objectbox/objectbox-dart](https://github.com/objectbox/objectbox-dart) - Flutter database for super-fast Dart object persistence
 - [dart-lang/sdk](https://github.com/dart-lang/sdk) - The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more.
 - [lamarios/clipious](https://github.com/lamarios/clipious) - Invidious client for android
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔥 End-to-end encrypted cloud for everything.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [rive-app/rive-flutter](https://github.com/rive-app/rive-flutter) - Flutter runtime for Rive
@@ -747,7 +747,6 @@
 - [questdb/questdb](https://github.com/questdb/questdb) - QuestDB is a high performance, open-source, time-series database
 - [MaxiHuHe04/iTunes-Backup-Explorer](https://github.com/MaxiHuHe04/iTunes-Backup-Explorer) - A graphical tool that can extract and replace files from encrypted and non-encrypted iOS backups
 - [microsoft/typespec](https://github.com/microsoft/typespec) - 
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [Sakion-Team/Re-Telegram](https://github.com/Sakion-Team/Re-Telegram) - An Xposed module to enhance the Telegram
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
 - [enso-org/enso](https://github.com/enso-org/enso) - Enso Analytics is a self-service data prep and analysis platform designed for data teams.
@@ -967,6 +966,7 @@
 - [bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js) - A BPMN 2.0 rendering toolkit and web modeler.
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [WebCoder49/code-input](https://github.com/WebCoder49/code-input) - An editable &lt;textarea&gt; that supports any syntax highlighting algorithm, for code or something else. Also, added plugins. [contribute here or on https://codeberg.org/code-input-js/code-input-js]
+- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [electerious/Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy.
 - [cwsdigital/tailwind-utopia](https://github.com/cwsdigital/tailwind-utopia) - A Tailwind CSS plugin to generate utility classes for interpolated fluid type and space scales based off utopia.fyi
 - [node-config/node-config](https://github.com/node-config/node-config) - Node.js Application Configuration
@@ -1170,7 +1170,7 @@
 - [mratsim/Arraymancer](https://github.com/mratsim/Arraymancer) - A fast, ergonomic and portable tensor library in Nim with a deep learning focus for CPU, GPU and embedded devices via OpenMP, Cuda and OpenCL backends
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
 - [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥
-- [codex-storage/nim-codex](https://github.com/codex-storage/nim-codex) - Decentralized Durability Engine
+- [logos-storage/logos-storage-nim](https://github.com/logos-storage/logos-storage-nim) - Decentralized Durability Engine
 - [SciNim/getting-started](https://github.com/SciNim/getting-started) - Getting started with Nim for Scientific Computing
 - [SciNim/Datamancer](https://github.com/SciNim/Datamancer) - A dataframe library with a dplyr like API
 - [dom96/choosenim](https://github.com/dom96/choosenim) - Tool for easily installing and managing multiple versions of the Nim programming language.
@@ -1344,7 +1344,7 @@
 
 - [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
 - [gcloudrig/gcloudrig](https://github.com/gcloudrig/gcloudrig) - Scripts to manage cloud gaming on Google Compute Engine.
-- [anderlli0053/DEV-tools](https://github.com/anderlli0053/DEV-tools) - 📦 General development tools for applications and games and pretty much everything else too :) . Created and maintained by Andrew Poženel - anderlli0053 . 📦
+- [anderlli0053/DEV-tools](https://github.com/anderlli0053/DEV-tools) - 📦 Originally started as a Scoop repo for general development tools for applications and games and now it has become a "sanctuary" for pretty much everything else too :) 📦
 - [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - SpotX patcher used for patching the desktop version of Spotify
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module for fine-tuning Windows
@@ -1356,7 +1356,7 @@
 - [CupOfOwls/kroger-mcp](https://github.com/CupOfOwls/kroger-mcp) - A FastMCP server that provides AI assistants like Claude with access to Kroger's grocery shopping functionality through the Model Context Protocol (MCP). This server enables AI assistants to find stor
 - [ValueCell-ai/valuecell](https://github.com/ValueCell-ai/valuecell) - ValueCell is a community-driven, multi-agent platform for financial applications.
 - [helixml/kodit](https://github.com/helixml/kodit) - 👩‍💻 MCP server to index external repositories
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Multi-agent framework, runtime and control plane. Built for speed, privacy, and scale.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The open-source stack for building, running and managing multi-agent systems.
 - [cdtait/fmp-mcp-server](https://github.com/cdtait/fmp-mcp-server) - Financial Modeling Prep MCP Server
 - [QuantConnect/mcp-server](https://github.com/QuantConnect/mcp-server) - Official Python MCP server for local interactions with the QuantConnect API
 - [invest-composer/composer-trade-mcp](https://github.com/invest-composer/composer-trade-mcp) - Composer's MCP server lets MCP-enabled LLMs like Claude backtest trading ideas and automatically invest in them for you
@@ -1388,7 +1388,7 @@
 - [wasmerio/py2wasm](https://github.com/wasmerio/py2wasm) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, and 3.11. You feed it your Python app, it does a lot of clever things, a
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
 - [simonw/sqlite-chronicle](https://github.com/simonw/sqlite-chronicle) - Use triggers to track when rows in a SQLite table were updated or deleted
-- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [ciromattia/kcc](https://github.com/ciromattia/kcc) - KCC (a.k.a. Kindle Comic Converter) is a comic and manga converter for ebook readers.
 - [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
@@ -1726,7 +1726,7 @@
 - [BeaconBay/ck](https://github.com/BeaconBay/ck) - Local first semantic and hybrid BM25 grep / search tool for use by AI and humans!
 - [dev-five-git/devup-ui](https://github.com/dev-five-git/devup-ui) - JSX Zero-Runtime UI Styling Library
 - [smly/mjai.app](https://github.com/smly/mjai.app) - Mahjong game simulator for RiichiLab https://mjai.app
-- [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding 
+- [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - Open-source Rust based AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization. 100% local processing. no cloud required. Meetily (Meetly
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
 - [lusingander/stu](https://github.com/lusingander/stu) - TUI explorer application for Amazon S3 (AWS S3) 🪣
 - [Barre/ZeroFS](https://github.com/Barre/ZeroFS) - ZeroFS - The Filesystem That Makes S3 your Primary Storage. ZeroFS is 9P/NFS/NBD on top of S3. Initially built for www.merklemap.com
@@ -1769,7 +1769,7 @@
 - [alexpovel/srgn](https://github.com/alexpovel/srgn) - A grep-like tool which understands source code syntax and allows for manipulation in addition to search
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [CheckerNetwork/zinnia](https://github.com/CheckerNetwork/zinnia) - Runtime for worker nodes executing modules in a resource-limited sandbox
-- [honeycombio/gritql](https://github.com/honeycombio/gritql) - GritQL is a query language for searching, linting, and modifying code.
+- [biomejs/gritql](https://github.com/biomejs/gritql) - GritQL is a query language for searching, linting, and modifying code.
 - [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
 - [yshavit/mdq](https://github.com/yshavit/mdq) - like jq but for Markdown: find specific elements in a md doc
 - [jdx/hk](https://github.com/jdx/hk) - git hooks and project lints
@@ -1782,7 +1782,7 @@
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [jhugman/uniffi-bindgen-react-native](https://github.com/jhugman/uniffi-bindgen-react-native) - Make React-Native Turbo Modules out of Rust
 - [chaqchase/lla](https://github.com/chaqchase/lla) - blazing fast `ls` replacement with superpowers
-- [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail.
+- [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data
 - [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database.
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
@@ -1904,7 +1904,7 @@
 - [lance-format/lance](https://github.com/lance-format/lance) - Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and 
 - [egoist/dum](https://github.com/egoist/dum) - An npm scripts runner written in Rust.
 - [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
-- [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - infrastructure for long-lived, in-memory processes called Actors. It's what you reach for when you hit the limitations of HTTP, databases, or queues.
+- [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors: long-lived, in-memory processes. It's what you reach for when you hit the limitations of HTTP, databases, or queues.
 - [tirr-c/jxl-oxide](https://github.com/tirr-c/jxl-oxide) - Pure Rust implementation of JPEG XL decoder
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
@@ -2002,6 +2002,7 @@
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [Zaplib/zaplib](https://github.com/Zaplib/zaplib) - ⚡ Zaplib is an open-source library for speeding up web applications using Rust and WebAssembly.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -2151,6 +2152,8 @@
 
 ## TypeScript 
 
+- [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - Monorepo for pi packages: TUI library, agent framework, and pod management CLI
+- [gpbl/react-day-picker](https://github.com/gpbl/react-day-picker) - DayPicker is a customizable date picker component for React. Add date pickers, calendars, and date inputs to your web applications.
 - [franciscoBSalgueiro/en-croissant](https://github.com/franciscoBSalgueiro/en-croissant) - The Ultimate Chess Toolkit
 - [TanStack/devtools](https://github.com/TanStack/devtools) - 🤖 Framework-agnostic devtools panel for handling TanStack libraries devtools and your custom devtool plugins
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
@@ -2263,7 +2266,7 @@
 - [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - 🧩 The ultimate toolkit for working with APIs.
 - [codetrek/haystack-vscode](https://github.com/codetrek/haystack-vscode) - Haystack VS Code Extensions
 - [FrontMatter/web-documentation-nextjs](https://github.com/FrontMatter/web-documentation-nextjs) - Front Matter documenation
-- [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
+- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
 - [TanStack/db](https://github.com/TanStack/db) - The reactive client store for your API.
 - [aws-samples/swift-chat](https://github.com/aws-samples/swift-chat) - A lightning-fast, cross-platform AI chat application built with React Native.
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
@@ -2272,7 +2275,7 @@
 - [supreme-gg-gg/instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) - Instagram's terminal UI app - The ultimate weapon against brainrot
 - [microsoft/tui-test](https://github.com/microsoft/tui-test) - An end-to-end terminal testing framework for CLI and TUI experiences
 - [pkgxdev/mcp](https://github.com/pkgxdev/mcp) - can your ai run anything? yes it can
-- [redwoodjs/sdk](https://github.com/redwoodjs/sdk) - Simple, server-first React framework. Built on Vite, TypeScript, & Cloudflare.
+- [redwoodjs/sdk](https://github.com/redwoodjs/sdk) - The Keep it Simple Stack. Server-first, React, Vite, TypeScript, & Cloudflare
 - [diegomura/react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
 - [serwist/serwist](https://github.com/serwist/serwist) - A Swiss Army knife for service workers.
 - [kolodny/acto](https://github.com/kolodny/acto) - 
@@ -2626,6 +2629,7 @@
 - [raidendotai/openv0](https://github.com/raidendotai/openv0) - AI generated UI components
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [unkeyed/unkey](https://github.com/unkeyed/unkey) - The Developer Platform for Modern APIs
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [alephtwo/tragedy-looper-generator](https://github.com/alephtwo/tragedy-looper-generator) - Generate somewhat randomized plots for Tragedy Looper.
 - [pastelsky/tsdocs](https://github.com/pastelsky/tsdocs) - Browse type documentation for JS libraries
 - [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validators and serializers via transformation
@@ -2640,7 +2644,7 @@
 - [zu1k/bs-core](https://github.com/zu1k/bs-core) - Easy and blazing-fast book searcher, create and search your private library.
 - [rocicorp/reflect-todo](https://github.com/rocicorp/reflect-todo) - React-only todo sample for Reflect
 - [tarasglek/chatcraft.org](https://github.com/tarasglek/chatcraft.org) - Developer-oriented ChatGPT clone
-- [LNReader/lnreader](https://github.com/LNReader/lnreader) - Light novel reader for Android.
+- [lnreader/lnreader](https://github.com/lnreader/lnreader) - Light novel reader for Android.
 - [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
@@ -2700,7 +2704,7 @@
 - [denosaurs/deno_python](https://github.com/denosaurs/deno_python) - 🐍 Python interpreter bindings for Deno and Bun.
 - [with-labs/popspace](https://github.com/with-labs/popspace) - Comprehensive source for PopSpace, virtual spaces for everybody
 - [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
-- [waku-org/js-waku](https://github.com/waku-org/js-waku) - JavaScript implementation of Waku v2
+- [logos-messaging/js-waku](https://github.com/logos-messaging/js-waku) - JavaScript implementation of Waku v2
 - [fonoster/routr](https://github.com/fonoster/routr) - ⚡ The future of programmable SIP servers.
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
 - [mquan/api2ai](https://github.com/mquan/api2ai) - Create API agents from OpenAPI Specs
@@ -2978,7 +2982,6 @@
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [etesync/etebase-js](https://github.com/etesync/etebase-js) - Etebase TypeScript API for the web, node and react-native!
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [mydraft-cc/ui](https://github.com/mydraft-cc/ui) - Open source wireframing tool written in typescript, react and redux.
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
@@ -3045,7 +3048,6 @@
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
 - [KlausSchaefers/quant-ux](https://github.com/KlausSchaefers/quant-ux) - Quant-UX - Prototype, Test and Learn
 - [moollaza/repo-remover](https://github.com/moollaza/repo-remover) - A web app that helps you archive and delete old/unused repos, quickly and easily.
-- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [jordihales/hypercolor](https://github.com/jordihales/hypercolor) - A curated collection of beautiful premade gradients using default colors from the Tailwind palette as well as a selection of custom color gradients.
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [beercss/beercss](https://github.com/beercss/beercss) - Build material design interfaces in record time... without stress for devs... 🍺💛
