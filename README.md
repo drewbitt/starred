@@ -755,7 +755,7 @@
 - [Sakion-Team/Re-Telegram](https://github.com/Sakion-Team/Re-Telegram) - An Xposed module to enhance the Telegram
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
 - [enso-org/enso](https://github.com/enso-org/enso) - Enso Analytics is a self-service data prep and analysis platform designed for data teams.
-- [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
+- [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [seed4j/seed4j](https://github.com/seed4j/seed4j) - Seed4J is a modular code generator with clean architecture
 - [Wisser/Jailer](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool.
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
@@ -799,6 +799,7 @@
 - [oxc-project/bench-linter](https://github.com/oxc-project/bench-linter) - Oxlint is 50 - 100 times faster than ESLint
 - [rolldown/benchmarks](https://github.com/rolldown/benchmarks) - 
 - [sindresorhus/emittery](https://github.com/sindresorhus/emittery) - Simple and modern async event emitter
+- [vkurko/calendar](https://github.com/vkurko/calendar) - Full-sized drag & drop JavaScript event calendar with resource & timeline views
 - [rspack-contrib/build-tools-performance](https://github.com/rspack-contrib/build-tools-performance) - Benchmarks for bundlers and build tools, including Rspack, Rsbuild, webpack, Vite, Rolldown, esbuild, Parcel and Farm.
 - [AlexSergey/rockpack](https://github.com/AlexSergey/rockpack) - Rockpack is a lightweight, zero-configuration solution for quickly setting up a React application with full support for Server-Side Rendering (SSR), bundling, linting, and testing.
 - [Yahweasel/libav.js](https://github.com/Yahweasel/libav.js) - This is a compilation of the libraries associated with handling audio and video in ffmpeg—libavformat, libavcodec, libavfilter, libavutil, libswresample, and libswscale—for emscripten, and thus the we
@@ -1063,6 +1064,7 @@
 
 ## Kotlin 
 
+- [IReaderorg/IReader](https://github.com/IReaderorg/IReader) - Free and open source novel reader for Android and Desktop.
 - [JetBrains/koog](https://github.com/JetBrains/koog) - Koog is the official Kotlin framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser 
 - [coreply/coreply](https://github.com/coreply/coreply) - Finishes your sentences while typing in a messaging app.
 - [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is an Android APP that supports for multiple LLM providers.
@@ -1360,7 +1362,7 @@
 - [CupOfOwls/kroger-mcp](https://github.com/CupOfOwls/kroger-mcp) - A FastMCP server that provides AI assistants like Claude with access to Kroger's grocery shopping functionality through the Model Context Protocol (MCP). This server enables AI assistants to find stor
 - [ValueCell-ai/valuecell](https://github.com/ValueCell-ai/valuecell) - ValueCell is a community-driven, multi-agent platform for financial applications.
 - [helixml/kodit](https://github.com/helixml/kodit) - 👩‍💻 MCP server to index external repositories
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The multi-agent toolkit: framework, runtime, and control plane.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build private and secure AI products that run in your cloud.
 - [cdtait/fmp-mcp-server](https://github.com/cdtait/fmp-mcp-server) - Financial Modeling Prep MCP Server
 - [QuantConnect/mcp-server](https://github.com/QuantConnect/mcp-server) - Official Python MCP server for local interactions with the QuantConnect API
 - [invest-composer/composer-trade-mcp](https://github.com/invest-composer/composer-trade-mcp) - Composer's MCP server lets MCP-enabled LLMs like Claude backtest trading ideas and automatically invest in them for you
@@ -1675,7 +1677,7 @@
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
 - [EL-S/RoyalRoadAPI](https://github.com/EL-S/RoyalRoadAPI) - A Python API wrapper for RoyalRoad that can asynchronously curate EPUBs
 - [JimmXinu/FanFicFare](https://github.com/JimmXinu/FanFicFare) - FanFicFare is a tool for making eBooks from stories on fanfiction and other web sites.
-- [dipu-bd/lightnovel-crawler](https://github.com/dipu-bd/lightnovel-crawler) - Generate and download e-books from online sources.
+- [lncrawl/lightnovel-crawler](https://github.com/lncrawl/lightnovel-crawler) - Generate and download e-books from online sources.
 - [jerrymakesjelly/autoremove-torrents](https://github.com/jerrymakesjelly/autoremove-torrents) - Automatically remove torrents according to your strategies.
 - [kanishka-linux/kawaii-player](https://github.com/kanishka-linux/kawaii-player) - Multimedia player, media library manager and portable media server with PC-To-PC casting feature.
 - [tkarabela/pysubs2](https://github.com/tkarabela/pysubs2) - A Python library for editing subtitle files
@@ -1910,7 +1912,7 @@
 - [lance-format/lance](https://github.com/lance-format/lance) - Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and 
 - [egoist/dum](https://github.com/egoist/dum) - An npm scripts runner written in Rust.
 - [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
-- [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors: long-lived, in-memory processes. It's what you reach for when you hit the limitations of HTTP, databases, or queues.
+- [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are long-lived, in-memory processes. It's what you reach for when you hit the limitations of HTTP, databases, or queues.
 - [tirr-c/jxl-oxide](https://github.com/tirr-c/jxl-oxide) - Pure Rust implementation of JPEG XL decoder
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
@@ -2096,7 +2098,6 @@
 - [hayase-app/website](https://github.com/hayase-app/website) - Website of the Hayase project
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [tbocek/preveltekit](https://github.com/tbocek/preveltekit) - PrevelteKit is a lightweight, high-performance web application framework built on Svelte 5, with CSR + Build-time Pre-Rendering using Rsbuild and jsdom
-- [vkurko/calendar](https://github.com/vkurko/calendar) - Full-sized drag & drop JavaScript event calendar with resource & timeline views
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever.
 - [mistweaverco/bananas](https://github.com/mistweaverco/bananas) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.
 - [gsidhu/buzee-tauri](https://github.com/gsidhu/buzee-tauri) - A superfast full-text search application
@@ -2283,7 +2284,7 @@
 - [supreme-gg-gg/instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) - Instagram's terminal UI app - The ultimate weapon against brainrot
 - [microsoft/tui-test](https://github.com/microsoft/tui-test) - An end-to-end terminal testing framework for CLI and TUI experiences
 - [pkgxdev/mcp](https://github.com/pkgxdev/mcp) - can your ai run anything? yes it can
-- [redwoodjs/sdk](https://github.com/redwoodjs/sdk) - The Keep it Simple Stack. Server-first, React, Vite, TypeScript, & Cloudflare
+- [redwoodjs/sdk](https://github.com/redwoodjs/sdk) - A simple framework for humans: Server-first React with zero magic. Built to stay understandable.
 - [diegomura/react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
 - [serwist/serwist](https://github.com/serwist/serwist) - A Swiss Army knife for service workers.
 - [kolodny/acto](https://github.com/kolodny/acto) - 
@@ -2543,7 +2544,7 @@
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
 - [Savory/Danet](https://github.com/Savory/Danet) - The most mature backend framework for Deno. Create awesome HTTP and WebSocket server as well as KVQueue workers !
 - [roblox-ts/roblox-ts](https://github.com/roblox-ts/roblox-ts) - A TypeScript-to-Luau Compiler for Roblox
-- [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript
+- [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - JSON Schema Type Builder with Static Type Resolution for TypeScript
 - [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
 - [odoo/owl](https://github.com/odoo/owl) - OWL: A web framework for structured, dynamic and maintainable applications
 - [web-infra-dev/rsbuild](https://github.com/web-infra-dev/rsbuild) - The zero-config build tool powered by Rspack 🦀
