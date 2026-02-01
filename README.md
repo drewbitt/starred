@@ -2169,6 +2169,8 @@
 
 ## TypeScript 
 
+- [vercel-labs/bash-tool](https://github.com/vercel-labs/bash-tool) - 
+- [vercel-labs/just-bash](https://github.com/vercel-labs/just-bash) - Bash for Agents
 - [cedarjs/cedar](https://github.com/cedarjs/cedar) - The React + GraphQL Web App Framework
 - [jsbenchmarks/jsbenchmarks](https://github.com/jsbenchmarks/jsbenchmarks) - 
 - [LibPDF-js/core](https://github.com/LibPDF-js/core) - A modern PDF library for TypeScript. Parse, modify, and generate PDFs with a clean, intuitive API.
@@ -2707,7 +2709,7 @@
 - [react-hookz/web](https://github.com/react-hookz/web) - React hooks done right, for browser and SSR.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [L-Mario564/drizzle-dbml-generator](https://github.com/L-Mario564/drizzle-dbml-generator) - Generate DBML markup from your schema defined with Drizzle ORM.
-- [egoist/tailwindcss-icons](https://github.com/egoist/tailwindcss-icons) - Use any icon (100,000+) from Iconify, for TailwindCSS
+- [hyoban/tailwindcss-icons](https://github.com/hyoban/tailwindcss-icons) - Use any icon (100,000+) from Iconify, for TailwindCSS
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 - [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
 - [kristiandupont/schemalint](https://github.com/kristiandupont/schemalint) - Lint database schemas
@@ -2771,7 +2773,7 @@
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem) - An in memory postgres DB instance for your unit tests
 - [unjs/destr](https://github.com/unjs/destr) - 🚀 Faster, secure and convenient alternative for JSON.parse for arbitrary inputs
-- [fastrodev/fastro](https://github.com/fastrodev/fastro) - Full Stack Framework for Deno, TypeScript, Preact JS and Tailwind CSS
+- [fastrodev/fastro](https://github.com/fastrodev/fastro) - The Ultra-Fast, Minimalist Web Framework for Deno
 - [surrealdb/surrealdb.js](https://github.com/surrealdb/surrealdb.js) - SurrealDB SDK for JavaScript
 - [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
 - [skoshx/pentagon](https://github.com/skoshx/pentagon) - Prisma-like ORM built on top of Deno KV. Allows you to write your database schemas and relations using Zod schemas, and run queries using familiar syntax from Prisma.
