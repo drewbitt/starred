@@ -1746,6 +1746,7 @@
 
 ## Rust 
 
+- [readur/readur](https://github.com/readur/readur) - Quick, painless, intuitive OCR platform written in Rust and TypeScript. Modern UI with modern API, with an emphasis on intuitive user experience.
 - [1jehuang/mermaid-rs-renderer](https://github.com/1jehuang/mermaid-rs-renderer) - A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli.
 - [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
 - [sheeki03/tirith](https://github.com/sheeki03/tirith) - Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute.
@@ -1948,7 +1949,7 @@
 - [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are long-lived, in-memory processes. It's what you reach for when you hit the limitations of HTTP, databases, or queues.
 - [tirr-c/jxl-oxide](https://github.com/tirr-c/jxl-oxide) - Pure Rust implementation of JPEG XL decoder
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
+- [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 - [youki-dev/youki](https://github.com/youki-dev/youki) - A container runtime written in Rust
@@ -2143,7 +2144,7 @@
 
 ## Swift 
 
-- [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS
+- [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [bahattinkoc/ipaverse](https://github.com/bahattinkoc/ipaverse) - A modern macOS app for downloading and managing iOS apps from the App Store
 - [andrew-waters/orchard](https://github.com/andrew-waters/orchard) - A GUI for Apple Containers, written in swift
 - [pakerwreah/Calendr](https://github.com/pakerwreah/Calendr) - Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI
@@ -2185,6 +2186,19 @@
 
 ## TypeScript 
 
+- [nkzw-tech/fate](https://github.com/nkzw-tech/fate) - fate is a modern data client for React.
+- [firecrawl/open-scouts](https://github.com/firecrawl/open-scouts) - AI-powered web monitoring platform. Create automated scouts that search the web and send email alerts when they find what you're looking for.
+- [react-zero-ui/icon-sprite](https://github.com/react-zero-ui/icon-sprite) - The fastest way to do icons in React
+- [kcsujeet/ilamy-calendar](https://github.com/kcsujeet/ilamy-calendar) - A react alternative to full calendar.
+- [wuchalejs/wuchale](https://github.com/wuchalejs/wuchale) - Compile-time i18n. Zero code changes. Smallest bundles.
+- [warper-org/warper](https://github.com/warper-org/warper) - Ultra-fast React virtualization library powered by Rust and WebAssembly
+- [leegeunhyeok/rollipop](https://github.com/leegeunhyeok/rollipop) - Modern build toolkit for React Native. Powered by Rolldown
+- [bklit/bklit-ui](https://github.com/bklit/bklit-ui) - Open-source UI & Charts library
+- [dannysmith/tauri-template](https://github.com/dannysmith/tauri-template) - A production-ready template for building modern desktop applications with Tauri v2, React 19, and TypeScript. This template provides a solid foundation with best practices, comprehensive documentation
+- [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU) - Beautiful, open source, WebGPU-based charting library
+- [videojs/v10](https://github.com/videojs/v10) - Technical preview of Video.js v10 - open source media player framework for Web and React.
+- [binaricat/Netcatty](https://github.com/binaricat/Netcatty) - SSH workspace, SFTP, and terminals in one
+- [gtkx-org/gtkx](https://github.com/gtkx-org/gtkx) - Build native GTK4 desktop apps with React and TypeScript
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
 - [ecrindigital/facetpack](https://github.com/ecrindigital/facetpack) - The missing toolkit for React Native. Rust-powered performance & developer experience.
 - [nebrius/eslint-plugin-fast-import](https://github.com/nebrius/eslint-plugin-fast-import) - A high performance ESLint plugin with rules to ensure proper usage of imports and exports
@@ -2213,7 +2227,7 @@
 - [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) - Autonomous multi-session AI coding
 - [johnsoncodehk/tsslint](https://github.com/johnsoncodehk/tsslint) - 🔋⚡️ The lightest TypeScript semantic linting solution in JS
 - [tinybirdco/llm-benchmark](https://github.com/tinybirdco/llm-benchmark) - We assessed the ability of popular LLMs to generate accurate and efficient SQL from natural language prompts. Using a 200 million record dataset from the GH Archive uploaded to Tinybird, we asked the 
-- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
+- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
 - [mKeRix/toolscript](https://github.com/mKeRix/toolscript) - Efficient MCP tool calling in code mode for Claude Code
 - [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) - MCP Aggregator, Orchestrator, Middleware, Gateway in one docker
 - [birdofpreyru/react-helmet](https://github.com/birdofpreyru/react-helmet) - Thread-safe Helmet for React 19 and friends
