@@ -114,6 +114,7 @@
 
 ## C 
 
+- [fanchmwrt/fanchmwrt](https://github.com/fanchmwrt/fanchmwrt) - An open-source home firewall system,developed based on OpenWrt.
 - [timescale/pg_textsearch](https://github.com/timescale/pg_textsearch) - PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed.
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
 - [tvlabs/edge264](https://github.com/tvlabs/edge264) - Simple H.264 decoder
@@ -127,7 +128,7 @@
 - [sagemathinc/cowasm](https://github.com/sagemathinc/cowasm) - CoWasm: Collaborative WebAssembly for Servers and Browsers.   Built using Zig.  Supports Python with extension modules, including numpy.
 - [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
 - [holepunchto/bare](https://github.com/holepunchto/bare) - Small and modular JavaScript runtime for desktop and mobile
-- [dicedb/dicedb](https://github.com/dicedb/dicedb) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
+- [dicedb/dicedb](https://github.com/dicedb/dicedb) - Open-source, low-latency key/value engine built on Valkey with hierarchical storage tiers.
 - [nginx/njs](https://github.com/nginx/njs) - A subset of JavaScript language to use in nginx
 - [tscircuit/bun-ffi-benchmarking](https://github.com/tscircuit/bun-ffi-benchmarking) - Benchmarking for Bun FFI
 - [cawfree/react-native-webassembly](https://github.com/cawfree/react-native-webassembly) - ⚛️ 🏎 WebAssembly for React Native powered by JSI.
@@ -243,6 +244,7 @@
 
 ## C++ 
 
+- [LadybugDB/ladybug](https://github.com/LadybugDB/ladybug) - LadybugDB a graph database
 - [mystralengine/mystralnative](https://github.com/mystralengine/mystralnative) - Native WebGPU JS runtime with SDL3
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 - [chongdashu/unreal-mcp](https://github.com/chongdashu/unreal-mcp) - Enable AI assistant clients like Cursor, Windsurf and Claude Desktop to control Unreal Engine through natural language using the Model Context Protocol (MCP).
@@ -471,6 +473,7 @@
 
 ## Go 
 
+- [yoanbernabeu/grepai](https://github.com/yoanbernabeu/grepai) - Semantic Search & Call Graphs for AI Agents (100% Local)
 - [Basekick-Labs/arc](https://github.com/Basekick-Labs/arc) - High-performance time-series database for Industrial IoT and Analytics. 18.6M records/sec. Racing telemetry, smart cities, mining sensors, medical devices. DuckDB SQL + Parquet + Arrow. AGPL-3.0
 - [control-theory/gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
@@ -802,6 +805,8 @@
 
 ## JavaScript 
 
+- [Zen0-99/animestream-addon](https://github.com/Zen0-99/animestream-addon) - Stremio addon for anime content
+- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM: DOM Capture Engine – Fast and Accurate HTML Conversion
 - [Factory-AI/eslint-plugin](https://github.com/Factory-AI/eslint-plugin) - Factory's custom linters
 - [Ripple-TS/ripple](https://github.com/Ripple-TS/ripple) - the elegant TypeScript UI framework
 - [ravitemer/mcp-hub](https://github.com/ravitemer/mcp-hub) - A centralized manager for Model Context Protocol (MCP) servers with dynamic server management and monitoring
@@ -1373,6 +1378,7 @@
 
 ## Python 
 
+- [prrao87/graph-benchmark](https://github.com/prrao87/graph-benchmark) - Graph benchmarks for Kuzu, Ladybug and lance-graph
 - [JyChen9811/FaithDiff](https://github.com/JyChen9811/FaithDiff) - [CVPR 2025] FaithDiff for Classic Film Rejuvenation, Old Photo Revival, Social Media Restoration, Image Enhancement and AIGC Enhancement.
 - [calibrain/shelfmark](https://github.com/calibrain/shelfmark) - 
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player.
@@ -1605,7 +1611,7 @@
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
@@ -1739,6 +1745,7 @@
 
 ## Rust 
 
+- [lance-format/lance-graph](https://github.com/lance-format/lance-graph) - Run Graph Queries with Lance
 - [TrustTunnel/TrustTunnel](https://github.com/TrustTunnel/TrustTunnel) - Modern, fast and obfuscated VPN protocol
 - [mavdol/capsule](https://github.com/mavdol/capsule) - A secure, durable runtime for AI agents. Run untrusted code in isolated WebAssembly sandboxes.
 - [readur/readur](https://github.com/readur/readur) - Quick, painless, intuitive OCR platform written in Rust and TypeScript. Modern UI with modern API, with an emphasis on intuitive user experience.
@@ -2175,6 +2182,10 @@
 
 ## TypeScript 
 
+- [tobilg/ducklings](https://github.com/tobilg/ducklings) - A minimal DuckDB Wasm build for browsers and serverless environments like Cloudflare Workers
+- [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - Framework-agnostic runtime skeleton generator that analyzes your DOM and renders pixel-accurate loading skeletons automatically. No manual layouts. No duplicated markup. Zero maintenance. Built for Re
+- [mutativejs/travels](https://github.com/mutativejs/travels) - A fast, framework-agnostic undo/redo core powered by Mutative JSON Patch
+- [xoidlabs/xoid](https://github.com/xoidlabs/xoid) - Framework-agnostic state management library designed for simplicity and scalability ⚛
 - [ibero-data/duck-ui](https://github.com/ibero-data/duck-ui) - Duck-UI is a web-based interface for interacting with DuckDB, a high-performance analytical database system. It features a SQL editor, data import/export, data explorer, query history, theme toggle, a
 - [kdcokenny/ocx](https://github.com/kdcokenny/ocx) - OpenCode extension manager with portable, isolated profiles. Your setup, anywhere.
 - [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) - free, open-source file scanner
@@ -2199,7 +2210,7 @@
 - [HugoRCD/evlog](https://github.com/HugoRCD/evlog) - Logging that makes sense. Wide events, structured errors, zero chaos.
 - [subsy/ralph-tui](https://github.com/subsy/ralph-tui) - 
 - [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl) - AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built f
-- [opral/lix](https://github.com/opral/lix) - Embeddable version control system
+- [opral/lix](https://github.com/opral/lix) - Embeddable version control system for AI agents
 - [vercel-labs/just-bash](https://github.com/vercel-labs/just-bash) - Bash for Agents
 - [cedarjs/cedar](https://github.com/cedarjs/cedar) - The React + GraphQL Web App Framework
 - [jsbenchmarks/jsbenchmarks](https://github.com/jsbenchmarks/jsbenchmarks) - 
@@ -2311,7 +2322,7 @@
 - [rolldown/tsdown](https://github.com/rolldown/tsdown) - The elegant bundler for libraries powered by Rolldown
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, queues, workflows, streams, and AI agents with a single core primitive with built-in observability and state management.
-- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 750k+ Kilo Coders. 6.1 trillion tokens/month.
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens processed
 - [colinhacks/zshy](https://github.com/colinhacks/zshy) - 🐒 Bundler-free build tool for TypeScript libraries. Powered by tsc.
 - [web-infra-dev/rstest](https://github.com/web-infra-dev/rstest) - The testing framework powered by Rspack.
 - [WickyNilliams/cally](https://github.com/WickyNilliams/cally) - Small, feature-rich calendar components
@@ -2728,7 +2739,7 @@
 - [OrangeDrangon/android-messages-desktop](https://github.com/OrangeDrangon/android-messages-desktop) - Android Messages as a Cross-platform Desktop App
 - [ciscoheat/sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit forms a pleasure to use!
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Full-Stack TypeScript toolkit that enhances Prisma ORM with flexible Authorization layer for RBAC/ABAC/PBAC/ReBAC, offering auto-generated type-safe APIs and frontend hooks.
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Modern Data Layer for TypeScript Apps - type-safe ORM, built-in access control, automatic query services
 - [lukeautry/tsoa](https://github.com/lukeautry/tsoa) - Build OpenAPI-compliant REST APIs using TypeScript and Node
 - [react-hookz/web](https://github.com/react-hookz/web) - React hooks done right, for browser and SSR.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
@@ -2898,7 +2909,7 @@
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [listr2/listr2](https://github.com/listr2/listr2) - NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive.
 - [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
-- [c4spar/deno-cliffy](https://github.com/c4spar/deno-cliffy) - Command line framework for deno 🦕 Including Commandline-Interfaces, Prompts, CLI-Table, Arguments Parser and more...
+- [c4spar/cliffy](https://github.com/c4spar/cliffy) - A TypeScript-first, runtime-agnostic command-line toolkit for building complex   CLIs — featuring a command framework, argument parser, interactive prompts,   tables, ANSI utilities, and more.
 - [vscode-shellcheck/vscode-shellcheck](https://github.com/vscode-shellcheck/vscode-shellcheck) - Integrates ShellCheck into VS Code, a linter for Shell scripts.
 - [nativewind/nativewind](https://github.com/nativewind/nativewind) - The utility-first workflow you love from Tailwind CSS in your React Native applications.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
