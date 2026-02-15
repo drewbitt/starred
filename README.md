@@ -488,7 +488,7 @@
 - [amterp/rad](https://github.com/amterp/rad) - Modern CLI scripts made easy.
 - [mrusme/overpush](https://github.com/mrusme/overpush) - A self-hosted, drop-in replacement for Pushover (https://codeberg.org/mrus/overpush)
 - [ajmandourah/tinshop-ng](https://github.com/ajmandourah/tinshop-ng) - A next generation version of tinshop server for tinfoil originally by DBlK
-- [tbocek/preveltekit](https://github.com/tbocek/preveltekit) - PrevelteKit is a lightweight, high-performance web application framework built on Svelte 5, with CSR + Build-time Pre-Rendering using Rsbuild and jsdom
+- [tbocek/preveltekit](https://github.com/tbocek/preveltekit) - PrevelteKit is a lightweight, high-performance web application framework written in Go, featuring server-side rendering with WebAssembly hydration.
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen m
 - [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm) - Terminal API client for HTTP/GraphQL/gRPC with support for SSH tunnels, WebSockets, SSE, workflows, profiling, OpenAPI and response diffs.
 - [oxc-project/tsgolint](https://github.com/oxc-project/tsgolint) - Type aware linting for oxlint
@@ -1299,6 +1299,7 @@
 - [continuedev/what-llm-to-use](https://github.com/continuedev/what-llm-to-use) - 👀 What LLM to use?
 - [underlines/awesome-ml](https://github.com/underlines/awesome-ml) - Curated list of useful LLM / Analytics / Datascience resources
 - [bernardoduarte/awesome-version-managers](https://github.com/bernardoduarte/awesome-version-managers) - A curated list of awesome Version Managers
+- [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - Alokai is a Frontend as a Service solution that simplifies composable commerce. It connects all the technologies needed to build and deploy fast & scalable ecommerce frontends. It guides merchants to 
 - [shadowspawn/node-version-usage](https://github.com/shadowspawn/node-version-usage) - Document current usage of .node-version file
 - [cursor/cursor](https://github.com/cursor/cursor) - The AI Code Editor
 - [blawar/titledb_02112024](https://github.com/blawar/titledb_02112024) - 
@@ -1388,7 +1389,7 @@
 - [JyChen9811/FaithDiff](https://github.com/JyChen9811/FaithDiff) - [CVPR 2025] FaithDiff for Classic Film Rejuvenation, Old Photo Revival, Social Media Restoration, Image Enhancement and AIGC Enhancement.
 - [calibrain/shelfmark](https://github.com/calibrain/shelfmark) - 
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player.
-- [oban-bg/oban-py](https://github.com/oban-bg/oban-py) - 💎🐍 A robust job orchestration framework for Python, backed by modern PostgreSQL
+- [oban-bg/oban-py](https://github.com/oban-bg/oban-py) - 💎🐍 Robust job orchestration framework for Python, backed by modern PostgreSQL
 - [simonw/denobox](https://github.com/simonw/denobox) - Run JavaScript code and WASM in a Deno sandbox
 - [SalesforceAIResearch/LiveResearchBench](https://github.com/SalesforceAIResearch/LiveResearchBench) - A live benchmark and evaluation framework for open-ended deep research in the wild.
 - [chunkhound/chunkhound](https://github.com/chunkhound/chunkhound) - Local first codebase intelligence
@@ -1422,6 +1423,7 @@
 - [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
 - [cpttripzz/Chatterblez](https://github.com/cpttripzz/Chatterblez) - Generate audiobooks from pdf or epub using Next-gen AI Chatterbox-tts from Resemble-AI
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.
+- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, queues, workflows, streams, and AI agents with a single core primitive with built-in observability and state management.
 - [bbtufty/nxbrew-dl](https://github.com/bbtufty/nxbrew-dl) - Scrape nxbrew to automatically download Switch games
 - [boxabirds/mcp-code-parser](https://github.com/boxabirds/mcp-code-parser) - Getting the LLM to interpret a code file directly is very inefficient. This tool creates an AST which is significantly smaller and more accurate.
 - [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
@@ -2148,6 +2150,7 @@
 
 ## Swift 
 
+- [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit) - Swift framework to interact with JavaScript through WebAssembly.
 - [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [bahattinkoc/ipaverse](https://github.com/bahattinkoc/ipaverse) - A modern macOS app for downloading and managing iOS apps from the App Store
 - [andrew-waters/orchard](https://github.com/andrew-waters/orchard) - A GUI for Apple Containers, written in swift
@@ -2189,6 +2192,8 @@
 
 ## TypeScript 
 
+- [wannabespace/conar](https://github.com/wannabespace/conar) - AI-powered tool for working with Postgres, MySQL, MSSQL and Clickhouse. (beta)
+- [TanStack/hotkeys](https://github.com/TanStack/hotkeys) - Type-Safe keyboard shortcuts library with awesome devtools
 - [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) - Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk 
 - [dmmulroy/better-result](https://github.com/dmmulroy/better-result) - Lightweight Result type for TypeScript with generator-based composition.
 - [tobilg/ducklings](https://github.com/tobilg/ducklings) - A minimal DuckDB Wasm build for browsers and serverless environments like Cloudflare Workers
@@ -2219,7 +2224,7 @@
 - [HugoRCD/evlog](https://github.com/HugoRCD/evlog) - Logging that makes sense. Wide events, structured errors, zero chaos.
 - [subsy/ralph-tui](https://github.com/subsy/ralph-tui) - 
 - [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl) - AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built f
-- [opral/lix](https://github.com/opral/lix) - Embeddable version control system for AI agents
+- [opral/lix](https://github.com/opral/lix) - Embeddable & universal version control system for AI agents
 - [vercel-labs/just-bash](https://github.com/vercel-labs/just-bash) - Bash for Agents
 - [cedarjs/cedar](https://github.com/cedarjs/cedar) - The React + GraphQL Web App Framework
 - [jsbenchmarks/jsbenchmarks](https://github.com/jsbenchmarks/jsbenchmarks) - 
@@ -2306,7 +2311,6 @@
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 - [Pimzino/claude-code-spec-workflow](https://github.com/Pimzino/claude-code-spec-workflow) - Automated workflows for Claude Code. Features spec-driven development for new features (Requirements → Design → Tasks → Implementation) and streamlined bug fix workflow for quick issue resolution (Rep
 - [ZephyrCloudIO/zephyr-packages](https://github.com/ZephyrCloudIO/zephyr-packages) - 
-- [johnlindquist/worktree-cli](https://github.com/johnlindquist/worktree-cli) - 
 - [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps developers and agents understand your codebase.
 - [open-circle/formisch](https://github.com/open-circle/formisch) - The modular and type-safe form library for any framework
 - [unjs/c12](https://github.com/unjs/c12) - ⚙️ Smart Configuration Loader
@@ -2330,7 +2334,6 @@
 - [nonzzz/vite-bundle-analyzer](https://github.com/nonzzz/vite-bundle-analyzer) - bundle analyzer for vite
 - [rolldown/tsdown](https://github.com/rolldown/tsdown) - The elegant bundler for libraries powered by Rolldown
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
-- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, queues, workflows, streams, and AI agents with a single core primitive with built-in observability and state management.
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens processed
 - [colinhacks/zshy](https://github.com/colinhacks/zshy) - 🐒 Bundler-free build tool for TypeScript libraries. Powered by tsc.
 - [web-infra-dev/rstest](https://github.com/web-infra-dev/rstest) - The testing framework powered by Rspack.
@@ -2661,7 +2664,7 @@
 - [qwikifiers/qwik-ui](https://github.com/qwikifiers/qwik-ui) - Qwik's Headless and styled component library
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
 - [react-hook-form/devtools](https://github.com/react-hook-form/devtools) - 📋 DevTools to help debug forms.
-- [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
+- [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern toolkit for building drag and drop interfaces
 - [marcj/deepkit](https://github.com/marcj/deepkit) - modular high-performance TypeScript framework
 - [ds300/patch-package](https://github.com/ds300/patch-package) - Fix broken node modules instantly  🏃🏽‍♀️💨
 - [un-ts/prettier](https://github.com/un-ts/prettier) - :package: Opinionated but Incredible Prettier plugins.
@@ -2787,7 +2790,6 @@
 - [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure.
 - [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - RPC-like client, contract, and server implementation for a pure REST API
 - [vuestorefront/storefront-ui](https://github.com/vuestorefront/storefront-ui) - A frontend library for React and Vue that helps developers quickly build fast, accessible, and beautiful storefronts. Made with 💚 by Vue Storefront team and contributors.
-- [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - Alokai is a Frontend as a Service solution that simplifies composable commerce. It connects all the technologies needed to build and deploy fast & scalable ecommerce frontends. It guides merchants to 
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [denosaurs/deno_python](https://github.com/denosaurs/deno_python) - 🐍 Python interpreter bindings for Deno and Bun.
 - [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
