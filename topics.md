@@ -340,6 +340,7 @@
 
 ## ai 
 
+- [vercel-labs/opensrc](https://github.com/vercel-labs/opensrc) - Fetch source code for npm packages to give AI coding agents deeper context
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [wannabespace/conar](https://github.com/wannabespace/conar) - AI-powered tool for working with Postgres, MySQL, MSSQL and Clickhouse. (beta)
 - [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) - Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk 
@@ -1131,6 +1132,7 @@
 
 ## cli 
 
+- [vercel-labs/opensrc](https://github.com/vercel-labs/opensrc) - Fetch source code for npm packages to give AI coding agents deeper context
 - [cablehead/http-nu](https://github.com/cablehead/http-nu) - The surprisingly performant, Nushell-scriptable, cross.stream-powered, Datastar-ready HTTP server that fits in your back pocket. 🐘💫🚀💜
 - [yoanbernabeu/grepai](https://github.com/yoanbernabeu/grepai) - Semantic Search & Call Graphs for AI Agents (100% Local)
 - [kdcokenny/ocx](https://github.com/kdcokenny/ocx) - OpenCode extension manager with portable, isolated profiles. Your setup, anywhere.
@@ -2002,6 +2004,7 @@
 
 ## developer-tools 
 
+- [vercel-labs/opensrc](https://github.com/vercel-labs/opensrc) - Fetch source code for npm packages to give AI coding agents deeper context
 - [yoanbernabeu/grepai](https://github.com/yoanbernabeu/grepai) - Semantic Search & Call Graphs for AI Agents (100% Local)
 - [ecrindigital/facetpack](https://github.com/ecrindigital/facetpack) - The missing toolkit for React Native. Rust-powered performance & developer experience.
 - [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl) - AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built f
@@ -3969,6 +3972,7 @@
 - [tamnguyenvan/screenvivid](https://github.com/tamnguyenvan/screenvivid) - An Open Source Cross-platform Screen Recorder for Everyone
 - [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Golang, Python, Flutter, .NET & more
 - [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
+- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [nashaofu/node-screenshots](https://github.com/nashaofu/node-screenshots) - Zero-dependent. A native nodejs screenshots library for Mac、Windows、Linux.
 - [tanrax/maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) - Simple, native and efficient local ad blocker. Only Bash.
@@ -4027,8 +4031,9 @@
 
 ## llm 
 
+- [vercel-labs/opensrc](https://github.com/vercel-labs/opensrc) - Fetch source code for npm packages to give AI coding agents deeper context
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
-- [moltis-org/moltis](https://github.com/moltis-org/moltis) - A personal AI assistant built in Rust. Single binary, multi-provider LLMs, long-term memory, sandboxed execution, voice, MCP tools, and multi-channel access (web, Telegram, API).
+- [moltis-org/moltis](https://github.com/moltis-org/moltis) - A Rust-native claw you can trust. One binary — sandboxed, secure, auditable. Voice, memory, MCP tools, and multi-channel access built-in.
 - [mavdol/capsule](https://github.com/mavdol/capsule) - A secure, durable runtime for AI agents. Run untrusted code in isolated WebAssembly sandboxes.
 - [superset-sh/superset](https://github.com/superset-sh/superset) - The command center for coding agents - Run a team of Claude Code, OpenCode, Codex, or any other agents on your machine
 - [iamsrikanthnani/pluely](https://github.com/iamsrikanthnani/pluely) - The Open Source Alternative to Cluely - A lightning-fast, privacy-first AI assistant that works seamlessly during meetings, interviews, and conversations without anyone knowing. Built with Tauri for n
@@ -4279,6 +4284,7 @@
 - [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Golang, Python, Flutter, .NET & more
 - [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
 - [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
+- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [carlosqsilva/vfetch](https://github.com/carlosqsilva/vfetch) - A command-line system fetch tool for macOS written in vlang
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -4394,7 +4400,7 @@
 ## mcp 
 
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
-- [moltis-org/moltis](https://github.com/moltis-org/moltis) - A personal AI assistant built in Rust. Single binary, multi-provider LLMs, long-term memory, sandboxed execution, voice, MCP tools, and multi-channel access (web, Telegram, API).
+- [moltis-org/moltis](https://github.com/moltis-org/moltis) - A Rust-native claw you can trust. One binary — sandboxed, secure, auditable. Voice, memory, MCP tools, and multi-channel access built-in.
 - [yoanbernabeu/grepai](https://github.com/yoanbernabeu/grepai) - Semantic Search & Call Graphs for AI Agents (100% Local)
 - [superset-sh/superset](https://github.com/superset-sh/superset) - The command center for coding agents - Run a team of Claude Code, OpenCode, Codex, or any other agents on your machine
 - [obot-platform/obot](https://github.com/obot-platform/obot) - Complete MCP Platform -- Hosting, Registry, Gateway, and Chat Client
@@ -4821,6 +4827,7 @@
 
 ## nodejs 
 
+- [vercel-labs/opensrc](https://github.com/vercel-labs/opensrc) - Fetch source code for npm packages to give AI coding agents deeper context
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) - free, open-source file scanner
 - [gtkx-org/gtkx](https://github.com/gtkx-org/gtkx) - Build native GTK4 desktop apps with React and TypeScript
@@ -4979,6 +4986,7 @@
 
 ## npm 
 
+- [vercel-labs/opensrc](https://github.com/vercel-labs/opensrc) - Fetch source code for npm packages to give AI coding agents deeper context
 - [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) - free, open-source file scanner
 - [Vanilagy/mediabunny](https://github.com/Vanilagy/mediabunny) - Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.
 - [git-truck/git-truck](https://github.com/git-truck/git-truck) - Git repository visualizations, cumulative contribution statistics and more. Run `npx -y git-truck` to try Git Truck today!
@@ -6956,7 +6964,7 @@
 
 ## rust 
 
-- [moltis-org/moltis](https://github.com/moltis-org/moltis) - A personal AI assistant built in Rust. Single binary, multi-provider LLMs, long-term memory, sandboxed execution, voice, MCP tools, and multi-channel access (web, Telegram, API).
+- [moltis-org/moltis](https://github.com/moltis-org/moltis) - A Rust-native claw you can trust. One binary — sandboxed, secure, auditable. Voice, memory, MCP tools, and multi-channel access built-in.
 - [cablehead/http-nu](https://github.com/cablehead/http-nu) - The surprisingly performant, Nushell-scriptable, cross.stream-powered, Datastar-ready HTTP server that fits in your back pocket. 🐘💫🚀💜
 - [dmmulroy/better-result](https://github.com/dmmulroy/better-result) - Lightweight Result type for TypeScript with generator-based composition.
 - [cesarferreira/rip](https://github.com/cesarferreira/rip) - Fuzzy find and kill processes from your terminal
@@ -7231,7 +7239,7 @@
 
 ## self-hosted 
 
-- [moltis-org/moltis](https://github.com/moltis-org/moltis) - A personal AI assistant built in Rust. Single binary, multi-provider LLMs, long-term memory, sandboxed execution, voice, MCP tools, and multi-channel access (web, Telegram, API).
+- [moltis-org/moltis](https://github.com/moltis-org/moltis) - A Rust-native claw you can trust. One binary — sandboxed, secure, auditable. Voice, memory, MCP tools, and multi-channel access built-in.
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [Phalcode/gamevault-app](https://github.com/Phalcode/gamevault-app) - Frontend for the self-hosted gaming platform for drm-free games
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player.
@@ -7777,7 +7785,7 @@
 
 ## telegram-bot 
 
-- [moltis-org/moltis](https://github.com/moltis-org/moltis) - A personal AI assistant built in Rust. Single binary, multi-provider LLMs, long-term memory, sandboxed execution, voice, MCP tools, and multi-channel access (web, Telegram, API).
+- [moltis-org/moltis](https://github.com/moltis-org/moltis) - A Rust-native claw you can trust. One binary — sandboxed, secure, auditable. Voice, memory, MCP tools, and multi-channel access built-in.
 - [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) - Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk 
 
 ## tensorflow 
@@ -7980,6 +7988,7 @@
 
 ## typescript 
 
+- [vercel-labs/opensrc](https://github.com/vercel-labs/opensrc) - Fetch source code for npm packages to give AI coding agents deeper context
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) - Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk 
 - [dmmulroy/better-result](https://github.com/dmmulroy/better-result) - Lightweight Result type for TypeScript with generator-based composition.
