@@ -115,6 +115,7 @@
 
 ## C 
 
+- [yoanbernabeu/grepai](https://github.com/yoanbernabeu/grepai) - Semantic Search & Call Graphs for AI Agents (100% Local)
 - [fanchmwrt/fanchmwrt](https://github.com/fanchmwrt/fanchmwrt) - An open-source home firewall system,developed based on OpenWrt.
 - [timescale/pg_textsearch](https://github.com/timescale/pg_textsearch) - PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed.
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
@@ -475,7 +476,6 @@
 ## Go 
 
 - [wesm/msgvault](https://github.com/wesm/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB
-- [yoanbernabeu/grepai](https://github.com/yoanbernabeu/grepai) - Semantic Search & Call Graphs for AI Agents (100% Local)
 - [Basekick-Labs/arc](https://github.com/Basekick-Labs/arc) - High-performance time-series database for Aerospace, Defense, and Industrial IoT. 18.6M records/sec. Satellite tracking, launch telemetry, ground stations, manufacturing, energy. DuckDB SQL + Parquet 
 - [control-theory/gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
@@ -1753,7 +1753,7 @@
 ## Rust 
 
 - [zhom/donutbrowser](https://github.com/zhom/donutbrowser) - Simple Yet Powerful Anti-Detect Browser 🍩
-- [moltis-org/moltis](https://github.com/moltis-org/moltis) - A personal AI assistant built in Rust. Single binary, multi-provider LLMs, long-term memory, sandboxed execution, voice, MCP tools, and multi-channel access (web, Telegram, API).
+- [moltis-org/moltis](https://github.com/moltis-org/moltis) - A Rust-native claw you can trust. One binary — sandboxed, secure, auditable. Voice, memory, MCP tools, and multi-channel access built-in.
 - [leaysgur/oxc-ast-mcp](https://github.com/leaysgur/oxc-ast-mcp) - 
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 - [cablehead/http-nu](https://github.com/cablehead/http-nu) - The surprisingly performant, Nushell-scriptable, cross.stream-powered, Datastar-ready HTTP server that fits in your back pocket. 🐘💫🚀💜
@@ -2200,6 +2200,7 @@
 
 ## TypeScript 
 
+- [vercel-labs/opensrc](https://github.com/vercel-labs/opensrc) - Fetch source code for npm packages to give AI coding agents deeper context
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [IndAlok/rzweb](https://github.com/IndAlok/rzweb) - A complete browser-based reverse engineering platform built on Rizin, running entirely client-side via WebAssembly.
 - [Redocly/redocly-cli](https://github.com/Redocly/redocly-cli) - ⚒️ Redocly CLI makes OpenAPI easy. Lint/validate to any standard, generate beautiful docs, and more.
