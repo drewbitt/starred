@@ -1347,11 +1347,12 @@
 
 ## code-review 
 
-- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR Agent - The Original Open-Source PR Reviewer, This repo is not the Qodo free tier! Try the free version on our website.
+- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR Agent - The Original Open-Source PR Reviewer. This repo is not the Qodo free tier! Try the free version on our website.
 - [danger/danger-js](https://github.com/danger/danger-js) - ⚠️ Stop saying "you forgot to …" in code review
 
 ## command-line 
 
+- [git-town/git-town](https://github.com/git-town/git-town) - Git branches made easy
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
@@ -2450,7 +2451,7 @@
 - [magnitudedev/browser-agent](https://github.com/magnitudedev/browser-agent) - Open-source, vision-first browser agent
 - [514-labs/moosestack](https://github.com/514-labs/moosestack) - The developer framework for building analytics into your app on top of ClickHouse, Redpanda and other high-performance analytical infrastructure
 - [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
-- [lazarv/react-server](https://github.com/lazarv/react-server) - The easiest way to build React apps with server-side rendering
+- [lazarv/react-server](https://github.com/lazarv/react-server) - Run React anywhere
 - [TanStack/router](https://github.com/TanStack/router) - 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
 - [truefoundry/cognita](https://github.com/truefoundry/cognita) - RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
@@ -2654,6 +2655,7 @@
 
 ## git 
 
+- [git-town/git-town](https://github.com/git-town/git-town) - Git branches made easy
 - [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
@@ -4872,7 +4874,7 @@
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Golang, Python, Flutter, .NET & more
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
-- [lazarv/react-server](https://github.com/lazarv/react-server) - The easiest way to build React apps with server-side rendering
+- [lazarv/react-server](https://github.com/lazarv/react-server) - Run React anywhere
 - [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
 - [RafaelGSS/bench-node](https://github.com/RafaelGSS/bench-node) - A powerful Node.js benchmark library
 - [timgit/pg-boss](https://github.com/timgit/pg-boss) - Queueing jobs in Postgres from Node.js like a boss
@@ -5152,7 +5154,7 @@
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
-- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR Agent - The Original Open-Source PR Reviewer, This repo is not the Qodo free tier! Try the free version on our website.
+- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR Agent - The Original Open-Source PR Reviewer. This repo is not the Qodo free tier! Try the free version on our website.
 - [arakoodev/EdgeChains](https://github.com/arakoodev/EdgeChains) - EdgeChains.js is Full-Stack GenAI library. Front-end, backend, apis, prompt management, distributed computing. All core prompts & chains are managed declaratively in jsonnet (and not hidden in classes
 - [vercel/modelfusion](https://github.com/vercel/modelfusion) - The TypeScript library for building AI applications.
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
@@ -5192,7 +5194,6 @@
 
 ## others 
 
-- [tigerabrodi/neiro](https://github.com/tigerabrodi/neiro) - Audio processing for TypeScript. Chainable, immutable, serverless-ready.
 - [gittower/git-flow-next](https://github.com/gittower/git-flow-next) - A modern reimplementation of git-flow in Go that offers greater flexibility while maintaining backward compatibility with the original git-flow and git-flow-avh.
 - [seflless/slowmo](https://github.com/seflless/slowmo) - 
 - [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere
@@ -5205,7 +5206,7 @@
 - [Redocly/redocly-cli](https://github.com/Redocly/redocly-cli) - ⚒️ Redocly CLI makes OpenAPI easy. Lint/validate to any standard, generate beautiful docs, and more.
 - [leaysgur/oxc-ast-mcp](https://github.com/leaysgur/oxc-ast-mcp) - 
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named .localhost URLs. For humans and agents.
-- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant Operating System — deploy anywhere, swap anything 🦀
+- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 - [AnswerDotAI/fasthtml](https://github.com/AnswerDotAI/fasthtml) - The fastest way to create an HTML app
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
 - [kwindla/aiewf-eval](https://github.com/kwindla/aiewf-eval) - A long-context eval
@@ -5221,7 +5222,7 @@
 - [kcsujeet/ilamy-calendar](https://github.com/kcsujeet/ilamy-calendar) - A react alternative to full calendar.
 - [leegeunhyeok/rollipop](https://github.com/leegeunhyeok/rollipop) - Modern build toolkit for React Native. Powered by Rolldown
 - [dannysmith/tauri-template](https://github.com/dannysmith/tauri-template) - A production-ready template for building modern desktop applications with Tauri v2, React 19, and TypeScript. This template provides a solid foundation with best practices, comprehensive documentation
-- [videojs/v10](https://github.com/videojs/v10) - Technical preview of Video.js v10 - open source media player framework for Web and React.
+- [videojs/v10](https://github.com/videojs/v10) - [Alpha] Video.js v10 - open source media player framework for Web and React.
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
 - [Factory-AI/eslint-plugin](https://github.com/Factory-AI/eslint-plugin) - Factory's custom linters
 - [subsy/ralph-tui](https://github.com/subsy/ralph-tui) - 
@@ -5520,7 +5521,7 @@
 - [dnl-fm/done](https://github.com/dnl-fm/done) - Self-hosted message queue for Deno Deploy
 - [cross-org/env](https://github.com/cross-org/env) - Cross-runtime environment variable management for Deno, Bun, and Node.js
 - [cross-org/test](https://github.com/cross-org/test) - Truly cross runtime minimal testing framework working in collaboration with @std/assert, for Node, Deno and Bun.
-- [martinellimarco/t2sz](https://github.com/martinellimarco/t2sz) - Compress a file into a seekable zstd with special handling for .tar archives
+- [martinellimarco/t2sz](https://github.com/martinellimarco/t2sz) - Compresses a file into a seekable zstd with special handling for .tar archives
 - [just-js/lo-bench](https://github.com/just-js/lo-bench) - benchmarks for lo js runtime :chart_with_upwards_trend:
 - [mdx-js/mdx-analyzer](https://github.com/mdx-js/mdx-analyzer) - MDX extension for Visual Studio Code
 - [narwhals-dev/narwhals](https://github.com/narwhals-dev/narwhals) - Lightweight and extensible compatibility layer between dataframe libraries!
@@ -6218,6 +6219,7 @@
 
 ## productivity 
 
+- [git-town/git-town](https://github.com/git-town/git-town) - Git branches made easy
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [pakerwreah/Calendr](https://github.com/pakerwreah/Calendr) - Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI
@@ -6695,7 +6697,7 @@
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI, MCP, and shadcn/ui
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
 - [christianalfoni/impact](https://github.com/christianalfoni/impact) - Reactive React
-- [lazarv/react-server](https://github.com/lazarv/react-server) - The easiest way to build React apps with server-side rendering
+- [lazarv/react-server](https://github.com/lazarv/react-server) - Run React anywhere
 - [edspencer/inform-ai](https://github.com/edspencer/inform-ai) - InformAI allows you to easily retrofit context-aware AI into any React application.
 - [TanStack/router](https://github.com/TanStack/router) - 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
 - [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
