@@ -320,7 +320,6 @@
 - [nullptrlabs/pgmodeler](https://github.com/nullptrlabs/pgmodeler) - Open-source data modeling tool designed for PostgreSQL. No more typing DDL commands. Let pgModeler do the work for you!
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [tiltedphoques/TiltedEvolution](https://github.com/tiltedphoques/TiltedEvolution) - Skyrim mod to play online!
-- [google/cdc-file-transfer](https://github.com/google/cdc-file-transfer) - Tools for synching and streaming files from Windows to Linux
 - [perspective-dev/perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [jarulraj/sqlcheck](https://github.com/jarulraj/sqlcheck) - Automatically identify anti-patterns in SQL queries
 - [secondlife/viewer](https://github.com/secondlife/viewer) - 🖥️ Second Life's official client
@@ -626,7 +625,6 @@
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge.
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
-- [bcspragu/kagi](https://github.com/bcspragu/kagi) - A simple CLI for querying the Kagi search engine via their FastGPT API
 - [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4.1, gpt-4o model) and automatically installs a git prepare-commit-msg hook.
 - [saschagrunert/demo](https://github.com/saschagrunert/demo) - A framework for performing live pre-recorded command line demos in the wild 📼
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
@@ -697,7 +695,6 @@
 - [terra-farm/terraform-provider-virtualbox](https://github.com/terra-farm/terraform-provider-virtualbox) - VirtualBox provider for Terraform
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
-- [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [asticode/go-astisub](https://github.com/asticode/go-astisub) - Manipulate subtitles in GO (.srt, .ssa/.ass, .stl, .ttml, .vtt (webvtt), teletext, etc.)
 
 ## Go Template 
@@ -819,6 +816,7 @@
 
 ## JavaScript 
 
+- [wasmerio/edgejs](https://github.com/wasmerio/edgejs) - Edge.js is a secure JavaScript runtime, designed for Edge computing and AI workloads
 - [platformatic/platformatic](https://github.com/platformatic/platformatic) - Platformatic Open Source monorepo!
 - [immerjs/immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 - [AhoyLemon/kinda.fun](https://github.com/AhoyLemon/kinda.fun) - Here's some games that are kinda fun.
@@ -863,7 +861,6 @@
 - [catamphetamine/libphonenumber-js](https://github.com/catamphetamine/libphonenumber-js) - A simpler (and smaller) rewrite of Google Android's libphonenumber library in javascript
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
 - [just-js/lo](https://github.com/just-js/lo) - it's JavaScript Jim, but not as we know it. :space_invader:
-- [alohe/quicky](https://github.com/alohe/quicky) - A simple CLI tool to self-host Next.js applications.
 - [usmanyunusov/nano-staged](https://github.com/usmanyunusov/nano-staged) - Tiny tool to run commands for modified, staged, and committed files in a GIT repository.
 - [ziolko/spreadapi](https://github.com/ziolko/spreadapi) - Free REST API for Google Spreadsheet
 - [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config) - Config of File Nesting for VS Code
@@ -1069,7 +1066,6 @@
 - [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
 - [ganieldao/RNLeedr](https://github.com/ganieldao/RNLeedr) - An offline-capable (unofficial) fiction reader for royalroadl.com using react native
 - [nirsky/react-native-size-matters](https://github.com/nirsky/react-native-size-matters) - A lightweight, zero-dependencies, React-Native utility belt for scaling the size of your apps UI across different sized devices.
-- [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 
 ## Jupyter Notebook 
 
@@ -1191,6 +1187,7 @@
 
 ## Nim 
 
+- [sourcehut-mirrors/chawan](https://github.com/sourcehut-mirrors/chawan) - TUI Web Browser
 - [ferus-web/bali](https://github.com/ferus-web/bali) - Bali is a JavaScript engine written in Nim
 - [Nimaoth/Nev](https://github.com/Nimaoth/Nev) - Nev is a keyboard focused GUI and terminal text editor
 - [zenywallet/caprese](https://github.com/zenywallet/caprese) - A front-end web server specialized for real-time message exchange
@@ -1382,9 +1379,10 @@
 
 ## Python 
 
+- [justrach/turboAPI](https://github.com/justrach/turboAPI) - FastAPI-compatible Python framework with Zig HTTP core; 7x faster, free-threading native
 - [francozanardi/pictex](https://github.com/francozanardi/pictex) - A Python library for efficient image generation using CSS Flexbox
 - [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
-- [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source alternative to Logitech Options+ for remapping buttons on the Logitech MX Master 3S mouse
+- [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.
 - [harbor-framework/harbor](https://github.com/harbor-framework/harbor) - Harbor is a framework for running agent evaluations and creating and using RL environments.
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That  Learns
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -1421,6 +1419,7 @@
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
 - [itcook/graphiti-mcp-pro](https://github.com/itcook/graphiti-mcp-pro) - Base on Graphiti, Enhanced Core Capabilities, Broader AI Model Compatibility, and Comprehensive Management UI.
 - [superstarryeyes/lue](https://github.com/superstarryeyes/lue) - Terminal eBook Reader with Audiobook-Quality Text-to-Speech — Supports EPUB, PDF, DOCX, HTML, RTF, TXT, and MD.
+- [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) - A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code, Claude Desktop, Agent SDK and OpenClaw
 - [skorokithakis/catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
 - [johnhuang316/code-index-mcp](https://github.com/johnhuang316/code-index-mcp) - A Model Context Protocol (MCP) server that helps large language models index, search, and analyze code repositories with minimal setup
 - [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
@@ -1562,7 +1561,6 @@
 - [evalplus/evalplus](https://github.com/evalplus/evalplus) - Rigourous evaluation of LLM-synthesized code - NeurIPS 2023 & COLM 2024
 - [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain) - UpTrain is an open-source unified platform to evaluate and improve Generative AI applications. We provide grades for 20+ preconfigured checks (covering language, code, embedding use-cases), perform ro
 - [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your GenAI or LLM application, based on OpenTelemetry
-- [wustho/baca](https://github.com/wustho/baca) - TUI Ebook Reader
 - [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - Cleanlab's open-source library is the standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
 - [Yakabuff/redarc](https://github.com/Yakabuff/redarc) - Reddit archiver
 - [flairNLP/fabricator](https://github.com/flairNLP/fabricator) - [EMNLP 2023 Demo] fabricator - annotating and generating datasets with large language models.
@@ -1648,7 +1646,6 @@
 - [whipper-team/whipper](https://github.com/whipper-team/whipper) - Python CD-DA ripper preferring accuracy over speed
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
-- [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [AutoViML/AutoViz](https://github.com/AutoViML/AutoViz) - Automatically Visualize any dataset, any size with a single line of code.  Created by Ram Seshadri. Collaborators Welcome. Permission Granted upon Request.
 - [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
@@ -1742,6 +1739,8 @@
 
 ## Rust 
 
+- [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB / PDF Book Reader
+- [ynqa/empiriqa](https://github.com/ynqa/empiriqa) - For empiricists...
 - [raine/workmux](https://github.com/raine/workmux) - git worktrees + tmux windows for zero-friction parallel dev
 - [ubugeeei/vize](https://github.com/ubugeeei/vize) - Unofficial High-Performance Vue.js Toolchain in Rust
 - [Dicklesworthstone/coding_agent_session_search](https://github.com/Dicklesworthstone/coding_agent_session_search) - Unified TUI and CLI to index and search your local coding agent session history across 11+ providers (Codex, Claude, Gemini, Cursor, Aider, etc.)
@@ -1998,7 +1997,7 @@
 - [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
-- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Open-source search and retrieval database for AI applications.
+- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Data infrastructure for AI
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable Javascript engine written in Rust.
 - [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
@@ -2160,7 +2159,6 @@
 - [palacms/palacms](https://github.com/palacms/palacms) - Component-based CMS with a built-in IDE, visual editing, and static site generation. One server, unlimited sites.
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [paoloricciuti/svelte-action-balancer](https://github.com/paoloricciuti/svelte-action-balancer) - A svelte action to balance the text inside the an html node. Heavily inspired by react-wrap-balancer
-- [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [svelteuidev/svelteui](https://github.com/svelteuidev/svelteui) - SvelteUI Monorepo
 - [Niek/obs-web](https://github.com/Niek/obs-web) - OBS-web - the easiest way to control OBS remotely
@@ -2209,6 +2207,9 @@
 
 ## TypeScript 
 
+- [first-fluke/oh-my-agent](https://github.com/first-fluke/oh-my-agent) - Portable multi-agent harness for .agents-based skills, workflows, and standards-aware agent teams across Antigravity, Claude Code, Codex, OpenCode, and more.
+- [p2r3/convert](https://github.com/p2r3/convert) - Truly universal online file converter
+- [chenxin-yan/crust](https://github.com/chenxin-yan/crust) - A TypeScript-first, Bun-native CLI framework with composable modules.
 - [megh-bari/pattern-craft](https://github.com/megh-bari/pattern-craft) - Professional-grade background patterns and gradients for your websites and apps. Easily copy and paste into your next project. Crafted with modern CSS and Tailwind for seamless integration.
 - [DigitecGalaxus/next-yak](https://github.com/DigitecGalaxus/next-yak) - 🦀 Zero-runtime CSS-in-JS powered by Rust. Write styled-components syntax, get build-time CSS extraction and full RSC compatibility
 - [btahir/react-kino](https://github.com/btahir/react-kino) - Cinematic scroll-driven storytelling for React
@@ -2354,7 +2355,6 @@
 - [draftswithea/react-query-key-manager](https://github.com/draftswithea/react-query-key-manager) - Type-safe, namespaced query key manager for TanStack Query. Prevents collisions, improves discoverability, and enforces strict argument types — all with zero runtime overhead.
 - [web-infra-dev/rslint](https://github.com/web-infra-dev/rslint) - 🚀 Go Faster. Go Typed
 - [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
-- [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) - A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code, Claude Desktop, Agent SDK and OpenClaw
 - [TanStack/pacer](https://github.com/TanStack/pacer) - Utilities for debouncing, throttling, rate limiting, and queueing. Non-async and Async.
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 - [Pimzino/claude-code-spec-workflow](https://github.com/Pimzino/claude-code-spec-workflow) - Automated workflows for Claude Code. Features spec-driven development for new features (Requirements → Design → Tasks → Implementation) and streamlined bug fix workflow for quick issue resolution (Rep
@@ -2602,7 +2602,6 @@
 - [swan-io/boxed](https://github.com/swan-io/boxed) - Essential building-blocks for functional & safe TypeScript code
 - [fabiospampinato/tiny-spinner](https://github.com/fabiospampinato/tiny-spinner) - A simple, yet beautiful, CLI spinner.
 - [fabiospampinato/specialist](https://github.com/fabiospampinato/specialist) - A library that helps you write tiny, fast, bundled and beautiful CLI apps that can automatically check for updates.
-- [fabiospampinato/tsex](https://github.com/fabiospampinato/tsex) - A little CLI for making TypeScript packages, cleanly and effortlessly.
 - [fabiospampinato/nanoexec](https://github.com/fabiospampinato/nanoexec) - A tiny wrapper around "spawn" for executing a command efficiently and conveniently.
 - [fabiospampinato/tiny-colors](https://github.com/fabiospampinato/tiny-colors) - A tiny library providing the basic ANSI colors for the terminal.
 - [stevenlafl/tts-typescript](https://github.com/stevenlafl/tts-typescript) - Typescript Declarations for Tabletop Simulator
@@ -2934,6 +2933,7 @@
 - [saas-js/saas-ui](https://github.com/saas-js/saas-ui) - The React component library for startups, built with Chakra UI.
 - [felixgirault/schemist](https://github.com/felixgirault/schemist) - Build cohesive and accessible color schemes.
 - [webview/webview_deno](https://github.com/webview/webview_deno) - 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs
+- [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [evilmartians/oklch-picker](https://github.com/evilmartians/oklch-picker) - Color Picker for LCH
 - [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll at it should be
 - [0l1v3rr/github-readme-tech-stack](https://github.com/0l1v3rr/github-readme-tech-stack) - Show off your favorite technologies by using cards in your GitHub README
@@ -3168,6 +3168,7 @@
 
 ## Zig 
 
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [kristoff-it/superhtml](https://github.com/kristoff-it/superhtml) - HTML Validator, Formatter, LSP, and Templating Language Library
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance.
