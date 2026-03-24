@@ -1315,7 +1315,7 @@
 - [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source developer content platform
 - [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
 - [palacms/palacms](https://github.com/palacms/palacms) - Component-based CMS with a built-in IDE, visual editing, and static site generation. One server, unlimited sites.
-- [avitorio/outstatic](https://github.com/avitorio/outstatic) - Outstatic - A static CMS for Next.js
+- [avitorio/outstatic](https://github.com/avitorio/outstatic) - Outstatic - A Powerful CMS for Markdown. A dashboard to write, edit, and publish Markdown and MDX stored in your GitHub repository.
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The superpowered headless CMS for Node.js — built with GraphQL and React
 - [nuxt/content](https://github.com/nuxt/content) - The file-based CMS for your Nuxt application, powered by Markdown and Vue components.
@@ -1548,6 +1548,7 @@
 
 ## css 
 
+- [csskit/csskit](https://github.com/csskit/csskit) - Refreshing CSS
 - [megh-bari/pattern-craft](https://github.com/megh-bari/pattern-craft) - Professional-grade background patterns and gradients for your websites and apps. Easily copy and paste into your next project. Crafted with modern CSS and Tailwind for seamless integration.
 - [bigskysoftware/missing](https://github.com/bigskysoftware/missing) - The classless-ish CSS library you've been missing
 - [knadh/oat](https://github.com/knadh/oat) - Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library. ~8KB min+gz.
@@ -3258,7 +3259,6 @@
 - [mentalblank/PYXIS](https://github.com/mentalblank/PYXIS) - Automated All-in-One (AIO) custom firmware and homebrew packages for modded Nintendo Switch devices.
 - [pathintegral-institute/mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh) - CLI MCP package manager & registry for all platforms and all clients. Search & configure MCP servers. Advanced Router & Profile features.
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv–from the creator of `dotenv`
-- [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 🎁 wraps all package managers with a unifying CLI
 - [aarch64-switch-rs/nx](https://github.com/aarch64-switch-rs/nx) - Userland library for 64-bit Nintendo Switch homebrew (and other potential purposes), written in pure Rust and some assembly bits
 - [dkgitdev/nimNx](https://github.com/dkgitdev/nimNx) - Basic nim template for skipping all the "how-tos" straight to a working example!
 - [XorTroll/Plutonium](https://github.com/XorTroll/Plutonium) - Easy-to-use, SDL2-based UI framework for Nintendo Switch homebrew
@@ -3775,6 +3775,7 @@
 
 ## js 
 
+- [huozhi/sugar-high](https://github.com/huozhi/sugar-high) - ✏️ Super lightweight code syntax highlighter, around 1KB after minified and gzipped
 - [croct-tech/md-lite-js](https://github.com/croct-tech/md-lite-js) - 📝 A simple and easy-to-use Markdown parser and render for basic formatting. Only 1.5 KB gzipped!
 - [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM: DOM Capture Engine – Fast and Accurate HTML Conversion
 - [tryandromeda/andromeda](https://github.com/tryandromeda/andromeda) - JS runtime lolz
@@ -4024,7 +4025,6 @@
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 - [cyberus-technology/virtualbox-kvm](https://github.com/cyberus-technology/virtualbox-kvm) - KVM Backend for VirtualBox. With our current development model, we cannot easily accept pull requests here. If you'd like to contribute, feel free to reach out to us, we are happy to find a solution.
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
-- [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 🎁 wraps all package managers with a unifying CLI
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
 - [cunarist/rinf](https://github.com/cunarist/rinf) - Rust for native business logic, Flutter for flexible and beautiful GUI
@@ -4171,7 +4171,7 @@
 
 ## localization 
 
-- [wuchalejs/wuchale](https://github.com/wuchalejs/wuchale) - Compile-time i18n. Zero code changes. Smallest bundles.
+- [wuchalejs/wuchale](https://github.com/wuchalejs/wuchale) - Compile-time i18n toolkit that requires zero code changes and produces the smallest possible bundles. Supports React, Svelte, SolidJS, Astro, and more
 - [github/relative-time-element](https://github.com/github/relative-time-element) - Web component extensions to the standard &lt;time&gt; element.
 - [projectfluent/fluent.js](https://github.com/projectfluent/fluent.js) - JavaScript implementation of Project Fluent
 
@@ -4294,6 +4294,7 @@
 
 ## macos 
 
+- [saihgupr/DMGMaker](https://github.com/saihgupr/DMGMaker) - A premium macOS DMG creation tool with live-rendered SwiftUI backgrounds, glassmorphism, and Retina support.
 - [raskrebs/sonar](https://github.com/raskrebs/sonar) - CLI tool for inspecting and managing services listening on localhost ports
 - [northpolesec/santa](https://github.com/northpolesec/santa) - A binary and file access authorization system for macOS.
 - [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.
@@ -4339,7 +4340,6 @@
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 - [equationzhao/g](https://github.com/equationzhao/g) - powerful and cross-platform ls 🌈
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
-- [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 🎁 wraps all package managers with a unifying CLI
 - [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3, M4
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
@@ -4385,6 +4385,7 @@
 
 ## markdown 
 
+- [resumx/resumx](https://github.com/resumx/resumx) - Markdown resume renderer with auto page-fitting.
 - [serkodev/markdown-exit](https://github.com/serkodev/markdown-exit) - Fast, customizable Markdown parser and renderer with full CommonMark support. TypeScript rewrite of markdown-it with enhancements.
 - [yfedoseev/pdf_oxide](https://github.com/yfedoseev/pdf_oxide) - The fastest PDF library for Python and Rust. Text extraction, image extraction, markdown conversion, PDF creation & editing. 0.8ms mean, 5× faster than industry leaders, 100% pass rate on 3,830 PDFs. 
 - [rvben/rumdl](https://github.com/rvben/rumdl) - Markdown Linter and Formatter written in Rust
@@ -4732,7 +4733,7 @@
 - [0l1v3rr/github-readme-tech-stack](https://github.com/0l1v3rr/github-readme-tech-stack) - Show off your favorite technologies by using cards in your GitHub README
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - Skeleton is an adaptive design system powered by Tailwind CSS.
-- [avitorio/outstatic](https://github.com/avitorio/outstatic) - Outstatic - A static CMS for Next.js
+- [avitorio/outstatic](https://github.com/avitorio/outstatic) - Outstatic - A Powerful CMS for Markdown. A dashboard to write, edit, and publish Markdown and MDX stored in your GitHub repository.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
 - [opennextjs/opennextjs-aws](https://github.com/opennextjs/opennextjs-aws) - Open-source Next.js adapter for AWS
@@ -5034,7 +5035,6 @@
 - [git-truck/git-truck](https://github.com/git-truck/git-truck) - Git repository visualizations, cumulative contribution statistics and more. Run `npx -y git-truck` to try Git Truck today!
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 🎁 wraps all package managers with a unifying CLI
 - [ranyitz/qnm](https://github.com/ranyitz/qnm) - :mag: cli utility for querying the node_modules directory
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
@@ -5210,6 +5210,9 @@
 
 ## others 
 
+- [remorses/lintcn](https://github.com/remorses/lintcn) - The shadcn for TypeScript lint rules. Let agents write custom rules that follow your preferences. Based on tsgolint & go
+- [joeseesun/markdown-proxy](https://github.com/joeseesun/markdown-proxy) - Fetch any URL as clean Markdown via proxy services (r.jina.ai / defuddle.md) or built-in scripts. Works with login-required pages like X/Twitter, WeCh
+- [agent-ecosystem/skill-validator](https://github.com/agent-ecosystem/skill-validator) - Validate Skill content against Agent Skill specification, with additional content density and quality checks.
 - [dashersw/gea](https://github.com/dashersw/gea) - 
 - [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) - AI-native design editor. Open-source Figma alternative.
 - [akiselev/ghidra-cli](https://github.com/akiselev/ghidra-cli) - Rust cli to run ghidra headless on files so that Claude Code and other agents can reverse engineer stuff
@@ -6130,7 +6133,6 @@
 - [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
 - [percona/pg_stat_monitor](https://github.com/percona/pg_stat_monitor) - Query Performance Monitoring Tool for PostgreSQL
 - [jobinau/pg_gather](https://github.com/jobinau/pg_gather) - Scan PostgreSQL Instance for potential problems. pg_gather is a SQL-only script leveraging the built-in features of psql.
-- [dathere/qsv](https://github.com/dathere/qsv) - Blazing-fast Data-Wrangling toolkit
 - [Yakabuff/redarc](https://github.com/Yakabuff/redarc) - Reddit archiver
 - [encoredev/encore](https://github.com/encoredev/encore) - Open source framework for building robust type-safe distributed systems with declarative infrastructure
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - Simple, Elastic-quality search for Postgres
@@ -6253,7 +6255,6 @@
 ## programming-language 
 
 - [amterp/rad](https://github.com/amterp/rad) - Modern CLI scripts made easy.
-- [Nimaoth/Nev](https://github.com/Nimaoth/Nev) - Nev is a keyboard focused GUI and terminal text editor
 - [odin-lang/Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [dart-lang/sdk](https://github.com/dart-lang/sdk) - The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more.
@@ -6631,7 +6632,7 @@
 - [firecrawl/open-scouts](https://github.com/firecrawl/open-scouts) - 🔥 AI-powered web monitoring platform. Create automated scouts that search the web and send email alerts when they find what you're looking for.
 - [react-zero-ui/icon-sprite](https://github.com/react-zero-ui/icon-sprite) - The fastest way to do icons in React
 - [kcsujeet/ilamy-calendar](https://github.com/kcsujeet/ilamy-calendar) - A modern, open-source Full Calendar alternative for React. Month, week, day, and year views with drag-and-drop, horizontal and vertical resource views, and RFC 5545 recurring events — all MIT licensed
-- [wuchalejs/wuchale](https://github.com/wuchalejs/wuchale) - Compile-time i18n. Zero code changes. Smallest bundles.
+- [wuchalejs/wuchale](https://github.com/wuchalejs/wuchale) - Compile-time i18n toolkit that requires zero code changes and produces the smallest possible bundles. Supports React, Svelte, SolidJS, Astro, and more
 - [warper-org/warper](https://github.com/warper-org/warper) - Ultra-fast React virtualization library powered by Rust and WebAssembly
 - [bklit/bklit-ui](https://github.com/bklit/bklit-ui) - Open-source UI & Charts library
 - [binaricat/Netcatty](https://github.com/binaricat/Netcatty) - SSH workspace, SFTP, and terminals in one
@@ -6790,7 +6791,7 @@
 - [Azarattum/CRStore](https://github.com/Azarattum/CRStore) - Conflict-free replicated store.
 - [fwouts/previewjs](https://github.com/fwouts/previewjs) - Preview UI components in your IDE instantly
 - [kikko-land/kikko](https://github.com/kikko-land/kikko) - Powerful SQLite adapter for web, mobile and desktop. Build reactive UI on top of it
-- [avitorio/outstatic](https://github.com/avitorio/outstatic) - Outstatic - A static CMS for Next.js
+- [avitorio/outstatic](https://github.com/avitorio/outstatic) - Outstatic - A Powerful CMS for Markdown. A dashboard to write, edit, and publish Markdown and MDX stored in your GitHub repository.
 - [stevenpetryk/mafs](https://github.com/stevenpetryk/mafs) - React components for interactive math
 - [react-simple-code-editor/react-simple-code-editor](https://github.com/react-simple-code-editor/react-simple-code-editor) - Simple no-frills code editor with syntax highlighting
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
@@ -6998,6 +6999,8 @@
 
 ## rust 
 
+- [csskit/csskit](https://github.com/csskit/csskit) - Refreshing CSS
+- [tobilg/polyglot](https://github.com/tobilg/polyglot) - Rust/Wasm-powered SQL transpiler for more than 30 SQL dialects
 - [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control CLI. Entity-level diff, blame, graph, and impact analysis for code. 21 languages via tree-sitter.
 - [Microck/kagi-cli](https://github.com/Microck/kagi-cli) - terminal CLI for Kagi that gives you command-line access to search, lenses, assistant, summarization, feeds, and paid API commands.
 - [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB / PDF Book Reader
@@ -7465,6 +7468,7 @@
 
 ## sql 
 
+- [tobilg/polyglot](https://github.com/tobilg/polyglot) - Rust/Wasm-powered SQL transpiler for more than 30 SQL dialects
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki & ES.
 - [sxzz/ast-explorer](https://github.com/sxzz/ast-explorer) - A web tool to explore the ASTs generated by parsers.
 - [liquidaty/zsv](https://github.com/liquidaty/zsv) - zsv+lib: tabular data swiss-army knife CLI + world's fastest (simd) CSV parser
@@ -7658,7 +7662,7 @@
 
 - [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - A structure-aware skeleton loader that mirrors your rendered UI at runtime. Zero layout duplication. Built for modern frameworks.
 - [xoidlabs/xoid](https://github.com/xoidlabs/xoid) - Framework-agnostic state management library designed for simplicity and scalability ⚛
-- [wuchalejs/wuchale](https://github.com/wuchalejs/wuchale) - Compile-time i18n. Zero code changes. Smallest bundles.
+- [wuchalejs/wuchale](https://github.com/wuchalejs/wuchale) - Compile-time i18n toolkit that requires zero code changes and produces the smallest possible bundles. Supports React, Svelte, SolidJS, Astro, and more
 - [sxzz/ast-explorer](https://github.com/sxzz/ast-explorer) - A web tool to explore the ASTs generated by parsers.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [qmhc/unplugin-dts](https://github.com/qmhc/unplugin-dts) - An unplugin for generating declaration (dts) files.
@@ -7770,6 +7774,7 @@
 
 ## tailwindcss 
 
+- [resumx/resumx](https://github.com/resumx/resumx) - Markdown resume renderer with auto page-fitting.
 - [AmanVarshney01/create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack) - A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations
 - [megh-bari/pattern-craft](https://github.com/megh-bari/pattern-craft) - Professional-grade background patterns and gradients for your websites and apps. Easily copy and paste into your next project. Crafted with modern CSS and Tailwind for seamless integration.
 - [gridaco/grida](https://github.com/gridaco/grida) - Grida — Ambitious 2D Graphics Editor for the Web
@@ -8307,7 +8312,7 @@
 - [icflorescu/trpc-sveltekit](https://github.com/icflorescu/trpc-sveltekit) - End-to-end typesafe APIs with tRPC.io for your SvelteKit applications.
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.
 - [kikko-land/kikko](https://github.com/kikko-land/kikko) - Powerful SQLite adapter for web, mobile and desktop. Build reactive UI on top of it
-- [avitorio/outstatic](https://github.com/avitorio/outstatic) - Outstatic - A static CMS for Next.js
+- [avitorio/outstatic](https://github.com/avitorio/outstatic) - Outstatic - A Powerful CMS for Markdown. A dashboard to write, edit, and publish Markdown and MDX stored in your GitHub repository.
 - [DanielXMoore/Civet](https://github.com/DanielXMoore/Civet) - A TypeScript superset that favors more types and less typing
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
@@ -8773,7 +8778,6 @@
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 - [equationzhao/g](https://github.com/equationzhao/g) - powerful and cross-platform ls 🌈
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
-- [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 🎁 wraps all package managers with a unifying CLI
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
 - [cunarist/rinf](https://github.com/cunarist/rinf) - Rust for native business logic, Flutter for flexible and beautiful GUI
