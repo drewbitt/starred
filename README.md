@@ -123,6 +123,7 @@
 
 ## C 
 
+- [timsehn/doltlite](https://github.com/timsehn/doltlite) - A fork of SQLite that has Dolt storage and features
 - [unjs/md4x](https://github.com/unjs/md4x) - 📄 Fast and small markdown parser and renderer
 - [yoanbernabeu/grepai](https://github.com/yoanbernabeu/grepai) - Semantic Search & Call Graphs for AI Agents (100% Local)
 - [fanchmwrt/fanchmwrt](https://github.com/fanchmwrt/fanchmwrt) - An open-source home firewall system,developed based on OpenWrt.
@@ -488,6 +489,9 @@
 
 ## Go 
 
+- [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
+- [junevm/splathash](https://github.com/junevm/splathash) - compress any image to 16 bytes and reconstruct a blurry preview. Like blurhash and thumbhash, but smaller.
+- [jrswab/axe](https://github.com/jrswab/axe) - A ligthweight cli for running single-purpose AI agents. Define focused agents in TOML, trigger them from anywhere; pipes, git hooks, cron, or the terminal.
 - [railwayapp/railpack](https://github.com/railwayapp/railpack) - Zero-config application builder that automatically analyzes and turns your code into an image
 - [remorses/lintcn](https://github.com/remorses/lintcn) - shadcn for type aware lint rules. Let agents write custom rules that follow your preferences. Prevent agents from adding 'as' and 'in' everywhere. Based on tsgolint & go
 - [agent-ecosystem/skill-validator](https://github.com/agent-ecosystem/skill-validator) - Validate Skill content against Agent Skill specification, with additional content density and quality checks.
@@ -500,7 +504,6 @@
 - [steipete/gifgrep](https://github.com/steipete/gifgrep) - Grep the GIF. Stick the landing.
 - [git-pkgs/git-pkgs](https://github.com/git-pkgs/git-pkgs) - About  A git subcommand for analyzing package/dependency usage in git repositories over time
 - [gittower/git-flow-next](https://github.com/gittower/git-flow-next) - A modern reimplementation of git-flow in Go that offers greater flexibility while maintaining backward compatibility with the original git-flow and git-flow-avh.
-- [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [jozefcipa/novus](https://github.com/jozefcipa/novus) - A local HTTPS proxy for a delightful developer experience on macOS
 - [wesm/msgvault](https://github.com/wesm/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB
@@ -828,6 +831,7 @@
 
 ## JavaScript 
 
+- [4ier/neo](https://github.com/4ier/neo) - Turn any web app into an API. Chrome extension captures browser traffic, auto-generates schemas, lets AI replay APIs directly. No official API needed.
 - [dashersw/gea](https://github.com/dashersw/gea) - 
 - [wasmerio/edgejs](https://github.com/wasmerio/edgejs) - Edge.js is a secure JavaScript runtime, designed for Edge computing and AI workloads
 - [platformatic/platformatic](https://github.com/platformatic/platformatic) - Platformatic Open Source monorepo!
@@ -985,7 +989,7 @@
 - [codeceptjs/CodeceptJS](https://github.com/codeceptjs/CodeceptJS) - Supercharged End 2 End Testing Framework for NodeJS
 - [arakoodev/EdgeChains](https://github.com/arakoodev/EdgeChains) - EdgeChains.js is Full-Stack GenAI library. Front-end, backend, apis, prompt management, distributed computing. All core prompts & chains are managed declaratively in jsonnet (and not hidden in classes
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
-- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
+- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a modern & lightweight HTML5 game engine
 - [vanjs-org/van](https://github.com/vanjs-org/van) - 🍦 VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour.
 - [rive-app/rive-wasm](https://github.com/rive-app/rive-wasm) - Wasm/JS runtime for Rive
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
@@ -1269,6 +1273,7 @@
 ## Others 
 
 - [Nimbalyst/nimbalyst](https://github.com/Nimbalyst/nimbalyst) - Nimbalyst - Public releases, issue tracking, and documentation
+- [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - [666OS/ClashMac](https://github.com/666OS/ClashMac) - Native Proxy Experience Built for macOS
 - [mentalblank/PYXIS](https://github.com/mentalblank/PYXIS) - Automated All-in-One (AIO) custom firmware and homebrew packages for modded Nintendo Switch devices.
 - [wasmCloud/wash](https://github.com/wasmCloud/wash) - The Wasm Shell
@@ -1465,7 +1470,7 @@
 - [RayFernando1337/MLX-Auto-Subtitled-Video-Generator](https://github.com/RayFernando1337/MLX-Auto-Subtitled-Video-Generator) - Generate accurate transcripts using Apple's MLX framework
 - [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
-- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - GenAI Agent Framework, the Pydantic way
+- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - AI Agent Framework, the Pydantic way
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 - [libass/JavascriptSubtitlesOctopus](https://github.com/libass/JavascriptSubtitlesOctopus) - Displays subtitles in .ass format from JavaScript. Supports most SSA/ASS features, easily integrates with HTML5 videos.
 - [hauntsaninja/pyp](https://github.com/hauntsaninja/pyp) - Easily run Python at the shell! Magical, but never mysterious.
@@ -1538,22 +1543,17 @@
 - [nuclia/nucliadb](https://github.com/nuclia/nucliadb) - NucliaDB, The AI Search database for RAG
 - [h2oai/enterprise-h2ogpte](https://github.com/h2oai/enterprise-h2ogpte) - Client Code Examples, Use Cases and Benchmarks for Enterprise h2oGPTe RAG-Based GenAI Platform
 - [pts/pdfsizeopt](https://github.com/pts/pdfsizeopt) - PDF file size optimizer
-- [mosaicml/composer](https://github.com/mosaicml/composer) - Supercharge Your Model Training
-- [athina-ai/athina-evals](https://github.com/athina-ai/athina-evals) - Python SDK for running evaluations on LLM generated responses
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [online-ml/river](https://github.com/online-ml/river) - 🌊 Online machine learning in Python
 - [amazon-science/chronos-forecasting](https://github.com/amazon-science/chronos-forecasting) - Chronos: Pretrained Models for Time Series Forecasting
-- [salesforce/Merlion](https://github.com/salesforce/Merlion) - Merlion: A Machine Learning Framework for Time Series Intelligence
 - [marsupialtail/quokka](https://github.com/marsupialtail/quokka) - Making data lake work for time series
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [getmoto/moto](https://github.com/getmoto/moto) - A library that allows you to easily mock out tests based on AWS infrastructure.
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API.
 - [autogluon/autogluon](https://github.com/autogluon/autogluon) - Fast and Accurate ML in 3 Lines of Code
 - [geldata/imdbench](https://github.com/geldata/imdbench) - IMDBench — Realistic ORM benchmarking
 - [functime-org/functime](https://github.com/functime-org/functime) - Time-series machine learning at scale. Built with Polars for embarrassingly parallel feature extraction and forecasts on panel data.
 - [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
-- [Hillobar/Rope](https://github.com/Hillobar/Rope) - GUI-focused roop
 - [nyggus/perftester](https://github.com/nyggus/perftester) - A lightweight Python package for performance testing of Python functions.
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [Nixtla/neuralforecast](https://github.com/Nixtla/neuralforecast) - Scalable and user friendly neural :brain: forecasting algorithms.
@@ -1754,6 +1754,8 @@
 
 ## Rust 
 
+- [armgabrielyan/deadbranch](https://github.com/armgabrielyan/deadbranch) - Clean up stale git branches safely.
+- [Dicklesworthstone/pi_agent_rust](https://github.com/Dicklesworthstone/pi_agent_rust) - High-performance AI coding agent CLI written in Rust with zero unsafe code
 - [coollabsio/maxio](https://github.com/coollabsio/maxio) - MaxIO, a better MinIO
 - [csskit/csskit](https://github.com/csskit/csskit) - Refreshing CSS
 - [tobilg/polyglot](https://github.com/tobilg/polyglot) - Rust/Wasm-powered SQL transpiler for more than 30 SQL dialects
@@ -1802,7 +1804,7 @@
 - [sheeki03/tirith](https://github.com/sheeki03/tirith) - Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate and intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute.
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
 - [rari-build/benchmarks](https://github.com/rari-build/benchmarks) - Comprehensive performance benchmarks comparing rari (Rust-powered RSC) vs Next.js across build times, rendering speed, TTFB, bundle size, and concurrent load handling.
-- [rari-build/rari](https://github.com/rari-build/rari) - rari: High-performance React Server Components framework powered by a Rust runtime, delivering 9.1x faster response times (0.43ms vs 3.92ms) and 46.5x higher throughput (74,662 vs 1,605 req/sec) than 
+- [rari-build/rari](https://github.com/rari-build/rari) - rari: High-performance React Server Components framework powered by a Rust runtime, delivering 8.7x faster response times (0.14ms vs 1.22ms) and 44.9x higher throughput (67,208 vs 1,496 req/sec) than 
 - [kane50613/takumi](https://github.com/kane50613/takumi) - Render image, GIF or video from JSX-like syntax.
 - [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
@@ -2169,6 +2171,7 @@
 
 ## Svelte 
 
+- [66HEX/frame](https://github.com/66HEX/frame) - Fast FFmpeg GUI
 - [stolinski/graffiti](https://github.com/stolinski/graffiti) - A minimal CSS framework with utilities that are actually useful.
 - [hayase-app/website](https://github.com/hayase-app/website) - Website of the Hayase project
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
@@ -2233,6 +2236,8 @@
 
 ## TypeScript 
 
+- [AmElmo/proofshot](https://github.com/AmElmo/proofshot) - 
+- [shoelace-style/webawesome](https://github.com/shoelace-style/webawesome) - Build better with Web Awesome, the open source library of web components from Font Awesome. Upgrade to Pro and ship websites faster!
 - [resumx/resumx](https://github.com/resumx/resumx) - Markdown resume renderer with auto page-fitting.
 - [huozhi/sugar-high](https://github.com/huozhi/sugar-high) - ✏️ Super lightweight code syntax highlighter, around 1KB after minified and gzipped
 - [Narcooo/inkos](https://github.com/Narcooo/inkos) - Autonomous novel writing CLI agent — AI agents write, audit, and revise novels with human review gates
@@ -2280,7 +2285,7 @@
 - [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) - Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk 
 - [dmmulroy/better-result](https://github.com/dmmulroy/better-result) - Lightweight Result type for TypeScript with generator-based composition.
 - [tobilg/ducklings](https://github.com/tobilg/ducklings) - A minimal DuckDB Wasm build for browsers and serverless environments like Cloudflare Workers
-- [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - Runtime skeleton generator that mirrors your actual UI structure. Zero layout duplication. Built for modern frameworks.
+- [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - A structure-aware skeleton loader that mirrors your rendered UI at runtime. Zero layout duplication. Built for modern frameworks.
 - [mutativejs/travels](https://github.com/mutativejs/travels) - A fast, framework-agnostic undo/redo core powered by Mutative JSON Patch
 - [xoidlabs/xoid](https://github.com/xoidlabs/xoid) - Framework-agnostic state management library designed for simplicity and scalability ⚛
 - [caioricciuti/duck-ui](https://github.com/caioricciuti/duck-ui) - Duck-UI is a web-based interface for interacting with DuckDB, a high-performance analytical database system. It features a SQL editor, data import/export, data explorer, query history, theme toggle, a
@@ -2323,7 +2328,6 @@
 - [iamsrikanthnani/pluely](https://github.com/iamsrikanthnani/pluely) - The Open Source Alternative to Cluely - A lightning-fast, privacy-first AI assistant that works seamlessly during meetings, interviews, and conversations without anyone knowing. Built with Tauri for n
 - [upstash/realtime](https://github.com/upstash/realtime) - Ultrafast & lightweight realtime package for React
 - [uni-stack/uniwind](https://github.com/uni-stack/uniwind) - From the creators of Unistyles: The fastest Tailwind bindings for React Native
-- [punkpeye/pipenet](https://github.com/punkpeye/pipenet) - Expose your local server to the public internet instantly
 - [AndyMik90/Aperant](https://github.com/AndyMik90/Aperant) - Autonomous multi-session AI coding
 - [johnsoncodehk/tsslint](https://github.com/johnsoncodehk/tsslint) - 🔋⚡️ The lightest TypeScript semantic linting solution in JS
 - [tinybirdco/llm-benchmark](https://github.com/tinybirdco/llm-benchmark) - We assessed the ability of popular LLMs to generate accurate and efficient SQL from natural language prompts. Using a 200 million record dataset from the GH Archive uploaded to Tinybird, we asked the 
@@ -2681,7 +2685,6 @@
 - [bokuweb/zstd-wasm](https://github.com/bokuweb/zstd-wasm) - Zstandard for browser, Node.js and Deno
 - [dahlia/logtape](https://github.com/dahlia/logtape) - Unobtrusive logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
-- [Oneirocom/Magick](https://github.com/Oneirocom/Magick) - Magick is a cutting-edge toolkit for a new kind of AI builder. Make Magick with us!
 - [Shopify/hydrogen](https://github.com/Shopify/hydrogen) - Hydrogen lets you build faster headless storefronts in less time, on Shopify.
 - [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir and PHP based on Redis
 - [malloydata/malloy](https://github.com/malloydata/malloy) - Malloy is a modern open source language for describing data relationships and transformations.
@@ -2693,7 +2696,6 @@
 - [graphql-hive/graphql-yoga](https://github.com/graphql-hive/graphql-yoga) - 🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements WHATWG Fetch API and can run/deploy on any JS environment.
 - [kitsonk/kv-toolbox](https://github.com/kitsonk/kv-toolbox) - Utilities for working with Deno KV 🦕🗝️
 - [superagent-ai/superagent](https://github.com/superagent-ai/superagent) - Superagent protects your AI applications against prompt injections, data leaks, and harmful outputs. Embed safety directly into your app and prove compliance to your customers.
-- [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - 
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Less chaos. More flow.
 - [msgpack/msgpack-javascript](https://github.com/msgpack/msgpack-javascript) - @msgpack/msgpack - MessagePack for JavaScript / msgpack.org[ECMA-262/JavaScript/TypeScript]
 - [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
@@ -2906,7 +2908,7 @@
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [davidtorosyan/ti-js](https://github.com/davidtorosyan/ti-js) - TI-Basic interpreter written in JavaScript.
-- [forge-42/react-router-devtools](https://github.com/forge-42/react-router-devtools) - Debug your apps, find hydration errors, trace your network and more in your react-router app with these devtools
+- [code-forge-io/react-router-devtools](https://github.com/code-forge-io/react-router-devtools) - Debug your apps, find hydration errors, trace your network and more in your react-router app with these devtools
 - [ianarawjo/ChainForge](https://github.com/ianarawjo/ChainForge) - An open-source visual programming environment for battle-testing prompts to LLMs.
 - [mintlify/writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - OpenObserve is an open-source observability platform for logs, metrics, traces, and frontend monitoring. A cost-effective alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage cost
@@ -3056,7 +3058,6 @@
 - [remult/remult](https://github.com/remult/remult) - Full-stack CRUD, simplified, with SSOT TypeScript entities
 - [hattipjs/hattip](https://github.com/hattipjs/hattip) - Like Express, but for the future
 - [vikejs/vike](https://github.com/vikejs/vike) - (Replaces Next.js/Nuxt) 🔨 Composable framework to build advanced applications with flexibility and stability.
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - Shoelace is now Web Awesome. Come see what’s new!
 - [SimeonGriggs/tints.dev](https://github.com/SimeonGriggs/tints.dev) - 11-color Palette Generator and API for Tailwind CSS
 - [primer/prism](https://github.com/primer/prism) - A tool for creating and maintaining cohesive, consistent, and accessible color palettes
 - [chakra-ui/zag](https://github.com/chakra-ui/zag) - Build your design system in React, Solid, Vue or Svelte. Powered by finite state machines
