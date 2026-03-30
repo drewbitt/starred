@@ -360,6 +360,7 @@
 
 ## CSS 
 
+- [franken-ui/style](https://github.com/franken-ui/style) - [MIRROR] Frankenstyle is the spiritual successor to Franken UI.
 - [bigskysoftware/missing](https://github.com/bigskysoftware/missing) - The classless-ish CSS library you've been missing
 - [knadh/oat](https://github.com/knadh/oat) - Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library. ~8KB min+gz.
 - [stevedylandev/bhvr](https://github.com/stevedylandev/bhvr) - A monorepo template using Bun, Hono, Vite, and React
@@ -369,7 +370,6 @@
 - [simonw/datasette-lite](https://github.com/simonw/datasette-lite) - Datasette running in your browser using WebAssembly and Pyodide
 - [vaibhav111tandon/vov.css](https://github.com/vaibhav111tandon/vov.css) - 📱💻A CSS Library for small but useful animations💻📱
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
-- [zce/html5up](https://github.com/zce/html5up) - HTML5 UP! Responsive HTML5 and CSS3 Site Templates
 - [amethystnetwork-dev/Incognito](https://github.com/amethystnetwork-dev/Incognito) - Unofficial Incognito easy deployment version with wisp server included.
 - [angel-rs/css-color-filter-generator](https://github.com/angel-rs/css-color-filter-generator) - Generate custom css filter property to achieve any target color :art:
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
@@ -506,6 +506,7 @@
 - [steipete/gifgrep](https://github.com/steipete/gifgrep) - Grep the GIF. Stick the landing.
 - [git-pkgs/git-pkgs](https://github.com/git-pkgs/git-pkgs) - About  A git subcommand for analyzing package/dependency usage in git repositories over time
 - [gittower/git-flow-next](https://github.com/gittower/git-flow-next) - A modern reimplementation of git-flow in Go that offers greater flexibility while maintaining backward compatibility with the original git-flow and git-flow-avh.
+- [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [jozefcipa/novus](https://github.com/jozefcipa/novus) - A local HTTPS proxy for a delightful developer experience on macOS
 - [wesm/msgvault](https://github.com/wesm/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB
@@ -654,7 +655,6 @@
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
-- [Gelio/go-global-update](https://github.com/Gelio/go-global-update) - A command to update globally installed go executables
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The to-do app to organize your life.
@@ -739,7 +739,6 @@
 - [shadawck/awesome-cli-frameworks](https://github.com/shadawck/awesome-cli-frameworks) - Collection of tools to build beautiful command line interface in different languages
 - [ClickHouse/ClickBench](https://github.com/ClickHouse/ClickBench) - ClickBench: a Benchmark For Analytical Databases
 - [coiled/tpch](https://github.com/coiled/tpch) - Results from TPC-H Benchmarks
-- [merakiuilabs/merakiui](https://github.com/merakiuilabs/merakiui) - Tailwind CSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid with elegant Dark Mode 🚀 ☄️.
 - [lowcoder-org/lowcoder](https://github.com/lowcoder-org/lowcoder) - 🔥 🔥 🔥 The Open Source Retool, Tooljet and Appsmith Alternative
 - [keiyoushi/extensions](https://github.com/keiyoushi/extensions) - Extension repository for Mihon and variants
 - [jobinau/pg_gather](https://github.com/jobinau/pg_gather) - Scan PostgreSQL Instance for potential problems. pg_gather is a SQL-only script leveraging the built-in features of psql.
@@ -785,6 +784,8 @@
 
 ## Java 
 
+- [stefanvictora/hue-scheduler](https://github.com/stefanvictora/hue-scheduler) - ☀ Sync Philips Hue & Home Assistant lights to your natural rhythm—with solar-aware schedules and smooth transitions.
+- [Freeyourgadget/Gadgetbridge](https://github.com/Freeyourgadget/Gadgetbridge) - We are on codeberg.org now! https://codeberg.org/Freeyourgadget/Gadgetbridge -  Gadgetbridge - A free and cloudless replacement for your gadget vendors' closed source Android applications. Supports Pe
 - [helidon-io/helidon](https://github.com/helidon-io/helidon) - Java libraries for writing microservices
 - [Suwayomi/Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) - A rewrite of Tachiyomi for the Desktop
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
@@ -832,6 +833,7 @@
 
 ## JavaScript 
 
+- [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 - [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) - 
 - [4ier/neo](https://github.com/4ier/neo) - Turn any web app into an API. Chrome extension captures browser traffic, auto-generates schemas, lets AI replay APIs directly. No official API needed.
 - [dashersw/gea](https://github.com/dashersw/gea) - A batteries-included, reactive JavaScript UI framework. No virtual DOM. Compile-time JSX transforms. Proxy-based stores. Surgical DOM patching.
@@ -931,7 +933,6 @@
 - [stack-auth/pgmock](https://github.com/stack-auth/pgmock) - In-memory Postgres for unit/E2E tests
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
-- [fernando-mc/serverless-finch](https://github.com/fernando-mc/serverless-finch) - A Serverless Framework Plugin for Static Site Deployment
 - [fastify/fast-json-stringify](https://github.com/fastify/fast-json-stringify) - 2x faster than JSON.stringify()
 - [nuejs/nue](https://github.com/nuejs/nue) - Fastest way to build modern websites
 - [aws-lite/aws-lite](https://github.com/aws-lite/aws-lite) - A simple, fast, extensible AWS client
@@ -990,7 +991,6 @@
 - [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [codeceptjs/CodeceptJS](https://github.com/codeceptjs/CodeceptJS) - Supercharged End 2 End Testing Framework for NodeJS
 - [arakoodev/EdgeChains](https://github.com/arakoodev/EdgeChains) - EdgeChains.js is Full-Stack GenAI library. Front-end, backend, apis, prompt management, distributed computing. All core prompts & chains are managed declaratively in jsonnet (and not hidden in classes
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a modern & lightweight HTML5 game engine
 - [vanjs-org/van](https://github.com/vanjs-org/van) - 🍦 VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour.
 - [rive-app/rive-wasm](https://github.com/rive-app/rive-wasm) - Wasm/JS runtime for Rive
@@ -1275,7 +1275,6 @@
 ## Others 
 
 - [Nimbalyst/nimbalyst](https://github.com/Nimbalyst/nimbalyst) - Nimbalyst - Public releases, issue tracking, and documentation
-- [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - [666OS/ClashMac](https://github.com/666OS/ClashMac) - Native Proxy Experience Built for macOS
 - [mentalblank/PYXIS](https://github.com/mentalblank/PYXIS) - Automated All-in-One (AIO) custom firmware and homebrew packages for modded Nintendo Switch devices.
 - [wasmCloud/wash](https://github.com/wasmCloud/wash) - The Wasm Shell
@@ -1398,6 +1397,8 @@
 
 ## Python 
 
+- [mhdzumair/MediaFusion](https://github.com/mhdzumair/MediaFusion) - Universal  Add-On for Stremio & Kodi
+- [the-momentum/open-wearables](https://github.com/the-momentum/open-wearables) - Self-hosted platform to unify wearable health data through one AI-ready API.
 - [android-bench/android-bench](https://github.com/android-bench/android-bench) - Android Bench is a framework for benchmarking Large Language Models (LLMs) on Android development tasks. It evaluates an AI model's ability to understand mobile codebases, generate accurate patches, a
 - [mrphrazer/binary-ninja-headless-mcp](https://github.com/mrphrazer/binary-ninja-headless-mcp) - Headless Binary Ninja MCP server — giving AI agents deep reverse-engineering capabilities via 180 tools.
 - [joeseesun/markdown-proxy](https://github.com/joeseesun/markdown-proxy) - Fetch any URL as clean Markdown via proxy services (r.jina.ai / defuddle.md) or built-in scripts. Works with login-required pages like X/Twitter, WeCh
@@ -1809,7 +1810,7 @@
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
 - [rari-build/benchmarks](https://github.com/rari-build/benchmarks) - Comprehensive performance benchmarks comparing rari (Rust-powered RSC) vs Next.js across build times, rendering speed, TTFB, bundle size, and concurrent load handling.
 - [rari-build/rari](https://github.com/rari-build/rari) - rari: High-performance React Server Components framework powered by a Rust runtime, delivering 9.8x faster response times (0.08ms vs 0.78ms) and 47.7x higher throughput (71,404 vs 1,497 req/sec) than 
-- [kane50613/takumi](https://github.com/kane50613/takumi) - Render image, GIF or video from JSX-like syntax.
+- [kane50613/takumi](https://github.com/kane50613/takumi) - Rust-powered image renderer for JSX. Drop-in replacement for next/og.
 - [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [tryandromeda/andromeda](https://github.com/tryandromeda/andromeda) - JS runtime lolz
@@ -2241,6 +2242,8 @@
 
 ## TypeScript 
 
+- [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) - 🦀 A fast Rsbuild-based static site generator.
+- [chenglou/pretext](https://github.com/chenglou/pretext) - 
 - [franklioxygen/MyTube](https://github.com/franklioxygen/MyTube) - Self-hosted downloader and player for YouTube, Bilibili, MissAV, and yt-dlp sites. Features channel subscriptions, auto-downloads, and local storage for media. Organize your library into collections w
 - [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) - SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
 - [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
@@ -2251,7 +2254,7 @@
 - [AmElmo/proofshot](https://github.com/AmElmo/proofshot) - Give AI coding agents eyes. Records browser sessions, captures screenshots, collects errors, and bundles proof artifacts — so humans can verify what the agent built.
 - [shoelace-style/webawesome](https://github.com/shoelace-style/webawesome) - Build better with Web Awesome, the open source library of web components from Font Awesome. Upgrade to Pro and ship websites faster!
 - [resumx/resumx](https://github.com/resumx/resumx) - Markdown resume renderer with auto page-fitting.
-- [huozhi/sugar-high](https://github.com/huozhi/sugar-high) - ✏️ Super lightweight code syntax highlighter, around 1KB after minified and gzipped
+- [huozhi/sugar-high](https://github.com/huozhi/sugar-high) - ✏️ Super lightweight code syntax highlighter
 - [Narcooo/inkos](https://github.com/Narcooo/inkos) - Autonomous novel writing CLI AI Agent — agents write, audit, and revise novels with human review gates
 - [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) - AI-native design editor. Open-source Figma alternative.
 - [AmanVarshney01/create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack) - A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations
@@ -2777,7 +2780,6 @@
 - [tinylibs/tinybench](https://github.com/tinylibs/tinybench) - 🔎 A simple, tiny and lightweight benchmarking library!
 - [vercel/fun](https://github.com/vercel/fun) - ƒun - Local serverless function λ development runtime
 - [partykit/partykit](https://github.com/partykit/partykit) - PartyKit simplifies developing multiplayer applications
-- [partykit/remix-starter](https://github.com/partykit/remix-starter) - 🎈 PartyKit ⤫ Remix 💿
 - [gajus/roarr](https://github.com/gajus/roarr) - JSON logger for Node.js and browser.
 - [upstash/ratelimit-js](https://github.com/upstash/ratelimit-js) - Rate limiting library for serverless runtimes
 - [asteasolutions/zod-to-openapi](https://github.com/asteasolutions/zod-to-openapi) - A library that generates OpenAPI (Swagger) docs from Zod schemas
@@ -2928,6 +2930,7 @@
 - [sqlchat/sqlchat](https://github.com/sqlchat/sqlchat) - Chat-based SQL Client and Editor for the next decade
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
 - [algolia/autocomplete](https://github.com/algolia/autocomplete) - 🔮 Fast and full-featured autocomplete library
 - [vercel/modelfusion](https://github.com/vercel/modelfusion) - The TypeScript library for building AI applications.
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
@@ -3110,7 +3113,6 @@
 - [appy-one/acebase](https://github.com/appy-one/acebase) - A fast, low memory, transactional, index & query enabled NoSQL database engine and server for node.js and browser with realtime data change notifications
 - [ConduitPlatform/Conduit](https://github.com/ConduitPlatform/Conduit) - Batteries-included backend that works with any stack.
 - [upstash/redis-js](https://github.com/upstash/redis-js) - HTTP based Redis Client for Serverless and Edge Functions
-- [OrJDev/create-jd-app](https://github.com/OrJDev/create-jd-app) - The quickest and most efficient way to start new full stack, type safed Solid web app
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
@@ -3199,7 +3201,6 @@
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
 - [KlausSchaefers/quant-ux](https://github.com/KlausSchaefers/quant-ux) - Quant-UX - Prototype, Test and Learn
 - [moollaza/repo-remover](https://github.com/moollaza/repo-remover) - A web app that helps you archive and delete old/unused repos, quickly and easily.
-- [jordihales/hypercolor](https://github.com/jordihales/hypercolor) - A curated collection of beautiful premade gradients using default colors from the Tailwind palette as well as a selection of custom color gradients.
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [beercss/beercss](https://github.com/beercss/beercss) - Build material design interfaces in record time... without stress for devs... 🍺💛
 
