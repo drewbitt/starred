@@ -24,6 +24,7 @@
 - [Elixir](#elixir)
 - [Elm](#elm)
 - [F#](#f#)
+- [Fluent](#fluent)
 - [GDScript](#gdscript)
 - [Gherkin](#gherkin)
 - [Gleam](#gleam)
@@ -118,7 +119,6 @@
 ## Blade 
 
 - [platformatic/watt-next-laravel](https://github.com/platformatic/watt-next-laravel) - A demo of Laravel running via the @platformatic/php stackable.
-- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 - [takielias/tablar](https://github.com/takielias/tablar) - Tablar: A Laravel blade starter kit Based on Tabler HTML Template + Vite. https://tablar.ebuz.xyz/docs
 
 ## C 
@@ -369,7 +369,6 @@
 - [cssnano/cssnano](https://github.com/cssnano/cssnano) - A modular minifier, built on top of the PostCSS ecosystem.
 - [simonw/datasette-lite](https://github.com/simonw/datasette-lite) - Datasette running in your browser using WebAssembly and Pyodide
 - [vaibhav111tandon/vov.css](https://github.com/vaibhav111tandon/vov.css) - 📱💻A CSS Library for small but useful animations💻📱
-- [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [amethystnetwork-dev/Incognito](https://github.com/amethystnetwork-dev/Incognito) - Unofficial Incognito easy deployment version with wisp server included.
 - [angel-rs/css-color-filter-generator](https://github.com/angel-rs/css-color-filter-generator) - Generate custom css filter property to achieve any target color :art:
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
@@ -473,6 +472,10 @@
 - [elmish/elmish](https://github.com/elmish/elmish) - Elm-like abstractions for F# apps
 - [fable-compiler/Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript, TypeScript, Python, Rust, Erlang and Dart Compiler
 
+## Fluent 
+
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+
 ## GDScript 
 
 - [drwhut/tabletop-club](https://github.com/drwhut/tabletop-club) - An open-source platform for playing tabletop games in a physics-based 3D environment for Windows, macOS, and Linux! Made with the Godot Engine.
@@ -539,7 +542,6 @@
 - [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) - Realtime BirdNET soundscape analyzer
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin) - A multi-shell completion binary.
-- [element-hq/dendrite](https://github.com/element-hq/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [remotemobprogramming/mob](https://github.com/remotemobprogramming/mob) - Tool for smooth git handover.
 - [nafey/minimalytics](https://github.com/nafey/minimalytics) - Standalone analytics app in a CLI
@@ -939,8 +941,10 @@
 - [nuejs/nue](https://github.com/nuejs/nue) - Fastest way to build modern websites
 - [aws-lite/aws-lite](https://github.com/aws-lite/aws-lite) - A simple, fast, extensible AWS client
 - [fastify/fastify-express](https://github.com/fastify/fastify-express) - Express compatibility layer for Fastify
+- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 - [salesforce/lwc](https://github.com/salesforce/lwc) - ⚡️ LWC - A Blazing Fast, Enterprise-Grade Web Components Foundation
 - [raphaelameaume/fragment](https://github.com/raphaelameaume/fragment) - [alpha] A web development environment for creative coding
+- [bewcloud/bewcloud](https://github.com/bewcloud/bewcloud) - A simpler alternative to Nextcloud and ownCloud, built with TypeScript and Deno. 🦕
 - [fastify/fastify-vite](https://github.com/fastify/fastify-vite) - Fastify plugin for Vite integration
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
@@ -980,6 +984,7 @@
 - [open-source-labs/Swell](https://github.com/open-source-labs/Swell) - Swell: API development tool that enables developers to test endpoints served over streaming technologies including Server-Sent Events (SSE), WebSockets, HTTP2, GraphQL, gRPC, and tRPC..
 - [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Privacy-focused encrypted email for everyone.  All-in-one alternative to Gmail + Mailchimp + Sendgrid.
 - [sindresorhus/ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner
+- [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
 - [debug-js/debug](https://github.com/debug-js/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
@@ -993,6 +998,7 @@
 - [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [codeceptjs/CodeceptJS](https://github.com/codeceptjs/CodeceptJS) - Supercharged End 2 End Testing Framework for NodeJS
 - [arakoodev/EdgeChains](https://github.com/arakoodev/EdgeChains) - EdgeChains.js is Full-Stack GenAI library. Front-end, backend, apis, prompt management, distributed computing. All core prompts & chains are managed declaratively in jsonnet (and not hidden in classes
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a modern & lightweight HTML5 game engine
 - [vanjs-org/van](https://github.com/vanjs-org/van) - 🍦 VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour.
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
@@ -1117,7 +1123,7 @@
 - [brahmkshatriya/echo](https://github.com/brahmkshatriya/echo) - Just a music player.
 - [ChuckerTeam/chucker](https://github.com/ChuckerTeam/chucker) - 🔎 An HTTP inspector for Android & OkHTTP (like Charles but on device)
 - [anilbeesetti/nextplayer](https://github.com/anilbeesetti/nextplayer) - An Android native video player
-- [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) - High-performance KMP UI framework from Tencent TDS — one codebase, six platforms (Android, iOS, HarmonyOS, Web, Mini Programs, macOS)
+- [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) - A Kotlin Multiplatform UI framework from Tencent TDS — high-performance, one codebase for six platforms, with dynamic delivery.
 - [TermoraDev/termora](https://github.com/TermoraDev/termora) - Termora is a terminal emulator and SSH client for Windows, macOS and Linux.
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [open-ani/animeko](https://github.com/open-ani/animeko) - 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform
@@ -1274,6 +1280,7 @@
 
 ## Others 
 
+- [obsidianmd/obsidian-headless](https://github.com/obsidianmd/obsidian-headless) - Headless client for Obsidian Sync. Sync your vaults from the command line without the desktop app.
 - [Nimbalyst/nimbalyst](https://github.com/Nimbalyst/nimbalyst) - Nimbalyst - Public releases, issue tracking, and documentation
 - [666OS/ClashMac](https://github.com/666OS/ClashMac) - Native Proxy Experience Built for macOS
 - [mentalblank/PYXIS](https://github.com/mentalblank/PYXIS) - Automated All-in-One (AIO) custom firmware and homebrew packages for modded Nintendo Switch devices.
@@ -1453,7 +1460,7 @@
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.
 - [bbtufty/nxbrew-dl](https://github.com/bbtufty/nxbrew-dl) - Scrape nxbrew to automatically download Switch games
 - [boxabirds/mcp-code-parser](https://github.com/boxabirds/mcp-code-parser) - Getting the LLM to interpret a code file directly is very inefficient. This tool creates an AST which is significantly smaller and more accurate.
-- [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
+- [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [summersonnn/Town-Of-Salem-with-LLMs](https://github.com/summersonnn/Town-Of-Salem-with-LLMs) - In this repository, 16 models compete to outperform each other in the game Town of Salem. Each model is randomly assigned roles like Vampire, Peasant, Clown, or special variants of Peasants with uniqu
 - [livingbio/typed-ffmpeg](https://github.com/livingbio/typed-ffmpeg) - Python FFmpeg wrappers support filters with typing and docs
 - [wasmerio/py2wasm](https://github.com/wasmerio/py2wasm) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, and 3.11. You feed it your Python app, it does a lot of clever things, a
@@ -1758,6 +1765,7 @@
 
 ## Rust 
 
+- [matrix-construct/tuwunel](https://github.com/matrix-construct/tuwunel) - Official successor to conduwuit
 - [emanuele-em/proxelar](https://github.com/emanuele-em/proxelar) - A programmable MITM proxy that intercepts HTTP/HTTPS traffic so you don't have to guess what your app is    doing. Forward & reverse modes, TLS interception, TUI, terminal, and web GUI.
 - [micahkepe/jsongrep](https://github.com/micahkepe/jsongrep) - A path query language for JSON, YAML, TOML, and other serialization formats.
 - [armgabrielyan/deadbranch](https://github.com/armgabrielyan/deadbranch) - Clean up stale git branches safely.
@@ -2022,7 +2030,6 @@
 - [moonrepo/proto](https://github.com/moonrepo/proto) - A pluggable multi-language version manager.
 - [asg017/sqlite-regex](https://github.com/asg017/sqlite-regex) - A fast regular expression SQLite extension, written in Rust
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Fast Rust-based bundler for the web with a modernized webpack API 🦀
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
@@ -2244,6 +2251,10 @@
 
 ## TypeScript 
 
+- [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.
+- [Railly/agentfiles](https://github.com/Railly/agentfiles) - Manage, observe, and create agent files from Obsidian
+- [Lapis0x0/obsidian-yolo](https://github.com/Lapis0x0/obsidian-yolo) - Smart, snappy, and multilingual AI assistant for your vault.
+- [ForLoopCodes/contextplus](https://github.com/ForLoopCodes/contextplus) - Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining RAG, Tree-sitter AST, Spectral Clustering, and Obsidian-style
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 - [zipbul/baker](https://github.com/zipbul/baker) - Decorator-based validate + transform with inline code generation. class-validator DX, AOT-level performance, zero reflect-metadata.
 - [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) - 🦀 A fast Rsbuild-based static site generator.
@@ -2257,7 +2268,7 @@
 - [addfox/addfox](https://github.com/addfox/addfox) - 🧩 Accelerate your browser extension development. Built on Rsbuild — fast, simple, and free
 - [AmElmo/proofshot](https://github.com/AmElmo/proofshot) - Give AI coding agents eyes. Records browser sessions, captures screenshots, collects errors, and bundles proof artifacts — so humans can verify what the agent built.
 - [shoelace-style/webawesome](https://github.com/shoelace-style/webawesome) - Build better with Web Awesome, the open source library of web components from Font Awesome. Upgrade to Pro and ship websites faster!
-- [resumx/resumx](https://github.com/resumx/resumx) - Markdown resume renderer with auto page-fitting.
+- [resumx/resumx](https://github.com/resumx/resumx) - Resume renderer for Claude Code.
 - [huozhi/sugar-high](https://github.com/huozhi/sugar-high) - ✏️ Super lightweight code syntax highlighter
 - [Narcooo/inkos](https://github.com/Narcooo/inkos) - Autonomous novel writing CLI AI Agent — agents write, audit, and revise novels with human review gates
 - [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) - AI-native design editor. Open-source Figma alternative.
@@ -2304,7 +2315,7 @@
 - [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) - Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk 
 - [dmmulroy/better-result](https://github.com/dmmulroy/better-result) - Lightweight Result type for TypeScript with generator-based composition.
 - [tobilg/ducklings](https://github.com/tobilg/ducklings) - A minimal DuckDB Wasm build for browsers and serverless environments like Cloudflare Workers
-- [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - A structure-aware skeleton loader that mirrors your rendered UI at runtime. Zero layout duplication. Built for modern frameworks.
+- [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - Self-updating shimmer skeletons for modern web apps, Zero layout duplication.
 - [mutativejs/travels](https://github.com/mutativejs/travels) - A fast, framework-agnostic undo/redo core powered by Mutative JSON Patch
 - [xoidlabs/xoid](https://github.com/xoidlabs/xoid) - Framework-agnostic state management library designed for simplicity and scalability ⚛
 - [caioricciuti/duck-ui](https://github.com/caioricciuti/duck-ui) - Duck-UI is a web-based interface for interacting with DuckDB, a high-performance analytical database system. It features a SQL editor, data import/export, data explorer, query history, theme toggle, a
@@ -2420,7 +2431,7 @@
 - [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) - Sidequest is a modern, scalable background job processor for Node.js applications.
 - [h3js/srvx](https://github.com/h3js/srvx) - λ Universal Server based on web standards.
 - [liveblocks/frimousse](https://github.com/liveblocks/frimousse) - A lightweight, unstyled, and composable emoji picker for React.
-- [es-tooling/module-replacements](https://github.com/es-tooling/module-replacements) - A manifest of JS modules and their more modern/active replacements
+- [e18e/module-replacements](https://github.com/e18e/module-replacements) - A manifest of JS modules and their more modern/active replacements
 - [Buoy-gg/Buoy-Desktop](https://github.com/Buoy-gg/Buoy-Desktop) - Beautiful macOS app for debugging React Query in ANY React-based application (Mobile, Web, TV, VR). Monitor queries across devices in real-time with a gorgeous native interface. Features device manage
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
 - [runreal/deno-monorepo-template](https://github.com/runreal/deno-monorepo-template) - A Deno Monorepo Starter Kit
@@ -2737,7 +2748,6 @@
 - [pugson/hexp3](https://github.com/pugson/hexp3) - 💅 Quickly convert your HEX colors to Display P3 color space.
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
 - [ngneat/elf](https://github.com/ngneat/elf) - 🧙‍♀️ A Reactive Store with Magical Powers
-- [bewcloud/bewcloud](https://github.com/bewcloud/bewcloud) - A simpler alternative to Nextcloud and ownCloud, built with TypeScript and Deno. 🦕
 - [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
@@ -2871,7 +2881,7 @@
 - [formidablejs/formidablejs-typescript](https://github.com/formidablejs/formidablejs-typescript) - A TypeScript & Imba Full-stack Framework for Nodejs. (TypeScript Skeleton)
 - [lightdash/lightdash](https://github.com/lightdash/lightdash) - Self-serve BI to 10x your data team ⚡️
 - [boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) - 🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀
-- [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
+- [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source, self-hosted CMS platform on AWS serverless (Lambda, DynamoDB, S3). TypeScript framework with multi-tenancy, lifecycle hooks, GraphQL API, and AI-assisted development via MCP server. Built
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [sukovanej/effect-http](https://github.com/sukovanej/effect-http) - Declarative HTTP API library for effect-ts
 - [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure.
@@ -2935,7 +2945,6 @@
 - [sqlchat/sqlchat](https://github.com/sqlchat/sqlchat) - Chat-based SQL Client and Editor for the next decade
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
 - [algolia/autocomplete](https://github.com/algolia/autocomplete) - 🔮 Fast and full-featured autocomplete library
 - [vercel/modelfusion](https://github.com/vercel/modelfusion) - The TypeScript library for building AI applications.
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
