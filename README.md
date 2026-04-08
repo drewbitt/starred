@@ -40,6 +40,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Just](#just)
 - [Kotlin](#kotlin)
 - [Less](#less)
 - [Logos](#logos)
@@ -1109,6 +1110,10 @@
 - [manmay-nakhashi/tortoise-tts-fastest](https://github.com/manmay-nakhashi/tortoise-tts-fastest) - Faster Tortoise inference then Tortoise Fast Fork
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
 
+## Just 
+
+- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
+
 ## Kotlin 
 
 - [Jman-Github/Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - 💊 An Android application to use ReVanced, Morphe and AmpleReVanced on that has extra features the official manager doesn't have
@@ -2141,7 +2146,6 @@
 - [cabinlab/claude-code-sdk-docker](https://github.com/cabinlab/claude-code-sdk-docker) - Docker containers for Claude Code Typescript and Python SDKs. Works with Claude Pro and Max plans
 - [platformatic/node-caged](https://github.com/platformatic/node-caged) - 
 - [rektpartyaftermath/Legado-booksource-collection](https://github.com/rektpartyaftermath/Legado-booksource-collection) - Some booksource collection for legado.
-- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
 - [lukehsiao/omakase-blue](https://github.com/lukehsiao/omakase-blue) - :sushi: An Okamase Developer Setup for Wayblue Sway
 - [ublue-os/bluefin](https://github.com/ublue-os/bluefin) - The next generation Linux workstation, designed for reliability, performance, and sustainability.
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
@@ -2295,7 +2299,7 @@
 - [diced/zipline](https://github.com/diced/zipline) - A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
 - [BintzGavin/helios](https://github.com/BintzGavin/helios) - Programmatic video creation with web technologies you already know. CSS animations just work.
 - [scaleway/ultraviolet](https://github.com/scaleway/ultraviolet) - A monorepo Design System with React components.
-- [RhysSullivan/executor](https://github.com/RhysSullivan/executor) - 
+- [RhysSullivan/executor](https://github.com/RhysSullivan/executor) - The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment.
 - [FoloUp/FoloUp](https://github.com/FoloUp/FoloUp) - 💼 Your own AI-powered voice interviewer for hiring.
 - [gridaco/grida](https://github.com/gridaco/grida) - Grida — Ambitious 2D Graphics Editor for the Web
 - [cross-seed/cross-seed](https://github.com/cross-seed/cross-seed) - Fully-automatic cross-seeding with Torznab
@@ -2536,7 +2540,7 @@
 - [rocicorp/hello-zero](https://github.com/rocicorp/hello-zero) - Quickstart for Zero & React.
 - [FrigadeHQ/trench](https://github.com/FrigadeHQ/trench) - Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events. Easily build product analytics dashboards, LLM RAGs, 
 - [smithery-ai/sdk](https://github.com/smithery-ai/sdk) - Smithery helps AI agents access external services via a unified gateway.
-- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK For Browser Agents
 - [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant / universal MCP client
 - [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 - [iulianraduat/save-restore-editors](https://github.com/iulianraduat/save-restore-editors) - A Visual Studio Code extension for saving and restoring all opened text editors
