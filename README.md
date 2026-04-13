@@ -492,6 +492,7 @@
 
 ## Go 
 
+- [JeremiahM37/librarr](https://github.com/JeremiahM37/librarr) - Self-hosted book, audiobook, and manga search + download manager. 13 search sources, Torznab API, OPDS feed, request workflow, 4 download clients. The missing *arr for books.
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
 - [qundao/mirror-forgejo](https://github.com/qundao/mirror-forgejo) - A community-driven version of Gitea. Backup of &lt;https://codeberg.org/forgejo/forgejo&gt;
 - [mautrix/telegram](https://github.com/mautrix/telegram) - A Matrix-Telegram puppeting bridge
@@ -733,7 +734,7 @@
 
 ## HTML 
 
-- [MontageSubs/ass-subset](https://github.com/MontageSubs/ass-subset) - ASS字幕在线子集化工具 | ASS Subset Tool (Online) | https://subs.js.org/ass-subset/
+- [MontageSubs/ass-subset](https://github.com/MontageSubs/ass-subset) - ASS字幕在线子集化工具 | ASS Online Subsetter | https://subs.js.org/ass-subset/
 - [preservia/ports](https://github.com/preservia/ports) - An archive of homebrew game ports to the Nintendo Switch.
 - [givanz/Vvveb](https://github.com/givanz/Vvveb) - Powerful and easy to use cms to build websites, blogs or ecommerce stores.
 - [EasyFrontendHQ/html-tailwindcss-components](https://github.com/EasyFrontendHQ/html-tailwindcss-components) - Free TailwindCSS HTML UI Components - built to create landing pages and websites. Easyfrontend UI components are free and open-source. show your support and love, don't forget to give us a star 🌟
@@ -840,6 +841,8 @@
 
 ## JavaScript 
 
+- [ancsemi/Haven](https://github.com/ancsemi/Haven) - Self-hosted private chat — No cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.
+- [got3nks/amutorrent](https://github.com/got3nks/amutorrent) - A unified download manager for aMule, rTorrent, qBittorrent, Deluge and Transmission: manage ED2K and BitTorrent downloads from a single modern web interface.
 - [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) - Headless browser automation server for AI agents to visit sites that are usually blocked
 - [pithings/coderaft](https://github.com/pithings/coderaft) - 🛶 Run VS Code on any machine anywhere and access it in the browser (25MB npm pkg)
 - [error311/FileRise](https://github.com/error311/FileRise) - 🗂️ FileRise – lightweight, self-hosted file manager & storage hub with granular ACLs, resumable uploads, encrypted folders, WebDAV & SSO. Fully Docker / Unraid compatible.
@@ -1290,6 +1293,7 @@
 
 ## Others 
 
+- [fishiatee/awesome-privateserver](https://github.com/fishiatee/awesome-privateserver) - A non-exhaustive list of free custom server backend implementations for various games
 - [AutoJunjie/awesome-agent-harness](https://github.com/AutoJunjie/awesome-agent-harness) - 
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [protonpass/pass-cli](https://github.com/protonpass/pass-cli) - 
@@ -1776,6 +1780,7 @@
 
 ## Rust 
 
+- [Vladimir-Urik/OxMgr](https://github.com/Vladimir-Urik/OxMgr) - Oxmgr is a modern, lightweight process manager written in Rust, a fast, deterministic alternative to PM2 for managing any executable across platforms.
 - [arc53/fast-ebook](https://github.com/arc53/fast-ebook) - fast, rust based epub library for python
 - [ltxzs/opencode-github-copilot-switcher](https://github.com/ltxzs/opencode-github-copilot-switcher) - 用于在opencode中切换github账号,A tool to switch GitHub Copilot accounts in OpenCode
 - [matrix-construct/tuwunel](https://github.com/matrix-construct/tuwunel) - Official successor to conduwuit
@@ -2267,6 +2272,9 @@
 
 ## TypeScript 
 
+- [rustmailer/bichon](https://github.com/rustmailer/bichon) - Bichon – A lightweight, high-performance Rust email archiver with WebUI
+- [redpangilinan/crikket](https://github.com/redpangilinan/crikket) - 🦗 Instant bug reporting and feedback tool. An open-source alternative to jam.dev and marker.io.
+- [bpatrik/pigallery2](https://github.com/bpatrik/pigallery2) - A fast directory-first photo gallery website, with rich UI,  optimized for running on low resource servers (especially on raspberry pi)
 - [JMBeresford/retrom](https://github.com/JMBeresford/retrom) - A centralized game library/collection management service with a focus on emulation
 - [steel-dev/steel-browser](https://github.com/steel-dev/steel-browser) - 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser sandbox that lets you automate the web without worrying about infrastructure.
 - [huoshen80/ReinaManager](https://github.com/huoshen80/ReinaManager) - A galgame/visual-novel manager,Under development......
@@ -2337,7 +2345,7 @@
 - [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) - Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk 
 - [dmmulroy/better-result](https://github.com/dmmulroy/better-result) - Lightweight Result type for TypeScript with generator-based composition.
 - [tobilg/ducklings](https://github.com/tobilg/ducklings) - A minimal DuckDB Wasm build for browsers and serverless environments like Cloudflare Workers
-- [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - A structure-aware skeleton loader that mirrors your rendered UI at runtime. Zero layout duplication. Built for modern frameworks.
+- [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - A structure-aware skeleton loader generator that mirrors your rendered UI at runtime. Zero layout duplication. Built for modern frameworks.
 - [mutativejs/travels](https://github.com/mutativejs/travels) - A fast, framework-agnostic undo/redo core powered by Mutative JSON Patch
 - [xoidlabs/xoid](https://github.com/xoidlabs/xoid) - Framework-agnostic state management library designed for simplicity and scalability ⚛
 - [caioricciuti/duck-ui](https://github.com/caioricciuti/duck-ui) - Duck-UI is a web-based interface for interacting with DuckDB, a high-performance analytical database system. It features a SQL editor, data import/export, data explorer, query history, theme toggle, a
