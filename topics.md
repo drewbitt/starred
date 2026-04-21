@@ -355,6 +355,7 @@
 
 ## ai 
 
+- [runkids/skillshare](https://github.com/runkids/skillshare) - 📚 Sync skills across all AI CLI tools with one command and simplify team sharing. Supporting Codex, Claude Code, OpenClaw & more
 - [stefanoamorelli/sec-edgar-mcp](https://github.com/stefanoamorelli/sec-edgar-mcp) - A SEC EDGAR MCP (Model Context Protocol) Server
 - [NeuroSkill-com/skill](https://github.com/NeuroSkill-com/skill) - NeuroSkill™ — State of Mind Brain-Computer Interface system
 - [enulus/OpenPackage](https://github.com/enulus/OpenPackage) - The open, universal, coding agent skills, agents, rules, and commands organizer and package manager.
@@ -402,7 +403,7 @@
 - [vercel/streamdown](https://github.com/vercel/streamdown) - A drop-in replacement for react-markdown, designed for AI-powered streaming.
 - [intellectronica/ruler](https://github.com/intellectronica/ruler) - Ruler — apply the same rules to all coding agents
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
-- [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
+- [iii-hq/iii](https://github.com/iii-hq/iii) - iii unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 coding agent on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens proce
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [hyper-mcp-rs/hyper-mcp](https://github.com/hyper-mcp-rs/hyper-mcp) - 📦️ A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
@@ -483,7 +484,6 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [premieroctet/photoshot](https://github.com/premieroctet/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
 - [grafbase/grafbase](https://github.com/grafbase/grafbase) - The Grafbase GraphQL Federation Gateway
-- [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -709,7 +709,7 @@
 
 - [readur/readur](https://github.com/readur/readur) - Quick, painless, intuitive OCR platform written in Rust and TypeScript. Modern UI with modern API, with an emphasis on intuitive user experience.
 - [operacle/checkcle](https://github.com/operacle/checkcle) - CheckCle is a self-hosted, open-source monitoring platform for seamless, real-time full-stack systems, applications, and infrastructure. It provides real-time uptime monitoring, distributed checks, in
-- [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
+- [iii-hq/iii](https://github.com/iii-hq/iii) - iii unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
 - [anyproto/anytype-mcp](https://github.com/anyproto/anytype-mcp) - An MCP server enabling AI assistants to interact with Anytype - your encrypted, local and collaborative wiki - to organize objects, lists, and more through natural language.
 - [superglue-ai/superglue](https://github.com/superglue-ai/superglue) - superglue (YC W25) builds integrations and tools from natural language. Get production-grade tools for long tail and enterprise systems.
 - [middleapi/orpc](https://github.com/middleapi/orpc) - Typesafe APIs Made Simple 🪄
@@ -954,7 +954,7 @@
 ## backend 
 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
+- [iii-hq/iii](https://github.com/iii-hq/iii) - iii unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
 - [goatplatform/goatdb](https://github.com/goatplatform/goatdb) - A peer-to-peer database that spans devices. For apps and agents that work everywhere.
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [givanz/Vvveb](https://github.com/givanz/Vvveb) - Powerful and easy to use cms to build websites, blogs or ecommerce stores.
@@ -1158,6 +1158,7 @@
 
 ## claude-code 
 
+- [runkids/skillshare](https://github.com/runkids/skillshare) - 📚 Sync skills across all AI CLI tools with one command and simplify team sharing. Supporting Codex, Claude Code, OpenClaw & more
 - [mixpeek/amux](https://github.com/mixpeek/amux) - Open-source Claude Code agent multiplexer — run dozens of parallel AI coding agents unattended via tmux
 - [ComposioHQ/agent-orchestrator](https://github.com/ComposioHQ/agent-orchestrator) - Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews.
 - [samber/cc-skills](https://github.com/samber/cc-skills) - 🧑‍🎨 A collection of agentic skills that works
@@ -1185,6 +1186,7 @@
 
 ## cli 
 
+- [runkids/skillshare](https://github.com/runkids/skillshare) - 📚 Sync skills across all AI CLI tools with one command and simplify team sharing. Supporting Codex, Claude Code, OpenClaw & more
 - [enulus/OpenPackage](https://github.com/enulus/OpenPackage) - The open, universal, coding agent skills, agents, rules, and commands organizer and package manager.
 - [Vladimir-Urik/OxMgr](https://github.com/Vladimir-Urik/OxMgr) - Oxmgr is a modern, lightweight process manager written in Rust, a fast, deterministic alternative to PM2 for managing any executable across platforms.
 - [emanuele-em/proxelar](https://github.com/emanuele-em/proxelar) - A programmable MITM proxy that intercepts HTTP/HTTPS traffic so you don't have to guess what your app is    doing. Forward & reverse modes, TLS interception, TUI, terminal, and web GUI.
@@ -1820,7 +1822,7 @@
 
 ## database 
 
-- [gridaco/grida](https://github.com/gridaco/grida) - Grida — Ambitious 2D Graphics Editor for the Web
+- [gridaco/grida](https://github.com/gridaco/grida) - Grida — Free and Open 2D Graphics Editor
 - [wannabespace/conar](https://github.com/wannabespace/conar) - AI-powered tool for working with Postgres, MySQL, MSSQL and Clickhouse. (beta)
 - [LadybugDB/ladybug](https://github.com/LadybugDB/ladybug) - LadybugDB a graph database
 - [Basekick-Labs/arc](https://github.com/Basekick-Labs/arc) - High-performance analytical database. DuckDB SQL engine + Parquet storage + Arrow format. 18M+ records/sec ingestion. 6M+ rows/sec queries. Use for analytics, observability, AI, IoT, logs. Single Go b
@@ -2105,7 +2107,7 @@
 - [flox/flox](https://github.com/flox/flox) - The Deterministic Foundation for your SDLC
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
-- [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
+- [iii-hq/iii](https://github.com/iii-hq/iii) - iii unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [superglue-ai/superglue](https://github.com/superglue-ai/superglue) - superglue (YC W25) builds integrations and tools from natural language. Get production-grade tools for long tail and enterprise systems.
@@ -2557,7 +2559,7 @@
 ## font 
 
 - [Correia-jpv/fucking-awesome-stock-resources](https://github.com/Correia-jpv/fucking-awesome-stock-resources) - 🌇 A collection of links for free stock photography, video and Illustration websites. With repository stars⭐ and forks🍴
-- [MontageSubs/ass-subset](https://github.com/MontageSubs/ass-subset) - ASS字幕子集化工具 | ASS Subsetter (Online) | https://subs.js.org/ass-subset/
+- [MontageSubs/ass-subset](https://github.com/MontageSubs/ass-subset) - ASS Subsetter | ASS子集化工具 | https://subs.js.org/ass-subset/
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [gaplo917/Ligatured-Hack](https://github.com/gaplo917/Ligatured-Hack) - Automatically patch latest Hack Font with latest JetBrains Mono / FiraCode Ligatures
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
@@ -2569,7 +2571,7 @@
 - [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
 - [esmnext/esmx](https://github.com/esmnext/esmx) - Next-generation micro-frontend framework based on ESM, sandbox-free with zero runtime overhead, supporting multi-framework hybrid development
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
-- [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
+- [iii-hq/iii](https://github.com/iii-hq/iii) - iii unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
 - [514-labs/moosestack](https://github.com/514-labs/moosestack) - The agent harness for building analytics into your app on top of ClickHouse, Redpanda and other high-performance analytical infrastructure
 - [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
@@ -2833,6 +2835,7 @@
 
 ## go 
 
+- [runkids/skillshare](https://github.com/runkids/skillshare) - 📚 Sync skills across all AI CLI tools with one command and simplify team sharing. Supporting Codex, Claude Code, OpenClaw & more
 - [mautrix/telegram](https://github.com/mautrix/telegram) - A Matrix-Telegram puppeting bridge
 - [solod-dev/solod](https://github.com/solod-dev/solod) - A subset of Go that translates to C
 - [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
@@ -2842,7 +2845,7 @@
 - [Basekick-Labs/arc](https://github.com/Basekick-Labs/arc) - High-performance analytical database. DuckDB SQL engine + Parquet storage + Arrow format. 18M+ records/sec ingestion. 6M+ rows/sec queries. Use for analytics, observability, AI, IoT, logs. Single Go b
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [operacle/checkcle](https://github.com/operacle/checkcle) - CheckCle is a self-hosted, open-source monitoring platform for seamless, real-time full-stack systems, applications, and infrastructure. It provides real-time uptime monitoring, distributed checks, in
-- [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm) - Terminal API client for HTTP/GraphQL/gRPC with support for SSH tunnels, WebSockets, SSE, Workflows, Profiling, OpenAPI, Kubernetes port-forwarding and response diffs.
+- [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm) - Terminal API client for HTTP/GraphQL/gRPC with support for SSH tunnels, WebSockets, SSE, Workflows, Profiling, OpenAPI, Kubernetes port-forwarding and headless API.
 - [welovemedia/ffmate](https://github.com/welovemedia/ffmate) - FFmate is a modern and powerful automation layer built on top of FFmpeg - designed to make video and audio transcoding simpler, smarter, and easier to integrate
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) - Realtime BirdNET soundscape analyzer
@@ -3053,7 +3056,7 @@
 - [platformatic/platformatic](https://github.com/platformatic/platformatic) - Platformatic Open Source monorepo!
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - [cedarjs/cedar](https://github.com/cedarjs/cedar) - The React + GraphQL Web App Framework
-- [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm) - Terminal API client for HTTP/GraphQL/gRPC with support for SSH tunnels, WebSockets, SSE, Workflows, Profiling, OpenAPI, Kubernetes port-forwarding and response diffs.
+- [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm) - Terminal API client for HTTP/GraphQL/gRPC with support for SSH tunnels, WebSockets, SSE, Workflows, Profiling, OpenAPI, Kubernetes port-forwarding and headless API.
 - [0no-co/graphql.web](https://github.com/0no-co/graphql.web) - The spec-compliant minimum of client-side GraphQL.
 - [0no-co/graphql-web-lite](https://github.com/0no-co/graphql-web-lite) - The small sibling of the graphql package, slimmed down for client-side libraries.
 - [hasura/graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
@@ -3102,6 +3105,7 @@
 
 ## gui 
 
+- [runkids/skillshare](https://github.com/runkids/skillshare) - 📚 Sync skills across all AI CLI tools with one command and simplify team sharing. Supporting Codex, Claude Code, OpenClaw & more
 - [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
 - [veeso/tui-realm](https://github.com/veeso/tui-realm) - 👑 A ratatui framework to build stateful applications with a React/Elm inspired approach
 - [mayocream/koharu](https://github.com/mayocream/koharu) - ML-powered manga translator, written in Rust.
@@ -3630,7 +3634,7 @@
 - [denoland/deno_lint](https://github.com/denoland/deno_lint) - Blazing fast linter for JavaScript and TypeScript written in Rust
 - [sindresorhus/emittery](https://github.com/sindresorhus/emittery) - Simple and modern async event emitter
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
-- [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
+- [iii-hq/iii](https://github.com/iii-hq/iii) - iii unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
 - [ferus-web/bali](https://github.com/ferus-web/bali) - Bali is a JavaScript engine written in Nim
 - [firefox-devtools/profiler](https://github.com/firefox-devtools/profiler) - Firefox Profiler — Web app for Firefox performance analysis
 - [NarraLeaf/narraleaf-react](https://github.com/NarraLeaf/narraleaf-react) - Make your own visual novel using a lightweight front-end react visual novel framework.
@@ -4936,7 +4940,7 @@
 
 ## no-code 
 
-- [gridaco/grida](https://github.com/gridaco/grida) - Grida — Ambitious 2D Graphics Editor for the Web
+- [gridaco/grida](https://github.com/gridaco/grida) - Grida — Free and Open 2D Graphics Editor
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
 - [givanz/Vvveb](https://github.com/givanz/Vvveb) - Powerful and easy to use cms to build websites, blogs or ecommerce stores.
@@ -5536,7 +5540,7 @@
 - [endorhq/cli](https://github.com/endorhq/cli) - Endor provides instant, private, sandboxed environments for your favorite services anywhere Node is available. Run MariaDB, PostgreSQL and many more servers securely and in just a few seconds. Perfect
 - [tidwall/pogocache](https://github.com/tidwall/pogocache) - Fast caching software with a focus on low latency and cpu efficiency.
 - [johnhuang316/code-index-mcp](https://github.com/johnhuang316/code-index-mcp) - A Model Context Protocol (MCP) server that helps large language models index, search, and analyze code repositories with minimal setup
-- [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps developers and agents understand your codebase.
+- [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps humans and agents understand your codebase.
 - [open-circle/formisch](https://github.com/open-circle/formisch) - The modular and type-safe form library for any framework
 - [unjs/c12](https://github.com/unjs/c12) - ⚙️ Smart Configuration Loader
 - [h3js/srvx](https://github.com/h3js/srvx) - λ Universal Server based on web standards.
@@ -6260,7 +6264,7 @@
 
 - [xataio/xata](https://github.com/xataio/xata) - Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero
 - [tensorchord/VectorChord](https://github.com/tensorchord/VectorChord) - Scalable, fast, and disk-friendly vector search in Postgres, the successor of pgvecto.rs.
-- [gridaco/grida](https://github.com/gridaco/grida) - Grida — Ambitious 2D Graphics Editor for the Web
+- [gridaco/grida](https://github.com/gridaco/grida) - Grida — Free and Open 2D Graphics Editor
 - [wannabespace/conar](https://github.com/wannabespace/conar) - AI-powered tool for working with Postgres, MySQL, MSSQL and Clickhouse. (beta)
 - [timescale/pg_textsearch](https://github.com/timescale/pg_textsearch) - PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed.
 - [supabase/etl](https://github.com/supabase/etl) - Stream your Postgres data anywhere in real-time. Simple Rust building blocks for change data capture (CDC) pipelines.
@@ -6510,7 +6514,7 @@
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, manage agentic software at scale.
 - [wshobson/maverick-mcp](https://github.com/wshobson/maverick-mcp) - MaverickMCP - Personal Stock Analysis MCP Server
 - [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
-- [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
+- [iii-hq/iii](https://github.com/iii-hq/iii) - iii unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
 - [livingbio/typed-ffmpeg](https://github.com/livingbio/typed-ffmpeg) - Type-safe FFmpeg bindings for Python & TypeScript — filters, typing, and docs
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
@@ -7122,7 +7126,7 @@
 
 ## rest-api 
 
-- [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm) - Terminal API client for HTTP/GraphQL/gRPC with support for SSH tunnels, WebSockets, SSE, Workflows, Profiling, OpenAPI, Kubernetes port-forwarding and response diffs.
+- [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm) - Terminal API client for HTTP/GraphQL/gRPC with support for SSH tunnels, WebSockets, SSE, Workflows, Profiling, OpenAPI, Kubernetes port-forwarding and headless API.
 - [welovemedia/ffmate](https://github.com/welovemedia/ffmate) - FFmate is a modern and powerful automation layer built on top of FFmpeg - designed to make video and audio transcoding simpler, smarter, and easier to integrate
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, and admin UI built on Rust, SQLite & Wasmtime.
@@ -7189,7 +7193,7 @@
 - [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB / PDF Book Reader (+djvu)
 - [Dicklesworthstone/coding_agent_session_search](https://github.com/Dicklesworthstone/coding_agent_session_search) - Unified TUI and CLI to index and search your local coding agent session history across 11+ providers (Codex, Claude, Gemini, Cursor, Aider, etc.)
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
-- [gridaco/grida](https://github.com/gridaco/grida) - Grida — Ambitious 2D Graphics Editor for the Web
+- [gridaco/grida](https://github.com/gridaco/grida) - Grida — Free and Open 2D Graphics Editor
 - [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance rust-powered UI layout library
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [yfedoseev/pdf_oxide](https://github.com/yfedoseev/pdf_oxide) - The fastest PDF library for Python and Rust. Text extraction, image extraction, markdown conversion, PDF creation & editing. 0.8ms mean, 5× faster than industry leaders, 100% pass rate on 3,830 PDFs. 
@@ -7227,7 +7231,7 @@
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
-- [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
+- [iii-hq/iii](https://github.com/iii-hq/iii) - iii unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - PostgreSQL connection pooler, load balancer and database sharder.
 - [veeso/tui-realm](https://github.com/veeso/tui-realm) - 👑 A ratatui framework to build stateful applications with a React/Elm inspired approach
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
@@ -7768,7 +7772,7 @@
 - [huoshen80/ReinaManager](https://github.com/huoshen80/ReinaManager) - A galgame/visual-novel manager,Under development......
 - [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.
 - [franklioxygen/MyTube](https://github.com/franklioxygen/MyTube) - Self-hosted downloader and player for YouTube, Bilibili, Twitch, MissAV, and yt-dlp sites. Features channel subscriptions, auto-downloads, and local storage for media. Organize your library into colle
-- [dolthub/doltlite](https://github.com/dolthub/doltlite) - A fork of SQLite that has Dolt storage and features
+- [dolthub/doltlite](https://github.com/dolthub/doltlite) - DoltLite - Version Controlled SQLite
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [nafey/minimalytics](https://github.com/nafey/minimalytics) - Standalone analytics app in a CLI
 - [wsporto/typesql](https://github.com/wsporto/typesql) - TypeSQL - Generate Typescript API from raw SQL. Supports PostgresSQL, MySQL, Sqlite, LibSQL (Turso) and D1 (Cloudflare)
@@ -7987,7 +7991,7 @@
 - [resumx/resumx](https://github.com/resumx/resumx) - Resume renderer for Claude Code.
 - [AmanVarshney01/create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack) - A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations
 - [megh-bari/pattern-craft](https://github.com/megh-bari/pattern-craft) - Professional-grade background patterns and gradients for your websites and apps. Easily copy and paste into your next project. Crafted with modern CSS and Tailwind for seamless integration.
-- [gridaco/grida](https://github.com/gridaco/grida) - Grida — Ambitious 2D Graphics Editor for the Web
+- [gridaco/grida](https://github.com/gridaco/grida) - Grida — Free and Open 2D Graphics Editor
 - [firecrawl/open-scouts](https://github.com/firecrawl/open-scouts) - 🔥 AI-powered web monitoring platform. Create automated scouts that search the web and send email alerts when they find what you're looking for.
 - [kcsujeet/ilamy-calendar](https://github.com/kcsujeet/ilamy-calendar) - A modern, open-source Full Calendar alternative for React. Month, week, day, and year views with drag-and-drop, horizontal and vertical resource views, and RFC 5545 recurring events — all MIT licensed
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
@@ -8142,7 +8146,7 @@
 
 ## testing 
 
-- [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm) - Terminal API client for HTTP/GraphQL/gRPC with support for SSH tunnels, WebSockets, SSE, Workflows, Profiling, OpenAPI, Kubernetes port-forwarding and response diffs.
+- [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm) - Terminal API client for HTTP/GraphQL/gRPC with support for SSH tunnels, WebSockets, SSE, Workflows, Profiling, OpenAPI, Kubernetes port-forwarding and headless API.
 - [web-infra-dev/rstest](https://github.com/web-infra-dev/rstest) - The testing framework powered by Rspack.
 - [microsoft/tui-test](https://github.com/microsoft/tui-test) - An end-to-end terminal testing framework for CLI and TUI experiences
 - [callstack/reassure](https://github.com/callstack/reassure) - Performance testing companion for React and React Native
@@ -8205,7 +8209,7 @@
 - [control-theory/gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
-- [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm) - Terminal API client for HTTP/GraphQL/gRPC with support for SSH tunnels, WebSockets, SSE, Workflows, Profiling, OpenAPI, Kubernetes port-forwarding and response diffs.
+- [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm) - Terminal API client for HTTP/GraphQL/gRPC with support for SSH tunnels, WebSockets, SSE, Workflows, Profiling, OpenAPI, Kubernetes port-forwarding and headless API.
 - [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
 - [superstarryeyes/lue](https://github.com/superstarryeyes/lue) - Terminal eBook Reader with Audiobook-Quality Text-to-Speech — Supports EPUB, PDF, DOCX, HTML, RTF, TXT, and MD.
 - [lusingander/stu](https://github.com/lusingander/stu) - TUI explorer application for Amazon S3 (AWS S3) 🪣
@@ -8304,7 +8308,7 @@
 - [denoland/deno_lint](https://github.com/denoland/deno_lint) - Blazing fast linter for JavaScript and TypeScript written in Rust
 - [rolldown/tsdown](https://github.com/rolldown/tsdown) - The elegant bundler for libraries powered by Rolldown
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
-- [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
+- [iii-hq/iii](https://github.com/iii-hq/iii) - iii unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
 - [getcord/cord](https://github.com/getcord/cord) - The complete SDK for Chat, Commenting, and Notifications
 - [NarraLeaf/narraleaf-react](https://github.com/NarraLeaf/narraleaf-react) - Make your own visual novel using a lightweight front-end react visual novel framework.
 - [AlexSergey/rockpack](https://github.com/AlexSergey/rockpack) - Rockpack is a lightweight, zero-configuration solution for quickly setting up a React application with full support for Server-Side Rendering (SSR), bundling, linting, and testing.
@@ -8372,7 +8376,7 @@
 - [snuffyDev/nanothreads](https://github.com/snuffyDev/nanothreads) - A tiny multi-threading & concurrency library, for Node.js and the browser
 - [Josuto/monguito](https://github.com/Josuto/monguito) - Lightweight MongoDB Abstract Repository implementation for Node.js apps
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
-- [swan-io/boxed](https://github.com/swan-io/boxed) - Essential building-blocks for functional & safe TypeScript code
+- [bloodyowl/boxed](https://github.com/bloodyowl/boxed) - Essential building-blocks for functional & safe TypeScript code
 - [stevenlafl/tts-typescript](https://github.com/stevenlafl/tts-typescript) - Typescript Declarations for Tabletop Simulator
 - [wellwelwel/poku](https://github.com/wellwelwel/poku) - 🐷 Poku makes testing easy for Node.js, Bun, Deno, and you at the same time.
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
