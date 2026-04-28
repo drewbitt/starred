@@ -740,6 +740,7 @@
 
 ## HTML 
 
+- [mixpeek/amux](https://github.com/mixpeek/amux) - Open-source Claude Code agent multiplexer — run dozens of parallel AI coding agents unattended via tmux
 - [MontageSubs/ass-subset](https://github.com/MontageSubs/ass-subset) - ASS Subsetter | ASS子集化工具 | https://subs.js.org/ass-subset/
 - [preservia/ports](https://github.com/preservia/ports) - An archive of homebrew game ports to the Nintendo Switch.
 - [givanz/Vvveb](https://github.com/givanz/Vvveb) - Powerful and easy to use cms to build websites, blogs or ecommerce stores.
@@ -1361,7 +1362,7 @@
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [juancarlospaco/awesome-streaming-tools](https://github.com/juancarlospaco/awesome-streaming-tools) - Awesome Streaming Tools
 - [codacy/codacy-analysis-cli-action](https://github.com/codacy/codacy-analysis-cli-action) - GitHub Action for the codacy-analysis-cli
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is an agentic development environment, born out of the terminal.
+- [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 - [AndyFul/ConfigureDefender](https://github.com/AndyFul/ConfigureDefender) - Utility for configuring Windows 10 built-in Defender antivirus settings.
 - [wallabyjs/public](https://github.com/wallabyjs/public) - Repository for Wallaby.js questions and issues
@@ -1444,7 +1445,6 @@
 - [luketanti/AeroFoil](https://github.com/luketanti/AeroFoil) - Personal Library Manager
 - [dgtlmoon/sockpuppetbrowser](https://github.com/dgtlmoon/sockpuppetbrowser) - A scalable server for providing Chrome interfaces where needed
 - [cdpdriver/zendriver](https://github.com/cdpdriver/zendriver) - A blazing fast, async-first, undetectable webscraping/web automation framework based on ultrafunkamsterdam/nodriver. Now with Docker support!
-- [mixpeek/amux](https://github.com/mixpeek/amux) - Open-source Claude Code agent multiplexer — run dozens of parallel AI coding agents unattended via tmux
 - [raulduk3/half-time-draw-predictor](https://github.com/raulduk3/half-time-draw-predictor) - Fútbol half-time draw predictor — LSTM model for sports analytics
 - [weebzone/Telegram-Stremio](https://github.com/weebzone/Telegram-Stremio) - A powerful, self-hosted Telegram Stremio Media Server built with FastAPI, MongoDB, and PyroFork — seamlessly integrated with Stremio for automated media streaming and discovery.
 - [mhdzumair/MediaFusion](https://github.com/mhdzumair/MediaFusion) - Universal  Add-On for Stremio & Kodi
@@ -1474,7 +1474,7 @@
 - [bmwant/hapless](https://github.com/bmwant/hapless) - Run and manage background processes
 - [CupOfOwls/kroger-mcp](https://github.com/CupOfOwls/kroger-mcp) - A FastMCP server that provides AI assistants like Claude with access to Kroger's grocery shopping functionality through the Model Context Protocol (MCP). This server enables AI assistants to find stor
 - [ValueCell-ai/valuecell](https://github.com/ValueCell-ai/valuecell) - ValueCell is a community-driven, multi-agent platform for financial applications.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, manage agentic software at scale.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno turns agents into production software. Build in any framework. Run as a service. Ship to real users.
 - [QuantConnect/mcp-server](https://github.com/QuantConnect/mcp-server) - Official Python MCP server for local interactions with the QuantConnect API
 - [atilaahmettaner/tradingview-mcp](https://github.com/atilaahmettaner/tradingview-mcp) - Real-time crypto & stock screening, advanced technical indicators, Bollinger Bands intelligence, candlestick patterns + native Claude Desktop integration. Multi-exchange (Binance, KuCoin, Bybit+). Ope
 - [twelvedata/mcp](https://github.com/twelvedata/mcp) - Twelve Data MCP (Model Context Protocol) Server provides seamless, real-time access to financial market data via WebSocket, enabling reliable streaming of price quotes, market metrics, and events dire
@@ -2054,7 +2054,7 @@
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [lance-format/lance](https://github.com/lance-format/lance) - Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and 
 - [egoist/dum](https://github.com/egoist/dum) - An npm scripts runner written in Rust.
-- [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
+- [crocuda/pipelight](https://github.com/crocuda/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.
 - [tirr-c/jxl-oxide](https://github.com/tirr-c/jxl-oxide) - Pure Rust implementation of JPEG XL decoder
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
@@ -2928,7 +2928,7 @@
 - [heroui-inc/tailwind-variants](https://github.com/heroui-inc/tailwind-variants) - 🦄 Tailwindcss first-class variant API
 - [aerotoad/neboa](https://github.com/aerotoad/neboa) - Type-safe NoSQL with Node & SQLite. 🌫️💽
 - [formidablejs/formidablejs-typescript](https://github.com/formidablejs/formidablejs-typescript) - A TypeScript & Imba Full-stack Framework for Nodejs. (TypeScript Skeleton)
-- [lightdash/lightdash](https://github.com/lightdash/lightdash) - Self-serve BI to 10x your data team ⚡️
+- [lightdash/lightdash](https://github.com/lightdash/lightdash) - Agentic BI. Analytics at the speed of code ⚡️
 - [boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) - 🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀
 - [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source, self-hosted CMS platform on AWS serverless (Lambda, DynamoDB, S3). TypeScript framework with multi-tenancy, lifecycle hooks, GraphQL API, and AI-assisted development via MCP server. Built
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
@@ -3029,7 +3029,6 @@
 - [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
 - [Kanaries/Rath](https://github.com/Kanaries/Rath) - Next generation of automated data exploratory analysis and visualization platform.
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
-- [lost-pixel/lost-pixel](https://github.com/lost-pixel/lost-pixel) - Open source alternative to Percy, Chromatic, Applitools.
 - [laxamentumtech/audnexus](https://github.com/laxamentumtech/audnexus) - An audiobook data aggregation API that harmonizes data from multiple sources into a unified stream. It offers a consistent and user-friendly source of audiobook data for various applications.
 - [kidonng/unocss-preset-daisy](https://github.com/kidonng/unocss-preset-daisy) - UnoCSS preset for daisyUI
 - [bombshell-dev/clack](https://github.com/bombshell-dev/clack) - Effortlessly build beautiful command-line apps
