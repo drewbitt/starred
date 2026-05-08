@@ -165,7 +165,7 @@
 - [metacall/core](https://github.com/metacall/core) - MetaCall: The ultimate polyglot programming experience.
 - [danielealbano/cachegrand](https://github.com/danielealbano/cachegrand) - cachegrand - a modern data ingestion, processing and serving platform built for today's hardware
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
-- [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - A free, open source, multi-platform SQLite database manager.
+- [pawelsalawa/letos](https://github.com/pawelsalawa/letos) - A free, open source, multi-platform SQLite database manager.
 - [orioledb/orioledb](https://github.com/orioledb/orioledb) - OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
 - [fhanau/Efficient-Compression-Tool](https://github.com/fhanau/Efficient-Compression-Tool) - Fast and effective C++ file optimizer
@@ -866,7 +866,7 @@
 - [catamphetamine/write-excel-file](https://github.com/catamphetamine/write-excel-file) - Write simple *.xlsx files in a browser or Node.js
 - [web-platform-tests/interop](https://github.com/web-platform-tests/interop) - web-platform-tests Interop project
 - [Zen0-99/animestream-addon](https://github.com/Zen0-99/animestream-addon) - Stremio addon for anime content
-- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM: DOM to anything engine — fast, modular, extensible.
+- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - High-performance engine for capturing, modifying, and converting DOM elements into any format.
 - [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) - ClamAV antivirus scanning for Node.js — scan file uploads with a single  function call. Zero dependencies. Typed Symbol verdicts. Local or Docker/clamd.
 - [Factory-AI/eslint-plugin](https://github.com/Factory-AI/eslint-plugin) - Factory's custom linters
 - [Ripple-TS/ripple](https://github.com/Ripple-TS/ripple) - the elegant TypeScript UI framework
@@ -1427,7 +1427,7 @@
 
 ## Python 
 
-- [robbyczgw-cla/hermes-web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus) - Hermes Agent plugin for multi-provider web search and extraction with intelligent routing, quality reports, and research mode.
+- [robbyczgw-cla/hermes-web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus) - Hermes Agent flagship plugin for multi-provider web search and extraction with intelligent routing, quality reports, and research mode.
 - [XPixelGroup/DiffBIR](https://github.com/XPixelGroup/DiffBIR) - [ECCV 2024] codes of DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior
 - [clawnchdev/clawmes](https://github.com/clawnchdev/clawmes) - Hermes Agent plugin for crypto: wallets, DEX trading, lending and staking, governance, on-chain automation.
 - [borski/travel-hacking-toolkit](https://github.com/borski/travel-hacking-toolkit) - AI-powered travel hacking  and search with cash, points, miles, and award flights. Drop-in skills and MCP servers for Claude, Codex, and OpenCode.
@@ -1441,7 +1441,7 @@
 - [parallel-web/parallel-web-tools](https://github.com/parallel-web/parallel-web-tools) - Contains parallel-cli and the parallel-web-tools Python package. Built on the parallel-web SDK: https://github.com/parallel-web/parallel-sdk-python
 - [king-of-the-grackles/reddit-research-mcp](https://github.com/king-of-the-grackles/reddit-research-mcp) - Turn Reddit's chaos into structured insights with full citations. MCP server for competitive analysis, customer discovery, and market research. Zero-setup hosted solution with semantic search across 2
 - [stefanoamorelli/sec-edgar-mcp](https://github.com/stefanoamorelli/sec-edgar-mcp) - A SEC EDGAR MCP (Model Context Protocol) Server
-- [zeropointnine/tts-audiobook-tool](https://github.com/zeropointnine/tts-audiobook-tool) - Audiobook creation tool supporting 12 TTS models (Qwen3-TTS, IndexTTS2, VibeVoice, Chatterbox, etc), focused on high-quality output. Plus audio-synced reader app and standalone server component.
+- [zeropointnine/tts-audiobook-tool](https://github.com/zeropointnine/tts-audiobook-tool) - Audiobook creation tool supporting too many TTS models (Qwen3-TTS, OmniVoice, VibeVoice, etc), focused on high-quality output. Plus audio-synced reader app and standalone server component.
 - [sgl-project/sglang-omni](https://github.com/sgl-project/sglang-omni) - SGLang Omni: High-Performance Multi-Stage Pipeline Framework for Omni Models
 - [luketanti/AeroFoil](https://github.com/luketanti/AeroFoil) - Personal Library Manager
 - [dgtlmoon/sockpuppetbrowser](https://github.com/dgtlmoon/sockpuppetbrowser) - A scalable server for providing Chrome interfaces where needed
@@ -1475,7 +1475,7 @@
 - [bmwant/hapless](https://github.com/bmwant/hapless) - Run and manage background processes
 - [CupOfOwls/kroger-mcp](https://github.com/CupOfOwls/kroger-mcp) - A FastMCP server that provides AI assistants like Claude with access to Kroger's grocery shopping functionality through the Model Context Protocol (MCP). This server enables AI assistants to find stor
 - [ValueCell-ai/valuecell](https://github.com/ValueCell-ai/valuecell) - ValueCell is a community-driven, multi-agent platform for financial applications.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Run agents as production software.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
 - [QuantConnect/mcp-server](https://github.com/QuantConnect/mcp-server) - Official Python MCP server for local interactions with the QuantConnect API
 - [atilaahmettaner/tradingview-mcp](https://github.com/atilaahmettaner/tradingview-mcp) - Real-time crypto & stock screening, advanced technical indicators, Bollinger Bands intelligence, candlestick patterns + native Claude Desktop integration. Multi-exchange (Binance, KuCoin, Bybit+). Ope
 - [twelvedata/mcp](https://github.com/twelvedata/mcp) - Twelve Data MCP (Model Context Protocol) Server provides seamless, real-time access to financial market data via WebSocket, enabling reliable streaming of price quotes, market metrics, and events dire
@@ -1614,7 +1614,6 @@
 - [jawah/niquests](https://github.com/jawah/niquests) - Drop-in replacement for Requests. Automatic HTTP/1.1, HTTP/2, and HTTP/3. WebSocket, and SSE included.
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
 - [miguelgrinberg/microdot](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for Python and MicroPython.
-- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [mwouts/jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 - [TonicAI/tonic_validate](https://github.com/TonicAI/tonic_validate) - Metrics to evaluate the quality of responses of your Retrieval Augmented Generation (RAG) applications.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
@@ -2406,7 +2405,7 @@
 - [ecrindigital/facetpack](https://github.com/ecrindigital/facetpack) - The missing toolkit for React Native. Rust-powered performance & developer experience.
 - [nebrius/eslint-plugin-fast-import](https://github.com/nebrius/eslint-plugin-fast-import) - A high performance ESLint plugin with rules to ensure proper usage of imports and exports
 - [azat-io/eslint-rule-benchmark](https://github.com/azat-io/eslint-rule-benchmark) - 🌩 Benchmark ESLint rules with detailed performance metrics for CI and plugin development
-- [marcalexiei/eslint-plugin-zod](https://github.com/marcalexiei/eslint-plugin-zod) - ESLint plugin that adds custom linting rules to enforce best practices when using Zod
+- [marcalexiei/eslint-zod](https://github.com/marcalexiei/eslint-zod) - ESLint plugin that adds custom linting rules to enforce best practices when using Zod
 - [HugoRCD/evlog](https://github.com/HugoRCD/evlog) - Digging through logs is not observability. It's hope. — wide events, structured errors, TypeScript-first, every runtime.
 - [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl) - AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built f
 - [opral/lix](https://github.com/opral/lix) - Version control system for AI agents
@@ -2431,7 +2430,7 @@
 - [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) - MCP Aggregator, Orchestrator, Middleware, Gateway in one docker
 - [birdofpreyru/react-helmet](https://github.com/birdofpreyru/react-helmet) - Thread-safe Helmet for React 19 and friends
 - [openclaw/mcporter](https://github.com/openclaw/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
-- [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [gpbl/react-day-picker](https://github.com/gpbl/react-day-picker) - DayPicker is a customizable date picker component for React. Add date pickers, calendars, and date inputs to your web applications.
 - [franciscoBSalgueiro/en-croissant](https://github.com/franciscoBSalgueiro/en-croissant) - The Ultimate Chess Toolkit
 - [TanStack/devtools](https://github.com/TanStack/devtools) - 🤖 Framework-agnostic devtools panel for handling TanStack libraries devtools and your custom devtool plugins
