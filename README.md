@@ -94,7 +94,7 @@
 
 ## Astro 
 
-- [fulldotdev/ui](https://github.com/fulldotdev/ui) - Astro UI component and block library compatible with shadcn/ui
+- [fulldotdev/ui](https://github.com/fulldotdev/ui) - Components and Blocks for building content-driven Astro websites
 - [NebulaServices/Nebula](https://github.com/NebulaServices/Nebula) - a stunning and sleek web proxy with support for hundreds of popular sites.
 - [surjithctly/astroship](https://github.com/surjithctly/astroship) - Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS
 
@@ -253,6 +253,7 @@
 
 ## C++ 
 
+- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [CITGuru/openduck](https://github.com/CITGuru/openduck) - Distributed DuckDB - dual execution and differential storage
 - [duckdb/ducklake](https://github.com/duckdb/ducklake) - DuckLake is an integrated data lake and catalog format
 - [LadybugDB/ladybug](https://github.com/LadybugDB/ladybug) - LadybugDB a graph database
@@ -488,6 +489,8 @@
 
 ## Go 
 
+- [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) - Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound
+- [looplj/axonhub](https://github.com/looplj/axonhub) - ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.
 - [mmatczuk/jira-mcp](https://github.com/mmatczuk/jira-mcp) - Local Jira MCP, secure by default, LLM friendly, minimal context overhead
 - [uSwapExchange/zero](https://github.com/uSwapExchange/zero) - Zero-fee, zero-tracking, open-source crypto swap frontend. Single Go binary, zero dependencies, FROM scratch container. Powered by NEAR Intents.
 - [runkids/skillshare](https://github.com/runkids/skillshare) - 📚 Sync skills across all AI CLI tools with one command and simplify team sharing. Supporting Codex, Claude Code, OpenClaw & more
@@ -801,7 +804,6 @@
 - [Freeyourgadget/Gadgetbridge](https://github.com/Freeyourgadget/Gadgetbridge) - We are on codeberg.org now! https://codeberg.org/Freeyourgadget/Gadgetbridge -  Gadgetbridge - A free and cloudless replacement for your gadget vendors' closed source Android applications. Supports Pe
 - [helidon-io/helidon](https://github.com/helidon-io/helidon) - Java libraries for writing microservices
 - [Suwayomi/Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) - A rewrite of Tachiyomi for the Desktop
-- [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
 - [dylibso/chicory](https://github.com/dylibso/chicory) - Native JVM WebAssembly runtime
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [Gedsh/InviZible](https://github.com/Gedsh/InviZible) - Android application for online privacy and security
@@ -846,6 +848,7 @@
 
 ## JavaScript 
 
+- [stephenlthorn/auto-identity-remove](https://github.com/stephenlthorn/auto-identity-remove) - Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule
 - [yorkeccak/scientific-skills](https://github.com/yorkeccak/scientific-skills) - Natural language scientific literature search skills with semantic search over PubMed, arXiv, ChEMBL, DrugBank, bioRxiv, medRxiv, clinical trials, and more with zero API complexity.
 - [Hickinvest/composer-quant-tools](https://github.com/Hickinvest/composer-quant-tools) - Composer Quant Tools Chrome Extension
 - [bmorphism/manifold-mcp-server](https://github.com/bmorphism/manifold-mcp-server) - MCP server for interacting with Manifold Markets prediction markets
@@ -1428,6 +1431,8 @@
 
 ## Python 
 
+- [Nikita-Filonov/ai-review](https://github.com/Nikita-Filonov/ai-review) - 🚀 AI-powered code review tool for GitHub, GitLab, Bitbucket Cloud, Bitbucket Server, Azure DevOps and Gitea — built with LLMs like OpenAI, Claude, Gemini, Ollama, Bedrock, OpenRouter and Azure OpenAI
+- [sipyourdrink-ltd/bernstein](https://github.com/sipyourdrink-ltd/bernstein) - Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained audit log, signed agent cards, per-artefact lineage, air-gap deploy. The orchestrat
 - [6551Team/opentwitter-mcp](https://github.com/6551Team/opentwitter-mcp) - Twitter/X Data · User Profiles · Tweet Search · Follower Events · KOL Tracking
 - [fivetaku/insane-search](https://github.com/fivetaku/insane-search) - Auto-bypass for blocked websites in Claude Code — Phase 0→3 adaptive scheduler, no API keys
 - [robbyczgw-cla/hermes-web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus) - Hermes Agent flagship plugin for multi-provider web search and extraction with intelligent routing, quality reports, and research mode.
@@ -1673,7 +1678,6 @@
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
@@ -1800,6 +1804,7 @@
 
 ## Rust 
 
+- [xataio/deltax](https://github.com/xataio/deltax) - Time series postgres extension
 - [Ataraxy-Labs/weave](https://github.com/Ataraxy-Labs/weave) - Entity-level git merge driver. Resolves false conflicts git invents when independent agents edit the same file. ~95% reduction vs. line-based merge.
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
@@ -1833,7 +1838,7 @@
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [voidzero-dev/vite-task](https://github.com/voidzero-dev/vite-task) - Task runner for Vite+
 - [lasect/pg_turret](https://github.com/lasect/pg_turret) - postgres extension for streaming logs
-- [tensorchord/VectorChord](https://github.com/tensorchord/VectorChord) - Scalable, fast, and disk-friendly vector search in Postgres, the successor of pgvecto.rs.
+- [supervc-stack/VectorChord](https://github.com/supervc-stack/VectorChord) - Scalable, fast, and disk-friendly vector search in Postgres, the successor of pgvecto.rs.
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
 - [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance rust-powered UI layout library
 - [JamieMason/syncpack](https://github.com/JamieMason/syncpack) - Consistent dependency versions in large JavaScript Monorepos.
@@ -1972,7 +1977,7 @@
 - [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
-- [Canner/WrenAI](https://github.com/Canner/WrenAI) - The open context layer that gives AI agents grounded, governed SQL across 20+ data sources, that helps you build GenBI, text-to-sql, dashboards, and advanced analytics.
+- [Canner/WrenAI](https://github.com/Canner/WrenAI) - The open context layer that gives AI agents grounded, governed SQL across 20+ data sources, that helps you build GenBI, agentic BI, text-to-sql, dashboards, and agentic analytics.
 - [exograph/exograph](https://github.com/exograph/exograph) - Build production-ready backends in minutes
 - [chaosprint/asak](https://github.com/chaosprint/asak) - A cross-platform audio recording/playback CLI tool with TUI, written in Rust.
 - [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - The Universal Binary Installer
@@ -2174,6 +2179,7 @@
 
 ## Shell 
 
+- [GNOME/adwaita-fonts](https://github.com/GNOME/adwaita-fonts) - Read-only mirror of https://gitlab.gnome.org/GNOME/adwaita-fonts
 - [samber/cc-skills](https://github.com/samber/cc-skills) - 🧑‍🎨 A collection of agentic skills that works
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
 - [cabinlab/claude-code-sdk-docker](https://github.com/cabinlab/claude-code-sdk-docker) - Docker containers for Claude Code Typescript and Python SDKs. Works with Claude Pro and Max plans
@@ -2304,6 +2310,7 @@
 
 ## TypeScript 
 
+- [big-emotion/ferry](https://github.com/big-emotion/ferry) - GitHub Actions–native agent pipeline that turns Jira column moves into reviewed draft PRs — no server,   no daemon.
 - [slkiser/opencode-quota](https://github.com/slkiser/opencode-quota) - OpenCode quota & tokens usage with zero context window pollution. Supports OpenCode Go, Cursor, GitHub Copilot, OpenAl (Plus/Pro), Kimi Code, Alibaba Coding Plan, Chutes Al, Google Antigravity, Z.ai C
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [Eul45/omni-search](https://github.com/Eul45/omni-search) - High-performance Windows file search + duplicate finder using NTFS USN/MFT (Tauri + Rust + C++).
@@ -2804,7 +2811,7 @@
 - [chearon/dropflow](https://github.com/chearon/dropflow) - A CSS layout engine
 - [colyseus/uWebSockets-express](https://github.com/colyseus/uWebSockets-express) - Express API compatibility layer for uWebSockets.js
 - [pugson/hexp3](https://github.com/pugson/hexp3) - 💅 Quickly convert your HEX colors to Display P3 color space.
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [ngneat/elf](https://github.com/ngneat/elf) - 🧙‍♀️ A Reactive Store with Magical Powers
 - [bewcloud/bewcloud](https://github.com/bewcloud/bewcloud) - A simpler alternative to Nextcloud and ownCloud, built with TypeScript and Deno. 🦕
 - [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
