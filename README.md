@@ -548,7 +548,7 @@
 - [welovemedia/ffmate](https://github.com/welovemedia/ffmate) - FFmate is a modern and powerful automation layer built on top of FFmpeg - designed to make video and audio transcoding simpler, smarter, and easier to integrate
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit
-- [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) - Realtime BirdNET soundscape analyzer
+- [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) - Self-hosted realtime soundscape analyser for birds, wildlife, and bats. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin) - A multi-shell completion binary.
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
