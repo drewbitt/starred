@@ -1050,7 +1050,6 @@
 - [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for Humans
 - [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
 - [tmountain/pico-8-typescript](https://github.com/tmountain/pico-8-typescript) - Create PICO-8 games in TypeScript
-- [pockethost/pockethost](https://github.com/pockethost/pockethost) - Open source multitenant PocketBase server
 - [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 - [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript Data Grid / Data Table with a Spreadsheet Look & Feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
 - [wooorm/starry-night](https://github.com/wooorm/starry-night) - Syntax highlighting, like GitHub
@@ -1434,6 +1433,7 @@
 
 ## Python 
 
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 - [shang-zhu/violin](https://github.com/shang-zhu/violin) - Open-source Video Translation Skill
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
@@ -2311,6 +2311,7 @@
 
 ## TypeScript 
 
+- [getsentry/warden](https://github.com/getsentry/warden) - Your code is under new management. Agents that review your code.
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms
 - [vorpus/performativeUI](https://github.com/vorpus/performativeUI) - 
 - [spences10/mcpick](https://github.com/spences10/mcpick) - Claude Code extension manager — MCP servers, plugins (skills, hooks, agents), and marketplaces
@@ -3138,6 +3139,7 @@
 - [hayes/pothos](https://github.com/hayes/pothos) - Pothos GraphQL is library for creating GraphQL schemas in typescript using a strongly typed code first approach
 - [open-source-labs/Reactime](https://github.com/open-source-labs/Reactime) - Developer tool for time travel debugging and performance monitoring in React applications.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
+- [pockethost/pockethost](https://github.com/pockethost/pockethost) - Open source multitenant PocketBase server
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [sannajammeh/tw-classed](https://github.com/sannajammeh/tw-classed) - 
 - [jawj/zapatos](https://github.com/jawj/zapatos) - Zero-abstraction Postgres for TypeScript: a non-ORM database library
