@@ -540,7 +540,7 @@
 - [blampe/rreading-glasses](https://github.com/blampe/rreading-glasses) - Corrective lenses for curmudgeonly readars in your life
 - [openclaw/gogcli](https://github.com/openclaw/gogcli) - Google Workspace in your terminal.
 - [fencesandbox/fence](https://github.com/fencesandbox/fence) - Lightweight, container-free sandbox for running commands with network and filesystem restrictions
-- [obot-platform/obot](https://github.com/obot-platform/obot) - Complete MCP Platform -- Hosting, Registry, Gateway, and Chat Client
+- [obot-platform/obot](https://github.com/obot-platform/obot) - Complete MCP Platform from Obot AI
 - [f/mcptools](https://github.com/f/mcptools) - A command-line interface for interacting with MCP (Model Context Protocol) servers using both stdio and HTTP transport.
 - [amterp/rad](https://github.com/amterp/rad) - Modern CLI scripts made easy.
 - [mrusme/overpush](https://github.com/mrusme/overpush) - A self-hosted, drop-in replacement for Pushover (https://codeberg.org/mrus/overpush)
@@ -1135,6 +1135,8 @@
 
 ## Kotlin 
 
+- [ProdigyV21/ARVIO](https://github.com/ProdigyV21/ARVIO) - ARVIO - A media hub application with a modern, beautiful interface.
+- [Davidona/StreamVault-IPTV](https://github.com/Davidona/StreamVault-IPTV) - StreamVault is a TV-first free IPTV player for Android TV built with Kotlin, Jetpack Compose, Room, Hilt, and Media3.
 - [yume-chan/VolumeManager](https://github.com/yume-chan/VolumeManager) - Control each app's volume independently.
 - [sogonov/anubis](https://github.com/sogonov/anubis) - Android app manager with VPN integration. Manages groups of apps by freezing/unfreezing them based on VPN connection state.
 - [NuvioMedia/NuvioTV](https://github.com/NuvioMedia/NuvioTV) - Official Nuvio Android TV Repository
@@ -1350,7 +1352,6 @@
 - [tobilg/sql-workbench](https://github.com/tobilg/sql-workbench) - Public issue-tracking and feature suggestion for sql-workbench.com
 - [macos-fuse-t/fuse-t](https://github.com/macos-fuse-t/fuse-t) - 
 - [meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines
-- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [msgpack/msgpack](https://github.com/msgpack/msgpack) - MessagePack is an extremely efficient object serialization library. It's like JSON, but very fast and small.
 - [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
 - [TablePlus/TablePlus](https://github.com/TablePlus/TablePlus) - TablePlus macOS issue tracker
@@ -1616,6 +1617,7 @@
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
 - [fugue-project/fugue](https://github.com/fugue-project/fugue) - A unified interface for distributed computing. Fugue executes SQL, Python, Pandas, and Polars code on Spark, Dask and Ray without any rewrites.
 - [nuclia/nucliadb](https://github.com/nuclia/nucliadb) - NucliaDB, The AI Search database for RAG
+- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [pts/pdfsizeopt](https://github.com/pts/pdfsizeopt) - PDF file size optimizer
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [online-ml/river](https://github.com/online-ml/river) - 🌊 Online machine learning in Python
@@ -1816,6 +1818,7 @@
 
 ## Rust 
 
+- [euzu/tuliprox](https://github.com/euzu/tuliprox) - Flexible IPTV playlist processor & proxy in Rust 🦀 - supports M3U, Xtream Codes, HDHomeRun, Plex, Emby & Jellyfin. Filtering, merging, scheduling & web delivery.
 - [zerx-lab/FluxDown](https://github.com/zerx-lab/FluxDown) - Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。
 - [calagopus/panel](https://github.com/calagopus/panel) - A modern game server management panel built in Rust. Deploy, monitor, and manage Minecraft, Rust, and other game servers with industry-leading performance.
 - [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static analysis of code and styles: unused code, duplication, circular deps, complexity hotspots, architecture boundaries, design-system drift
@@ -2284,6 +2287,7 @@
 
 ## Swift 
 
+- [superuser404notfound/AetherEngine](https://github.com/superuser404notfound/AetherEngine) - Media player engine for iOS, tvOS and macOS. FFmpeg demux, VideoToolbox / dav1d / libavcodec decode (HEVC, H.264, AV1, VP9, MPEG-2, VC-1), live TV with DVR timeshift, Dolby Atmos passthrough, HDR10 / 
 - [niklasr22/BrightIntosh](https://github.com/niklasr22/BrightIntosh) - Unlock the full brightness of the XDR display of your MacBook Pro
 - [hermes-webui/hermes-swift-mac](https://github.com/hermes-webui/hermes-swift-mac) - The best way to run Hermes on your Mac!
 - [blitzdotdev/blitz-mac](https://github.com/blitzdotdev/blitz-mac) - Native macOS App Store Connect tool with MCP. Submit iOS apps to App Store with AI agents
@@ -2332,6 +2336,7 @@
 
 ## TypeScript 
 
+- [mewset/better-iptv](https://github.com/mewset/better-iptv) - Cross-platform IPTV player that just works. Handles huge playlists (100K+ channels), EPG guide, parental controls, series & movies library. Built with Rust + Tauri + React for speed & reliability. Pri
 - [callstack/agent-device](https://github.com/callstack/agent-device) - CLI to control iOS and Android devices for AI agents
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [domternal/domternal](https://github.com/domternal/domternal) - Modern, extensible rich text editor toolkit built on ProseMirror. Classic and Notion-style editors out of the box. Or go headless and assemble from 65+ tree-shakeable extensions. First-class wrappers 
@@ -2374,7 +2379,7 @@
 - [Expensify/App](https://github.com/Expensify/App) - Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code.
 - [coollabsio/jean](https://github.com/coollabsio/jean) - A dev environment for AI agents.
 - [hesreallyhim/proton-pass-community-mcp](https://github.com/hesreallyhim/proton-pass-community-mcp) - Unofficial MCP server that integrates with the Proton Pass CLI
-- [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.
+- [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted control plane for AI agents: dispatch tasks, review runs, track spend, and operate OpenClaw, Claude Code, Codex, and other runtimes.
 - [Railly/agentfiles](https://github.com/Railly/agentfiles) - Browse, create, and edit AI agent files across Claude Code, Cursor, Codex, and 13+ tools — from Obsidian.
 - [Lapis0x0/obsidian-yolo](https://github.com/Lapis0x0/obsidian-yolo) - Smart, snappy, and multilingual AI assistant for your vault.
 - [forloopcodes/contextplus](https://github.com/forloopcodes/contextplus) - Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining RAG, Tree-sitter AST, Spectral Clustering, and Obsidian-style
@@ -2525,7 +2530,7 @@
 - [unjs/perfect-debounce](https://github.com/unjs/perfect-debounce) - Debounce promise-returning & async functions.
 - [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own!
 - [vercel/streamdown](https://github.com/vercel/streamdown) - A drop-in replacement for react-markdown, designed for AI-powered streaming.
-- [alchemy-run/alchemy](https://github.com/alchemy-run/alchemy) - Infrastructure as TypeScript
+- [alchemy-run/alchemy-async](https://github.com/alchemy-run/alchemy-async) - Infrastructure as TypeScript
 - [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - AI-safe .env files: Schemas for agents, Secrets for humans.
 - [draftswithea/react-query-key-manager](https://github.com/draftswithea/react-query-key-manager) - Type-safe, namespaced query key manager for TanStack Query. Prevents collisions, improves discoverability, and enforces strict argument types — all with zero runtime overhead.
 - [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
