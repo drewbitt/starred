@@ -325,7 +325,6 @@
 - [nullptrlabs/pgmodeler](https://github.com/nullptrlabs/pgmodeler) - Open-source data modeling tool designed for PostgreSQL. No more typing DDL commands. Let pgModeler do the work for you!
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [tiltedphoques/TiltedEvolution](https://github.com/tiltedphoques/TiltedEvolution) - Skyrim mod to play online!
-- [perspective-dev/perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [jarulraj/sqlcheck](https://github.com/jarulraj/sqlcheck) - Automatically identify anti-patterns in SQL queries
 - [secondlife/viewer](https://github.com/secondlife/viewer) - 🖥️ Second Life's official client
 - [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC) - Modern VNC Server and client, web based and secure
@@ -409,6 +408,7 @@
 
 ## Dart 
 
+- [rusty4444/hermes-android](https://github.com/rusty4444/hermes-android) - Android client for Hermes Agent - chat with your Hermes sessions from a phone or tablet over local Wi-Fi or a private Tailscale network.
 - [pounat/absorb](https://github.com/pounat/absorb) - A cross platform Audiobookshelf client for Android and iOS
 - [spotiflacapp/SpotiFLAC-Mobile](https://github.com/spotiflacapp/SpotiFLAC-Mobile) - Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
 - [definev/zenrouter](https://github.com/definev/zenrouter) - The Ultimate Flutter/Dart Frontend Router for Every Navigation Pattern
@@ -649,7 +649,7 @@
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
 - [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [pgaskin/kepubify](https://github.com/pgaskin/kepubify) - Fast, standalone EPUB to Kobo EPUB conversion tool.
 - [wazero/wazero](https://github.com/wazero/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
@@ -1457,7 +1457,7 @@
 - [TNTwise/REAL-Video-Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Interpolate, Upscale, Decompress, and Denoise videos easily on Linux/Windows/MacOS.
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
 - [Nikita-Filonov/ai-review](https://github.com/Nikita-Filonov/ai-review) - 🚀 AI-powered code review tool for GitHub, GitLab, Bitbucket Cloud, Bitbucket Server, Azure DevOps and Gitea — built with LLMs like OpenAI, Claude, Gemini, Ollama, Bedrock, OpenRouter and Azure OpenAI
-- [sipyourdrink-ltd/bernstein](https://github.com/sipyourdrink-ltd/bernstein) - Deterministic, audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained audit log, signed agent cards, per-artefact lineage, byte-identical 
+- [sipyourdrink-ltd/bernstein](https://github.com/sipyourdrink-ltd/bernstein) - Deterministic, audit-grade multi-agent orchestration for AI agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained audit log, signed agent cards, per-artefact lineage, byte-identical replay w
 - [6551Team/opentwitter-mcp](https://github.com/6551Team/opentwitter-mcp) - Twitter/X Data · User Profiles · Tweet Search · Follower Events · KOL Tracking
 - [fivetaku/insane-search](https://github.com/fivetaku/insane-search) - Auto-bypass for blocked websites in Claude Code — Phase 0→3 adaptive scheduler, no API keys
 - [robbyczgw-cla/hermes-web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus) - Source-only multi-provider web search and URL extraction for Hermes Agent.
@@ -1897,7 +1897,7 @@
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
 - [rari-build/benchmarks](https://github.com/rari-build/benchmarks) - Comprehensive performance benchmarks comparing rari (Rust-powered RSC) vs Next.js across build times, rendering speed, TTFB, bundle size, and concurrent load handling.
 - [rari-build/rari](https://github.com/rari-build/rari) - rari: High-performance React Server Components framework powered by a Rust runtime, delivering 18.1x faster response times (0.12ms vs 2.17ms) and 67.4x higher throughput (97,826 vs 1,452 req/sec) than
-- [kane50613/takumi](https://github.com/kane50613/takumi) - Render JSX, HTML, and CSS to SVG or images. Drop-in next/og replacement.
+- [kane50613/takumi](https://github.com/kane50613/takumi) - Render JSX & HTML to SVG or images. Support 160+ CSS properties. Drop-in next/og replacement.
 - [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [tryandromeda/andromeda](https://github.com/tryandromeda/andromeda) - JS runtime lolz
@@ -1999,7 +1999,7 @@
 - [GlareDB/glaredb](https://github.com/GlareDB/glaredb) - GlareDB: A light and fast SQL database for analytics
 - [vlcn-io/cr-sqlite](https://github.com/vlcn-io/cr-sqlite) - Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite
 - [emilpriver/geni](https://github.com/emilpriver/geni) - Standalone database migration tool which works for Postgres, MariaDB, MySQL, Sqlite and LibSQL(Turso).
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now speaking Postgres. The LLVM of databases.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 - [ToucanToco/fastexcel](https://github.com/ToucanToco/fastexcel) - A fast excel reader for Rust and Python
 - [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
@@ -2149,6 +2149,7 @@
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
+- [perspective-dev/perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [fermyon/bartholomew](https://github.com/fermyon/bartholomew) - The Micro-CMS for WebAssembly and Spin
@@ -2381,7 +2382,6 @@
 - [Expensify/App](https://github.com/Expensify/App) - Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code.
 - [coollabsio/jean](https://github.com/coollabsio/jean) - A dev environment for AI agents.
 - [hesreallyhim/proton-pass-community-mcp](https://github.com/hesreallyhim/proton-pass-community-mcp) - Unofficial MCP server that integrates with the Proton Pass CLI
-- [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted control plane for AI agents: dispatch tasks, review runs, track spend, and operate OpenClaw, Claude Code, Codex, and other runtimes.
 - [Railly/agentfiles](https://github.com/Railly/agentfiles) - Browse, create, and edit AI agent files across Claude Code, Cursor, Codex, and 13+ tools — from Obsidian.
 - [Lapis0x0/obsidian-yolo](https://github.com/Lapis0x0/obsidian-yolo) - Smart, snappy, and multilingual AI assistant for your vault.
 - [forloopcodes/contextplus](https://github.com/forloopcodes/contextplus) - Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining RAG, Tree-sitter AST, Spectral Clustering, and Obsidian-style
@@ -2461,7 +2461,7 @@
 - [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU) - Beautiful, open source, WebGPU-based charting library
 - [videojs/v10](https://github.com/videojs/v10) - [Beta] Video.js v10 - open source media player framework for Web and React.
 - [binaricat/Netcatty](https://github.com/binaricat/Netcatty) - SSH workspace, SFTP, and terminals in one
-- [gtkx-org/gtkx](https://github.com/gtkx-org/gtkx) - Native Linux application development for the modern age. React 19 + GTK4/Libadwaita on Node.js
+- [gtkx-org/gtkx](https://github.com/gtkx-org/gtkx) - The React framework for Linux. Build GTK4 and Adwaita apps in TypeScript, with React components and hooks over real GObject widgets.
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
 - [ecrindigital/facetpack](https://github.com/ecrindigital/facetpack) - The missing toolkit for React Native. Rust-powered performance & developer experience.
 - [nebrius/import-integrity-lint](https://github.com/nebrius/import-integrity-lint) - High-performance ESLint/Oxlint plugin that catches dead code, broken imports, and architectural violations. Optimized for monorepos.
@@ -2754,7 +2754,7 @@
 - [web-infra-dev/rsdoctor](https://github.com/web-infra-dev/rsdoctor) - A one-stop build analyzer for Rspack and webpack.
 - [voila-dashboards/voici](https://github.com/voila-dashboards/voici) - Voici turns any Jupyter Notebook into a static web application
 - [mmomtchev/magickwand.js](https://github.com/mmomtchev/magickwand.js) - Full native ImageMagick-7 bindings for Node.js native & WASM - showcase for SWIG Node-API
-- [whitphx/stlite](https://github.com/whitphx/stlite) - In-browser Streamlit 🎈🚀
+- [whitphx/stlite](https://github.com/whitphx/stlite) - Streamlit-Lite; In-browser Streamlit 🎈🚀
 - [holdenmatt/duckdb-wasm-kit](https://github.com/holdenmatt/duckdb-wasm-kit) - Hooks and utilities to make it easier to use duckdb-wasm in React apps.
 - [dnl-fm/done](https://github.com/dnl-fm/done) - Self-hosted message queue for Deno Deploy
 - [cross-org/env](https://github.com/cross-org/env) - Cross-runtime environment variable management for Deno, Bun, and Node.js
