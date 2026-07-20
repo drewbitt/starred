@@ -861,7 +861,6 @@
 
 ## JavaScript 
 
-- [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 - [abundantbeing/hermes-browser-extension](https://github.com/abundantbeing/hermes-browser-extension) - Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.
 - [tejaswigowda/ffmpeg-webCLI](https://github.com/tejaswigowda/ffmpeg-webCLI) - A browser-based video editor powered by ffmpeg.wasm. No uploads, no servers -- all processing happens locally in your browser using WebAssembly.
 - [worldwonderer/oh-story-claudecode](https://github.com/worldwonderer/oh-story-claudecode) - 网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程
@@ -1467,7 +1466,7 @@
 - [XPixelGroup/DiffBIR](https://github.com/XPixelGroup/DiffBIR) - [ECCV 2024] codes of DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior
 - [clawnchdev/clawmes](https://github.com/clawnchdev/clawmes) - Hermes Agent plugin for crypto: wallets, DEX trading, lending and staking, governance, on-chain automation.
 - [borski/travel-hacking-toolkit](https://github.com/borski/travel-hacking-toolkit) - AI-powered travel hacking and search with cash, points, miles, and award flights. Drop-in skills and MCP servers for Claude, Codex, and OpenCode.
-- [LetsFG/LetsFG](https://github.com/LetsFG/LetsFG) - Agent-native flight search & booking. Saved $116 across 5 routes vs Google Flights (verified). 400+ airlines in 5 seconds. Join the community - Star and spread the word
+- [LetsFG/LetsFG](https://github.com/LetsFG/LetsFG) - Agent-native flight search & booking. 400+ airlines, zero markup, $116 saved vs Google Flights (verified). Building toward the whole trip: best airport, ground transport, delay & cancellation handling
 - [mnemox-ai/tradememory-protocol](https://github.com/mnemox-ai/tradememory-protocol) - Decision audit trail + persistent memory for AI trading agents. Outcome-weighted recall, SHA-256 tamper detection, 17 MCP tools.
 - [jamestford/pyhood](https://github.com/jamestford/pyhood) - A modern Python client for the Robinhood API — with automatic token refresh and no auth headaches
 - [csslc/PiSA-SR](https://github.com/csslc/PiSA-SR) - [CVPR 2025] Official code repository for "Pixel-level and Semantic-level Adjustable Super-resolution: A Dual-LoRA Approach"
@@ -2371,7 +2370,7 @@
 - [johnkueh/bq-analytics](https://github.com/johnkueh/bq-analytics) - Analytics your AI agent can actually query. Tiny SDK that pipes events to BigQuery — ~$0/mo at indie scale, no dashboard, no vendor lock-in.
 - [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference
 - [kevin1chun/robinhood-for-agents](https://github.com/kevin1chun/robinhood-for-agents) - AI-native tooling for robinhood integration
-- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95%
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quot
 - [newyorkcompute/kalshi](https://github.com/newyorkcompute/kalshi) - AI tools for Kalshi prediction markets — MCP server, CLI, and more.
 - [fieldviolence/polyrouter-mcp](https://github.com/fieldviolence/polyrouter-mcp) - MCP server for Polyrouter API - unified prediction market aggregator
 - [stefanoamorelli/fred-mcp-server](https://github.com/stefanoamorelli/fred-mcp-server) - Open-source FRED MCP Server (Federal Reserve Economic Data)
