@@ -330,7 +330,7 @@
 ## agent 
 
 - [agentscope-ai/PawBench](https://github.com/agentscope-ai/PawBench) - A benchmark for evaluating LLM × harness performance.
-- [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents
+- [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [looplj/axonhub](https://github.com/looplj/axonhub) - ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.
 - [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) - Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
@@ -491,7 +491,7 @@
 - [bodo-ai/Bodo](https://github.com/bodo-ai/Bodo) - High Performance Data Processing in Python
 - [adaline/gateway](https://github.com/adaline/gateway) - The only fully local production-grade Super SDK that provides a simple, unified, and powerful interface for calling more than 200+ LLMs.
 - [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern, performant & for the age of AI. Develop powerful apps, clouds & framework-agnostic libraries—faster.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
 - [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI and shadcn/ui
 - [udecode/dotai](https://github.com/udecode/dotai) - Skills for agents.
@@ -597,7 +597,7 @@
 - [superglue-ai/superglue](https://github.com/superglue-ai/superglue) - superglue (YC W25) builds integrations and tools from natural language. Get production-grade tools for long tail and enterprise systems.
 - [TrafficGuard/typedai](https://github.com/TrafficGuard/typedai) - TypeScript AI platform with AI chat, Autonomous agents, Software developer agents, chatbots and more
 - [adaline/gateway](https://github.com/adaline/gateway) - The only fully local production-grade Super SDK that provides a simple, unified, and powerful interface for calling more than 200+ LLMs.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
@@ -1719,7 +1719,7 @@
 ## crawler 
 
 - [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) - SiteOne Crawler is a cross-platform website crawler and analyzer for SEO, security, accessibility, and performance optimization—ideal for developers, DevOps, QA engineers, and consultants. Supports Wi
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
 - [webrecorder/browsertrix-crawler](https://github.com/webrecorder/browsertrix-crawler) - Run a high-fidelity browser-based web archiving crawler in a single Docker container
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
@@ -2735,7 +2735,7 @@
 
 ## framework 
 
-- [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents
+- [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents
 - [LetsFG/LetsFG](https://github.com/LetsFG/LetsFG) - Agent-native flight search & booking. Hundreds of airlines plus the major booking sites (Google Flights, Skyscanner, Kiwi). Per-flight reliability history, instant booking, best-airport picks, ground 
 - [chenxin-yan/crust](https://github.com/chenxin-yan/crust) - A TypeScript-first, Bun-native CLI framework with composable modules.
 - [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
@@ -3671,7 +3671,7 @@
 ## ios 
 
 - [partout-io/passepartout](https://github.com/partout-io/passepartout) - Your go-to app for VPN and privacy.
-- [superuser404notfound/AetherEngine](https://github.com/superuser404notfound/AetherEngine) - Media player engine for iOS, tvOS and macOS. FFmpeg demux, VideoToolbox / dav1d / libavcodec decode (HEVC, H.264, AV1, VP9, MPEG-2, VC-1), live TV with DVR timeshift and hardware deinterlace, Dolby At
+- [superuser404notfound/AetherEngine](https://github.com/superuser404notfound/AetherEngine) - Media player engine for iOS, tvOS, macOS and visionOS. FFmpeg demux, VideoToolbox / dav1d / libavcodec decode (HEVC, H.264, AV1, VP9, MPEG-2, VC-1), live TV with DVR timeshift and hardware deinterlace
 - [blitzdotdev/blitz-mac](https://github.com/blitzdotdev/blitz-mac) - Native macOS App Store Connect tool with MCP. Submit iOS apps to App Store with AI agents
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
 - [spotiflacapp/SpotiFLAC-Mobile](https://github.com/spotiflacapp/SpotiFLAC-Mobile) - Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
@@ -3787,7 +3787,7 @@
 - [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static analysis of code and styles: unused code, duplication, circular deps, complexity hotspots, architecture boundaries, design-system drift
 - [tejaswigowda/ffmpeg-webCLI](https://github.com/tejaswigowda/ffmpeg-webCLI) - A browser-based video editor powered by ffmpeg.wasm. No uploads, no servers -- all processing happens locally in your browser using WebAssembly.
 - [domternal/domternal](https://github.com/domternal/domternal) - Modern, extensible rich text editor toolkit built on ProseMirror. Classic and Notion-style editors out of the box. Or go headless and assemble from 65+ tree-shakeable extensions. First-class wrappers 
-- [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents
+- [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents
 - [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) - Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.
 - [error311/FileRise](https://github.com/error311/FileRise) - 🗂️ FileRise – lightweight, self-hosted file manager & storage hub with granular ACLs, resumable uploads, encrypted folders, WebDAV & SSO. Fully Docker / Unraid compatible.
 - [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
@@ -4432,7 +4432,7 @@
 - [FrigadeHQ/trench](https://github.com/FrigadeHQ/trench) - Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events. Easily build product analytics dashboards, LLM RAGs, 
 - [adaline/gateway](https://github.com/adaline/gateway) - The only fully local production-grade Super SDK that provides a simple, unified, and powerful interface for calling more than 200+ LLMs.
 - [mayneyao/eidos](https://github.com/mayneyao/eidos) - An extensible framework for Personal Data Management.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
 - [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) - 🐢 Open-Source Evaluation & Testing library for LLM Agents
@@ -4610,7 +4610,7 @@
 - [partout-io/passepartout](https://github.com/partout-io/passepartout) - Your go-to app for VPN and privacy.
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
-- [superuser404notfound/AetherEngine](https://github.com/superuser404notfound/AetherEngine) - Media player engine for iOS, tvOS and macOS. FFmpeg demux, VideoToolbox / dav1d / libavcodec decode (HEVC, H.264, AV1, VP9, MPEG-2, VC-1), live TV with DVR timeshift and hardware deinterlace, Dolby At
+- [superuser404notfound/AetherEngine](https://github.com/superuser404notfound/AetherEngine) - Media player engine for iOS, tvOS, macOS and visionOS. FFmpeg demux, VideoToolbox / dav1d / libavcodec decode (HEVC, H.264, AV1, VP9, MPEG-2, VC-1), live TV with DVR timeshift and hardware deinterlace
 - [TNTwise/REAL-Video-Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Interpolate, Upscale, Decompress, and Denoise videos easily on Linux/Windows/MacOS.
 - [niklasr22/BrightIntosh](https://github.com/niklasr22/BrightIntosh) - Unlock the full brightness of the XDR display of your MacBook Pro
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
@@ -4711,7 +4711,7 @@
 
 ## markdown 
 
-- [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents
+- [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents
 - [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) - 🦀 A fast Rsbuild-based static site generator.
 - [resumx/resumx](https://github.com/resumx/resumx) - Resume renderer for Claude Code.
 - [serkodev/markdown-exit](https://github.com/serkodev/markdown-exit) - Fast, customizable Markdown parser and renderer with full CommonMark support. TypeScript rewrite of markdown-it with enhancements.
@@ -4735,7 +4735,7 @@
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [clemlesne/scrape-it-now](https://github.com/clemlesne/scrape-it-now) - Web scraper made for AI and simplicity in mind. It runs as a CLI that can be parallelized and outputs high-quality markdown content.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
@@ -8194,7 +8194,7 @@
 
 - [ruddarr/app](https://github.com/ruddarr/app) - A native iOS companion app for Radarr and Sonarr instances.
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
-- [superuser404notfound/AetherEngine](https://github.com/superuser404notfound/AetherEngine) - Media player engine for iOS, tvOS and macOS. FFmpeg demux, VideoToolbox / dav1d / libavcodec decode (HEVC, H.264, AV1, VP9, MPEG-2, VC-1), live TV with DVR timeshift and hardware deinterlace, Dolby At
+- [superuser404notfound/AetherEngine](https://github.com/superuser404notfound/AetherEngine) - Media player engine for iOS, tvOS, macOS and visionOS. FFmpeg demux, VideoToolbox / dav1d / libavcodec decode (HEVC, H.264, AV1, VP9, MPEG-2, VC-1), live TV with DVR timeshift and hardware deinterlace
 - [niklasr22/BrightIntosh](https://github.com/niklasr22/BrightIntosh) - Unlock the full brightness of the XDR display of your MacBook Pro
 - [MaxGhenis/openmessage](https://github.com/MaxGhenis/openmessage) - Local-first Google Messages + WhatsApp inbox for Mac, web, and MCP.
 - [dodo-reach/hermes-desktop](https://github.com/dodo-reach/hermes-desktop) - The safest, simplest way to manage Hermes from your Mac. Pure SSH. No gateways, no exposed ports, no browser layer.
@@ -8535,7 +8535,7 @@
 - [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static analysis of code and styles: unused code, duplication, circular deps, complexity hotspots, architecture boundaries, design-system drift
 - [phase-rs/phase](https://github.com/phase-rs/phase) - A rules engine and game client — Rust + WASM + React
 - [domternal/domternal](https://github.com/domternal/domternal) - Modern, extensible rich text editor toolkit built on ProseMirror. Classic and Notion-style editors out of the box. Or go headless and assemble from 65+ tree-shakeable extensions. First-class wrappers 
-- [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents
+- [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents
 - [n24q02m/better-email-mcp](https://github.com/n24q02m/better-email-mcp) - IMAP/SMTP email for AI agents -- read, send, organize folders, and manage attachments across multiple accounts, with auto-discovery.
 - [johnkueh/bq-analytics](https://github.com/johnkueh/bq-analytics) - Analytics your AI agent can actually query. Tiny SDK that pipes events to BigQuery — ~$0/mo at indie scale, no dashboard, no vendor lock-in.
 - [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference
