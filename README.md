@@ -255,6 +255,7 @@
 
 ## C++ 
 
+- [pounat/absorb](https://github.com/pounat/absorb) - A cross platform Audiobookshelf client for Android and iOS
 - [TwilitRealm/dusklight](https://github.com/TwilitRealm/dusklight) - Dusklight brings a classic adventure to PC and mobile platforms with a variety of fixes and improvements.
 - [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [CITGuru/openduck](https://github.com/CITGuru/openduck) - Distributed DuckDB - dual execution and differential storage
@@ -278,6 +279,7 @@
 - [mrousavy/nitro](https://github.com/mrousavy/nitro) - 🔥 Insanely fast native C++, Swift or Kotlin modules with a statically compiled binding layer to JSI
 - [Tencent/puerts](https://github.com/Tencent/puerts) - PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScript.
 - [evidence-dev/duckdb_gsheets](https://github.com/evidence-dev/duckdb_gsheets) - DuckDB extension to read and write Google Sheets using SQL
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [duckdb/pg_duckdb](https://github.com/duckdb/pg_duckdb) - DuckDB-powered Postgres for high performance apps & analytics.
 - [google/fuse-archive](https://github.com/google/fuse-archive) - FUSE file system for archives and compressed files (ZIP, RAR, 7Z, ISO, TGZ, XZ...)
 - [google/mount-zip](https://github.com/google/mount-zip) - FUSE file system for ZIP archives
@@ -410,7 +412,6 @@
 
 - [Moonfin-Client/Moonfin-Core](https://github.com/Moonfin-Client/Moonfin-Core) - A premium Jellyfin Client for Android Mobile, Android TV, iOS, Linux, MacOS, Tizen, tvOS, Web, and Windows
 - [rusty4444/hermes-android](https://github.com/rusty4444/hermes-android) - Android client for Hermes Agent - chat with your Hermes sessions from a phone or tablet over local Wi-Fi or a private Tailscale network.
-- [pounat/absorb](https://github.com/pounat/absorb) - A cross platform Audiobookshelf client for Android and iOS
 - [spotiflacapp/SpotiFLAC-Mobile](https://github.com/spotiflacapp/SpotiFLAC-Mobile) - Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
 - [definev/zenrouter](https://github.com/definev/zenrouter) - The Ultimate Flutter/Dart Frontend Router for Every Navigation Pattern
 - [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) - Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows
@@ -811,6 +812,7 @@
 
 ## Java 
 
+- [grimmory-tools/grimmory](https://github.com/grimmory-tools/grimmory) - A self-hosted library for your ebooks, comics, and audiobooks
 - [ReChronoRain/HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) - HyperOS enhancement module - Make HyperOS Great Again!
 - [stefanvictora/hue-scheduler](https://github.com/stefanvictora/hue-scheduler) - ☀ Sync Philips Hue & Home Assistant lights to your natural rhythm—with solar-aware schedules and smooth transitions.
 - [Freeyourgadget/Gadgetbridge](https://github.com/Freeyourgadget/Gadgetbridge) - We are on codeberg.org now! https://codeberg.org/Freeyourgadget/Gadgetbridge -  Gadgetbridge - A free and cloudless replacement for your gadget vendors' closed source Android applications. Supports Pe
@@ -934,7 +936,6 @@
 - [RafaelGSS/bench-node](https://github.com/RafaelGSS/bench-node) - A powerful Node.js benchmark library
 - [uwdata/flechette](https://github.com/uwdata/flechette) - Fast, lightweight access to Apache Arrow data.
 - [platformatic/ssr-performance-showdown](https://github.com/platformatic/ssr-performance-showdown) - Let's evaluate the performance of SSR libraries
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [vital987/chrome-novnc](https://github.com/vital987/chrome-novnc) - Chromium via noVNC (Browser in Browser)
 - [webrecorder/pywb](https://github.com/webrecorder/pywb) - Core Python Web Archiving Toolkit for replay and recording of web archives
 - [sqlite/sqlite-wasm](https://github.com/sqlite/sqlite-wasm) - SQLite Wasm conveniently wrapped as an ES Module.
@@ -1483,7 +1484,7 @@
 - [stefanoamorelli/sec-edgar-mcp](https://github.com/stefanoamorelli/sec-edgar-mcp) - A SEC EDGAR MCP (Model Context Protocol) Server
 - [android/skills](https://github.com/android/skills) - 
 - [zeropointnine/tts-audiobook-tool](https://github.com/zeropointnine/tts-audiobook-tool) - Audiobook creation app supporting too many TTS models (Qwen3-TTS, OmniVoice, VibeVoice, etc), focused on high-quality output. Plus audio-synced reader web app and standalone server component.
-- [sgl-project/sglang-omni](https://github.com/sgl-project/sglang-omni) - SGLang-Omni empowers high-performance serving for TTS, ASR, speech and omni models.
+- [sgl-project/sglang-omni](https://github.com/sgl-project/sglang-omni) - SGLang-Omni is a high-performance serving framework for audio models (TTS, ASR) and unified multimodal models.
 - [luketanti/AeroFoil](https://github.com/luketanti/AeroFoil) - Personal Library Manager
 - [dgtlmoon/sockpuppetbrowser](https://github.com/dgtlmoon/sockpuppetbrowser) - A scalable server for providing Chrome interfaces where needed
 - [cdpdriver/zendriver](https://github.com/cdpdriver/zendriver) - A blazing fast, async-first, undetectable webscraping/web automation framework based on ultrafunkamsterdam/nodriver. Now with Docker support!
@@ -1505,7 +1506,7 @@
 - [prrao87/graph-benchmark](https://github.com/prrao87/graph-benchmark) - Graph benchmarks for Kuzu, Ladybug and lance-graph
 - [JyChen9811/FaithDiff](https://github.com/JyChen9811/FaithDiff) - [CVPR 2025] FaithDiff for Classic Film Rejuvenation, Old Photo Revival, Social Media Restoration, Image Enhancement and AIGC Enhancement.
 - [calibrain/shelfmark](https://github.com/calibrain/shelfmark) - 
-- [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player.
+- [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted ROM manager and player.
 - [oban-bg/oban-py](https://github.com/oban-bg/oban-py) - 💎🐍 Robust job orchestration framework for Python, backed by modern PostgreSQL
 - [simonw/denobox](https://github.com/simonw/denobox) - Run JavaScript code and WASM in a Deno sandbox
 - [SalesforceAIResearch/LiveResearchBench](https://github.com/SalesforceAIResearch/LiveResearchBench) - A live benchmark and evaluation framework for open-ended deep research in the wild.
@@ -1823,6 +1824,9 @@
 
 ## Rust 
 
+- [libjxl/jxl-rs](https://github.com/libjxl/jxl-rs) - 
+- [getkern/kern](https://github.com/getkern/kern) - A fast, rootless sandbox and virtual resource runtime for any workload, including untrusted and AI-generated code. Daemonless: a real, kernel-enforced container in ~3.5 ms from an OCI image, no daemon
+- [yc-duan/fastctx](https://github.com/yc-duan/fastctx) - Fast, context-efficient repository tools for AI agents (MCP)
 - [jdx/aube](https://github.com/jdx/aube) - A fast Node.js package manager
 - [pablospe/worktrunk-sync](https://github.com/pablospe/worktrunk-sync) - wt sync — rebase stacked worktree branches in dependency order
 - [standardagents/ssh-clipboard](https://github.com/standardagents/ssh-clipboard) - Native encrypted clipboard sync over SSH for macOS and Linux
@@ -1888,7 +1892,6 @@
 - [yfedoseev/pdf_oxide](https://github.com/yfedoseev/pdf_oxide) - The fastest PDF library for Python and Rust. Text extraction, image extraction, markdown conversion, PDF creation & editing. 0.8ms mean, 5× faster than industry leaders, 100% pass rate on 3,830 PDFs. 
 - [rvben/rumdl](https://github.com/rvben/rumdl) - Fast Markdown linter and formatter written in Rust
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
-- [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
 - [jdx/pitchfork](https://github.com/jdx/pitchfork) - Daemons with DX
 - [estie-inc/wasm-xlsxwriter](https://github.com/estie-inc/wasm-xlsxwriter) - Generate Excel files in-browser with WebAssembly.
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
@@ -2355,6 +2358,7 @@
 
 ## TypeScript 
 
+- [AltanS/collie](https://github.com/AltanS/collie) - PWA to manage 🐑 herdr on the go. Tailnet accessible, push notifications, quick actions and more.
 - [rome-os/rome](https://github.com/rome-os/rome) - Rome is the agentic OS.
 - [timdamen/supaslidev](https://github.com/timdamen/supaslidev) - Manage all your Slidev presentations from one place
 - [1weiho/open-slide](https://github.com/1weiho/open-slide) - A slide framework built for agents.
@@ -2442,7 +2446,7 @@
 - [unjs/fontaine](https://github.com/unjs/fontaine) - Automatic font fallback based on font metrics
 - [first-fluke/oh-my-agent](https://github.com/first-fluke/oh-my-agent) - The multi-agent harness that checks the work: verifies agent runs by artifacts (stop-hook gates, independent judges, append-only event logs) across Claude Code, Codex, Cursor, and 10+ runtimes.
 - [p2r3/convert](https://github.com/p2r3/convert) - Truly universal online file converter
-- [chenxin-yan/crust](https://github.com/chenxin-yan/crust) - A TypeScript-first, Bun-native CLI framework with composable modules.
+- [chenxin-yan/crust](https://github.com/chenxin-yan/crust) - A TypeScript CLI framework that ships your commands as a CLI, agent skills, and MCP.
 - [megh-bari/pattern-craft](https://github.com/megh-bari/pattern-craft) - Professional-grade background patterns and gradients for your websites and apps. Easily copy and paste into your next project. Crafted with modern CSS and Tailwind for seamless integration.
 - [DigitecGalaxus/next-yak](https://github.com/DigitecGalaxus/next-yak) - 🦀 Zero-runtime CSS-in-JS powered by Rust. Write styled-components syntax, get build-time CSS extraction and full RSC compatibility
 - [btahir/react-kino](https://github.com/btahir/react-kino) - Cinematic scroll-driven storytelling for React
@@ -2798,7 +2802,7 @@
 - [cross-org/test](https://github.com/cross-org/test) - Truly cross runtime minimal testing framework working in collaboration with @std/assert, for Node, Deno and Bun.
 - [cross-org/kv](https://github.com/cross-org/kv) - A fast, lightweight, powerful and cross-platform key-value database for Node.js, Deno, and Bun.
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - The local-first database that runs on every JS runtime and replicates with your existing backend - no vendor, no lock-in - https://rxdb.info/
-- [aeria-org/aeria](https://github.com/aeria-org/aeria) - A language designed for the web that integrates with TypeScript
+- [aeria-org/aeria](https://github.com/aeria-org/aeria) - A framework/language to prototype webapps fast so you can touch grass
 - [cloudflare/serverless-registry](https://github.com/cloudflare/serverless-registry) - A container registry backed by Workers and R2.
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
 - [evidence-dev/sqltools-duckdb-driver](https://github.com/evidence-dev/sqltools-duckdb-driver) - DuckDB Driver for SQLTools
