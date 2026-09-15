@@ -658,7 +658,7 @@
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
 - [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [pgaskin/kepubify](https://github.com/pgaskin/kepubify) - Fast, standalone EPUB to Kobo EPUB conversion tool.
 - [wazero/wazero](https://github.com/wazero/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
@@ -972,7 +972,7 @@
 - [RafaelGSS/nodejs-bench-operations](https://github.com/RafaelGSS/nodejs-bench-operations) - Is X faster than Y in Node.js vX.Z?
 - [vercel-labs/function-database-latency](https://github.com/vercel-labs/function-database-latency) - Visualize the latency of databases from Vercel Functions.
 - [remorses/docker-phobia](https://github.com/remorses/docker-phobia) - Analyze Docker images size
-- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv–from the creator of `dotenv`
+- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv—from the creator of `dotenv`
 - [dequelabs/axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing
 - [leeoniya/uDSV](https://github.com/leeoniya/uDSV) - A faster CSV parser in 5KB (min)
 - [hyparam/hyparquet](https://github.com/hyparam/hyparquet) - parquet file parser for javascript
@@ -1061,6 +1061,7 @@
 - [tomayac/SVGcode](https://github.com/tomayac/SVGcode) - Convert color bitmap images to color SVG vector images.
 - [titaniumnetwork-dev/Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet) - A sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers. Succeeded by Scramjet.
 - [architect/architect](https://github.com/architect/architect) - The simplest, most powerful way to build a functional web app (fwa)
+- [nativewind/nativewind](https://github.com/nativewind/nativewind) - The utility-first workflow you love from Tailwind CSS in your React Native applications.
 - [rikschennink/fitty](https://github.com/rikschennink/fitty) - ✨ Makes text fit perfectly
 - [plentico/plenti](https://github.com/plentico/plenti) - Static Site Generator with Go backend and Svelte frontend
 - [bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js) - A BPMN 2.0 rendering toolkit and web modeler.
@@ -1466,7 +1467,7 @@
 
 ## Python 
 
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ
 - [Cyberdrop-DL/cyberdrop-dl](https://github.com/Cyberdrop-DL/cyberdrop-dl) - Bulk asynchronous downloader for multiple file hosts
 - [google/artemis](https://github.com/google/artemis) - ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity,
 - [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive) - AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist agents (FastAPI + Next.js).
@@ -1554,7 +1555,7 @@
 - [wshobson/maverick-mcp](https://github.com/wshobson/maverick-mcp) - MaverickMCP - Personal Stock Analysis MCP Server
 - [alpacahq/alpaca-mcp-server](https://github.com/alpacahq/alpaca-mcp-server) - Alpaca’s official MCP Server lets you trade stocks, ETFs, crypto, and options, run data analysis, and build strategies in plain English directly from your favorite LLM tools and IDEs
 - [pathintegral-institute/mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh) - CLI MCP package manager & registry for all platforms and all clients. Search & configure MCP servers. Advanced Router & Profile features.
-- [Bittu5134/ORV-Reader](https://github.com/Bittu5134/ORV-Reader) - ORV-Reader: A website for reading the webnovel Omniscient Reader's Viewpoint and its Side Stories.
+- [Bittu5134/ORV-Reader](https://github.com/Bittu5134/ORV-Reader) - A web-publishing platform that compiles Markdown into fast static pages and EPUBs. Built to be clean and lightweight way to read stuff on slow connections.
 - [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [eLyiN/gemini-bridge](https://github.com/eLyiN/gemini-bridge) - A lightweight MCP server bridging AI agents to Google's Gemini AI via official CLI
@@ -1732,7 +1733,7 @@
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO27, YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the document processing platform for AI
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
@@ -1860,7 +1861,7 @@
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 - [tsrx-org/oxc](https://github.com/tsrx-org/oxc) - Use TSRX with the full OXC / Vite toolchain
 - [libjxl/jxl-rs](https://github.com/libjxl/jxl-rs) - 
-- [getkern/kern](https://github.com/getkern/kern) - a fast, rootless sandbox and virtual resource runtime. Run any workload in a real container, including an agent's tool-call or AI-generated code.
+- [getkern/kern](https://github.com/getkern/kern) - a fast, rootless sandbox and virtual resource runtime. Run any workload in a real container, including an agent's tool-call or LLM-generated code.
 - [yc-duan/fastctx](https://github.com/yc-duan/fastctx) - Fast, context-efficient repository tools for AI agents (MCP)
 - [aubepkg/aube](https://github.com/aubepkg/aube) - A fast Node.js package manager
 - [pablospe/worktrunk-sync](https://github.com/pablospe/worktrunk-sync) - wt sync — rebase stacked worktree branches in dependency order
@@ -1950,7 +1951,6 @@
 - [opral/lix](https://github.com/opral/lix) - Embeddable repository that combines files, database, and version control.
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
 - [rari-build/benchmarks](https://github.com/rari-build/benchmarks) - Comprehensive performance benchmarks comparing rari (Rust-powered RSC) vs Next.js across build times, rendering speed, TTFB, bundle size, and concurrent load handling.
-- [rari-build/rari](https://github.com/rari-build/rari) - rari: High-performance React Server Components framework powered by a Rust runtime, delivering 14.5x faster response times (0.12ms vs 1.74ms) and 53.1x higher throughput (89,371 vs 1,683 req/sec) than
 - [kane50613/takumi](https://github.com/kane50613/takumi) - Render OG images and paged PDFs from JSX, HTML, and CSS. No headless browser. Runs on Node.js, Cloudflare Workers, browsers, and Rust.
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [tryandromeda/andromeda](https://github.com/tryandromeda/andromeda) - JS runtime lolz
@@ -2498,7 +2498,7 @@
 - [unjs/fontaine](https://github.com/unjs/fontaine) - Automatic font fallback based on font metrics
 - [first-fluke/oh-my-agent](https://github.com/first-fluke/oh-my-agent) - The multi-agent harness that checks the work: verifies agent runs by artifacts (stop-hook gates, independent judges, append-only event logs) across Claude Code, Codex, Cursor, and 10+ runtimes.
 - [p2r3/convert](https://github.com/p2r3/convert) - Truly universal online file converter
-- [chenxin-yan/crust](https://github.com/chenxin-yan/crust) - A TypeScript-first, Bun-native CLI framework with composable modules.
+- [chenxin-yan/crust](https://github.com/chenxin-yan/crust) - A TypeScript CLI framework for humans and agents. Every command doubles as an agent skill and MCP tool.
 - [megh-bari/pattern-craft](https://github.com/megh-bari/pattern-craft) - Professional-grade background patterns and gradients for your websites and apps. Easily copy and paste into your next project. Crafted with modern CSS and Tailwind for seamless integration.
 - [DigitecGalaxus/next-yak](https://github.com/DigitecGalaxus/next-yak) - 🦀 Zero-runtime CSS-in-JS powered by Rust. Write styled-components syntax, get build-time CSS extraction and full RSC compatibility
 - [btahir/react-kino](https://github.com/btahir/react-kino) - Cinematic scroll-driven storytelling for React
@@ -2573,6 +2573,7 @@
 - [rstackjs/rslog](https://github.com/rstackjs/rslog) - A tiny, intuitive, type-friendly logger for Node.js
 - [danielroe/beasties](https://github.com/danielroe/beasties) - A library to inline your app's critical CSS and lazy-load the rest.
 - [iamsrikanthnani/pluely](https://github.com/iamsrikanthnani/pluely) - The Open Source Alternative to Cluely - A lightning-fast, privacy-first AI assistant that works seamlessly during meetings, interviews, and conversations without anyone knowing. Built with Tauri for n
+- [rari-build/rari](https://github.com/rari-build/rari) - rari: High-performance React Server Components framework powered by a Rust runtime, delivering 14.5x faster response times (0.12ms vs 1.74ms) and 53.1x higher throughput (89,371 vs 1,683 req/sec) than
 - [upstash/realtime](https://github.com/upstash/realtime) - Ultrafast & lightweight realtime package for React
 - [uni-stack/uniwind](https://github.com/uni-stack/uniwind) - From the creators of Unistyles: The fastest Tailwind bindings for React Native
 - [punkpeye/pipenet](https://github.com/punkpeye/pipenet) - Expose your local server to the public internet instantly
@@ -2743,7 +2744,7 @@
 - [callstack/reassure](https://github.com/callstack/reassure) - Performance testing companion for React and React Native
 - [anomalyco/openauth](https://github.com/anomalyco/openauth) - ▦ Universal, standards-based auth provider.
 - [souporserious/restyle](https://github.com/souporserious/restyle) - The simplest way to add CSS styles to your React components.
-- [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid, Svelte and Angular.
+- [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list and grid component for React, Vue, Solid, Svelte and Angular.
 - [fabien0102/ts-to-zod](https://github.com/fabien0102/ts-to-zod) - Generate zod schemas from typescript types/interfaces
 - [egoist/vite-plugin-compile-time](https://github.com/egoist/vite-plugin-compile-time) - Some compile-time magic for your Vite project
 - [PuruVJ/neodrag](https://github.com/PuruVJ/neodrag) - One Draggable to rule them all 💍
@@ -3199,7 +3200,6 @@
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines, statecharts, and actors for complex logic
 - [c4spar/cliffy](https://github.com/c4spar/cliffy) - A TypeScript-first, runtime-agnostic command-line toolkit for Deno, Node.js and Bun: featuring a command framework, argument parser, interactive prompts, tables, ANSI utilities, and more.
 - [vscode-shellcheck/vscode-shellcheck](https://github.com/vscode-shellcheck/vscode-shellcheck) - Integrates ShellCheck into VS Code, a linter for Shell scripts.
-- [nativewind/nativewind](https://github.com/nativewind/nativewind) - The utility-first workflow you love from Tailwind CSS in your React Native applications.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log mana
