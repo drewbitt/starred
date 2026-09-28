@@ -4458,7 +4458,7 @@
 - [raskrebs/sonar](https://github.com/raskrebs/sonar) - CLI tool for inspecting and managing services listening on localhost ports
 - [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
-- [gtkx-org/gtkx](https://github.com/gtkx-org/gtkx) - The React framework for Linux. Write native GNOME applications with React and TypeScript.
+- [gtkx-org/gtkx](https://github.com/gtkx-org/gtkx) - The React framework for Linux. Build native apps with React, TypeScript, and Adwaita widgets.
 - [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) - Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) - Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.
@@ -5396,7 +5396,7 @@
 - [vercel-labs/opensrc](https://github.com/vercel-labs/opensrc) - Fetch source code for npm packages to give AI coding agents deeper context
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
 - [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) - ClamAV antivirus scanning for Node.js — scan file uploads with a single  function call. Zero dependencies. Typed Symbol verdicts. Local or Docker/clamd.
-- [gtkx-org/gtkx](https://github.com/gtkx-org/gtkx) - The React framework for Linux. Write native GNOME applications with React and TypeScript.
+- [gtkx-org/gtkx](https://github.com/gtkx-org/gtkx) - The React framework for Linux. Build native apps with React, TypeScript, and Adwaita widgets.
 - [rstackjs/rslog](https://github.com/rstackjs/rslog) - A tiny, intuitive, type-friendly logger for Node.js
 - [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 300 powerful ESLint rules
 - [coderaiser/putout](https://github.com/coderaiser/putout) - 🐊  Pluggable and configurable JavaScript Linter, code transformer and formatter with superpowers 💪: built-in support of js, jsx, ts, markdown, yaml, toml, json and ignore. Write declarative codemods i
@@ -5873,7 +5873,7 @@
 - [raulduk3/half-time-draw-predictor](https://github.com/raulduk3/half-time-draw-predictor) - Fútbol half-time draw predictor — LSTM model for sports analytics
 - [Expensify/App](https://github.com/Expensify/App) - Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code.
 - [protonpass/pass-cli](https://github.com/protonpass/pass-cli) - 
-- [Lapis0x0/obsidian-yolo](https://github.com/Lapis0x0/obsidian-yolo) - Agent-native AI assistant — chat, write, learning, all in one.
+- [Lapis0x0/obsidian-yolo](https://github.com/Lapis0x0/obsidian-yolo) - Agent-native AI assistant — chat, write, whiteboard, learning, all in one.
 - [forloopcodes/contextplus](https://github.com/forloopcodes/contextplus) - Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining RAG, Tree-sitter AST, Spectral Clustering, and Obsidian-style
 - [obsidianmd/obsidian-headless](https://github.com/obsidianmd/obsidian-headless) - Headless client for Obsidian Sync. Sync your vaults from the command line without the desktop app.
 - [bchiang7/halcyon-vscode](https://github.com/bchiang7/halcyon-vscode) - A dark blue theme for VS Code based on the Ayu Mirage theme
@@ -7269,7 +7269,7 @@
 - [warper-org/warper](https://github.com/warper-org/warper) - Ultra-fast React virtualization library powered by Rust and WebAssembly
 - [bklit/bklit-ui](https://github.com/bklit/bklit-ui) - Open-source UI & Charts library
 - [binaricat/Netcatty](https://github.com/binaricat/Netcatty) - SSH workspace, SFTP, and terminals in one
-- [gtkx-org/gtkx](https://github.com/gtkx-org/gtkx) - The React framework for Linux. Write native GNOME applications with React and TypeScript.
+- [gtkx-org/gtkx](https://github.com/gtkx-org/gtkx) - The React framework for Linux. Build native apps with React, TypeScript, and Adwaita widgets.
 - [readur/readur](https://github.com/readur/readur) - Quick, painless, intuitive OCR platform written in Rust and TypeScript. Modern UI with modern API, with an emphasis on intuitive user experience.
 - [cedarjs/cedar](https://github.com/cedarjs/cedar) - The React + GraphQL Web App Framework
 - [rari-build/benchmarks](https://github.com/rari-build/benchmarks) - Comprehensive performance benchmarks comparing rari (Rust-powered RSC) vs Next.js across build times, rendering speed, TTFB, bundle size, and concurrent load handling.
@@ -7676,7 +7676,7 @@
 - [dmmulroy/better-result](https://github.com/dmmulroy/better-result) - Lightweight Result type for TypeScript with generator-based composition.
 - [cesarferreira/rip](https://github.com/cesarferreira/rip) - Fuzzy find and kill processes from your terminal
 - [capsulerun/runtime](https://github.com/capsulerun/runtime) - Secure runtime to sandbox AI agent tasks. Run untrusted code in isolated WebAssembly environments.
-- [gtkx-org/gtkx](https://github.com/gtkx-org/gtkx) - The React framework for Linux. Write native GNOME applications with React and TypeScript.
+- [gtkx-org/gtkx](https://github.com/gtkx-org/gtkx) - The React framework for Linux. Build native apps with React, TypeScript, and Adwaita widgets.
 - [readur/readur](https://github.com/readur/readur) - Quick, painless, intuitive OCR platform written in Rust and TypeScript. Modern UI with modern API, with an emphasis on intuitive user experience.
 - [ecrindigital/facetpack](https://github.com/ecrindigital/facetpack) - The missing toolkit for React Native. Rust-powered performance & developer experience.
 - [1jehuang/mermaid-rs-renderer](https://github.com/1jehuang/mermaid-rs-renderer) - A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli.
@@ -8823,7 +8823,7 @@
 - [kcsujeet/ilamy-calendar](https://github.com/kcsujeet/ilamy-calendar) - A modern, open-source Full Calendar alternative for React. Month, week, day, and year views with drag-and-drop, horizontal and vertical resource views, and RFC 5545 recurring events — all MIT licensed
 - [bklit/bklit-ui](https://github.com/bklit/bklit-ui) - Open-source UI & Charts library
 - [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU) - Beautiful, open source, WebGPU-based charting library
-- [gtkx-org/gtkx](https://github.com/gtkx-org/gtkx) - The React framework for Linux. Write native GNOME applications with React and TypeScript.
+- [gtkx-org/gtkx](https://github.com/gtkx-org/gtkx) - The React framework for Linux. Build native apps with React, TypeScript, and Adwaita widgets.
 - [evloghq/evlog](https://github.com/evloghq/evlog) - Digging through logs is not observability. It's hope — wide events, structured errors, TypeScript-first, every runtime.
 - [cedarjs/cedar](https://github.com/cedarjs/cedar) - The React + GraphQL Web App Framework
 - [LibPDF-js/core](https://github.com/LibPDF-js/core) - A modern PDF library for TypeScript. Parse, modify, and generate PDFs with a clean, intuitive API.
