@@ -1,33 +1,78 @@
 name: update awesome-stars
+
 on:
   workflow_dispatch:
   schedule:
   - cron: 0 0 * * *
+
+# The job rewrites README.md / topics.md through the API with GITHUB_TOKEN.
+permissions:
+  contents: write
+
+# A slow run must not overlap the next day's, but must not be killed either.
+concurrency:
+  group: update-awesome-stars
+  cancel-in-progress: false
+
 jobs:
   awesome-stars:
     name: update awesome-stars
     runs-on: ubuntu-latest
+    timeout-minutes: 45
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
+
     - name: Set up Python
-      uses: actions/setup-python@v3
+      uses: actions/setup-python@v5
       with:
-        python-version: '3.10'
+        python-version: '3.14'
+
+    # Pinned on purpose: upstream 4.3.0 is what run_starred.py patches, and an
+    # unpinned upgrade can change the output or the patch target without notice.
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install starred
-    - name: get epository name
-      run: echo "REPOSITORY_NAME=${GITHUB_REPOSITORY#*/}" >> $GITHUB_ENV
+        pip install 'starred==4.3.0'
+
+    # run_starred.py replaces the bare `starred` call: it raises the GraphQL
+    # timeout, drops the schema introspection, retries transient GitHub errors
+    # and exits non-zero when the fetch fails. Without it a failure prints
+    # "Error: " and exits 0, so the step reports success and commits nothing.
     - name: update repo category by language
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        REPOSITORY: ${{ env.REPOSITORY_NAME }}
-        USERNAME: ${{ github.repository_owner }}
-      run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'awesome-stars category by language update by github actions cron, created by starred'
+      run: |
+        set -euo pipefail
+        REPOSITORY="${GITHUB_REPOSITORY#*/}"
+        USERNAME="${GITHUB_REPOSITORY_OWNER}"
+        python run_starred.py \
+          --username "${USERNAME}" \
+          --repository "${REPOSITORY}" \
+          --sort \
+          --token "${GITHUB_TOKEN}" \
+          --message 'awesome-stars category by language update by github actions cron, created by starred' \
+          2>&1 | tee /tmp/starred-language.log
+        if grep -q '^Error:' /tmp/starred-language.log; then
+          echo '::error::starred reported an error, see the log above'
+          exit 1
+        fi
+
     - name: update repo category by topic
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        REPOSITORY: ${{ env.REPOSITORY_NAME }}
-        USERNAME: ${{ github.repository_owner }}
-      run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'awesome-stars category by topic update by github actions cron, created by starred' --topic --topic_limit 500 --filename topics.md
+      run: |
+        set -euo pipefail
+        REPOSITORY="${GITHUB_REPOSITORY#*/}"
+        USERNAME="${GITHUB_REPOSITORY_OWNER}"
+        python run_starred.py \
+          --username "${USERNAME}" \
+          --repository "${REPOSITORY}" \
+          --sort \
+          --token "${GITHUB_TOKEN}" \
+          --message 'awesome-stars category by topic update by github actions cron, created by starred' \
+          --topic --topic_limit 500 --filename topics.md \
+          2>&1 | tee /tmp/starred-topic.log
+        if grep -q '^Error:' /tmp/starred-topic.log; then
+          echo '::error::starred reported an error, see the log above'
+          exit 1
+        fi
