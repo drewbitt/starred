@@ -11,10 +11,11 @@ on:
 permissions:
   contents: write
 
-# A slow run must not overlap the next day's, but must not be killed either.
-concurrency:
-  group: update-awesome-stars
-  cancel-in-progress: false
+# Deliberately no concurrency group. A run whose job finished but whose status
+# stayed "in_progress" (seen at 20:13 on 2026-11-11) held the group and queued
+# every later run behind it, and neither `gh run cancel` nor the delete API
+# would clear it. A duplicate run is harmless now that unchanged files are
+# skipped, so the group bought little and cost a way to lock the workflow.
 
 jobs:
   awesome-stars:
