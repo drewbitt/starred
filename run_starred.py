@@ -216,9 +216,70 @@ def _install_retrying_fetch():
     githubgql.GitHubGQL.get_user_starred_by_username = fetch_with_retry
 
 
+def _install_noop_commit_guard():
+    """Skip the API write when the rendered file matches the committed one.
+
+    starred 4.3.0 calls `update()` unconditionally, so a run on a day without
+    new stars still pushes a commit whose tree is unchanged. Upstream fixed
+    this after the 4.3.0 release ("Do not make commits without changes");
+    this applies the same guard from the outside, by wrapping the github3
+    objects starred talks to.
+    """
+    import starred.starred as cli
+    from github3 import GitHub as RealGitHub
+
+    def _same(existing, rendered):
+        if isinstance(existing, str):
+            existing = existing.encode("utf-8")
+        if isinstance(rendered, str):
+            rendered = rendered.encode("utf-8")
+        return existing == rendered
+
+    class _Contents:
+        def __init__(self, inner):
+            self._inner = inner
+
+        def update(self, message, data):
+            if _same(self._inner.decoded, data):
+                print(
+                    "starred: file unchanged, skipping commit",
+                    file=sys.stderr,
+                    flush=True,
+                )
+                return None
+            return self._inner.update(message, data)
+
+    class _Repository:
+        def __init__(self, inner):
+            self._inner = inner
+
+        @property
+        def html_url(self):
+            return self._inner.html_url
+
+        def file_contents(self, path):
+            return _Contents(self._inner.file_contents(path))
+
+        def create_file(self, *args, **kwargs):
+            return self._inner.create_file(*args, **kwargs)
+
+    class _GitHub:
+        def __init__(self, *args, **kwargs):
+            self._inner = RealGitHub(*args, **kwargs)
+
+        def repository(self, *args, **kwargs):
+            return _Repository(self._inner.repository(*args, **kwargs))
+
+        def create_repository(self, *args, **kwargs):
+            return _Repository(self._inner.create_repository(*args, **kwargs))
+
+    cli.GitHub = _GitHub
+
+
 def _prepare():
     _patch_gql_client()
     _install_retrying_fetch()
+    _install_noop_commit_guard()
 
 
 def run_one(argv):
