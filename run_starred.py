@@ -17,7 +17,11 @@ accounts with a few thousand stars:
 
 This wrapper fixes both: a longer timeout, no introspection, per-page retries
 with backoff for transient GitHub errors, and a non-zero exit for any failure.
-The command line is passed straight through to `starred`.
+
+With `--both` it also renders every output file from a single fetch. The
+starred-repository query is the slow and flaky part (~32 pages, and GitHub
+answers a fair number of those with a 502), so fetching once instead of once
+per file halves both the runtime and the exposure to that flakiness.
 
 See https://github.com/maguowei/starred/issues/99 (silent success) and
 https://github.com/maguowei/starred/issues/116 (GraphQL gateway timeouts).
@@ -34,7 +38,7 @@ EXECUTE_TIMEOUT = 180  # seconds, per GraphQL request
 MAX_ATTEMPTS = 8
 BACKOFF_BASE = 10  # seconds; doubles per attempt up to BACKOFF_CAP
 BACKOFF_CAP = 90
-DEADLINE = 25 * 60  # seconds; give up rather than sit on the job timeout
+DEADLINE = 25 * 60  # seconds for the whole run, under the job's timeout
 _START = time.monotonic()
 
 # GitHub's GraphQL endpoint answers transiently with these. Everything else
@@ -59,6 +63,37 @@ TRANSIENT_MARKERS = (
     "Not a JSON answer",
     "Server did not return a GraphQL result",
 )
+
+# One entry per generated file. `--both` renders all of them from one fetch.
+OUTPUTS = (
+    {
+        "filename": "README.md",
+        "message": (
+            "awesome-stars category by language update by github actions "
+            "cron, created by starred"
+        ),
+        "extra": (),
+    },
+    {
+        "filename": "topics.md",
+        "message": (
+            "awesome-stars category by topic update by github actions "
+            "cron, created by starred"
+        ),
+        "extra": ("--topic", "--topic_limit", "500"),
+    },
+)
+
+# A repository line is "- [owner/name](https://github.com/owner/name) - desc";
+# a table-of-contents line is "- [Category](#category)".
+REPO_ENTRY_RE = re.compile(r"^- \[[^\]]*\]\(https://github\.com/")
+
+# Generated markdown is compared against this file to catch a fetch that
+# stopped paginating early. Missing file means a first run, so no floor.
+FLOOR_FILE = "README.md"
+FLOOR_RATIO = 0.9
+
+_fetched = {}
 
 
 def _patch_gql_client():
@@ -86,13 +121,44 @@ def _is_transient(exc):
     return any(marker in text for marker in TRANSIENT_MARKERS)
 
 
+def _count_repo_entries(path):
+    """Number of repository lines already committed, or None on a first run."""
+    try:
+        with open(path, encoding="utf-8") as handle:
+            return sum(1 for line in handle if REPO_ENTRY_RE.match(line))
+    except FileNotFoundError:
+        return None
+
+
+def _check_floor(count):
+    """Refuse to overwrite the list with a visibly truncated one."""
+    previous = _count_repo_entries(FLOOR_FILE)
+    if previous is None:
+        return
+    if count < previous * FLOOR_RATIO:
+        sys.exit(
+            f"starred: fetched {count} repositories but {FLOOR_FILE} already "
+            f"lists {previous}; refusing to write a truncated list"
+        )
+    print(
+        f"starred: fetched {count} repositories "
+        f"({FLOOR_FILE} lists {previous})",
+        file=sys.stderr,
+        flush=True,
+    )
+
+
 def _install_retrying_fetch():
-    """Wrap the fetcher so each page retries, and every failure exits non-zero."""
+    """Memoise the fetch, retry each page, and exit non-zero on any failure."""
     import starred.githubgql as githubgql
 
     original_fetch = githubgql.GitHubGQL.get_user_starred_by_username
 
     def fetch_with_retry(self, username, after="", topic_stargazer_count_limit=0):
+        key = (username, after, topic_stargazer_count_limit)
+        if key in _fetched:
+            return _fetched[key]
+
         last = None
         for attempt in range(1, MAX_ATTEMPTS + 1):
             try:
@@ -133,6 +199,12 @@ def _install_retrying_fetch():
 
             if not items:
                 sys.exit("starred: fetched 0 starred repositories")
+
+            _fetched[key] = items
+            # `after` is empty only on the outermost page, whose result is the
+            # whole list -- the only place the floor check makes sense.
+            if after == "":
+                _check_floor(len(items))
             return items
 
         sys.exit(
@@ -144,13 +216,47 @@ def _install_retrying_fetch():
     githubgql.GitHubGQL.get_user_starred_by_username = fetch_with_retry
 
 
-def main():
+def _prepare():
     _patch_gql_client()
     _install_retrying_fetch()
 
+
+def run_one(argv):
+    """One `starred` invocation, exactly as the CLI would have run it."""
+    _prepare()
     from starred.starred import starred
 
-    starred(standalone_mode=True)
+    saved_stdout = sys.stdout
+    try:
+        starred.main(args=argv or None, standalone_mode=True)
+    finally:
+        sys.stdout = saved_stdout
+
+
+def run_both(common_args):
+    """Render every file in OUTPUTS from a single starred-repository fetch."""
+    _prepare()
+    from starred.starred import starred
+
+    for spec in OUTPUTS:
+        args = list(common_args) + ["--filename", spec["filename"]]
+        args += ["--message", spec["message"]]
+        args += list(spec["extra"])
+        print(f"starred: writing {spec['filename']}", file=sys.stderr, flush=True)
+        # starred() leaves sys.stdout pointing at the BytesIO it renders into,
+        # so the next iteration would inherit a dead buffer.
+        saved_stdout = sys.stdout
+        try:
+            starred.main(args=args, standalone_mode=False)
+        finally:
+            sys.stdout = saved_stdout
+
+
+def main():
+    if sys.argv[1:2] == ["--both"]:
+        run_both(sys.argv[2:])
+    else:
+        run_one([])
 
 
 if __name__ == "__main__":
