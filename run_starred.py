@@ -1,323 +1,141 @@
 #!/usr/bin/env python
-"""Run `starred` with the safeguards it is missing upstream.
+"""Fetch once and render with starred 4.3.0; GitHub Actions commits changed files.
 
-`starred` 4.3.0 (the current release) has two defects that make it a no-op on
-accounts with a few thousand stars:
-
-1. It builds its GraphQL client as
-   `Client(transport=..., fetch_schema_from_transport=True)` and never sets
-   `execute_timeout`, so `gql`'s 10s default applies. A full-schema
-   introspection plus ~32 paged starred queries cannot fit in that budget.
-   `gql` raises through `anyio.fail_after`, which produces a `TimeoutError`
-   with empty `args`, so `str(e)` is the empty string.
-
-2. `starred/starred.py` catches the fetch exception, prints `Error: {e}` and
-   `return`s. The process exits 0. A workflow step therefore goes green while
-   committing nothing.
-
-This wrapper fixes both: a longer timeout, no introspection, per-page retries
-with backoff for transient GitHub errors, and a non-zero exit for any failure.
-
-With `--both` it also renders every output file from a single fetch. The
-starred-repository query is the slow and flaky part (~32 pages, and GitHub
-answers a fair number of those with a 502), so fetching once instead of once
-per file halves both the runtime and the exposure to that flakiness.
-
-See https://github.com/maguowei/starred/issues/99 (silent success) and
-https://github.com/maguowei/starred/issues/116 (GraphQL gateway timeouts).
+Upstream swallows fetch failures and defaults to a 10s GraphQL timeout.
+Fetch outside its CLI so errors propagate. Keep its Markdown renderer unchanged.
+See maguowei/starred#99 (silent success) and #116 (GraphQL timeouts).
 """
 
+import argparse
+from contextlib import redirect_stdout
+from io import StringIO
+import os
+from pathlib import Path
 import random
 import re
 import sys
 import time
+from types import SimpleNamespace
+from unittest.mock import patch
 
-import gql.client
+from aiohttp import ClientConnectionError
+from gql import Client
+from gql.transport.aiohttp import AIOHTTPTransport
+from gql.transport.exceptions import (
+    TransportClosed,
+    TransportProtocolError,
+    TransportServerError,
+)
+from starred.githubgql import GitHubGQL
+import starred.starred as cli
 
-EXECUTE_TIMEOUT = 180  # seconds, per GraphQL request
 MAX_ATTEMPTS = 8
-BACKOFF_BASE = 10  # seconds; doubles per attempt up to BACKOFF_CAP
-BACKOFF_CAP = 90
-DEADLINE = 25 * 60  # seconds for the whole run, under the job's timeout
-_START = time.monotonic()
-
-# GitHub's GraphQL endpoint answers transiently with these. Everything else
-# (401, 403, 404, a real GraphQL query error) is a permanent failure.
-TRANSIENT_STATUS = {429, 500, 502, 503, 504}
-
-# gql formats a transport error as "502, message='Bad Gateway', url=..."
-STATUS_RE = re.compile(r"^(\d{3}),")
-
-# gql raises these for a truncated or non-JSON body, which GitHub does under
-# load. They carry no status code, so they are matched by type name.
-TRANSIENT_TYPES = {
-    "TransportProtocolError",
-    "TransportClosed",
-}
-
-TRANSIENT_MARKERS = (
-    "Timeout",
-    "Cannot connect",
-    "Server disconnected",
-    "Connection reset",
-    "Not a JSON answer",
-    "Server did not return a GraphQL result",
-)
-
-# One entry per generated file. `--both` renders all of them from one fetch.
-OUTPUTS = (
-    {
-        "filename": "README.md",
-        "message": (
-            "awesome-stars category by language update by github actions "
-            "cron, created by starred"
-        ),
-        "extra": (),
-    },
-    {
-        "filename": "topics.md",
-        "message": (
-            "awesome-stars category by topic update by github actions "
-            "cron, created by starred"
-        ),
-        "extra": ("--topic", "--topic_limit", "500"),
-    },
-)
-
-# A repository line is "- [owner/name](https://github.com/owner/name) - desc";
-# a table-of-contents line is "- [Category](#category)".
-REPO_ENTRY_RE = re.compile(r"^- \[[^\]]*\]\(https://github\.com/")
-
-# Generated markdown is compared against this file to catch a fetch that
-# stopped paginating early. Missing file means a first run, so no floor.
-FLOOR_FILE = "README.md"
-FLOOR_RATIO = 0.9
-
-_fetched = {}
+DEADLINE = 25 * 60
+REQUEST_TIMEOUT = 180
+OUTPUTS = (("README.md", False), ("topics.md", True))
+REPO_ENTRY = re.compile(r"^- \[[^\]]*\]\(https://github\.com/")
 
 
-def _patch_gql_client():
-    """Give every Client a usable timeout and skip the schema introspection."""
-    original_init = gql.client.Client.__init__
-
-    def patched_init(self, *args, **kwargs):
-        kwargs.setdefault("execute_timeout", EXECUTE_TIMEOUT)
-        kwargs["fetch_schema_from_transport"] = False
-        original_init(self, *args, **kwargs)
-
-    gql.client.Client.__init__ = patched_init
-
-
-def _is_transient(exc):
-    message = str(exc).strip()
-    status = STATUS_RE.match(message)
-    if status:
-        return int(status.group(1)) in TRANSIENT_STATUS
-    if str(exc) == "":
-        return True
-    if type(exc).__name__ in TRANSIENT_TYPES:
-        return True
-    text = f"{type(exc).__name__}: {exc}"
-    return any(marker in text for marker in TRANSIENT_MARKERS)
-
-
-def _count_repo_entries(path):
-    """Number of repository lines already committed, or None on a first run."""
-    try:
-        with open(path, encoding="utf-8") as handle:
-            return sum(1 for line in handle if REPO_ENTRY_RE.match(line))
-    except FileNotFoundError:
-        return None
-
-
-def _check_floor(count):
-    """Refuse to overwrite the list with a visibly truncated one."""
-    previous = _count_repo_entries(FLOOR_FILE)
-    if previous is None:
-        return
-    if count < previous * FLOOR_RATIO:
-        sys.exit(
-            f"starred: fetched {count} repositories but {FLOOR_FILE} already "
-            f"lists {previous}; refusing to write a truncated list"
-        )
-    print(
-        f"starred: fetched {count} repositories "
-        f"({FLOOR_FILE} lists {previous})",
-        file=sys.stderr,
-        flush=True,
+def is_transient(exc):
+    if isinstance(exc, TransportServerError):
+        return exc.code in {429, 500, 502, 503, 504}
+    return isinstance(
+        exc, (TimeoutError, ClientConnectionError, TransportClosed, TransportProtocolError)
     )
 
 
-def _install_retrying_fetch():
-    """Memoise the fetch, retry each page, and exit non-zero on any failure."""
-    import starred.githubgql as githubgql
+def execute_with_retry(client, execute, expires, *args, **kwargs):
+    """Retry the individual query, not the recursive pagination above it."""
+    for attempt in range(MAX_ATTEMPTS):
+        remaining = expires - time.monotonic()
+        if remaining <= 0:
+            raise TimeoutError("starred fetch exceeded its 25-minute deadline")
+        client.execute_timeout = min(REQUEST_TIMEOUT, remaining)
+        try:
+            return execute(*args, **kwargs)
+        except Exception as exc:
+            if not is_transient(exc) or attempt == MAX_ATTEMPTS - 1:
+                raise
+            delay = min(
+                random.uniform(5, min(90, 10 * 2**attempt)),
+                max(0, expires - time.monotonic()),
+            )
+            print(
+                f"Retry {attempt + 1}/{MAX_ATTEMPTS}: {type(exc).__name__}: "
+                f"{exc}; waiting {delay:.0f}s",
+                file=sys.stderr,
+                flush=True,
+            )
+            time.sleep(delay)
 
-    original_fetch = githubgql.GitHubGQL.get_user_starred_by_username
 
-    def fetch_with_retry(self, username, after="", topic_stargazer_count_limit=0):
-        key = (username, after, topic_stargazer_count_limit)
-        if key in _fetched:
-            return _fetched[key]
+class StarClient(GitHubGQL):
+    """Keep upstream pagination, replacing its insecure/default client setup."""
 
-        last = None
-        for attempt in range(1, MAX_ATTEMPTS + 1):
-            try:
-                items = original_fetch(
-                    self, username, after, topic_stargazer_count_limit
-                )
-            except Exception as exc:  # noqa: BLE001 - we re-raise or exit
-                if not _is_transient(exc):
-                    # Never fall through to starred's `except: print(); return`.
-                    # That path is what turns a failure into a green CI step.
-                    sys.exit(
-                        "starred: GraphQL fetch failed: "
-                        f"{type(exc).__name__}: {exc or '(empty message)'}"
-                    )
-                last = exc
-                if attempt == MAX_ATTEMPTS:
-                    break
-                elapsed = time.monotonic() - _START
-                if elapsed + BACKOFF_CAP > DEADLINE:
-                    sys.exit(
-                        "starred: giving up after "
-                        f"{elapsed / 60:.0f} min, still failing with "
-                        f"{type(exc).__name__}: {exc or '(empty message)'}"
-                    )
-                # exponential backoff with jitter, so a burst of 502s does not
-                # turn into a synchronised retry storm
-                ceiling = min(BACKOFF_CAP, BACKOFF_BASE * 2 ** (attempt - 1))
-                wait = round(random.uniform(ceiling / 2, ceiling))
-                print(
-                    f"[retry {attempt}/{MAX_ATTEMPTS}] "
-                    f"{type(exc).__name__}: {exc or '(empty message)'} "
-                    f"- sleeping {wait}s",
-                    file=sys.stderr,
-                    flush=True,
-                )
-                time.sleep(wait)
-                continue
-
-            if not items:
-                sys.exit("starred: fetched 0 starred repositories")
-
-            _fetched[key] = items
-            # `after` is empty only on the outermost page, whose result is the
-            # whole list -- the only place the floor check makes sense.
-            if after == "":
-                _check_floor(len(items))
-            return items
-
-        sys.exit(
-            "starred: GraphQL fetch failed after "
-            f"{MAX_ATTEMPTS} attempts: {type(last).__name__}: "
-            f"{last or '(empty message)'}"
+    def __init__(self, token):
+        self.client = Client(
+            transport=AIOHTTPTransport(
+                url=self.API_URL,
+                headers={"Authorization": f"Bearer {token}"},
+                ssl=True,
+            ),
+            fetch_schema_from_transport=False,
+            execute_timeout=REQUEST_TIMEOUT,
         )
 
-    githubgql.GitHubGQL.get_user_starred_by_username = fetch_with_retry
+
+def fetch(username, token):
+    gh = StarClient(token)
+    execute = gh.client.execute
+    expires = time.monotonic() + DEADLINE
+    gh.client.execute = lambda *a, **kw: execute_with_retry(
+        gh.client, execute, expires, *a, **kw
+    )
+    return gh.get_user_starred_by_username(username, topic_stargazer_count_limit=500)
 
 
-def _install_noop_commit_guard():
-    """Skip the API write when the rendered file matches the committed one.
-
-    starred 4.3.0 calls `update()` unconditionally, so a run on a day without
-    new stars still pushes a commit whose tree is unchanged. Upstream fixed
-    this after the 4.3.0 release ("Do not make commits without changes");
-    this applies the same guard from the outside, by wrapping the github3
-    objects starred talks to.
-    """
-    import starred.starred as cli
-    from github3 import GitHub as RealGitHub
-
-    def _same(existing, rendered):
-        if isinstance(existing, str):
-            existing = existing.encode("utf-8")
-        if isinstance(rendered, str):
-            rendered = rendered.encode("utf-8")
-        return existing == rendered
-
-    class _Contents:
-        def __init__(self, inner):
-            self._inner = inner
-
-        def update(self, message, data):
-            if _same(self._inner.decoded, data):
-                print(
-                    "starred: file unchanged, skipping commit",
-                    file=sys.stderr,
-                    flush=True,
-                )
-                return None
-            return self._inner.update(message, data)
-
-    class _Repository:
-        def __init__(self, inner):
-            self._inner = inner
-
-        @property
-        def html_url(self):
-            return self._inner.html_url
-
-        def file_contents(self, path):
-            return _Contents(self._inner.file_contents(path))
-
-        def create_file(self, *args, **kwargs):
-            return self._inner.create_file(*args, **kwargs)
-
-    class _GitHub:
-        def __init__(self, *args, **kwargs):
-            self._inner = RealGitHub(*args, **kwargs)
-
-        def repository(self, *args, **kwargs):
-            return _Repository(self._inner.repository(*args, **kwargs))
-
-        def create_repository(self, *args, **kwargs):
-            return _Repository(self._inner.create_repository(*args, **kwargs))
-
-    cli.GitHub = _GitHub
+def check_count(stars, previous=Path("README.md")):
+    if not stars:
+        raise ValueError("fetched 0 starred repositories")
+    old_count = (
+        sum(
+            bool(REPO_ENTRY.match(line))
+            for line in previous.read_text(encoding="utf-8").splitlines()
+        )
+        if previous.exists() else 0
+    )
+    if len(stars) < old_count * 0.9:
+        raise ValueError(
+            f"fetched {len(stars)} repositories; README already lists {old_count}; "
+            "refusing a potentially truncated update"
+        )
 
 
-def _prepare():
-    _patch_gql_client()
-    _install_retrying_fetch()
-    _install_noop_commit_guard()
-
-
-def run_one(argv):
-    """One `starred` invocation, exactly as the CLI would have run it."""
-    _prepare()
-    from starred.starred import starred
-
-    saved_stdout = sys.stdout
-    try:
-        starred.main(args=argv or None, standalone_mode=True)
-    finally:
-        sys.stdout = saved_stdout
-
-
-def run_both(common_args):
-    """Render every file in OUTPUTS from a single starred-repository fetch."""
-    _prepare()
-    from starred.starred import starred
-
-    for spec in OUTPUTS:
-        args = list(common_args) + ["--filename", spec["filename"]]
-        args += ["--message", spec["message"]]
-        args += list(spec["extra"])
-        print(f"starred: writing {spec['filename']}", file=sys.stderr, flush=True)
-        # starred() leaves sys.stdout pointing at the BytesIO it renders into,
-        # so the next iteration would inherit a dead buffer.
-        saved_stdout = sys.stdout
-        try:
-            starred.main(args=args, standalone_mode=False)
-        finally:
-            sys.stdout = saved_stdout
+def render(username, token, stars, topic):
+    snapshot = SimpleNamespace(get_user_starred_by_username=lambda *a, **kw: stars)
+    output = StringIO()
+    # The upstream renderer always fetches: inject the already-validated snapshot.
+    with patch.object(cli, "GitHubGQL", lambda token: snapshot), redirect_stdout(output):
+        cli.starred.main(
+            args=["--username", username, "--token", token, "--sort"]
+            + (["--topic"] if topic else []),
+            standalone_mode=False,
+        )
+    return output.getvalue()
 
 
 def main():
-    if sys.argv[1:2] == ["--both"]:
-        run_both(sys.argv[2:])
-    else:
-        run_one([])
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--username", required=True)
+    args = parser.parse_args()
+    token = os.environ["GITHUB_TOKEN"]
+    stars = fetch(args.username, token)
+    check_count(stars)
+    # Finish both renders before modifying either file.
+    rendered = [(name, render(args.username, token, stars, topic)) for name, topic in OUTPUTS]
+    for name, content in rendered:
+        Path(name).write_text(content, encoding="utf-8")
+    print(f"Rendered both files from {len(stars)} starred repositories", flush=True)
 
 
 if __name__ == "__main__":

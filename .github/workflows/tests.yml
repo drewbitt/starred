@@ -1,0 +1,21 @@
+name: tests
+
+on:
+  push:
+    paths: ['run_starred.py', 'tests/**', '.github/workflows/**']
+  pull_request:
+    paths: ['run_starred.py', 'tests/**', '.github/workflows/**']
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.15'
+      - run: python -m pip install 'starred==4.3.0' 'gql==3.5.3'
+      - run: python -m unittest discover -s tests -v

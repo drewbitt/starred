@@ -3,58 +3,38 @@ name: update awesome-stars
 on:
   workflow_dispatch:
   schedule:
-  # Not :00 -- GitHub's scheduler is at its most congested on the hour, and
-  # this used to land 5-6 hours after its slot.
-  - cron: 37 4 * * *
+    - cron: '37 4 * * *'
 
-# The job rewrites README.md / topics.md through the API with GITHUB_TOKEN.
 permissions:
   contents: write
 
-# Deliberately no concurrency group. A run whose job finished but whose status
-# stayed "in_progress" (seen at 20:13 on 2026-11-11) held the group and queued
-# every later run behind it, and neither `gh run cancel` nor the delete API
-# would clear it. A duplicate run is harmless now that unchanged files are
-# skipped, so the group bought little and cost a way to lock the workflow.
-
 jobs:
   awesome-stars:
-    name: update awesome-stars
     runs-on: ubuntu-latest
-    # run_starred.py gives up on its own after 25 minutes.
     timeout-minutes: 35
     steps:
-    - uses: actions/checkout@v7
-
-    - name: Set up Python
-      uses: actions/setup-python@v7
-      with:
-        python-version: '3.15'
-
-    # Pinned on purpose: run_starred.py patches starred 4.3.0's use of gql,
-    # so both the caller and the patched API have to stay put.
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install 'starred==4.3.0' 'gql==3.5.3'
-
-    # run_starred.py replaces the bare `starred` call: it raises the GraphQL
-    # timeout, drops the schema introspection, retries transient GitHub errors,
-    # renders both files from a single fetch, and exits non-zero when anything
-    # fails. Without it a failure prints "Error: " and exits 0, so the step
-    # reports success and commits nothing.
-    - name: update awesome-stars
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: |
-        set -euo pipefail
-        python run_starred.py --both \
-          --username "${GITHUB_REPOSITORY_OWNER}" \
-          --repository "${GITHUB_REPOSITORY#*/}" \
-          --sort \
-          --token "${GITHUB_TOKEN}" \
-          2>&1 | tee /tmp/starred.log
-        if grep -q '^Error:' /tmp/starred.log; then
-          echo '::error::starred reported an error, see the log above'
-          exit 1
-        fi
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.15'
+      # The runner relies on these packages' renderer and client APIs.
+      - name: Install dependencies
+        run: python -m pip install 'starred==4.3.0' 'gql==3.5.3'
+      - name: Test
+        run: python -m unittest discover -s tests -v
+      - name: Generate lists
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python run_starred.py --username "$GITHUB_REPOSITORY_OWNER"
+      - name: Commit changed lists
+        env:
+          GIT_AUTHOR_NAME: Andrew
+          GIT_AUTHOR_EMAIL: andrew@drewbitt.com
+          GIT_COMMITTER_NAME: Andrew
+          GIT_COMMITTER_EMAIL: andrew@drewbitt.com
+        run: |
+          git add README.md topics.md
+          if ! git diff --cached --quiet; then
+            git commit -m "Update starred repositories"
+            git push
+          fi
