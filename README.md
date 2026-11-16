@@ -149,6 +149,7 @@
 - [sagemathinc/cowasm](https://github.com/sagemathinc/cowasm) - CoWasm: Collaborative WebAssembly for Servers and Browsers.   Built using Zig.  Supports Python with extension modules, including numpy.
 - [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
 - [holepunchto/bare](https://github.com/holepunchto/bare) - Small and modular JavaScript runtime for desktop and mobile
+- [Tencent/puerts](https://github.com/Tencent/puerts) - PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScript.
 - [dicedb/dicedb](https://github.com/dicedb/dicedb) - Open-source, low-latency key/value engine built on Valkey with query subscriptions and hierarchical storage tiers.
 - [nginx/njs](https://github.com/nginx/njs) - A subset of JavaScript language to use in nginx
 - [tscircuit/bun-ffi-benchmarking](https://github.com/tscircuit/bun-ffi-benchmarking) - Benchmarking for Bun FFI
@@ -292,7 +293,6 @@
 - [Query-farm/clickhouse-sql](https://github.com/Query-farm/clickhouse-sql) - DuckDB Community Extension implementing ClickHouse SQL Dialect macros and Custom functions for DuckDB
 - [Query-farm/airport](https://github.com/Query-farm/airport) - DuckDB extension for querying, modifying, and storing data through Apache Arrow Flight servers.
 - [unum-cloud/USearch](https://github.com/unum-cloud/USearch) - One proximity graph for vector search, sparse products & attention across RAM, VRAM & NVMe, over dense vectors, sequences, shapes & geospatial sets in 14 languages 🔍
-- [Tencent/puerts](https://github.com/Tencent/puerts) - PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScript.
 - [evidence-dev/duckdb_gsheets](https://github.com/evidence-dev/duckdb_gsheets) - DuckDB extension to read and write Google Sheets using SQL
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [duckdb/pg_duckdb](https://github.com/duckdb/pg_duckdb) - DuckDB-powered Postgres for high performance apps & analytics.
@@ -1529,7 +1529,7 @@
 - [TNTwise/REAL-Video-Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Interpolate, Upscale, Decompress, and Denoise videos easily on Linux/Windows/MacOS.
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
 - [Nikita-Filonov/ai-review](https://github.com/Nikita-Filonov/ai-review) - 🚀 AI-powered code review tool for GitHub, GitLab, Bitbucket Cloud, Bitbucket Server, Azure DevOps and Gitea — built with LLMs like OpenAI, Claude, Gemini, Ollama, Bedrock, OpenRouter and Azure OpenAI
-- [sipyourdrink-ltd/bernstein](https://github.com/sipyourdrink-ltd/bernstein) - The open-source governance layer for AI agents: write the rules declaratively, Bernstein enforces them and produces the verifiable, replayable record. Free, Apache-2.0. https://bernstein.run
+- [sipyourdrink-ltd/bernstein](https://github.com/sipyourdrink-ltd/bernstein) - Open-source AI agent governance. Write the rules declaratively, Bernstein enforces them and produces the verifiable, replayable record. Free, Apache-2.0. https://bernstein.run
 - [6551Team/opentwitter-mcp](https://github.com/6551Team/opentwitter-mcp) - Twitter/X Data · User Profiles · Tweet Search · Follower Events · KOL Tracking
 - [fivetaku/insane-search](https://github.com/fivetaku/insane-search) - Auto-bypass for blocked websites in Claude Code — Phase 0→3 adaptive scheduler, no API keys
 - [robbyczgw-cla/hermes-web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus) - Give your Hermes agent the web as real sources, never a made-up answer — multi-provider search and extraction with an optional local, key-free DonSeTch option.
@@ -1871,6 +1871,7 @@
 
 ## Rust 
 
+- [ultimaweapon/tsuki](https://github.com/ultimaweapon/tsuki) - Lua 5.4 ported to Rust
 - [libracoder/kiri](https://github.com/libracoder/kiri) - A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
 - [expo/exact](https://github.com/expo/exact) - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.
 - [BridgLabs/opencodereview](https://github.com/BridgLabs/opencodereview) - Source-available AI code review for GitHub pull requests. Runs Claude Code, OpenCode or Codex on your own machine with the plan you already pay for.
@@ -2448,7 +2449,7 @@
 - [openclaw/ffmpeg-wasm](https://github.com/openclaw/ffmpeg-wasm) - Lightweight FFmpeg and FFprobe for Node, built as modern WebAssembly for local media automation.
 - [mrclrchtr/supi](https://github.com/mrclrchtr/supi) - Pi coding agent extensions with code intelligence (LSP + Tree-sitter AST), semantic refactoring, code review, web/Context7 docs, and ask-user forms.
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A real browser inside your terminal
-- [Curetix/mailflare-extension](https://github.com/Curetix/mailflare-extension) - Browser extension to use Cloudflare Email Routing as an email alias service like AnonAddy or SimpleLogin
+- [Curetix/mailflare](https://github.com/Curetix/mailflare) - Browser extension to use Cloudflare Email Routing as an email alias service like AnonAddy or SimpleLogin
 - [alchemy-run/alchemy](https://github.com/alchemy-run/alchemy) - Infrastructure as Effects
 - [lxsmnsyc/talata](https://github.com/lxsmnsyc/talata) - Fast Markdown parser that produces remark-compatible mdast
 - [portablejs/portable](https://github.com/portablejs/portable) - Web-standard building blocks for any JavaScript runtime.

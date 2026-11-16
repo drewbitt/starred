@@ -466,6 +466,7 @@
 
 ## ai 
 
+- [vercel-labs/ui](https://github.com/vercel-labs/ui) - A library of behaviors for agents to build the next generation of user interfaces.
 - [carbon-design-system/Carbon-Monitor](https://github.com/carbon-design-system/Carbon-Monitor) - Agentic PR reviews for the IBM Carbon Design System, run by IBM Bob or Claude from a codified review prompt and grounded by Carbon MCP. Built on a reusable agent harness for IBM Cloud Code Engine: sch
 - [t8y2/dbx](https://github.com/t8y2/dbx) - 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Dock
 - [unstablebuild/rune](https://github.com/unstablebuild/rune) - a fast, GPU-accelerated, full-featured IDE and terminal multiplexer, suitable both for automatic and manual programming.
@@ -662,7 +663,7 @@
 - [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 50+ tests passed.
 - [callstack/agent-device](https://github.com/callstack/agent-device) - Open source device layer for AI coding agents: a CLI, MCP server, and typed Node.js API to control mobile, web, TV, and desktop apps on devices and simulators, locally or in the cloud.
 - [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) - Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound
-- [sipyourdrink-ltd/bernstein](https://github.com/sipyourdrink-ltd/bernstein) - The open-source governance layer for AI agents: write the rules declaratively, Bernstein enforces them and produces the verifiable, replayable record. Free, Apache-2.0. https://bernstein.run
+- [sipyourdrink-ltd/bernstein](https://github.com/sipyourdrink-ltd/bernstein) - Open-source AI agent governance. Write the rules declaratively, Bernstein enforces them and produces the verifiable, replayable record. Free, Apache-2.0. https://bernstein.run
 - [johnkueh/bq-analytics](https://github.com/johnkueh/bq-analytics) - Analytics your AI agent can actually query. Tiny SDK that pipes events to BigQuery — ~$0/mo at indie scale, no dashboard, no vendor lock-in.
 - [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference
 - [robbyczgw-cla/hermes-web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus) - Give your Hermes agent the web as real sources, never a made-up answer — multi-provider search and extraction with an optional local, key-free DonSeTch option.
@@ -4887,6 +4888,7 @@
 
 ## lua 
 
+- [ultimaweapon/tsuki](https://github.com/ultimaweapon/tsuki) - Lua 5.4 ported to Rust
 - [IppClub/Dora-SSR](https://github.com/IppClub/Dora-SSR) - A game engine for rapid development across devices, featuring a built-in Web IDE with intuitive toolchain.
 - [Yonokid/YataiDON](https://github.com/Yonokid/YataiDON) - TJA player written in C++ and raylib
 - [brettchalupa/usagi](https://github.com/brettchalupa/usagi) - A simple 2D game engine for rapid prototyping with Lua, featuring live reload and cross-platform export; this repo is a mirror and development happens at: https://codeberg.org/brettchalupa/usagi
@@ -7543,7 +7545,7 @@
 ## react 
 
 - [vercel-labs/ui](https://github.com/vercel-labs/ui) - A library of behaviors for agents to build the next generation of user interfaces.
-- [Curetix/mailflare-extension](https://github.com/Curetix/mailflare-extension) - Browser extension to use Cloudflare Email Routing as an email alias service like AnonAddy or SimpleLogin
+- [Curetix/mailflare](https://github.com/Curetix/mailflare) - Browser extension to use Cloudflare Email Routing as an email alias service like AnonAddy or SimpleLogin
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js v10 - open source media player framework for HTML and React.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [samaluk/flip-x](https://github.com/samaluk/flip-x) - Unofficial fan-made press-your-luck card game — shared-table web app with live turns, action cards, and scoring to 200.
@@ -7936,6 +7938,7 @@
 
 ## rust 
 
+- [ultimaweapon/tsuki](https://github.com/ultimaweapon/tsuki) - Lua 5.4 ported to Rust
 - [expo/exact](https://github.com/expo/exact) - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.
 - [BenchUp3D/benchup](https://github.com/BenchUp3D/benchup) - Free, open-source 3D woodworking and modeling software and SketchUp alternative. Built with Rust, WebAssembly and WebGPU. Runs in your browser or on desktop. 100% vibe-coded with great emphase on stab
 - [anomalyco/hex](https://github.com/anomalyco/hex) - Local voice dictation for mac, windows and linux
@@ -9157,7 +9160,7 @@
 - [rivet-dev/open-orange](https://github.com/rivet-dev/open-orange) - Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your own servers.
 - [IppClub/Dora-SSR](https://github.com/IppClub/Dora-SSR) - A game engine for rapid development across devices, featuring a built-in Web IDE with intuitive toolchain.
 - [mrclrchtr/supi](https://github.com/mrclrchtr/supi) - Pi coding agent extensions with code intelligence (LSP + Tree-sitter AST), semantic refactoring, code review, web/Context7 docs, and ask-user forms.
-- [Curetix/mailflare-extension](https://github.com/Curetix/mailflare-extension) - Browser extension to use Cloudflare Email Routing as an email alias service like AnonAddy or SimpleLogin
+- [Curetix/mailflare](https://github.com/Curetix/mailflare) - Browser extension to use Cloudflare Email Routing as an email alias service like AnonAddy or SimpleLogin
 - [alchemy-run/alchemy](https://github.com/alchemy-run/alchemy) - Infrastructure as Effects
 - [outcrawlai/scout](https://github.com/outcrawlai/scout) - Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.
 - [benseverndev-oss/goldenmatch](https://github.com/benseverndev-oss/goldenmatch) - Zero-config entity resolution feeding a durable identity layer: messy records from any source become stable golden entities, a Customer 360 with provenance, merge/split and audit. Fellegi-Sunter beats
