@@ -42,7 +42,6 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
-- [Just](#just)
 - [Kotlin](#kotlin)
 - [LLVM](#llvm)
 - [Less](#less)
@@ -208,7 +207,6 @@
 - [zephray/nPal](https://github.com/zephray/nPal) - TI-Nspire port of Chinese classic RPG game Pal
 - [switchbrew/switch-examples](https://github.com/switchbrew/switch-examples) - Switch examples for devkitA64 and libnx.
 - [switchbrew/libnx](https://github.com/switchbrew/libnx) - Library for Switch Homebrew
-- [CE-Programming/toolchain](https://github.com/CE-Programming/toolchain) - Toolchain and libraries for C/C++ programming on the TI-84+ CE calculator series
 
 ## C# # 
 
@@ -367,6 +365,7 @@
 - [Cpasjuste/pplay](https://github.com/Cpasjuste/pplay) - 
 - [emako/qvs](https://github.com/emako/qvs) - A simple GUI program for using VapourSynth/Avisynth Script previewed and encoded.
 - [xyzz/vita-moonlight](https://github.com/xyzz/vita-moonlight) - NVIDIA Gamestream client for PlayStation Vita, based on moonlight-embedded
+- [CE-Programming/toolchain](https://github.com/CE-Programming/toolchain) - Toolchain and libraries for C/C++ programming on the TI-84+ CE calculator series
 - [CE-Programming/CEmu](https://github.com/CE-Programming/CEmu) - Third-party TI-84 Plus CE / TI-83 Premium CE emulator, focused on developer features
 - [maxrd2/SubtitleComposer](https://github.com/maxrd2/SubtitleComposer) - Subtitle Composer - KF5/Qt Video Subtitle Editor
 
@@ -379,7 +378,6 @@
 - [stolinski/graffiti](https://github.com/stolinski/graffiti) - A minimal CSS framework with utilities that are actually useful.
 - [knadh/oat](https://github.com/knadh/oat) - Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library. ~10KB min+gz.
 - [civilblur/mazanoke](https://github.com/civilblur/mazanoke) - A self-hosted local image optimizer that runs in your browser.
-- [cssnano/cssnano](https://github.com/cssnano/cssnano) - A modular CSS minifier, built on top of the PostCSS ecosystem.
 - [vaibhav111tandon/vov.css](https://github.com/vaibhav111tandon/vov.css) - 📱💻A CSS Library for small but useful animations💻📱
 - [amethystnetwork-dev/Incognito](https://github.com/amethystnetwork-dev/Incognito) - Unofficial Incognito easy deployment version with wisp server included.
 - [angel-rs/css-color-filter-generator](https://github.com/angel-rs/css-color-filter-generator) - Generate custom css filter property to achieve any target color :art:
@@ -920,6 +918,7 @@
 - [abundantbeing/hermes-browser-extension](https://github.com/abundantbeing/hermes-browser-extension) - Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.
 - [tejaswigowda/ffmpeg-webCLI](https://github.com/tejaswigowda/ffmpeg-webCLI) - A browser-based video editor powered by ffmpeg.wasm. No uploads, no servers -- all processing happens locally in your browser using WebAssembly.
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OMP, OpenCode, Gemin
+- [zenstory-ai/oh-story-claudecode](https://github.com/zenstory-ai/oh-story-claudecode) - 网文写作 Agent 技能包：扫榜、拆文、大纲细纲、长短篇连载、伏笔追踪、去AI味与封面生成，适配 Claude Code / Codex 等 ｜ Agent skills for writing web novels
 - [stephenlthorn/auto-identity-remove](https://github.com/stephenlthorn/auto-identity-remove) - Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule
 - [yorkeccak/scientific-skills](https://github.com/yorkeccak/scientific-skills) - Natural language scientific literature search skills with semantic search over PubMed, arXiv, ChEMBL, DrugBank, bioRxiv, medRxiv, clinical trials, and more with zero API complexity.
 - [Hickinvest/composer-quant-tools](https://github.com/Hickinvest/composer-quant-tools) - Composer Quant Tools Chrome Extension
@@ -973,6 +972,7 @@
 - [ziolko/spreadapi](https://github.com/ziolko/spreadapi) - Free REST API for Google Spreadsheet
 - [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config) - Config of File Nesting for VS Code
 - [postcss/autoprefixer](https://github.com/postcss/autoprefixer) - Parse CSS and add vendor prefixes to rules by Can I Use
+- [cssnano/cssnano](https://github.com/cssnano/cssnano) - A modular CSS minifier, built on top of the PostCSS ecosystem.
 - [lazarv/react-server](https://github.com/lazarv/react-server) - Run React anywhere
 - [e18e/e18e](https://github.com/e18e/e18e) - 
 - [EmulatorJS/EmulatorJS](https://github.com/EmulatorJS/EmulatorJS) - A web-based frontend for RetroArch
@@ -1156,10 +1156,6 @@
 - [superlinked/VectorHub](https://github.com/superlinked/VectorHub) - Deprecated historical repo. Superlinked now develops SIE, a self-hosted inference engine for embeddings, reranking, OCR, extraction, and document processing.
 - [AISE-TUDelft/STACC](https://github.com/AISE-TUDelft/STACC) - STACC: a set of SentenceTransformer Assisted Comment Classifiers
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
-
-## Just 
-
-- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
 
 ## Kotlin 
 
@@ -1533,7 +1529,6 @@
 - [internetarchive/warcprox](https://github.com/internetarchive/warcprox) - WARC writing MITM HTTP/S proxy
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 - [shang-zhu/violin](https://github.com/shang-zhu/violin) - Open-source Video Translation Skill
-- [zenstory-ai/oh-story-claudecode](https://github.com/zenstory-ai/oh-story-claudecode) - 网文写作 Agent 技能包：扫榜、拆文、大纲细纲、长短篇连载、伏笔追踪、去AI味与封面生成，适配 Claude Code / Codex 等 ｜ Agent skills for writing web novels
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
 - [TNTwise/REAL-Video-Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Interpolate, Upscale, Decompress, and Denoise videos easily on Linux/Windows/MacOS.
@@ -1881,6 +1876,7 @@
 
 ## Rust 
 
+- [reylosql/reylo](https://github.com/reylosql/reylo) - Import .sql files into TypeScript with full type inference and zero codegen.
 - [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) - Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.
 - [anomalyco/deadbolt](https://github.com/anomalyco/deadbolt) - 
 - [ultimaweapon/tsuki](https://github.com/ultimaweapon/tsuki) - Lua 5.4 ported to Rust
@@ -2331,6 +2327,7 @@
 - [webtor-io/self-hosted](https://github.com/webtor-io/self-hosted) - Self-hosted version of webtor.io implemented as an all-in-one Docker image
 - [mentalblank/PYXIS](https://github.com/mentalblank/PYXIS) - Automated All-in-One (AIO) custom firmware and homebrew packages for modded Nintendo Switch devices.
 - [rektpartyaftermath/Legado-booksource-collection](https://github.com/rektpartyaftermath/Legado-booksource-collection) - Some booksource collection for legado.
+- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
 - [ublue-os/bluefin](https://github.com/ublue-os/bluefin) - The next generation Linux workstation, designed for reliability, performance, and sustainability.
 - [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
 - [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ Terminal ecosystem, featuring: ① Framework for cross-shell/cli/tui scripting: bash/nu/deno/unix/… ② Overlay for cross-shell/env/dotfile interop: bash/zsh/fish/nu/… ③ Manager for cross-source pac

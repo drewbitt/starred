@@ -6090,6 +6090,7 @@
 
 ## others 
 
+- [reylosql/reylo](https://github.com/reylosql/reylo) - Import .sql files into TypeScript with full type inference and zero codegen.
 - [jollran2005/NuvioHub](https://github.com/jollran2005/NuvioHub) - A Comprehensive Megathread For All Things Nuvio
 - [codegeasse1/hikari](https://github.com/codegeasse1/hikari) - Hikari — a universal streaming app: Stremio addons, universal scrapers, CloudStream .cs3 plugins and more. Modern Material 3 UI.
 - [vercel-labs/emulate](https://github.com/vercel-labs/emulate) - Local API emulation for CI and no-network sandboxes
